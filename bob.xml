@@ -8,23 +8,17 @@
     <display-name lang="en">RDS (Réseau des sports)  HD</display-name>
     <url>http://www.tvtv.ca</url>
   </channel>
-  <channel id="R_D_S">
-    <display-name lang="en">R_D_S</display-name>
+  <channel id="CANADA: RDS">
+    <display-name lang="en">CANADA: RDS</display-name>
     <url>http://www.tvhebdo.com</url>
   </channel>
-  <programme start="20200501213000 -0400" stop="20200501220000 -0400" channel="R_D_S">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200501220000 -0400" stop="20200501230000 -0400" channel="R_D_S">
+  <programme start="20200501220000 -0400" stop="20200501230000 -0400" channel="CANADA: RDS">
     <title lang="en">Blitz</title>
     <desc lang="en">Matthieu Proulx anime ce magazine spécialisé entièrement consacré au football de la LCF et de la NFL.(n)</desc>
     <date>2014</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200501230000 -0400" stop="20200501233000 -0400" channel="R_D_S">
+  <programme start="20200501230000 -0400" stop="20200501233000 -0400" channel="CANADA: RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Collision</sub-title>
     <desc lang="en">Joe prend mal que ses efforts au travail ne soient pas appréciés. Spencer essaie de se racheter. Bella met au défi Ricky d'agir comme un adulte. Après avoir appris ce que Reggie a fait, Vernon disparaît sans laisser de traces.(n)</desc>
@@ -43,7 +37,7 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">0.8.</episode-num>
   </programme>
-  <programme start="20200501233000 -0400" stop="20200502000000 -0400" channel="R_D_S">
+  <programme start="20200501233000 -0400" stop="20200502000000 -0400" channel="CANADA: RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Flamands roses</sub-title>
     <desc lang="en">Spencer reçoit une offre impossible à refuser, mais cela l'obligerait à abandonner Joe. Ricky a une conversation marquante avec son père. Charles obtient une seconde chance. Jason et Spencer tentent de convaincre Vernon une fois pour toute.(n)</desc>

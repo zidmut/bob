@@ -1,0 +1,983 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal M">
+    <display-name lang="en">Canal M</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="AMI-tv East">
+    <display-name lang="en">AMI-tv East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="AMI-Audio - East">
+    <display-name lang="en">AMI-Audio - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="AMI-télé">
+    <display-name lang="en">AMI-télé</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ICI (CBLFT) Toronto">
+    <display-name lang="en">ICI (CBLFT) Toronto</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="V (CFJP) Montreal, QC">
+    <display-name lang="en">V (CFJP) Montreal, QC</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Meteo-Media">
+    <display-name lang="en">Meteo-Media</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Todays Shopping Choice">
+    <display-name lang="en">Todays Shopping Choice</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="RDS (Réseau des sports)">
+    <display-name lang="en">RDS (Réseau des sports)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="RDS 2">
+    <display-name lang="en">RDS 2</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="RDS Info">
+    <display-name lang="en">RDS Info</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TVA Sports">
+    <display-name lang="en">TVA Sports</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="LCN">
+    <display-name lang="en">LCN</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="RDI (News)">
+    <display-name lang="en">RDI (News)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Euronews - Français">
+    <display-name lang="en">Euronews - Français</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Addik TV">
+    <display-name lang="en">Addik TV</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Series +">
+    <display-name lang="en">Series +</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Evasion">
+    <display-name lang="en">Evasion</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Historia">
+    <display-name lang="en">Historia</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Canal D">
+    <display-name lang="en">Canal D</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Explora">
+    <display-name lang="en">Explora</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Investigation">
+    <display-name lang="en">Investigation</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Musique Plus Sur Demande">
+    <display-name lang="en">Musique Plus Sur Demande</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Musimax Sur Demande">
+    <display-name lang="en">Musimax Sur Demande</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ARTV">
+    <display-name lang="en">ARTV</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TV5 International - East">
+    <display-name lang="en">TV5 International - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CASA">
+    <display-name lang="en">CASA</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Zeste">
+    <display-name lang="en">Zeste</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Canal Vie">
+    <display-name lang="en">Canal Vie</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Moi et compagnie">
+    <display-name lang="en">Moi et compagnie</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Prise 2">
+    <display-name lang="en">Prise 2</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Assemblee nationale du Quebec">
+    <display-name lang="en">Assemblee nationale du Quebec</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TFO - Chaine Francaise">
+    <display-name lang="en">TFO - Chaine Francaise</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Tele-Quebec (CIVM) Montreal">
+    <display-name lang="en">Tele-Quebec (CIVM) Montreal</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Savoir Média">
+    <display-name lang="en">Savoir Média</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="VRAK">
+    <display-name lang="en">VRAK</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Télémagino">
+    <display-name lang="en">Télémagino</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Yoopa">
+    <display-name lang="en">Yoopa</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TéléTOON - français">
+    <display-name lang="en">TéléTOON - français</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="La Chaine Disney">
+    <display-name lang="en">La Chaine Disney</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Super Ecran">
+    <display-name lang="en">Super Ecran</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Super Ecran 2">
+    <display-name lang="en">Super Ecran 2</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Super Ecran 3">
+    <display-name lang="en">Super Ecran 3</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Super Ecran 4">
+    <display-name lang="en">Super Ecran 4</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Cinépop">
+    <display-name lang="en">Cinépop</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TVA (CFTM) West Feed">
+    <display-name lang="en">TVA (CFTM) West Feed</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ICI (CBAFT) Moncton, NB">
+    <display-name lang="en">ICI (CBAFT) Moncton, NB</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ICI (CBOFT) Ottawa, ON">
+    <display-name lang="en">ICI (CBOFT) Ottawa, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ICI (CBUFT) Vancouver, BC">
+    <display-name lang="en">ICI (CBUFT) Vancouver, BC</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ICI (CBVT) Quebec, QC - Digital">
+    <display-name lang="en">ICI (CBVT) Quebec, QC - Digital</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CFTO) Toronto, ON">
+    <display-name lang="en">CTV (CFTO) Toronto, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV2 Barrie, ON (CKVR)">
+    <display-name lang="en">CTV2 Barrie, ON (CKVR)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Global (CIII-DT-41) Toronto">
+    <display-name lang="en">Global (CIII-DT-41) Toronto</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CITY Toronto, ON">
+    <display-name lang="en">CITY Toronto, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="OMNI.1 (CFMT-DT-1) London">
+    <display-name lang="en">OMNI.1 (CFMT-DT-1) London</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="OMNI.2">
+    <display-name lang="en">OMNI.2</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="OMNI.1 Television">
+    <display-name lang="en">OMNI.1 Television</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TVO (CICA-DT) Toronto, ON">
+    <display-name lang="en">TVO (CICA-DT) Toronto, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CHEK Vancouver Island, BC">
+    <display-name lang="en">CHEK Vancouver Island, BC</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CHCH Hamilton, ON">
+    <display-name lang="en">CHCH Hamilton, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CJON (NTV) St-John, NL">
+    <display-name lang="en">CJON (NTV) St-John, NL</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Vision TV Eastern">
+    <display-name lang="en">Vision TV Eastern</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="APTN - East">
+    <display-name lang="en">APTN - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Capital Networks: Shopping Channel 2">
+    <display-name lang="en">Capital Networks: Shopping Channel 2</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NBC (WGRZ) Buffalo, NY">
+    <display-name lang="en">NBC (WGRZ) Buffalo, NY</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ABC (WKBW) Buffalo, NY">
+    <display-name lang="en">ABC (WKBW) Buffalo, NY</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBS (WIVB) Buffalo, NY">
+    <display-name lang="en">CBS (WIVB) Buffalo, NY</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="FOX (WUTV) Buffalo, NY">
+    <display-name lang="en">FOX (WUTV) Buffalo, NY</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="PBS (WNED) Buffalo, NY">
+    <display-name lang="en">PBS (WNED) Buffalo, NY</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Global (CKMI) Quebec">
+    <display-name lang="en">Global (CKMI) Quebec</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Global (CHEX-TV-2) Durham, ON">
+    <display-name lang="en">Global (CHEX-TV-2) Durham, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Global (CHEX) Peterborough, ON">
+    <display-name lang="en">Global (CHEX) Peterborough, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Global (CKWS) Kingston, ON">
+    <display-name lang="en">Global (CKWS) Kingston, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CJCH) Halifax">
+    <display-name lang="en">CTV (CJCH) Halifax</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV Montreal (CFCF), QC">
+    <display-name lang="en">CTV Montreal (CFCF), QC</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV Vancouver, BC">
+    <display-name lang="en">CTV Vancouver, BC</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV Ottawa (CJOH), ON">
+    <display-name lang="en">CTV Ottawa (CJOH), ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CFCN) Calgary, AB">
+    <display-name lang="en">CTV (CFCN) Calgary, AB</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CKCK) Regina, SK">
+    <display-name lang="en">CTV (CKCK) Regina, SK</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV2 Atlantic Region">
+    <display-name lang="en">CTV2 Atlantic Region</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV2 (CIVI-DT2) Vancouver, BC">
+    <display-name lang="en">CTV2 (CIVI-DT2) Vancouver, BC</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CKY) Winnipeg, MB">
+    <display-name lang="en">CTV (CKY) Winnipeg, MB</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CJCB) Sydney/ Cape Breton, NS">
+    <display-name lang="en">CTV (CJCB) Sydney/ Cape Breton, NS</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CKCW) Moncton">
+    <display-name lang="en">CTV (CKCW) Moncton</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CKCO) Kitchener, ON">
+    <display-name lang="en">CTV (CKCO) Kitchener, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CICI) Sudbury, ON">
+    <display-name lang="en">CTV (CICI) Sudbury, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC (CBAT) Fredericton, NB">
+    <display-name lang="en">CBC (CBAT) Fredericton, NB</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC (CBLT) Toronto, ON">
+    <display-name lang="en">CBC (CBLT) Toronto, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC (CBMT) Montreal, QC">
+    <display-name lang="en">CBC (CBMT) Montreal, QC</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC (CBOT) Ottawa, ON">
+    <display-name lang="en">CBC (CBOT) Ottawa, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC (CBWT) Winnipeg, MB">
+    <display-name lang="en">CBC (CBWT) Winnipeg, MB</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC (CBRT) Calgary, AB">
+    <display-name lang="en">CBC (CBRT) Calgary, AB</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC (CBUT) Vancouver, BC">
+    <display-name lang="en">CBC (CBUT) Vancouver, BC</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC (CBXT) Edmonton, AB">
+    <display-name lang="en">CBC (CBXT) Edmonton, AB</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV2 Windsor, ON">
+    <display-name lang="en">CTV2 Windsor, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Global (CIHF) Dartmouth">
+    <display-name lang="en">Global (CIHF) Dartmouth</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Global BC">
+    <display-name lang="en">Global BC</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="OMNI Vancouver">
+    <display-name lang="en">OMNI Vancouver</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CITY Vancouver, BC">
+    <display-name lang="en">CITY Vancouver, BC</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CKNY) North Bay, ON">
+    <display-name lang="en">CTV (CKNY) North Bay, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CHBX) Sault Ste. Marie, ON">
+    <display-name lang="en">CTV (CHBX) Sault Ste. Marie, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV (CITO) Timmins, ON">
+    <display-name lang="en">CTV (CITO) Timmins, ON</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NBC (KING) Seattle, WA">
+    <display-name lang="en">NBC (KING) Seattle, WA</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ABC (KOMO) Seattle, WA">
+    <display-name lang="en">ABC (KOMO) Seattle, WA</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBS (KIRO) Seattle, WA">
+    <display-name lang="en">CBS (KIRO) Seattle, WA</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="FOX (KCPQ) Tacoma, WA - Canada">
+    <display-name lang="en">FOX (KCPQ) Tacoma, WA - Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="PBS (KCTS) Seattle, WA">
+    <display-name lang="en">PBS (KCTS) Seattle, WA</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="MNT (WNYO) Buffalo, NY HD">
+    <display-name lang="en">MNT (WNYO) Buffalo, NY HD</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Peachtree TV (Canada)">
+    <display-name lang="en">Peachtree TV (Canada)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="WGN Canada">
+    <display-name lang="en">WGN Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="WSBK (TV-38) Boston">
+    <display-name lang="en">WSBK (TV-38) Boston</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="WPIX New York (SUPERSTATION)">
+    <display-name lang="en">WPIX New York (SUPERSTATION)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="KTLA Los Angeles, CA">
+    <display-name lang="en">KTLA Los Angeles, CA</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Crave Movies &amp; HBO on Demand">
+    <display-name lang="en">Crave Movies &amp; HBO on Demand</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Crave1 - East">
+    <display-name lang="en">Crave1 - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Crave4">
+    <display-name lang="en">Crave4</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Crave3 - East">
+    <display-name lang="en">Crave3 - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Crave2 - East">
+    <display-name lang="en">Crave2 - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="STARZ1 - East">
+    <display-name lang="en">STARZ1 - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="STARZ2 - East">
+    <display-name lang="en">STARZ2 - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="en">HBO</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="HBO Canada - West">
+    <display-name lang="en">HBO Canada - West</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Starz1 onDemand">
+    <display-name lang="en">Starz1 onDemand</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Super Channel on Demand">
+    <display-name lang="en">Super Channel on Demand</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Super Channel Fuse HD">
+    <display-name lang="en">Super Channel Fuse HD</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Super Channel Heart &amp; Home">
+    <display-name lang="en">Super Channel Heart &amp; Home</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Super Channel Vault">
+    <display-name lang="en">Super Channel Vault</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Ginx eSports TV Canada">
+    <display-name lang="en">Ginx eSports TV Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="FX Networks Canada">
+    <display-name lang="en">FX Networks Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="FXX Canada">
+    <display-name lang="en">FXX Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Cooking Channel Canada">
+    <display-name lang="en">Cooking Channel Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Adult Swim - East">
+    <display-name lang="en">Adult Swim - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Lifetime TV - Canada">
+    <display-name lang="en">Lifetime TV - Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Documentary Channel (Canada)">
+    <display-name lang="en">Documentary Channel (Canada)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Silver Screen Classics">
+    <display-name lang="en">Silver Screen Classics</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Turner Classic Movies Canada">
+    <display-name lang="en">Turner Classic Movies Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="AMC - Canada">
+    <display-name lang="en">AMC - Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="MovieTime">
+    <display-name lang="en">MovieTime</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TSN4">
+    <display-name lang="en">TSN4</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TSN1">
+    <display-name lang="en">TSN1</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TSN2">
+    <display-name lang="en">TSN2</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TSN3">
+    <display-name lang="en">TSN3</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TSN5">
+    <display-name lang="en">TSN5</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Sportsnet (Ontario)">
+    <display-name lang="en">Sportsnet (Ontario)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Sportsnet (East)">
+    <display-name lang="en">Sportsnet (East)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Sportsnet (Pacific)">
+    <display-name lang="en">Sportsnet (Pacific)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Sportsnet (West)">
+    <display-name lang="en">Sportsnet (West)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ESPN Classic Canada">
+    <display-name lang="en">ESPN Classic Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Sportsnet 360">
+    <display-name lang="en">Sportsnet 360</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Outdoor Life Network Canada">
+    <display-name lang="en">Outdoor Life Network Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NBA TV Canada">
+    <display-name lang="en">NBA TV Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Golf Channel Canada">
+    <display-name lang="en">Golf Channel Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBS Sports Network Canada">
+    <display-name lang="en">CBS Sports Network Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Sportsnet One">
+    <display-name lang="en">Sportsnet One</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="WFN-World Fishing Network">
+    <display-name lang="en">WFN-World Fishing Network</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Sportsnet World">
+    <display-name lang="en">Sportsnet World</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Leafs Nation Network">
+    <display-name lang="en">Leafs Nation Network</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Fight Network Canada">
+    <display-name lang="en">Fight Network Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Wild Pursuit Network">
+    <display-name lang="en">Wild Pursuit Network</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NHL Center Ice 1">
+    <display-name lang="en">NHL Center Ice 1</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NHL Center Ice 2">
+    <display-name lang="en">NHL Center Ice 2</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NHL Center Ice 3">
+    <display-name lang="en">NHL Center Ice 3</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NHL Center Ice 4">
+    <display-name lang="en">NHL Center Ice 4</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NHL Center Ice 5">
+    <display-name lang="en">NHL Center Ice 5</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NHL Center Ice 6">
+    <display-name lang="en">NHL Center Ice 6</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NHL Center Ice 7">
+    <display-name lang="en">NHL Center Ice 7</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NHL Center Ice 8">
+    <display-name lang="en">NHL Center Ice 8</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NHL Center Ice 9">
+    <display-name lang="en">NHL Center Ice 9</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NHL Center Ice 10">
+    <display-name lang="en">NHL Center Ice 10</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Network">
+    <display-name lang="en">NFL Network</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Red Zone">
+    <display-name lang="en">NFL Red Zone</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="MLB Network Canada">
+    <display-name lang="en">MLB Network Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 1">
+    <display-name lang="en">NFL Sunday Ticket 1</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 2">
+    <display-name lang="en">NFL Sunday Ticket 2</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 3">
+    <display-name lang="en">NFL Sunday Ticket 3</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 4">
+    <display-name lang="en">NFL Sunday Ticket 4</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 5">
+    <display-name lang="en">NFL Sunday Ticket 5</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 6">
+    <display-name lang="en">NFL Sunday Ticket 6</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 7">
+    <display-name lang="en">NFL Sunday Ticket 7</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 8">
+    <display-name lang="en">NFL Sunday Ticket 8</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 9">
+    <display-name lang="en">NFL Sunday Ticket 9</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 10">
+    <display-name lang="en">NFL Sunday Ticket 10</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 11">
+    <display-name lang="en">NFL Sunday Ticket 11</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 12">
+    <display-name lang="en">NFL Sunday Ticket 12</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 13">
+    <display-name lang="en">NFL Sunday Ticket 13</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="NFL Sunday Ticket 14">
+    <display-name lang="en">NFL Sunday Ticket 14</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="HPItv Canada">
+    <display-name lang="en">HPItv Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="HPItv">
+    <display-name lang="en">HPItv</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 1">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 1</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 2">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 2</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 3">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 3</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 4">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 4</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 5">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 5</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 6">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 6</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 7">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 7</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 8">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 8</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 9">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 9</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 10">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 10</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 11">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 11</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 12">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 12</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Bell Fibe: MLB Extra Innings 13">
+    <display-name lang="en">Bell Fibe: MLB Extra Innings 13</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CTV News Channel">
+    <display-name lang="en">CTV News Channel</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC News Network">
+    <display-name lang="en">CBC News Network</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CP24 (CablePulse 24)">
+    <display-name lang="en">CP24 (CablePulse 24)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="BNN Bloomberg">
+    <display-name lang="en">BNN Bloomberg</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Weather Network">
+    <display-name lang="en">Weather Network</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="HLN">
+    <display-name lang="en">HLN</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CNBC Canada">
+    <display-name lang="en">CNBC Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="BBC World - North America">
+    <display-name lang="en">BBC World - North America</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CNN International North America">
+    <display-name lang="en">CNN International North America</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CPAC Ottawa">
+    <display-name lang="en">CPAC Ottawa</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Ontario Legislature">
+    <display-name lang="en">Ontario Legislature</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="RT - Russia Today">
+    <display-name lang="en">RT - Russia Today</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Discovery Channel (CAN)">
+    <display-name lang="en">Discovery Channel (CAN)</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="TLC Canada">
+    <display-name lang="en">TLC Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="History Canada East">
+    <display-name lang="en">History Canada East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Discovery Science Canada">
+    <display-name lang="en">Discovery Science Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="National Geographic Canada">
+    <display-name lang="en">National Geographic Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Animal Planet Canada">
+    <display-name lang="en">Animal Planet Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Oprah Winfrey Network Canada">
+    <display-name lang="en">Oprah Winfrey Network Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Travel + Escape">
+    <display-name lang="en">Travel + Escape</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Investigation Discovery Canada">
+    <display-name lang="en">Investigation Discovery Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Book Television">
+    <display-name lang="en">Book Television</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Kids OnDemand">
+    <display-name lang="en">Kids OnDemand</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Disney Junior Canada">
+    <display-name lang="en">Disney Junior Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="YTV On Demand">
+    <display-name lang="en">YTV On Demand</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="YTV (Youth Television) - East">
+    <display-name lang="en">YTV (Youth Television) - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="YTV (Youth Television) - Pacific">
+    <display-name lang="en">YTV (Youth Television) - Pacific</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Teletoon - East">
+    <display-name lang="en">Teletoon - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Teletoon - West">
+    <display-name lang="en">Teletoon - West</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Family Channel Canada - East">
+    <display-name lang="en">Family Channel Canada - East</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Family Channel Canada - West">
+    <display-name lang="en">Family Channel Canada - West</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Nickelodeon Canada">
+    <display-name lang="en">Nickelodeon Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Treehouse">
+    <display-name lang="en">Treehouse</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Treehouse On Demand">
+    <display-name lang="en">Treehouse On Demand</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Family CHRGD">
+    <display-name lang="en">Family CHRGD</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ABC Spark">
+    <display-name lang="en">ABC Spark</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Cartoon Network Canada">
+    <display-name lang="en">Cartoon Network Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="Much Music">
+    <display-name lang="en">Much Music</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="A.Side TV">
+    <display-name lang="en">A.Side TV</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="MTV Canada">
+    <display-name lang="en">MTV Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="MTV 2 Canada">
+    <display-name lang="en">MTV 2 Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CMT Canada">
+    <display-name lang="en">CMT Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="BET - Canada">
+    <display-name lang="en">BET - Canada</display-name>
+    <url>http://www.tvtv.ca</url>
+  </channel>
+</tv>

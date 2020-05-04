@@ -8,8 +8,8 @@
     <display-name lang="en">TVA Sports 2</display-name>
     <url>http://www.tvhebdo.com</url>
   </channel>
-  <channel id="CANADA: RDS">
-    <display-name lang="en">CANADA: RDS</display-name>
+  <channel id="RDS">
+    <display-name lang="en">RDS</display-name>
     <url>http://www.tvhebdo.com</url>
   </channel>
   <programme start="20200503000000 -0400" stop="20200503003000 -0400" channel="TVA Sports">
@@ -1906,117 +1906,117 @@
     <date>2011</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503000000 -0400" stop="20200503003000 -0400" channel="CANADA: RDS">
+  <programme start="20200503000000 -0400" stop="20200503003000 -0400" channel="RDS">
     <title lang="en">Le sport en crise</title>
     <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503003000 -0400" stop="20200503033000 -0400" channel="CANADA: RDS">
+  <programme start="20200503003000 -0400" stop="20200503033000 -0400" channel="RDS">
     <title lang="en">PGA: Championnat Wells Fargo</title>
     <sub-title lang="en">Dernière ronde 2019</sub-title>
     <desc lang="en">De Charlotte, en Caroline du Nord, dernière ronde du championnat Wells Fargo 2019 de la PGA.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503033000 -0400" stop="20200503035000 -0400" channel="CANADA: RDS">
+  <programme start="20200503033000 -0400" stop="20200503035000 -0400" channel="RDS">
     <title lang="en">Sur la ligne de départ</title>
     <desc lang="en">Un avant-goût du prochain Grand Prix de Formule 1.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503035000 -0400" stop="20200503060000 -0400" channel="CANADA: RDS">
+  <programme start="20200503035000 -0400" stop="20200503060000 -0400" channel="RDS">
     <title lang="en">Grand Prix d'Azerbaïdjan</title>
     <sub-title lang="en">Course 2019</sub-title>
     <desc lang="en">Du circuit urbain de Bakou, le Grand Prix d'Azerbaïdjan 2019 de formule 1.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503060000 -0400" stop="20200503063000 -0400" channel="CANADA: RDS">
+  <programme start="20200503060000 -0400" stop="20200503063000 -0400" channel="RDS">
     <title lang="en">Passion Autos</title>
     <desc lang="en">Magazine automobile.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503063000 -0400" stop="20200503070000 -0400" channel="CANADA: RDS">
+  <programme start="20200503063000 -0400" stop="20200503070000 -0400" channel="RDS">
     <title lang="en">Le show de moto</title>
     <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503070000 -0400" stop="20200503090000 -0400" channel="CANADA: RDS">
+  <programme start="20200503070000 -0400" stop="20200503090000 -0400" channel="RDS">
     <title lang="en">Tennis de l'ATP</title>
     <sub-title lang="en">1er tour</sub-title>
     <desc lang="en">Mutua de Madrid 2019: Shapovalov c. Auger-Aliassime - 1er tour.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503090000 -0400" stop="20200503120000 -0400" channel="CANADA: RDS">
+  <programme start="20200503090000 -0400" stop="20200503120000 -0400" channel="RDS">
     <title lang="en">PGA: Championnat Wells Fargo</title>
     <sub-title lang="en">Dernière ronde 2019</sub-title>
     <desc lang="en">De Charlotte, en Caroline du Nord, dernière ronde du championnat Wells Fargo 2019 de la PGA.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503120000 -0400" stop="20200503133000 -0400" channel="CANADA: RDS">
+  <programme start="20200503120000 -0400" stop="20200503133000 -0400" channel="RDS">
     <title lang="en">Championnat FIA de Formule E</title>
     <sub-title lang="en">Monaco (Monte Carlo)</sub-title>
     <desc lang="en">De Monaco.(n)</desc>
     <date>2014</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503133000 -0400" stop="20200503135000 -0400" channel="CANADA: RDS">
+  <programme start="20200503133000 -0400" stop="20200503135000 -0400" channel="RDS">
     <title lang="en">Sur la ligne de départ</title>
     <desc lang="en">Un avant-goût du prochain Grand Prix de Formule 1.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503135000 -0400" stop="20200503160000 -0400" channel="CANADA: RDS">
+  <programme start="20200503135000 -0400" stop="20200503160000 -0400" channel="RDS">
     <title lang="en">Grand Prix d'Azerbaïdjan</title>
     <sub-title lang="en">Course 2019</sub-title>
     <desc lang="en">Du circuit urbain de Bakou, le Grand Prix d'Azerbaïdjan 2019 de formule 1.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503160000 -0400" stop="20200503163000 -0400" channel="CANADA: RDS">
+  <programme start="20200503160000 -0400" stop="20200503163000 -0400" channel="RDS">
     <title lang="en">Magazine Golf: Au 19e</title>
     <desc lang="en">Les dessous de l'industrie du golf via des entrevues, des chroniques conseils et la visite de parcours de golf du Québec.(n)</desc>
     <date>2012</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503163000 -0400" stop="20200503173000 -0400" channel="CANADA: RDS">
+  <programme start="20200503163000 -0400" stop="20200503173000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503173000 -0400" stop="20200503183000 -0400" channel="CANADA: RDS">
+  <programme start="20200503173000 -0400" stop="20200503183000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503183000 -0400" stop="20200503190000 -0400" channel="CANADA: RDS">
+  <programme start="20200503183000 -0400" stop="20200503190000 -0400" channel="RDS">
     <title lang="en">Mes souvenirs sportifs</title>
     <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503190000 -0400" stop="20200503210000 -0400" channel="CANADA: RDS">
+  <programme start="20200503190000 -0400" stop="20200503210000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">6e match</sub-title>
     <desc lang="en">Les Séries éliminatoires 2002: Bruins c. Canadiens - 6e match.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503210000 -0400" stop="20200503213000 -0400" channel="CANADA: RDS">
+  <programme start="20200503210000 -0400" stop="20200503213000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503213000 -0400" stop="20200503220000 -0400" channel="CANADA: RDS">
+  <programme start="20200503213000 -0400" stop="20200503220000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503220000 -0400" stop="20200503230000 -0400" channel="CANADA: RDS">
+  <programme start="20200503220000 -0400" stop="20200503230000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200503230000 -0400" stop="20200504000000 -0400" channel="CANADA: RDS">
+  <programme start="20200503230000 -0400" stop="20200503233000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Nouvelle donne</sub-title>
     <desc lang="en">En affrontant un vieil ennemi, Spencer met en jeu sa réputation et celle de sa compagnie. À la veille de son 30e anniversaire, le repentant Ricky reçoit de mauvaises nouvelles.(n)</desc>
@@ -2033,134 +2033,7 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.0.</episode-num>
   </programme>
-  <programme start="20200504000000 -0400" stop="20200504003000 -0400" channel="CANADA: RDS">
-    <title lang="en">Le sport en crise</title>
-    <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504003000 -0400" stop="20200504033000 -0400" channel="CANADA: RDS">
-    <title lang="en">PGA: Championnat Wells Fargo</title>
-    <sub-title lang="en">Dernière ronde 2019</sub-title>
-    <desc lang="en">De Charlotte, en Caroline du Nord, dernière ronde du championnat Wells Fargo 2019 de la PGA.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504033000 -0400" stop="20200504035000 -0400" channel="CANADA: RDS">
-    <title lang="en">Sur la ligne de départ</title>
-    <desc lang="en">Un avant-goût du prochain Grand Prix de Formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504035000 -0400" stop="20200504060000 -0400" channel="CANADA: RDS">
-    <title lang="en">Grand Prix d'Azerbaïdjan</title>
-    <sub-title lang="en">Course 2019</sub-title>
-    <desc lang="en">Du circuit urbain de Bakou, le Grand Prix d'Azerbaïdjan 2019 de formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504060000 -0400" stop="20200504063000 -0400" channel="CANADA: RDS">
-    <title lang="en">Passion Autos</title>
-    <desc lang="en">Magazine automobile.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504063000 -0400" stop="20200504070000 -0400" channel="CANADA: RDS">
-    <title lang="en">Le show de moto</title>
-    <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504070000 -0400" stop="20200504090000 -0400" channel="CANADA: RDS">
-    <title lang="en">Tennis de l'ATP</title>
-    <sub-title lang="en">1er tour</sub-title>
-    <desc lang="en">Mutua de Madrid 2019: Shapovalov c. Auger-Aliassime - 1er tour.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504090000 -0400" stop="20200504120000 -0400" channel="CANADA: RDS">
-    <title lang="en">PGA: Championnat Wells Fargo</title>
-    <sub-title lang="en">Dernière ronde 2019</sub-title>
-    <desc lang="en">De Charlotte, en Caroline du Nord, dernière ronde du championnat Wells Fargo 2019 de la PGA.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504120000 -0400" stop="20200504133000 -0400" channel="CANADA: RDS">
-    <title lang="en">Championnat FIA de Formule E</title>
-    <sub-title lang="en">Monaco (Monte Carlo)</sub-title>
-    <desc lang="en">De Monaco.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504133000 -0400" stop="20200504135000 -0400" channel="CANADA: RDS">
-    <title lang="en">Sur la ligne de départ</title>
-    <desc lang="en">Un avant-goût du prochain Grand Prix de Formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504135000 -0400" stop="20200504160000 -0400" channel="CANADA: RDS">
-    <title lang="en">Grand Prix d'Azerbaïdjan</title>
-    <sub-title lang="en">Course 2019</sub-title>
-    <desc lang="en">Du circuit urbain de Bakou, le Grand Prix d'Azerbaïdjan 2019 de formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504160000 -0400" stop="20200504163000 -0400" channel="CANADA: RDS">
-    <title lang="en">Magazine Golf: Au 19e</title>
-    <desc lang="en">Les dessous de l'industrie du golf via des entrevues, des chroniques conseils et la visite de parcours de golf du Québec.(n)</desc>
-    <date>2012</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504163000 -0400" stop="20200504173000 -0400" channel="CANADA: RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504173000 -0400" stop="20200504183000 -0400" channel="CANADA: RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504183000 -0400" stop="20200504190000 -0400" channel="CANADA: RDS">
-    <title lang="en">Mes souvenirs sportifs</title>
-    <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504190000 -0400" stop="20200504210000 -0400" channel="CANADA: RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">6e match</sub-title>
-    <desc lang="en">Les Séries éliminatoires 2002: Bruins c. Canadiens - 6e match.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504210000 -0400" stop="20200504213000 -0400" channel="CANADA: RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504213000 -0400" stop="20200504220000 -0400" channel="CANADA: RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504220000 -0400" stop="20200504230000 -0400" channel="CANADA: RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504230000 -0400" stop="20200504233000 -0400" channel="CANADA: RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Nouvelle donne</sub-title>
-    <desc lang="en">En affrontant un vieil ennemi, Spencer met en jeu sa réputation et celle de sa compagnie. À la veille de son 30e anniversaire, le repentant Ricky reçoit de mauvaises nouvelles.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-  </programme>
-  <programme start="20200504233000 -0400" stop="20200505000000 -0400" channel="CANADA: RDS">
+  <programme start="20200503233000 -0400" stop="20200504000000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Dans le temple du foot</sub-title>
     <desc lang="en">Tandis qu'il magouille afin d'arracher un gros client à son rival Andre, Spencer cherche un remède à ses maux divers. Ricky envisage l'avenir avec appréhension. Reggie se bat pour obtenir de Vernon ce qu'il croit être son dû.(n)</desc>
@@ -2177,30 +2050,117 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
-  <programme start="20200505000000 -0400" stop="20200505003000 -0400" channel="CANADA: RDS">
+  <programme start="20200504000000 -0400" stop="20200504003000 -0400" channel="RDS">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504003000 -0400" stop="20200504033000 -0400" channel="RDS">
+    <title lang="en">PGA: Championnat Wells Fargo</title>
+    <sub-title lang="en">Dernière ronde 2019</sub-title>
+    <desc lang="en">De Charlotte, en Caroline du Nord, dernière ronde du championnat Wells Fargo 2019 de la PGA.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504033000 -0400" stop="20200504035000 -0400" channel="RDS">
+    <title lang="en">Sur la ligne de départ</title>
+    <desc lang="en">Un avant-goût du prochain Grand Prix de Formule 1.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504035000 -0400" stop="20200504060000 -0400" channel="RDS">
+    <title lang="en">Grand Prix d'Azerbaïdjan</title>
+    <sub-title lang="en">Course 2019</sub-title>
+    <desc lang="en">Du circuit urbain de Bakou, le Grand Prix d'Azerbaïdjan 2019 de formule 1.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504060000 -0400" stop="20200504063000 -0400" channel="RDS">
+    <title lang="en">Passion Autos</title>
+    <desc lang="en">Magazine automobile.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504063000 -0400" stop="20200504070000 -0400" channel="RDS">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504070000 -0400" stop="20200504090000 -0400" channel="RDS">
+    <title lang="en">Tennis de l'ATP</title>
+    <sub-title lang="en">1er tour</sub-title>
+    <desc lang="en">Mutua de Madrid 2019: Shapovalov c. Auger-Aliassime - 1er tour.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504090000 -0400" stop="20200504120000 -0400" channel="RDS">
+    <title lang="en">PGA: Championnat Wells Fargo</title>
+    <sub-title lang="en">Dernière ronde 2019</sub-title>
+    <desc lang="en">De Charlotte, en Caroline du Nord, dernière ronde du championnat Wells Fargo 2019 de la PGA.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504120000 -0400" stop="20200504133000 -0400" channel="RDS">
+    <title lang="en">Championnat FIA de Formule E</title>
+    <sub-title lang="en">Monaco (Monte Carlo)</sub-title>
+    <desc lang="en">De Monaco.(n)</desc>
+    <date>2014</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504133000 -0400" stop="20200504135000 -0400" channel="RDS">
+    <title lang="en">Sur la ligne de départ</title>
+    <desc lang="en">Un avant-goût du prochain Grand Prix de Formule 1.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504135000 -0400" stop="20200504160000 -0400" channel="RDS">
+    <title lang="en">Grand Prix d'Azerbaïdjan</title>
+    <sub-title lang="en">Course 2019</sub-title>
+    <desc lang="en">Du circuit urbain de Bakou, le Grand Prix d'Azerbaïdjan 2019 de formule 1.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504160000 -0400" stop="20200504163000 -0400" channel="RDS">
     <title lang="en">Magazine Golf: Au 19e</title>
     <desc lang="en">Les dessous de l'industrie du golf via des entrevues, des chroniques conseils et la visite de parcours de golf du Québec.(n)</desc>
     <date>2012</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505003000 -0400" stop="20200505013000 -0400" channel="CANADA: RDS">
+  <programme start="20200504163000 -0400" stop="20200504173000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505013000 -0400" stop="20200505023000 -0400" channel="CANADA: RDS">
+  <programme start="20200504173000 -0400" stop="20200504183000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505023000 -0400" stop="20200505030000 -0400" channel="CANADA: RDS">
+  <programme start="20200504183000 -0400" stop="20200504190000 -0400" channel="RDS">
     <title lang="en">Mes souvenirs sportifs</title>
     <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505030000 -0400" stop="20200505033000 -0400" channel="CANADA: RDS">
+  <programme start="20200504190000 -0400" stop="20200504210000 -0400" channel="RDS">
+    <title lang="en">Les Classiques RDS</title>
+    <sub-title lang="en">6e match</sub-title>
+    <desc lang="en">Les Séries éliminatoires 2002: Bruins c. Canadiens - 6e match.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504210000 -0400" stop="20200504213000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <date>2008</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504213000 -0400" stop="20200504220000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <date>2008</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504220000 -0400" stop="20200504230000 -0400" channel="RDS">
+    <title lang="en">Coupe Mini</title>
+    <sub-title lang="en">Coupe 2012</sub-title>
+    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200504230000 -0400" stop="20200504233000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Nouvelle donne</sub-title>
     <desc lang="en">En affrontant un vieil ennemi, Spencer met en jeu sa réputation et celle de sa compagnie. À la veille de son 30e anniversaire, le repentant Ricky reçoit de mauvaises nouvelles.(n)</desc>
@@ -2217,7 +2177,7 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.0.</episode-num>
   </programme>
-  <programme start="20200505033000 -0400" stop="20200505040000 -0400" channel="CANADA: RDS">
+  <programme start="20200504233000 -0400" stop="20200505000000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Dans le temple du foot</sub-title>
     <desc lang="en">Tandis qu'il magouille afin d'arracher un gros client à son rival Andre, Spencer cherche un remède à ses maux divers. Ricky envisage l'avenir avec appréhension. Reggie se bat pour obtenir de Vernon ce qu'il croit être son dû.(n)</desc>
@@ -2234,127 +2194,184 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
-  <programme start="20200505040000 -0400" stop="20200505060000 -0400" channel="CANADA: RDS">
+  <programme start="20200505000000 -0400" stop="20200505003000 -0400" channel="RDS">
+    <title lang="en">Magazine Golf: Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf via des entrevues, des chroniques conseils et la visite de parcours de golf du Québec.(n)</desc>
+    <date>2012</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200505003000 -0400" stop="20200505013000 -0400" channel="RDS">
+    <title lang="en">Coupe Mini</title>
+    <sub-title lang="en">Coupe 2012</sub-title>
+    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200505013000 -0400" stop="20200505023000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200505023000 -0400" stop="20200505030000 -0400" channel="RDS">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20200505030000 -0400" stop="20200505033000 -0400" channel="RDS">
+    <title lang="en">Ballers</title>
+    <sub-title lang="en">Nouvelle donne</sub-title>
+    <desc lang="en">En affrontant un vieil ennemi, Spencer met en jeu sa réputation et celle de sa compagnie. À la veille de son 30e anniversaire, le repentant Ricky reçoit de mauvaises nouvelles.(n)</desc>
+    <credits>
+      <actor>Omar Benson Miller (Charles Greane)</actor>
+      <actor>John David Washington (Ricky Jerret)</actor>
+      <actor>Rob Corddry (Joe Krutel)</actor>
+      <actor>Troy Garity (Jason)</actor>
+      <actor>Donovan Carter (Vernon)</actor>
+      <actor>Jazmyn Simon (Julie Greane)</actor>
+      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
+      <actor>London Brown (Reggie)</actor>
+    </credits>
+    <category lang="en">Dramatique</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+  </programme>
+  <programme start="20200505033000 -0400" stop="20200505040000 -0400" channel="RDS">
+    <title lang="en">Ballers</title>
+    <sub-title lang="en">Dans le temple du foot</sub-title>
+    <desc lang="en">Tandis qu'il magouille afin d'arracher un gros client à son rival Andre, Spencer cherche un remède à ses maux divers. Ricky envisage l'avenir avec appréhension. Reggie se bat pour obtenir de Vernon ce qu'il croit être son dû.(n)</desc>
+    <credits>
+      <actor>Omar Benson Miller (Charles Greane)</actor>
+      <actor>John David Washington (Ricky Jerret)</actor>
+      <actor>Rob Corddry (Joe Krutel)</actor>
+      <actor>Troy Garity (Jason)</actor>
+      <actor>Donovan Carter (Vernon)</actor>
+      <actor>Jazmyn Simon (Julie Greane)</actor>
+      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
+      <actor>London Brown (Reggie)</actor>
+    </credits>
+    <category lang="en">Dramatique</category>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+  </programme>
+  <programme start="20200505040000 -0400" stop="20200505060000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">6e match</sub-title>
     <desc lang="en">Les Séries éliminatoires 2002: Bruins c. Canadiens - 6e match.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505060000 -0400" stop="20200505063000 -0400" channel="CANADA: RDS">
+  <programme start="20200505060000 -0400" stop="20200505063000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505063000 -0400" stop="20200505070000 -0400" channel="CANADA: RDS">
+  <programme start="20200505063000 -0400" stop="20200505070000 -0400" channel="RDS">
     <title lang="en">30 images/seconde</title>
     <desc lang="en">Anim.: Yvan Ponton. Les jeux les plus spectaculaires dans le monde du sport.(n)</desc>
     <date>2005</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505070000 -0400" stop="20200505080000 -0400" channel="CANADA: RDS">
+  <programme start="20200505070000 -0400" stop="20200505080000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505080000 -0400" stop="20200505083000 -0400" channel="CANADA: RDS">
+  <programme start="20200505080000 -0400" stop="20200505083000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505083000 -0400" stop="20200505090000 -0400" channel="CANADA: RDS">
+  <programme start="20200505083000 -0400" stop="20200505090000 -0400" channel="RDS">
     <title lang="en">Magazine Golf: Au 19e</title>
     <desc lang="en">Les dessous de l'industrie du golf via des entrevues, des chroniques conseils et la visite de parcours de golf du Québec.(n)</desc>
     <date>2012</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505090000 -0400" stop="20200505100000 -0400" channel="CANADA: RDS">
+  <programme start="20200505090000 -0400" stop="20200505100000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505100000 -0400" stop="20200505103000 -0400" channel="CANADA: RDS">
+  <programme start="20200505100000 -0400" stop="20200505103000 -0400" channel="RDS">
     <title lang="en">Mes souvenirs sportifs</title>
     <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505103000 -0400" stop="20200505110000 -0400" channel="CANADA: RDS">
+  <programme start="20200505103000 -0400" stop="20200505110000 -0400" channel="RDS">
     <title lang="en">La vie après</title>
     <sub-title lang="en">Steve Bégin</sub-title>
     <desc lang="en">Steve Bégin, le valeureux guerrier du Canadien est maintenant entraîneur adjoint pour les Voltigeurs de Drummondville et actionnaire dans une compagnie. Daniel Savoie découvre que Steve Bégin est un passionné.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505110000 -0400" stop="20200505130000 -0400" channel="CANADA: RDS">
+  <programme start="20200505110000 -0400" stop="20200505130000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">6e match</sub-title>
     <desc lang="en">Les Séries éliminatoires 2002: Bruins c. Canadiens - 6e match.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505130000 -0400" stop="20200505133000 -0400" channel="CANADA: RDS">
+  <programme start="20200505130000 -0400" stop="20200505133000 -0400" channel="RDS">
     <title lang="en">30 images/seconde</title>
     <desc lang="en">Anim.: Yvan Ponton. Les jeux les plus spectaculaires dans le monde du sport.(n)</desc>
     <date>2005</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505133000 -0400" stop="20200505140000 -0400" channel="CANADA: RDS">
+  <programme start="20200505133000 -0400" stop="20200505140000 -0400" channel="RDS">
     <title lang="en">Le sport en toute liberté</title>
     <sub-title lang="en">Saison 2018</sub-title>
     <desc lang="en">La saison 2018.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505140000 -0400" stop="20200505160000 -0400" channel="CANADA: RDS">
+  <programme start="20200505140000 -0400" stop="20200505160000 -0400" channel="RDS">
     <title lang="en">Gymnastique artistique</title>
     <sub-title lang="en">Championnat NCAA</sub-title>
     <desc lang="en">Le Championnat NCAA.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505160000 -0400" stop="20200505163000 -0400" channel="CANADA: RDS">
+  <programme start="20200505160000 -0400" stop="20200505163000 -0400" channel="RDS">
     <title lang="en">RDS 25 ans d'émotions</title>
     <sub-title lang="en">Birdie</sub-title>
     <desc lang="en">L'histoire de Serge Vleminckx qui a été la voie du mini-putt au Québec.(n)</desc>
     <date>2014</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505163000 -0400" stop="20200505173000 -0400" channel="CANADA: RDS">
+  <programme start="20200505163000 -0400" stop="20200505173000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505173000 -0400" stop="20200505183000 -0400" channel="CANADA: RDS">
+  <programme start="20200505173000 -0400" stop="20200505183000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505183000 -0400" stop="20200505190000 -0400" channel="CANADA: RDS">
+  <programme start="20200505183000 -0400" stop="20200505190000 -0400" channel="RDS">
     <title lang="en">Max &amp; Bruno</title>
     <desc lang="en">Maxime Talbot et Bruno Gervais partagent leur expérience et leurs connaissances avec les amateurs en discutant des sujets chauds dans le monde du hockey.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505190000 -0400" stop="20200505213000 -0400" channel="CANADA: RDS">
+  <programme start="20200505190000 -0400" stop="20200505213000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">7e match</sub-title>
     <desc lang="en">Les Séries éliminatoires 2004: Bruins c. Canadiens - 7e match.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505213000 -0400" stop="20200505220000 -0400" channel="CANADA: RDS">
+  <programme start="20200505213000 -0400" stop="20200505220000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505220000 -0400" stop="20200505230000 -0400" channel="CANADA: RDS">
+  <programme start="20200505220000 -0400" stop="20200505230000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200505230000 -0400" stop="20200505233000 -0400" channel="CANADA: RDS">
+  <programme start="20200505230000 -0400" stop="20200505233000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Elidee</sub-title>
     <desc lang="en">Spencer conseille à Vernon de garder le silence au sujet de la cause de sa blessure. Alors qu'ils doivent parer les coups portés par Andre, Spencer et Joe se creusent la tête pour trouver la meilleure solution au problème d'un client.(n)</desc>
@@ -2371,7 +2388,7 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.2.</episode-num>
   </programme>
-  <programme start="20200505233000 -0400" stop="20200506000000 -0400" channel="CANADA: RDS">
+  <programme start="20200505233000 -0400" stop="20200506000000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Un monde de douleurs</sub-title>
     <desc lang="en">Spencer et Joe tentent de découvrir la faiblesse d'André. Vernon attend avec impatience des nouvelles. Jason courtise un client. Ricky tente de comprendre son père.(n)</desc>
@@ -2388,31 +2405,31 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.3.</episode-num>
   </programme>
-  <programme start="20200506000000 -0400" stop="20200506003000 -0400" channel="CANADA: RDS">
+  <programme start="20200506000000 -0400" stop="20200506003000 -0400" channel="RDS">
     <title lang="en">RDS 25 ans d'émotions</title>
     <sub-title lang="en">Birdie</sub-title>
     <desc lang="en">L'histoire de Serge Vleminckx qui a été la voie du mini-putt au Québec.(n)</desc>
     <date>2014</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506003000 -0400" stop="20200506013000 -0400" channel="CANADA: RDS">
+  <programme start="20200506003000 -0400" stop="20200506013000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506013000 -0400" stop="20200506023000 -0400" channel="CANADA: RDS">
+  <programme start="20200506013000 -0400" stop="20200506023000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506023000 -0400" stop="20200506030000 -0400" channel="CANADA: RDS">
+  <programme start="20200506023000 -0400" stop="20200506030000 -0400" channel="RDS">
     <title lang="en">Max &amp; Bruno</title>
     <desc lang="en">Maxime Talbot et Bruno Gervais partagent leur expérience et leurs connaissances avec les amateurs en discutant des sujets chauds dans le monde du hockey.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506030000 -0400" stop="20200506033000 -0400" channel="CANADA: RDS">
+  <programme start="20200506030000 -0400" stop="20200506033000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Elidee</sub-title>
     <desc lang="en">Spencer conseille à Vernon de garder le silence au sujet de la cause de sa blessure. Alors qu'ils doivent parer les coups portés par Andre, Spencer et Joe se creusent la tête pour trouver la meilleure solution au problème d'un client.(n)</desc>
@@ -2429,7 +2446,7 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.2.</episode-num>
   </programme>
-  <programme start="20200506033000 -0400" stop="20200506040000 -0400" channel="CANADA: RDS">
+  <programme start="20200506033000 -0400" stop="20200506040000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Un monde de douleurs</sub-title>
     <desc lang="en">Spencer et Joe tentent de découvrir la faiblesse d'André. Vernon attend avec impatience des nouvelles. Jason courtise un client. Ricky tente de comprendre son père.(n)</desc>
@@ -2446,128 +2463,128 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.3.</episode-num>
   </programme>
-  <programme start="20200506040000 -0400" stop="20200506063000 -0400" channel="CANADA: RDS">
+  <programme start="20200506040000 -0400" stop="20200506063000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">7e match</sub-title>
     <desc lang="en">Les Séries éliminatoires 2004: Bruins c. Canadiens - 7e match.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506063000 -0400" stop="20200506070000 -0400" channel="CANADA: RDS">
+  <programme start="20200506063000 -0400" stop="20200506070000 -0400" channel="RDS">
     <title lang="en">Mes souvenirs sportifs</title>
     <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506070000 -0400" stop="20200506080000 -0400" channel="CANADA: RDS">
+  <programme start="20200506070000 -0400" stop="20200506080000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506080000 -0400" stop="20200506083000 -0400" channel="CANADA: RDS">
+  <programme start="20200506080000 -0400" stop="20200506083000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506083000 -0400" stop="20200506090000 -0400" channel="CANADA: RDS">
+  <programme start="20200506083000 -0400" stop="20200506090000 -0400" channel="RDS">
     <title lang="en">Passion Autos</title>
     <desc lang="en">Magazine automobile.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506090000 -0400" stop="20200506100000 -0400" channel="CANADA: RDS">
+  <programme start="20200506090000 -0400" stop="20200506100000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506100000 -0400" stop="20200506103000 -0400" channel="CANADA: RDS">
+  <programme start="20200506100000 -0400" stop="20200506103000 -0400" channel="RDS">
     <title lang="en">RDS 25 ans d'émotions</title>
     <sub-title lang="en">Birdie</sub-title>
     <desc lang="en">L'histoire de Serge Vleminckx qui a été la voie du mini-putt au Québec.(n)</desc>
     <date>2014</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506103000 -0400" stop="20200506110000 -0400" channel="CANADA: RDS">
+  <programme start="20200506103000 -0400" stop="20200506110000 -0400" channel="RDS">
     <title lang="en">Max &amp; Bruno</title>
     <desc lang="en">Maxime Talbot et Bruno Gervais partagent leur expérience et leurs connaissances avec les amateurs en discutant des sujets chauds dans le monde du hockey.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506110000 -0400" stop="20200506133000 -0400" channel="CANADA: RDS">
+  <programme start="20200506110000 -0400" stop="20200506133000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">7e match</sub-title>
     <desc lang="en">Les Séries éliminatoires 2004: Bruins c. Canadiens - 7e match.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506133000 -0400" stop="20200506140000 -0400" channel="CANADA: RDS">
+  <programme start="20200506133000 -0400" stop="20200506140000 -0400" channel="RDS">
     <title lang="en">Hockey Le Magazine</title>
     <desc lang="en">Magazine sur le hockey de la LNH.(n)</desc>
     <date>2015</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506140000 -0400" stop="20200506150000 -0400" channel="CANADA: RDS">
+  <programme start="20200506140000 -0400" stop="20200506150000 -0400" channel="RDS">
     <title lang="en">Trajectoires</title>
     <sub-title lang="en">François Beauchemin</sub-title>
     <desc lang="en">Le parcours de l'ancien joueur de hockey François Beauchemin.(n)</desc>
     <date>2013</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506150000 -0400" stop="20200506153000 -0400" channel="CANADA: RDS">
+  <programme start="20200506150000 -0400" stop="20200506153000 -0400" channel="RDS">
     <title lang="en">La vie après</title>
     <sub-title lang="en">Steve Bégin</sub-title>
     <desc lang="en">Steve Bégin, le valeureux guerrier du Canadien est maintenant entraîneur adjoint pour les Voltigeurs de Drummondville et actionnaire dans une compagnie. Daniel Savoie découvre que Steve Bégin est un passionné.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506153000 -0400" stop="20200506160000 -0400" channel="CANADA: RDS">
+  <programme start="20200506153000 -0400" stop="20200506160000 -0400" channel="RDS">
     <title lang="en">Max &amp; Bruno</title>
     <desc lang="en">Maxime Talbot et Bruno Gervais partagent leur expérience et leurs connaissances avec les amateurs en discutant des sujets chauds dans le monde du hockey.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506160000 -0400" stop="20200506163000 -0400" channel="CANADA: RDS">
+  <programme start="20200506160000 -0400" stop="20200506163000 -0400" channel="RDS">
     <title lang="en">Mes souvenirs sportifs</title>
     <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506163000 -0400" stop="20200506173000 -0400" channel="CANADA: RDS">
+  <programme start="20200506163000 -0400" stop="20200506173000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506173000 -0400" stop="20200506183000 -0400" channel="CANADA: RDS">
+  <programme start="20200506173000 -0400" stop="20200506183000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506183000 -0400" stop="20200506190000 -0400" channel="CANADA: RDS">
+  <programme start="20200506183000 -0400" stop="20200506190000 -0400" channel="RDS">
     <title lang="en">Et le but! avec Pierre Houde</title>
     <sub-title lang="en">Épisode 04</sub-title>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506190000 -0400" stop="20200506213000 -0400" channel="CANADA: RDS">
+  <programme start="20200506190000 -0400" stop="20200506213000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">finale: Italie c. Brésil</sub-title>
     <desc lang="en">La Coupe du monde de soccer 1994 - finale: Italie c. Brésil.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506213000 -0400" stop="20200506220000 -0400" channel="CANADA: RDS">
+  <programme start="20200506213000 -0400" stop="20200506220000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506220000 -0400" stop="20200506230000 -0400" channel="CANADA: RDS">
+  <programme start="20200506220000 -0400" stop="20200506230000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506230000 -0400" stop="20200506233000 -0400" channel="CANADA: RDS">
+  <programme start="20200506230000 -0400" stop="20200506233000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">La plupart des gars</sub-title>
     <desc lang="en">Spencer tente de conseiller Travis tout en esquivant les nouvelles médicales. Reggie et How achètent un cadeau spécial à Vernon. Ricky encourage Charles à se lever par lui-même.(n)</desc>
@@ -2584,7 +2601,7 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.4.</episode-num>
   </programme>
-  <programme start="20200506233000 -0400" stop="20200507000000 -0400" channel="CANADA: RDS">
+  <programme start="20200506233000 -0400" stop="20200507000000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Un samedi d'embrouilles</sub-title>
     <desc lang="en">Spencer tente de négocier la paix entre Travis et une critique. Charles est forcé de donner de mauvaises nouvelles.(n)</desc>
@@ -2601,29 +2618,29 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.5.</episode-num>
   </programme>
-  <programme start="20200507000000 -0400" stop="20200507003000 -0400" channel="CANADA: RDS">
+  <programme start="20200507000000 -0400" stop="20200507003000 -0400" channel="RDS">
     <title lang="en">Le show de moto</title>
     <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507003000 -0400" stop="20200507013000 -0400" channel="CANADA: RDS">
+  <programme start="20200507003000 -0400" stop="20200507013000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507013000 -0400" stop="20200507023000 -0400" channel="CANADA: RDS">
+  <programme start="20200507013000 -0400" stop="20200507023000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507023000 -0400" stop="20200507030000 -0400" channel="CANADA: RDS">
+  <programme start="20200507023000 -0400" stop="20200507030000 -0400" channel="RDS">
     <title lang="en">Et le but! avec Pierre Houde</title>
     <sub-title lang="en">Épisode 04</sub-title>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507030000 -0400" stop="20200507033000 -0400" channel="CANADA: RDS">
+  <programme start="20200507030000 -0400" stop="20200507033000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">La plupart des gars</sub-title>
     <desc lang="en">Spencer tente de conseiller Travis tout en esquivant les nouvelles médicales. Reggie et How achètent un cadeau spécial à Vernon. Ricky encourage Charles à se lever par lui-même.(n)</desc>
@@ -2640,7 +2657,7 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.4.</episode-num>
   </programme>
-  <programme start="20200507033000 -0400" stop="20200507040000 -0400" channel="CANADA: RDS">
+  <programme start="20200507033000 -0400" stop="20200507040000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Un samedi d'embrouilles</sub-title>
     <desc lang="en">Spencer tente de négocier la paix entre Travis et une critique. Charles est forcé de donner de mauvaises nouvelles.(n)</desc>
@@ -2657,99 +2674,99 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.5.</episode-num>
   </programme>
-  <programme start="20200507040000 -0400" stop="20200507063000 -0400" channel="CANADA: RDS">
+  <programme start="20200507040000 -0400" stop="20200507063000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">finale: Italie c. Brésil</sub-title>
     <desc lang="en">La Coupe du monde de soccer 1994 - finale: Italie c. Brésil.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507063000 -0400" stop="20200507070000 -0400" channel="CANADA: RDS">
+  <programme start="20200507063000 -0400" stop="20200507070000 -0400" channel="RDS">
     <title lang="en">Max &amp; Bruno</title>
     <desc lang="en">Maxime Talbot et Bruno Gervais partagent leur expérience et leurs connaissances avec les amateurs en discutant des sujets chauds dans le monde du hockey.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507070000 -0400" stop="20200507080000 -0400" channel="CANADA: RDS">
+  <programme start="20200507070000 -0400" stop="20200507080000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507080000 -0400" stop="20200507083000 -0400" channel="CANADA: RDS">
+  <programme start="20200507080000 -0400" stop="20200507083000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507083000 -0400" stop="20200507090000 -0400" channel="CANADA: RDS">
+  <programme start="20200507083000 -0400" stop="20200507090000 -0400" channel="RDS">
     <title lang="en">Le show de moto</title>
     <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507090000 -0400" stop="20200507100000 -0400" channel="CANADA: RDS">
+  <programme start="20200507090000 -0400" stop="20200507100000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507100000 -0400" stop="20200507103000 -0400" channel="CANADA: RDS">
+  <programme start="20200507100000 -0400" stop="20200507103000 -0400" channel="RDS">
     <title lang="en">L'histoire derrière...</title>
     <sub-title lang="en">Tiger Woods</sub-title>
     <desc lang="en">Tiger Woods.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507103000 -0400" stop="20200507110000 -0400" channel="CANADA: RDS">
+  <programme start="20200507103000 -0400" stop="20200507110000 -0400" channel="RDS">
     <title lang="en">Et le but! avec Pierre Houde</title>
     <sub-title lang="en">Épisode 04</sub-title>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507110000 -0400" stop="20200507133000 -0400" channel="CANADA: RDS">
+  <programme start="20200507110000 -0400" stop="20200507133000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">finale: Italie c. Brésil</sub-title>
     <desc lang="en">La Coupe du monde de soccer 1994 - finale: Italie c. Brésil.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507133000 -0400" stop="20200507163000 -0400" channel="CANADA: RDS">
+  <programme start="20200507133000 -0400" stop="20200507163000 -0400" channel="RDS">
     <title lang="en">Tennis de l'ATP</title>
     <sub-title lang="en">2e tour</sub-title>
     <desc lang="en">Mutua de Madrid 2019: Auger-Aliassime c. Nadal - 2e tour.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507163000 -0400" stop="20200507173000 -0400" channel="CANADA: RDS">
+  <programme start="20200507163000 -0400" stop="20200507173000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507173000 -0400" stop="20200507183000 -0400" channel="CANADA: RDS">
+  <programme start="20200507173000 -0400" stop="20200507183000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507183000 -0400" stop="20200507190000 -0400" channel="CANADA: RDS">
+  <programme start="20200507183000 -0400" stop="20200507190000 -0400" channel="RDS">
     <title lang="en">Le sport en crise</title>
     <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507190000 -0400" stop="20200507213000 -0400" channel="CANADA: RDS">
+  <programme start="20200507190000 -0400" stop="20200507213000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">7e match</sub-title>
     <desc lang="en">Les Séries éliminatoires 2008: Bruins c. Canadiens - 7e match.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507213000 -0400" stop="20200507220000 -0400" channel="CANADA: RDS">
+  <programme start="20200507213000 -0400" stop="20200507220000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507220000 -0400" stop="20200507230000 -0400" channel="CANADA: RDS">
+  <programme start="20200507220000 -0400" stop="20200507230000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507230000 -0400" stop="20200507233000 -0400" channel="CANADA: RDS">
+  <programme start="20200507230000 -0400" stop="20200507233000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Tout le monde sait</sub-title>
     <desc lang="en">La visite surprise d'Andre dans les bureaux pousse Spencer à redoubler d'efforts pour garder une longueur d'avance sur son rival. Joe apprend des secrets douteux sur son partenaire. Ricky tente de se réconcilier avec son père.(n)</desc>
@@ -2766,7 +2783,7 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.6.</episode-num>
   </programme>
-  <programme start="20200507233000 -0400" stop="20200508000000 -0400" channel="CANADA: RDS">
+  <programme start="20200507233000 -0400" stop="20200508000000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Gagner du temps</sub-title>
     <desc lang="en">Spencer veut passer à autre chose. Joe tente de maintenir le statu quo. Charles et Ricky s'affrontent. Travis s'inquiète pour son avenir.(n)</desc>
@@ -2783,29 +2800,29 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.7.</episode-num>
   </programme>
-  <programme start="20200508000000 -0400" stop="20200508003000 -0400" channel="CANADA: RDS">
+  <programme start="20200508000000 -0400" stop="20200508003000 -0400" channel="RDS">
     <title lang="en">Passion Autos</title>
     <desc lang="en">Magazine automobile.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508003000 -0400" stop="20200508013000 -0400" channel="CANADA: RDS">
+  <programme start="20200508003000 -0400" stop="20200508013000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508013000 -0400" stop="20200508023000 -0400" channel="CANADA: RDS">
+  <programme start="20200508013000 -0400" stop="20200508023000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508023000 -0400" stop="20200508030000 -0400" channel="CANADA: RDS">
+  <programme start="20200508023000 -0400" stop="20200508030000 -0400" channel="RDS">
     <title lang="en">Le sport en crise</title>
     <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508030000 -0400" stop="20200508033000 -0400" channel="CANADA: RDS">
+  <programme start="20200508030000 -0400" stop="20200508033000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Tout le monde sait</sub-title>
     <desc lang="en">La visite surprise d'Andre dans les bureaux pousse Spencer à redoubler d'efforts pour garder une longueur d'avance sur son rival. Joe apprend des secrets douteux sur son partenaire. Ricky tente de se réconcilier avec son père.(n)</desc>
@@ -2822,7 +2839,7 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.6.</episode-num>
   </programme>
-  <programme start="20200508033000 -0400" stop="20200508040000 -0400" channel="CANADA: RDS">
+  <programme start="20200508033000 -0400" stop="20200508040000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Gagner du temps</sub-title>
     <desc lang="en">Spencer veut passer à autre chose. Joe tente de maintenir le statu quo. Charles et Ricky s'affrontent. Travis s'inquiète pour son avenir.(n)</desc>
@@ -2839,111 +2856,111 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.7.</episode-num>
   </programme>
-  <programme start="20200508040000 -0400" stop="20200508063000 -0400" channel="CANADA: RDS">
+  <programme start="20200508040000 -0400" stop="20200508063000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">7e match</sub-title>
     <desc lang="en">Les Séries éliminatoires 2008: Bruins c. Canadiens - 7e match.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508063000 -0400" stop="20200508070000 -0400" channel="CANADA: RDS">
+  <programme start="20200508063000 -0400" stop="20200508070000 -0400" channel="RDS">
     <title lang="en">Et le but! avec Pierre Houde</title>
     <sub-title lang="en">Épisode 04</sub-title>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508070000 -0400" stop="20200508080000 -0400" channel="CANADA: RDS">
+  <programme start="20200508070000 -0400" stop="20200508080000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508080000 -0400" stop="20200508083000 -0400" channel="CANADA: RDS">
+  <programme start="20200508080000 -0400" stop="20200508083000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508083000 -0400" stop="20200508090000 -0400" channel="CANADA: RDS">
+  <programme start="20200508083000 -0400" stop="20200508090000 -0400" channel="RDS">
     <title lang="en">Mes souvenirs sportifs</title>
     <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508090000 -0400" stop="20200508100000 -0400" channel="CANADA: RDS">
+  <programme start="20200508090000 -0400" stop="20200508100000 -0400" channel="RDS">
     <title lang="en">Coupe Mini</title>
     <sub-title lang="en">Coupe 2012</sub-title>
     <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508100000 -0400" stop="20200508103000 -0400" channel="CANADA: RDS">
+  <programme start="20200508100000 -0400" stop="20200508103000 -0400" channel="RDS">
     <title lang="en">L'histoire derrière...</title>
     <sub-title lang="en">Le golf</sub-title>
     <desc lang="en">L'histoire derrière le golf.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508103000 -0400" stop="20200508110000 -0400" channel="CANADA: RDS">
+  <programme start="20200508103000 -0400" stop="20200508110000 -0400" channel="RDS">
     <title lang="en">Le sport en crise</title>
     <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508110000 -0400" stop="20200508133000 -0400" channel="CANADA: RDS">
+  <programme start="20200508110000 -0400" stop="20200508133000 -0400" channel="RDS">
     <title lang="en">Les Classiques RDS</title>
     <sub-title lang="en">7e match</sub-title>
     <desc lang="en">Les Séries éliminatoires 2008: Bruins c. Canadiens - 7e match.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508133000 -0400" stop="20200508140000 -0400" channel="CANADA: RDS">
+  <programme start="20200508133000 -0400" stop="20200508140000 -0400" channel="RDS">
     <title lang="en">Le show de moto</title>
     <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508140000 -0400" stop="20200508143000 -0400" channel="CANADA: RDS">
+  <programme start="20200508140000 -0400" stop="20200508143000 -0400" channel="RDS">
     <title lang="en">Passion Autos</title>
     <desc lang="en">Magazine automobile.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508143000 -0400" stop="20200508150000 -0400" channel="CANADA: RDS">
+  <programme start="20200508143000 -0400" stop="20200508150000 -0400" channel="RDS">
     <title lang="en">Mobil 1 The Grid</title>
     <desc lang="en">Faits saillants de courses de sports motorisés dans le monde.(n)</desc>
     <date>2010</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508150000 -0400" stop="20200508173000 -0400" channel="CANADA: RDS">
+  <programme start="20200508150000 -0400" stop="20200508173000 -0400" channel="RDS">
     <title lang="en">Tennis de l'ATP</title>
     <sub-title lang="en">½ finale #1</sub-title>
     <desc lang="en">Mutua de Madrid 2019: Djokovic c. Thiem - ½ finale #1.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508173000 -0400" stop="20200508183000 -0400" channel="CANADA: RDS">
+  <programme start="20200508173000 -0400" stop="20200508183000 -0400" channel="RDS">
     <title lang="en">Le 5 à 7</title>
     <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508183000 -0400" stop="20200508193000 -0400" channel="CANADA: RDS">
+  <programme start="20200508183000 -0400" stop="20200508193000 -0400" channel="RDS">
     <title lang="en">Boxe</title>
     <sub-title lang="en">2011</sub-title>
     <desc lang="en">Miguel Cotto c. Antonio Margarito - 2011.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508193000 -0400" stop="20200508213000 -0400" channel="CANADA: RDS">
+  <programme start="20200508193000 -0400" stop="20200508213000 -0400" channel="RDS">
     <title lang="en">UFC</title>
     <sub-title lang="en">Rousey c. Holm &amp; Letourneau c. Jedrzejczyk</sub-title>
     <desc lang="en">UFC 193 - Rousey c. Holm &amp; Letourneau c. Jedrzejczyk.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508213000 -0400" stop="20200508220000 -0400" channel="CANADA: RDS">
+  <programme start="20200508213000 -0400" stop="20200508220000 -0400" channel="RDS">
     <title lang="en">L'antichambre</title>
     <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
     <date>2008</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508220000 -0400" stop="20200508230000 -0400" channel="CANADA: RDS">
+  <programme start="20200508220000 -0400" stop="20200508230000 -0400" channel="RDS">
     <title lang="en">UFC Le Décompte</title>
     <sub-title lang="en">UFC 249: Ferguson c. Gaethje</sub-title>
     <desc lang="en">UFC 249: Ferguson c. Gaethje.(n)</desc>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508230000 -0400" stop="20200508233000 -0400" channel="CANADA: RDS">
+  <programme start="20200508230000 -0400" stop="20200508233000 -0400" channel="RDS">
     <title lang="en">Ballers</title>
     <sub-title lang="en">Des millions de dollars dans un sac</sub-title>
     <desc lang="en">Spencer obtient une offre surprenante d'André. Vernon fait de nombreuses heures supplémentaires pour retourner sur le terrain. Charles et Julie se heurtent à son horaire chargé.(n)</desc>

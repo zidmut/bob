@@ -1,5 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MMAX">
+    <display-name lang="en">MMAX</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="RDS">
+    <display-name lang="en">RDS</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="TOONF">
+    <display-name lang="en">TOONF</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="Canal Vie">
+    <display-name lang="en">Canal Vie</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
+  <channel id="Canal Savoir">
+    <display-name lang="en">Canal Savoir</display-name>
+    <url>http://www.tvhebdo.com</url>
+  </channel>
   <channel id="TVA Sports">
     <display-name lang="en">TVA Sports</display-name>
     <url>http://www.tvhebdo.com</url>
@@ -8,2111 +28,6 @@
     <display-name lang="en">TVA Sports 2</display-name>
     <url>http://www.tvhebdo.com</url>
   </channel>
-  <channel id="RDS">
-    <display-name lang="en">RDS</display-name>
-    <url>http://www.tvhebdo.com</url>
-  </channel>
-  <programme start="20200503000000 -0400" stop="20200503003000 -0400" channel="TVA Sports">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503003000 -0400" stop="20200503023000 -0400" channel="TVA Sports">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Bute vs. Johnson</sub-title>
-    <desc lang="en">Bute vs. Johnson.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503023000 -0400" stop="20200503043000 -0400" channel="TVA Sports">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Impact Montréal reçoit Timbers Portland 20/05/2017</sub-title>
-    <desc lang="en">Le 25 mai 2017, l'Impact de Montréal reçoit les Timbers de Portland.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503043000 -0400" stop="20200503050000 -0400" channel="TVA Sports">
-    <title lang="en">Le top des tops</title>
-    <sub-title lang="en">Épisode 129</sub-title>
-    <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503050000 -0400" stop="20200503053000 -0400" channel="TVA Sports">
-    <title lang="en">WTA : mon histoire</title>
-    <sub-title lang="en">Épisode 102</sub-title>
-    <desc lang="en">L'histoire de 2 grandes joueuses de la WTA : Sofia Kenin et Elina Svitolina.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503053000 -0400" stop="20200503060000 -0400" channel="TVA Sports">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 103</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503060000 -0400" stop="20200503070000 -0400" channel="TVA Sports">
-    <title lang="en">4 Chevaliers</title>
-    <sub-title lang="en">Épisode 410</sub-title>
-    <desc lang="en">Les 4 chevaliers est une équipe de balle rapide humoristique et légendaire fondée par Claude Potvin il y a plus de 50 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
-  </programme>
-  <programme start="20200503070000 -0400" stop="20200503093000 -0400" channel="TVA Sports">
-    <title lang="en">Les Boys II</title>
-    <desc lang="en">Can. 1998. Les tribulations des membres d'une équipe de hockey québécoise participant à un tournoi amateur en France.(n)</desc>
-    <credits>
-      <director>Louis Saïa</director>
-      <director>Avec</director>
-      <director>Marc Messier</director>
-      <director>Rémy Girard</director>
-      <director>Patrick Huard</director>
-      <actor>Marc Messier</actor>
-      <actor>Rémy Girard</actor>
-      <actor>Patrick Huard</actor>
-    </credits>
-    <category lang="en">Comédie</category>
-  </programme>
-  <programme start="20200503093000 -0400" stop="20200503120000 -0400" channel="TVA Sports">
-    <title lang="en">Les Boys IV</title>
-    <desc lang="en">Can. 2005. À la demande de leur entraîneur, les joueurs d'une équipe de hockey amateur effectuent un séjour en forêt afin de se préparer à un match important.(n)</desc>
-    <credits>
-      <director>George Mihalka</director>
-      <director>Avec</director>
-      <director>Rémy Girard</director>
-      <director>Patrick Labbé</director>
-      <director>Pierre Lebeau</director>
-      <director>Luc Guérin</director>
-      <director>Yvan Ponton</director>
-      <director>Michel Charette</director>
-      <director>Paul Houde</director>
-      <director>Réal Béland</director>
-      <director>Serge Thériault</director>
-      <actor>Rémy Girard</actor>
-      <actor>Patrick Labbé</actor>
-      <actor>Pierre Lebeau</actor>
-      <actor>Luc Guérin</actor>
-      <actor>Yvan Ponton</actor>
-      <actor>Michel Charette</actor>
-      <actor>Paul Houde</actor>
-      <actor>Réal Béland</actor>
-      <actor>Serge Thériault</actor>
-    </credits>
-    <category lang="en">Comédie</category>
-  </programme>
-  <programme start="20200503120000 -0400" stop="20200503123000 -0400" channel="TVA Sports">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503123000 -0400" stop="20200503143000 -0400" channel="TVA Sports">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Impact Montréal reçoit Timbers Portland 20/05/2017</sub-title>
-    <desc lang="en">Le 25 mai 2017, l'Impact de Montréal reçoit les Timbers de Portland.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503143000 -0400" stop="20200503150000 -0400" channel="TVA Sports">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 105</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503150000 -0400" stop="20200503170000 -0400" channel="TVA Sports">
-    <title lang="en">Bob Bissonnette: Rockstar pis pas à peu près</title>
-    <desc lang="en">Can. Ce documentaire, présenté en primeur, raconte la vie de Roberto " Bob " Bissonnette qui, jusqu'à sa mort, a osé. Il a vécu sa vie selon ses valeurs profondes et surtout sans compromis. À travers les témoignages de plusieurs personnalités, vous découvrirez sa carrière de joueur de hockey et son ascension qui l'a menée vers sa vie de rockstar.(n)</desc>
-    <credits>
-      <director>Bruno Lachance</director>
-    </credits>
-    <category lang="en">Documentaire</category>
-  </programme>
-  <programme start="20200503170000 -0400" stop="20200503180000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503180000 -0400" stop="20200503190000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503190000 -0400" stop="20200503210000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #1</sub-title>
-    <desc lang="en">Le 7 avril 1982, demi-finales de divisions, match #1. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503210000 -0400" stop="20200503220000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503220000 -0400" stop="20200504000000 -0400" channel="TVA Sports">
-    <title lang="en">Ninja Warrior: Le parcours ultime</title>
-    <sub-title lang="en">206)</sub-title>
-    <desc lang="en">À Minneapolis, les concurrents se mesurent à un parcours de six obstacles. Celui-ci comprend les nouveautés Tornades doubles et Course aux losanges. Les vétérans Meagan Martin, Joe Moravsky et Sarah Schoback font leur retour à la compétition.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Jeu</category>
-    <episode-num system="xmltv_ns">9.5.</episode-num>
-  </programme>
-  <programme start="20200504000000 -0400" stop="20200504003000 -0400" channel="TVA Sports">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504003000 -0400" stop="20200504023000 -0400" channel="TVA Sports">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Bute vs. Johnson</sub-title>
-    <desc lang="en">Bute vs. Johnson.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504023000 -0400" stop="20200504043000 -0400" channel="TVA Sports">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Impact Montréal reçoit Timbers Portland 20/05/2017</sub-title>
-    <desc lang="en">Le 25 mai 2017, l'Impact de Montréal reçoit les Timbers de Portland.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504043000 -0400" stop="20200504050000 -0400" channel="TVA Sports">
-    <title lang="en">Le top des tops</title>
-    <sub-title lang="en">Épisode 129</sub-title>
-    <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504050000 -0400" stop="20200504053000 -0400" channel="TVA Sports">
-    <title lang="en">WTA : mon histoire</title>
-    <sub-title lang="en">Épisode 102</sub-title>
-    <desc lang="en">L'histoire de 2 grandes joueuses de la WTA : Sofia Kenin et Elina Svitolina.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504053000 -0400" stop="20200504060000 -0400" channel="TVA Sports">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 103</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504060000 -0400" stop="20200504070000 -0400" channel="TVA Sports">
-    <title lang="en">4 Chevaliers</title>
-    <sub-title lang="en">Épisode 410</sub-title>
-    <desc lang="en">Les 4 chevaliers est une équipe de balle rapide humoristique et légendaire fondée par Claude Potvin il y a plus de 50 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
-  </programme>
-  <programme start="20200504070000 -0400" stop="20200504093000 -0400" channel="TVA Sports">
-    <title lang="en">Les Boys II</title>
-    <desc lang="en">Can. 1998. Les tribulations des membres d'une équipe de hockey québécoise participant à un tournoi amateur en France.(n)</desc>
-    <credits>
-      <director>Louis Saïa</director>
-      <director>Avec</director>
-      <director>Marc Messier</director>
-      <director>Rémy Girard</director>
-      <director>Patrick Huard</director>
-      <actor>Marc Messier</actor>
-      <actor>Rémy Girard</actor>
-      <actor>Patrick Huard</actor>
-    </credits>
-    <category lang="en">Comédie</category>
-  </programme>
-  <programme start="20200504093000 -0400" stop="20200504120000 -0400" channel="TVA Sports">
-    <title lang="en">Les Boys IV</title>
-    <desc lang="en">Can. 2005. À la demande de leur entraîneur, les joueurs d'une équipe de hockey amateur effectuent un séjour en forêt afin de se préparer à un match important.(n)</desc>
-    <credits>
-      <director>George Mihalka</director>
-      <director>Avec</director>
-      <director>Rémy Girard</director>
-      <director>Patrick Labbé</director>
-      <director>Pierre Lebeau</director>
-      <director>Luc Guérin</director>
-      <director>Yvan Ponton</director>
-      <director>Michel Charette</director>
-      <director>Paul Houde</director>
-      <director>Réal Béland</director>
-      <director>Serge Thériault</director>
-      <actor>Rémy Girard</actor>
-      <actor>Patrick Labbé</actor>
-      <actor>Pierre Lebeau</actor>
-      <actor>Luc Guérin</actor>
-      <actor>Yvan Ponton</actor>
-      <actor>Michel Charette</actor>
-      <actor>Paul Houde</actor>
-      <actor>Réal Béland</actor>
-      <actor>Serge Thériault</actor>
-    </credits>
-    <category lang="en">Comédie</category>
-  </programme>
-  <programme start="20200504120000 -0400" stop="20200504123000 -0400" channel="TVA Sports">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504123000 -0400" stop="20200504143000 -0400" channel="TVA Sports">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Impact Montréal reçoit Timbers Portland 20/05/2017</sub-title>
-    <desc lang="en">Le 25 mai 2017, l'Impact de Montréal reçoit les Timbers de Portland.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504143000 -0400" stop="20200504150000 -0400" channel="TVA Sports">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 105</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504150000 -0400" stop="20200504170000 -0400" channel="TVA Sports">
-    <title lang="en">Bob Bissonnette: Rockstar pis pas à peu près</title>
-    <desc lang="en">Can. Ce documentaire, présenté en primeur, raconte la vie de Roberto " Bob " Bissonnette qui, jusqu'à sa mort, a osé. Il a vécu sa vie selon ses valeurs profondes et surtout sans compromis. À travers les témoignages de plusieurs personnalités, vous découvrirez sa carrière de joueur de hockey et son ascension qui l'a menée vers sa vie de rockstar.(n)</desc>
-    <credits>
-      <director>Bruno Lachance</director>
-    </credits>
-    <category lang="en">Documentaire</category>
-  </programme>
-  <programme start="20200504170000 -0400" stop="20200504180000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504180000 -0400" stop="20200504190000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504190000 -0400" stop="20200504210000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #1</sub-title>
-    <desc lang="en">Le 7 avril 1982, demi-finales de divisions, match #1. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504210000 -0400" stop="20200504220000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504220000 -0400" stop="20200505000000 -0400" channel="TVA Sports">
-    <title lang="en">Ninja Warrior: Le parcours ultime</title>
-    <sub-title lang="en">206)</sub-title>
-    <desc lang="en">À Minneapolis, les concurrents se mesurent à un parcours de six obstacles. Celui-ci comprend les nouveautés Tornades doubles et Course aux losanges. Les vétérans Meagan Martin, Joe Moravsky et Sarah Schoback font leur retour à la compétition.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Jeu</category>
-    <episode-num system="xmltv_ns">9.5.</episode-num>
-  </programme>
-  <programme start="20200505000000 -0400" stop="20200505003000 -0400" channel="TVA Sports">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 106</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505003000 -0400" stop="20200505023000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #1</sub-title>
-    <desc lang="en">Le 7 avril 1982, demi-finales de divisions, match #1. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505023000 -0400" stop="20200505033000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505033000 -0400" stop="20200505043000 -0400" channel="TVA Sports">
-    <title lang="en">Red Bull Cliff Diving</title>
-    <sub-title lang="en">Épisode 803</sub-title>
-    <desc lang="en">Les meilleurs plongeurs au monde se livrent une chaude compétition dans des endroits à couper le souffle, un peu partout dans le monde.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505043000 -0400" stop="20200505050000 -0400" channel="TVA Sports">
-    <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Sports américains</sub-title>
-    <desc lang="en">Sports américains.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505050000 -0400" stop="20200505053000 -0400" channel="TVA Sports">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 112</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-  </programme>
-  <programme start="20200505053000 -0400" stop="20200505060000 -0400" channel="TVA Sports">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">Club de golf du Lac Champlain</sub-title>
-    <desc lang="en">Le club de golf Lac Champlain fait peau neuve et se dote d'un hôtel 4 étoiles aux abords du lac Champlain à Venise en Québec. Daniel joue avec Jason Morin, un long cogneur, et on rencontre Zachary Tarte, un jeune golfeur passionné de 13 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.5.</episode-num>
-  </programme>
-  <programme start="20200505060000 -0400" stop="20200505070000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505070000 -0400" stop="20200505080000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505080000 -0400" stop="20200505083000 -0400" channel="TVA Sports">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 101</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505083000 -0400" stop="20200505090000 -0400" channel="TVA Sports">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">9 coups de circuit mémorables</sub-title>
-    <desc lang="en">9 coups de circuit mémorables.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505090000 -0400" stop="20200505110000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #1</sub-title>
-    <desc lang="en">Le 7 avril 1982, demi-finales de divisions, match #1. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505110000 -0400" stop="20200505113000 -0400" channel="TVA Sports">
-    <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Golf</sub-title>
-    <desc lang="en">Le golf.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505113000 -0400" stop="20200505120000 -0400" channel="TVA Sports">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 110</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-  </programme>
-  <programme start="20200505120000 -0400" stop="20200505123000 -0400" channel="TVA Sports">
-    <title lang="en">Alexis le randonneur</title>
-    <sub-title lang="en">Épisode 101</sub-title>
-    <desc lang="en">Alexis Le randonneur va, lors d'escapade en sentier, à la découverte des plus belles montagnes du Québec et de ses environs. Il propose aussi des trucs et conseils pour vous permettre de vivre des randonnées exceptionnelles.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505123000 -0400" stop="20200505130000 -0400" channel="TVA Sports">
-    <title lang="en">Canada in the Rough</title>
-    <sub-title lang="en">Épisode 1505</sub-title>
-    <desc lang="en">En Saskatchewan, Kevin Beasley se retrouve entouré de cerfs au cours d'une chasse automnale.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">14.4.</episode-num>
-  </programme>
-  <programme start="20200505130000 -0400" stop="20200505133000 -0400" channel="TVA Sports">
-    <title lang="en">Roadfish</title>
-    <sub-title lang="en">Épisode 303</sub-title>
-    <desc lang="en">L'animateur Daniel Gagné et son équipe parcourent les flots vers des escapades de pêche HD.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-  <programme start="20200505133000 -0400" stop="20200505140000 -0400" channel="TVA Sports">
-    <title lang="en">Wildcats: pêche à la mouche</title>
-    <sub-title lang="en">Cuba</sub-title>
-    <desc lang="en">Cette semaine David et Jérôme partent à l'aventure dans les eaux salées de Cuba, plus précisément à l'Île de la jeunesse à bord du Avalon Fleet 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505140000 -0400" stop="20200505143000 -0400" channel="TVA Sports">
-    <title lang="en">QVO (Québec à vol d'oiseau)</title>
-    <sub-title lang="en">Chasse du cerf rouge au Domaine du Wapiti</sub-title>
-    <desc lang="en">Cette semaine, l'équipe de QVO accepte l'invitation de Simon Tanguay, propriétaire du Domaine du Wapiti, et découvre une réserve québécoise habitée par de grands gibiers exotiques.(n)</desc>
-    <date>2010</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">4.5.</episode-num>
-  </programme>
-  <programme start="20200505143000 -0400" stop="20200505170000 -0400" channel="TVA Sports">
-    <title lang="en">Le gaucher</title>
-    <desc lang="en">(5) É.-U. 2015. Lorsqu'un revers du destin lui fait perdre son foyer et sa fortune, un champion de boxe s'associe à un entraîneur bourru pour reconquérir son titre et mettre de l'ordre dans sa vie.(n)</desc>
-    <credits>
-      <director>Antoine Fuqua</director>
-      <director>Avec</director>
-      <director>Jake Gyllenhaal</director>
-      <director>Forest Whitaker</director>
-      <director>Rachel McAdams</director>
-      <actor>Jake Gyllenhaal</actor>
-      <actor>Forest Whitaker</actor>
-      <actor>Rachel McAdams</actor>
-    </credits>
-    <category lang="en">Drame</category>
-  </programme>
-  <programme start="20200505170000 -0400" stop="20200505180000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505180000 -0400" stop="20200505190000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505190000 -0400" stop="20200505211500 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #2</sub-title>
-    <desc lang="en">Le 8 avril 1982, demi-finales de divisions, match #2. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505211500 -0400" stop="20200505221500 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505221500 -0400" stop="20200506001500 -0400" channel="TVA Sports">
-    <title lang="en">Ninja Warrior: Le parcours ultime</title>
-    <sub-title lang="en">207)</sub-title>
-    <desc lang="en">Les 30 meilleurs concurrents des qualifications de Los Angeles s'affrontent. Les nouveaux obstacles comprennent Le relais et Le piège à araignée. Sean Bryan, Flip Rodriguez, Tiana Webberley, Grant McCartney et Kevin Bull sont de retour.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Jeu</category>
-    <episode-num system="xmltv_ns">9.6.</episode-num>
-  </programme>
-  <programme start="20200506001500 -0400" stop="20200506004500 -0400" channel="TVA Sports">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 105</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506004500 -0400" stop="20200506030000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #2</sub-title>
-    <desc lang="en">Le 8 avril 1982, demi-finales de divisions, match #2. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506030000 -0400" stop="20200506040000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506040000 -0400" stop="20200506050000 -0400" channel="TVA Sports">
-    <title lang="en">Red Bull Cliff Diving</title>
-    <sub-title lang="en">Épisode 804</sub-title>
-    <desc lang="en">Les meilleurs plongeurs au monde se livrent une chaude compétition dans des endroits à couper le souffle, un peu partout dans le monde.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506050000 -0400" stop="20200506053000 -0400" channel="TVA Sports">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 113</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-  </programme>
-  <programme start="20200506053000 -0400" stop="20200506060000 -0400" channel="TVA Sports">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">Club de golf East Angus</sub-title>
-    <desc lang="en">Le club de golf East Angus. Ce beau parcours de la région de Magog-Sherbrooke en Estrie gagne à être connu. On y joue le trou signature avec Yves Mandeville, professionnel de l'endroit. Jérôme nous parle d'initier les jeunes au golf.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.6.</episode-num>
-  </programme>
-  <programme start="20200506060000 -0400" stop="20200506070000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 06 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506070000 -0400" stop="20200506080000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506080000 -0400" stop="20200506083000 -0400" channel="TVA Sports">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 102</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506083000 -0400" stop="20200506090000 -0400" channel="TVA Sports">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">9 grandes saisons chez les lanceurs</sub-title>
-    <desc lang="en">9 grandes saisons chez les lanceurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506090000 -0400" stop="20200506111500 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #2</sub-title>
-    <desc lang="en">Le 8 avril 1982, demi-finales de divisions, match #2. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506111500 -0400" stop="20200506113000 -0400" channel="TVA Sports">
-    <title lang="en">Red Bull</title>
-    <sub-title lang="en">Crowd Pullers</sub-title>
-    <desc lang="en">Une émission qui vous propose cinq grandes aventures hors piste.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506113000 -0400" stop="20200506120000 -0400" channel="TVA Sports">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 111</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-  </programme>
-  <programme start="20200506120000 -0400" stop="20200506130000 -0400" channel="TVA Sports">
-    <title lang="en">4 Chevaliers</title>
-    <sub-title lang="en">Épisode 411</sub-title>
-    <desc lang="en">Les 4 chevaliers est une équipe de balle rapide humoristique et légendaire fondée par Claude Potvin il y a plus de 50 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.10.</episode-num>
-  </programme>
-  <programme start="20200506130000 -0400" stop="20200506140000 -0400" channel="TVA Sports">
-    <title lang="en">4 Chevaliers</title>
-    <sub-title lang="en">Épisode 412</sub-title>
-    <desc lang="en">Les 4 chevaliers est une équipe de balle rapide humoristique et légendaire fondée par Claude Potvin il y a plus de 50 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.11.</episode-num>
-  </programme>
-  <programme start="20200506140000 -0400" stop="20200506143000 -0400" channel="TVA Sports">
-    <title lang="en">Red Bull Reel Rock</title>
-    <sub-title lang="en">Épisode 505</sub-title>
-    <desc lang="en">Eliav Nissan, un alpiniste israélo-américain, a grandi en Israël en écoutant des histoires sur le désert du Wadi Rum en Jordanie. Avec l'aide du guide bédouin Mohammed Hussein, il veut attirer les grimpeurs vers ce paradis rocheux.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">4.4.</episode-num>
-  </programme>
-  <programme start="20200506143000 -0400" stop="20200506150000 -0400" channel="TVA Sports">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 106</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506150000 -0400" stop="20200506153000 -0400" channel="TVA Sports">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">Les joueurs les plus divertissants</sub-title>
-    <desc lang="en">Les joueurs les plus divertissants de l'histoire du baseball majeur.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506153000 -0400" stop="20200506160000 -0400" channel="TVA Sports">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">Les plus grandes remontées de l'histoire en séries</sub-title>
-    <desc lang="en">Les plus grandes remontées de l'histoire en séries.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506160000 -0400" stop="20200506170000 -0400" channel="TVA Sports">
-    <title lang="en">Mike Trout: Millville à MVP</title>
-    <desc lang="en">Voyez l'ascension de Mike Trout d'une petite ville du New Jersey pour devenir sans doute l'un des meilleurs joueurs de baseball.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506170000 -0400" stop="20200506180000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 06 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506180000 -0400" stop="20200506190000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 06 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506190000 -0400" stop="20200506213000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #3</sub-title>
-    <desc lang="en">Le 10 avril 1982, demi-finales de divisions, match #3. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506213000 -0400" stop="20200506223000 -0400" channel="TVA Sports">
-    <title lang="en">Lutte WWE Raw</title>
-    <sub-title lang="en">Épisode 1406</sub-title>
-    <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506223000 -0400" stop="20200506233000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506233000 -0400" stop="20200507013000 -0400" channel="TVA Sports">
-    <title lang="en">Ninja Warrior: Le parcours ultime</title>
-    <sub-title lang="en">208)</sub-title>
-    <desc lang="en">Les 30 meilleurs concurrents des qualifications de Dallas s'affrontent. Les nouveaux obstacles sont Répercussions et Le piège à araignée. Daniel Gil, Barclay Stockett, Mathis «The Kid» Owhadi, Brent Steffensen et Abel Gonzalez sont de retour.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Jeu</category>
-    <episode-num system="xmltv_ns">9.7.</episode-num>
-  </programme>
-  <programme start="20200507013000 -0400" stop="20200507040000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #3</sub-title>
-    <desc lang="en">Le 10 avril 1982, demi-finales de divisions, match #3. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507040000 -0400" stop="20200507050000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507050000 -0400" stop="20200507053000 -0400" channel="TVA Sports">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 105</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507053000 -0400" stop="20200507060000 -0400" channel="TVA Sports">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">Rémi</sub-title>
-    <desc lang="en">Daniel vous présente ce club de golf de la Mauricie, Le golf St-Rémi. Il jouera une normale 4 avec Yvan Pedneault le directeur du club. Les membres sont très fiers de leur club et ils vous le feront sentir.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.7.</episode-num>
-  </programme>
-  <programme start="20200507060000 -0400" stop="20200507070000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 07 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507070000 -0400" stop="20200507080000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507080000 -0400" stop="20200507083000 -0400" channel="TVA Sports">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 103</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507083000 -0400" stop="20200507090000 -0400" channel="TVA Sports">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">9 grands jeux au marbre</sub-title>
-    <desc lang="en">9 grands jeux au marbre.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507090000 -0400" stop="20200507113000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #3</sub-title>
-    <desc lang="en">Le 10 avril 1982, demi-finales de divisions, match #3. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507113000 -0400" stop="20200507120000 -0400" channel="TVA Sports">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 112</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-  </programme>
-  <programme start="20200507120000 -0400" stop="20200507123000 -0400" channel="TVA Sports">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 106</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507123000 -0400" stop="20200507130000 -0400" channel="TVA Sports">
-    <title lang="en">Alexis le randonneur</title>
-    <sub-title lang="en">Épisode 101</sub-title>
-    <desc lang="en">Alexis Le randonneur va, lors d'escapade en sentier, à la découverte des plus belles montagnes du Québec et de ses environs. Il propose aussi des trucs et conseils pour vous permettre de vivre des randonnées exceptionnelles.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507130000 -0400" stop="20200507133000 -0400" channel="TVA Sports">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507133000 -0400" stop="20200507140000 -0400" channel="TVA Sports">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 105</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507140000 -0400" stop="20200507150000 -0400" channel="TVA Sports">
-    <title lang="en">Red Bull Cliff Diving</title>
-    <sub-title lang="en">Épisode 803</sub-title>
-    <desc lang="en">Les meilleurs plongeurs au monde se livrent une chaude compétition dans des endroits à couper le souffle, un peu partout dans le monde.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507150000 -0400" stop="20200507170000 -0400" channel="TVA Sports">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Klitschko vs. Chisora</sub-title>
-    <desc lang="en">Carte principale : Vitali Klitschko vs. Derek Chisora En direct de Munich, Vitali Klitschko défendra sa ceinture de champion de la WBC chez les poids lourds en faisant face à son opposant, Derek Chisora.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507170000 -0400" stop="20200507180000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 07 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507180000 -0400" stop="20200507190000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 07 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507190000 -0400" stop="20200507213000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #4</sub-title>
-    <desc lang="en">Le 11 avril 1982, demi-finales de divisions, match #4. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507213000 -0400" stop="20200507223000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507223000 -0400" stop="20200507233000 -0400" channel="TVA Sports">
-    <title lang="en">Lutte WWE Raw</title>
-    <sub-title lang="en">Épisode 1406</sub-title>
-    <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507233000 -0400" stop="20200508010000 -0400" channel="TVA Sports">
-    <title lang="en">Ninja Warrior: Le parcours ultime</title>
-    <sub-title lang="en">209)</sub-title>
-    <desc lang="en">Les 30 meilleurs concurrents des qualifications de Miami s'affrontent. Un parcours encore plus extrême les attend avec, entre autres, le nouvel obstacle Les folles horloges.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Jeu</category>
-    <episode-num system="xmltv_ns">9.8.</episode-num>
-  </programme>
-  <programme start="20200508010000 -0400" stop="20200508033000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #4</sub-title>
-    <desc lang="en">Le 11 avril 1982, demi-finales de divisions, match #4. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508033000 -0400" stop="20200508043000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508043000 -0400" stop="20200508050000 -0400" channel="TVA Sports">
-    <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Vétérans</sub-title>
-    <desc lang="en">Thème: Vétérans.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508050000 -0400" stop="20200508053000 -0400" channel="TVA Sports">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 104</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508053000 -0400" stop="20200508060000 -0400" channel="TVA Sports">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">Club de golf Le Sélect</sub-title>
-    <desc lang="en">Daniel découvre les nouveautés du club de golf Le sélect de Mirabel. Une belle rencontre avec deux frères golfeurs et passionnés. On discute avec le golfeur de 22 ans Hugo Bernard et Jérôme nous parle de temps de jeu.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">5.7.</episode-num>
-  </programme>
-  <programme start="20200508060000 -0400" stop="20200508070000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 08 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508070000 -0400" stop="20200508080000 -0400" channel="TVA Sports">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508080000 -0400" stop="20200508083000 -0400" channel="TVA Sports">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 106</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508083000 -0400" stop="20200508090000 -0400" channel="TVA Sports">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">9 grands attrapés en saison régulière</sub-title>
-    <desc lang="en">9 grands attrapés en saison régulière.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508090000 -0400" stop="20200508113000 -0400" channel="TVA Sports">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #4</sub-title>
-    <desc lang="en">Le 11 avril 1982, demi-finales de divisions, match #4. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508113000 -0400" stop="20200508120000 -0400" channel="TVA Sports">
-    <title lang="en">Roadfish</title>
-    <sub-title lang="en">Épisode 303</sub-title>
-    <desc lang="en">L'animateur Daniel Gagné et son équipe parcourent les flots vers des escapades de pêche HD.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-  <programme start="20200508120000 -0400" stop="20200508123000 -0400" channel="TVA Sports">
-    <title lang="en">Wildcats: pêche à la mouche</title>
-    <sub-title lang="en">Cuba</sub-title>
-    <desc lang="en">Cette semaine David et Jérôme partent à l'aventure dans les eaux salées de Cuba, plus précisément à l'Île de la jeunesse à bord du Avalon Fleet 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508123000 -0400" stop="20200508130000 -0400" channel="TVA Sports">
-    <title lang="en">QVO (Québec à vol d'oiseau)</title>
-    <sub-title lang="en">Chasse du cerf rouge au Domaine du Wapiti</sub-title>
-    <desc lang="en">Cette semaine, l'équipe de QVO accepte l'invitation de Simon Tanguay, propriétaire du Domaine du Wapiti, et découvre une réserve québécoise habitée par de grands gibiers exotiques.(n)</desc>
-    <date>2010</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">4.5.</episode-num>
-  </programme>
-  <programme start="20200508130000 -0400" stop="20200508133000 -0400" channel="TVA Sports">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">La romana</sub-title>
-    <desc lang="en">Nous poursuivons notre visite des plus beaux parcours de la République Dominicaine avec le tout nouveau La Romana. Concept du groupe Maverick, ce parcours propose quatre trous en bordure de mer.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.2.</episode-num>
-  </programme>
-  <programme start="20200508133000 -0400" stop="20200508140000 -0400" channel="TVA Sports">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508140000 -0400" stop="20200508150000 -0400" channel="TVA Sports">
-    <title lang="en">Red Bull Cliff Diving</title>
-    <sub-title lang="en">Épisode 804</sub-title>
-    <desc lang="en">Les meilleurs plongeurs au monde se livrent une chaude compétition dans des endroits à couper le souffle, un peu partout dans le monde.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508150000 -0400" stop="20200508170000 -0400" channel="TVA Sports">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Didier Bence c. Jonte Willis</sub-title>
-    <desc lang="en">Didier Bence c. Jonte Willis.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508170000 -0400" stop="20200508180000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 08 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508180000 -0400" stop="20200508190000 -0400" channel="TVA Sports">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 08 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508190000 -0400" stop="20200508210000 -0400" channel="TVA Sports">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Lemieux et Alcine</sub-title>
-    <desc lang="en">Jean-Charles Lajoie et Michel Bilodeau commentent des combats fort enlevants. David Lemieux vs Elvin Ayala . Joachim Alcine vs Christophe Canclaux (5 décembre 2009 au Casino de Montréal).(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508210000 -0400" stop="20200508230000 -0400" channel="TVA Sports">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">David Lemieux c. Hassan N'Dam</sub-title>
-    <desc lang="en">Présentation du combat entre David Lemieux et Hassan N'Dam.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503000000 -0400" stop="20200503003000 -0400" channel="TVA Sports 2">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503003000 -0400" stop="20200503023000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Bute vs. Johnson</sub-title>
-    <desc lang="en">Bute vs. Johnson.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503023000 -0400" stop="20200503043000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Impact Montréal reçoit Timbers Portland 20/05/2017</sub-title>
-    <desc lang="en">Le 25 mai 2017, l'Impact de Montréal reçoit les Timbers de Portland.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503043000 -0400" stop="20200503050000 -0400" channel="TVA Sports 2">
-    <title lang="en">Le top des tops</title>
-    <sub-title lang="en">Épisode 129</sub-title>
-    <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503050000 -0400" stop="20200503053000 -0400" channel="TVA Sports 2">
-    <title lang="en">WTA : mon histoire</title>
-    <sub-title lang="en">Épisode 102</sub-title>
-    <desc lang="en">L'histoire de 2 grandes joueuses de la WTA : Sofia Kenin et Elina Svitolina.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503053000 -0400" stop="20200503060000 -0400" channel="TVA Sports 2">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 103</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503060000 -0400" stop="20200503070000 -0400" channel="TVA Sports 2">
-    <title lang="en">4 Chevaliers</title>
-    <sub-title lang="en">Épisode 410</sub-title>
-    <desc lang="en">Les 4 chevaliers est une équipe de balle rapide humoristique et légendaire fondée par Claude Potvin il y a plus de 50 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
-  </programme>
-  <programme start="20200503070000 -0400" stop="20200503093000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les Boys II</title>
-    <desc lang="en">Can. 1998. Les tribulations des membres d'une équipe de hockey québécoise participant à un tournoi amateur en France.(n)</desc>
-    <credits>
-      <director>Louis Saïa</director>
-      <director>Avec</director>
-      <director>Marc Messier</director>
-      <director>Rémy Girard</director>
-      <director>Patrick Huard</director>
-      <actor>Marc Messier</actor>
-      <actor>Rémy Girard</actor>
-      <actor>Patrick Huard</actor>
-    </credits>
-    <category lang="en">Comédie</category>
-  </programme>
-  <programme start="20200503093000 -0400" stop="20200503120000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les Boys IV</title>
-    <desc lang="en">Can. 2005. À la demande de leur entraîneur, les joueurs d'une équipe de hockey amateur effectuent un séjour en forêt afin de se préparer à un match important.(n)</desc>
-    <credits>
-      <director>George Mihalka</director>
-      <director>Avec</director>
-      <director>Rémy Girard</director>
-      <director>Patrick Labbé</director>
-      <director>Pierre Lebeau</director>
-      <director>Luc Guérin</director>
-      <director>Yvan Ponton</director>
-      <director>Michel Charette</director>
-      <director>Paul Houde</director>
-      <director>Réal Béland</director>
-      <director>Serge Thériault</director>
-      <actor>Rémy Girard</actor>
-      <actor>Patrick Labbé</actor>
-      <actor>Pierre Lebeau</actor>
-      <actor>Luc Guérin</actor>
-      <actor>Yvan Ponton</actor>
-      <actor>Michel Charette</actor>
-      <actor>Paul Houde</actor>
-      <actor>Réal Béland</actor>
-      <actor>Serge Thériault</actor>
-    </credits>
-    <category lang="en">Comédie</category>
-  </programme>
-  <programme start="20200503120000 -0400" stop="20200503123000 -0400" channel="TVA Sports 2">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503123000 -0400" stop="20200503143000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Impact Montréal reçoit Timbers Portland 20/05/2017</sub-title>
-    <desc lang="en">Le 25 mai 2017, l'Impact de Montréal reçoit les Timbers de Portland.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503143000 -0400" stop="20200503150000 -0400" channel="TVA Sports 2">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 105</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503150000 -0400" stop="20200503170000 -0400" channel="TVA Sports 2">
-    <title lang="en">Bob Bissonnette: Rockstar pis pas à peu près</title>
-    <desc lang="en">Can. Ce documentaire, présenté en primeur, raconte la vie de Roberto " Bob " Bissonnette qui, jusqu'à sa mort, a osé. Il a vécu sa vie selon ses valeurs profondes et surtout sans compromis. À travers les témoignages de plusieurs personnalités, vous découvrirez sa carrière de joueur de hockey et son ascension qui l'a menée vers sa vie de rockstar.(n)</desc>
-    <credits>
-      <director>Bruno Lachance</director>
-    </credits>
-    <category lang="en">Documentaire</category>
-  </programme>
-  <programme start="20200503170000 -0400" stop="20200503180000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503180000 -0400" stop="20200503190000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503190000 -0400" stop="20200503210000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #1</sub-title>
-    <desc lang="en">Le 7 avril 1982, demi-finales de divisions, match #1. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503210000 -0400" stop="20200503220000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503220000 -0400" stop="20200504000000 -0400" channel="TVA Sports 2">
-    <title lang="en">Ninja Warrior: Le parcours ultime</title>
-    <sub-title lang="en">206)</sub-title>
-    <desc lang="en">À Minneapolis, les concurrents se mesurent à un parcours de six obstacles. Celui-ci comprend les nouveautés Tornades doubles et Course aux losanges. Les vétérans Meagan Martin, Joe Moravsky et Sarah Schoback font leur retour à la compétition.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Jeu</category>
-    <episode-num system="xmltv_ns">9.5.</episode-num>
-  </programme>
-  <programme start="20200504000000 -0400" stop="20200504003000 -0400" channel="TVA Sports 2">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504003000 -0400" stop="20200504023000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Bute vs. Johnson</sub-title>
-    <desc lang="en">Bute vs. Johnson.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504023000 -0400" stop="20200504043000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Impact Montréal reçoit Timbers Portland 20/05/2017</sub-title>
-    <desc lang="en">Le 25 mai 2017, l'Impact de Montréal reçoit les Timbers de Portland.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504043000 -0400" stop="20200504050000 -0400" channel="TVA Sports 2">
-    <title lang="en">Le top des tops</title>
-    <sub-title lang="en">Épisode 129</sub-title>
-    <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504050000 -0400" stop="20200504053000 -0400" channel="TVA Sports 2">
-    <title lang="en">WTA : mon histoire</title>
-    <sub-title lang="en">Épisode 102</sub-title>
-    <desc lang="en">L'histoire de 2 grandes joueuses de la WTA : Sofia Kenin et Elina Svitolina.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504053000 -0400" stop="20200504060000 -0400" channel="TVA Sports 2">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 103</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504060000 -0400" stop="20200504070000 -0400" channel="TVA Sports 2">
-    <title lang="en">4 Chevaliers</title>
-    <sub-title lang="en">Épisode 410</sub-title>
-    <desc lang="en">Les 4 chevaliers est une équipe de balle rapide humoristique et légendaire fondée par Claude Potvin il y a plus de 50 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.9.</episode-num>
-  </programme>
-  <programme start="20200504070000 -0400" stop="20200504093000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les Boys II</title>
-    <desc lang="en">Can. 1998. Les tribulations des membres d'une équipe de hockey québécoise participant à un tournoi amateur en France.(n)</desc>
-    <credits>
-      <director>Louis Saïa</director>
-      <director>Avec</director>
-      <director>Marc Messier</director>
-      <director>Rémy Girard</director>
-      <director>Patrick Huard</director>
-      <actor>Marc Messier</actor>
-      <actor>Rémy Girard</actor>
-      <actor>Patrick Huard</actor>
-    </credits>
-    <category lang="en">Comédie</category>
-  </programme>
-  <programme start="20200504093000 -0400" stop="20200504120000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les Boys IV</title>
-    <desc lang="en">Can. 2005. À la demande de leur entraîneur, les joueurs d'une équipe de hockey amateur effectuent un séjour en forêt afin de se préparer à un match important.(n)</desc>
-    <credits>
-      <director>George Mihalka</director>
-      <director>Avec</director>
-      <director>Rémy Girard</director>
-      <director>Patrick Labbé</director>
-      <director>Pierre Lebeau</director>
-      <director>Luc Guérin</director>
-      <director>Yvan Ponton</director>
-      <director>Michel Charette</director>
-      <director>Paul Houde</director>
-      <director>Réal Béland</director>
-      <director>Serge Thériault</director>
-      <actor>Rémy Girard</actor>
-      <actor>Patrick Labbé</actor>
-      <actor>Pierre Lebeau</actor>
-      <actor>Luc Guérin</actor>
-      <actor>Yvan Ponton</actor>
-      <actor>Michel Charette</actor>
-      <actor>Paul Houde</actor>
-      <actor>Réal Béland</actor>
-      <actor>Serge Thériault</actor>
-    </credits>
-    <category lang="en">Comédie</category>
-  </programme>
-  <programme start="20200504120000 -0400" stop="20200504123000 -0400" channel="TVA Sports 2">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504123000 -0400" stop="20200504143000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Impact Montréal reçoit Timbers Portland 20/05/2017</sub-title>
-    <desc lang="en">Le 25 mai 2017, l'Impact de Montréal reçoit les Timbers de Portland.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504143000 -0400" stop="20200504150000 -0400" channel="TVA Sports 2">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 105</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504150000 -0400" stop="20200504170000 -0400" channel="TVA Sports 2">
-    <title lang="en">Bob Bissonnette: Rockstar pis pas à peu près</title>
-    <desc lang="en">Can. Ce documentaire, présenté en primeur, raconte la vie de Roberto " Bob " Bissonnette qui, jusqu'à sa mort, a osé. Il a vécu sa vie selon ses valeurs profondes et surtout sans compromis. À travers les témoignages de plusieurs personnalités, vous découvrirez sa carrière de joueur de hockey et son ascension qui l'a menée vers sa vie de rockstar.(n)</desc>
-    <credits>
-      <director>Bruno Lachance</director>
-    </credits>
-    <category lang="en">Documentaire</category>
-  </programme>
-  <programme start="20200504170000 -0400" stop="20200504180000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504180000 -0400" stop="20200504190000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504190000 -0400" stop="20200504210000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #1</sub-title>
-    <desc lang="en">Le 7 avril 1982, demi-finales de divisions, match #1. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504210000 -0400" stop="20200504220000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504220000 -0400" stop="20200505000000 -0400" channel="TVA Sports 2">
-    <title lang="en">Ninja Warrior: Le parcours ultime</title>
-    <sub-title lang="en">206)</sub-title>
-    <desc lang="en">À Minneapolis, les concurrents se mesurent à un parcours de six obstacles. Celui-ci comprend les nouveautés Tornades doubles et Course aux losanges. Les vétérans Meagan Martin, Joe Moravsky et Sarah Schoback font leur retour à la compétition.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Jeu</category>
-    <episode-num system="xmltv_ns">9.5.</episode-num>
-  </programme>
-  <programme start="20200505000000 -0400" stop="20200505003000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 106</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505003000 -0400" stop="20200505023000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #1</sub-title>
-    <desc lang="en">Le 7 avril 1982, demi-finales de divisions, match #1. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505023000 -0400" stop="20200505033000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505033000 -0400" stop="20200505043000 -0400" channel="TVA Sports 2">
-    <title lang="en">Red Bull Cliff Diving</title>
-    <sub-title lang="en">Épisode 803</sub-title>
-    <desc lang="en">Les meilleurs plongeurs au monde se livrent une chaude compétition dans des endroits à couper le souffle, un peu partout dans le monde.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505043000 -0400" stop="20200505050000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Sports américains</sub-title>
-    <desc lang="en">Sports américains.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505050000 -0400" stop="20200505053000 -0400" channel="TVA Sports 2">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 112</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-  </programme>
-  <programme start="20200505053000 -0400" stop="20200505060000 -0400" channel="TVA Sports 2">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">Club de golf du Lac Champlain</sub-title>
-    <desc lang="en">Le club de golf Lac Champlain fait peau neuve et se dote d'un hôtel 4 étoiles aux abords du lac Champlain à Venise en Québec. Daniel joue avec Jason Morin, un long cogneur, et on rencontre Zachary Tarte, un jeune golfeur passionné de 13 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.5.</episode-num>
-  </programme>
-  <programme start="20200505060000 -0400" stop="20200505070000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505070000 -0400" stop="20200505080000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505080000 -0400" stop="20200505083000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 101</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505083000 -0400" stop="20200505090000 -0400" channel="TVA Sports 2">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">9 coups de circuit mémorables</sub-title>
-    <desc lang="en">9 coups de circuit mémorables.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505090000 -0400" stop="20200505110000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #1</sub-title>
-    <desc lang="en">Le 7 avril 1982, demi-finales de divisions, match #1. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505110000 -0400" stop="20200505113000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Golf</sub-title>
-    <desc lang="en">Le golf.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505113000 -0400" stop="20200505120000 -0400" channel="TVA Sports 2">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 110</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-  </programme>
-  <programme start="20200505120000 -0400" stop="20200505123000 -0400" channel="TVA Sports 2">
-    <title lang="en">Alexis le randonneur</title>
-    <sub-title lang="en">Épisode 101</sub-title>
-    <desc lang="en">Alexis Le randonneur va, lors d'escapade en sentier, à la découverte des plus belles montagnes du Québec et de ses environs. Il propose aussi des trucs et conseils pour vous permettre de vivre des randonnées exceptionnelles.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505123000 -0400" stop="20200505130000 -0400" channel="TVA Sports 2">
-    <title lang="en">Canada in the Rough</title>
-    <sub-title lang="en">Épisode 1505</sub-title>
-    <desc lang="en">En Saskatchewan, Kevin Beasley se retrouve entouré de cerfs au cours d'une chasse automnale.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">14.4.</episode-num>
-  </programme>
-  <programme start="20200505130000 -0400" stop="20200505133000 -0400" channel="TVA Sports 2">
-    <title lang="en">Roadfish</title>
-    <sub-title lang="en">Épisode 303</sub-title>
-    <desc lang="en">L'animateur Daniel Gagné et son équipe parcourent les flots vers des escapades de pêche HD.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-  <programme start="20200505133000 -0400" stop="20200505140000 -0400" channel="TVA Sports 2">
-    <title lang="en">Wildcats: pêche à la mouche</title>
-    <sub-title lang="en">Cuba</sub-title>
-    <desc lang="en">Cette semaine David et Jérôme partent à l'aventure dans les eaux salées de Cuba, plus précisément à l'Île de la jeunesse à bord du Avalon Fleet 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505140000 -0400" stop="20200505143000 -0400" channel="TVA Sports 2">
-    <title lang="en">QVO (Québec à vol d'oiseau)</title>
-    <sub-title lang="en">Chasse du cerf rouge au Domaine du Wapiti</sub-title>
-    <desc lang="en">Cette semaine, l'équipe de QVO accepte l'invitation de Simon Tanguay, propriétaire du Domaine du Wapiti, et découvre une réserve québécoise habitée par de grands gibiers exotiques.(n)</desc>
-    <date>2010</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">4.5.</episode-num>
-  </programme>
-  <programme start="20200505143000 -0400" stop="20200505170000 -0400" channel="TVA Sports 2">
-    <title lang="en">Le gaucher</title>
-    <desc lang="en">(5) É.-U. 2015. Lorsqu'un revers du destin lui fait perdre son foyer et sa fortune, un champion de boxe s'associe à un entraîneur bourru pour reconquérir son titre et mettre de l'ordre dans sa vie.(n)</desc>
-    <credits>
-      <director>Antoine Fuqua</director>
-      <director>Avec</director>
-      <director>Jake Gyllenhaal</director>
-      <director>Forest Whitaker</director>
-      <director>Rachel McAdams</director>
-      <actor>Jake Gyllenhaal</actor>
-      <actor>Forest Whitaker</actor>
-      <actor>Rachel McAdams</actor>
-    </credits>
-    <category lang="en">Drame</category>
-  </programme>
-  <programme start="20200505170000 -0400" stop="20200505180000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505180000 -0400" stop="20200505190000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505190000 -0400" stop="20200505211500 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #2</sub-title>
-    <desc lang="en">Le 8 avril 1982, demi-finales de divisions, match #2. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505211500 -0400" stop="20200505221500 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505221500 -0400" stop="20200506001500 -0400" channel="TVA Sports 2">
-    <title lang="en">Ninja Warrior: Le parcours ultime</title>
-    <sub-title lang="en">207)</sub-title>
-    <desc lang="en">Les 30 meilleurs concurrents des qualifications de Los Angeles s'affrontent. Les nouveaux obstacles comprennent Le relais et Le piège à araignée. Sean Bryan, Flip Rodriguez, Tiana Webberley, Grant McCartney et Kevin Bull sont de retour.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Jeu</category>
-    <episode-num system="xmltv_ns">9.6.</episode-num>
-  </programme>
-  <programme start="20200506001500 -0400" stop="20200506004500 -0400" channel="TVA Sports 2">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 105</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506004500 -0400" stop="20200506030000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #2</sub-title>
-    <desc lang="en">Le 8 avril 1982, demi-finales de divisions, match #2. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506030000 -0400" stop="20200506040000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506040000 -0400" stop="20200506050000 -0400" channel="TVA Sports 2">
-    <title lang="en">Red Bull Cliff Diving</title>
-    <sub-title lang="en">Épisode 804</sub-title>
-    <desc lang="en">Les meilleurs plongeurs au monde se livrent une chaude compétition dans des endroits à couper le souffle, un peu partout dans le monde.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506050000 -0400" stop="20200506053000 -0400" channel="TVA Sports 2">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 113</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-  </programme>
-  <programme start="20200506053000 -0400" stop="20200506060000 -0400" channel="TVA Sports 2">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">Club de golf East Angus</sub-title>
-    <desc lang="en">Le club de golf East Angus. Ce beau parcours de la région de Magog-Sherbrooke en Estrie gagne à être connu. On y joue le trou signature avec Yves Mandeville, professionnel de l'endroit. Jérôme nous parle d'initier les jeunes au golf.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.6.</episode-num>
-  </programme>
-  <programme start="20200506060000 -0400" stop="20200506070000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 06 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506070000 -0400" stop="20200506080000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506080000 -0400" stop="20200506083000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 102</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506083000 -0400" stop="20200506090000 -0400" channel="TVA Sports 2">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">9 grandes saisons chez les lanceurs</sub-title>
-    <desc lang="en">9 grandes saisons chez les lanceurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506090000 -0400" stop="20200506111500 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #2</sub-title>
-    <desc lang="en">Le 8 avril 1982, demi-finales de divisions, match #2. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506111500 -0400" stop="20200506113000 -0400" channel="TVA Sports 2">
-    <title lang="en">Red Bull</title>
-    <sub-title lang="en">Crowd Pullers</sub-title>
-    <desc lang="en">Une émission qui vous propose cinq grandes aventures hors piste.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506113000 -0400" stop="20200506120000 -0400" channel="TVA Sports 2">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 111</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-  </programme>
-  <programme start="20200506120000 -0400" stop="20200506130000 -0400" channel="TVA Sports 2">
-    <title lang="en">4 Chevaliers</title>
-    <sub-title lang="en">Épisode 411</sub-title>
-    <desc lang="en">Les 4 chevaliers est une équipe de balle rapide humoristique et légendaire fondée par Claude Potvin il y a plus de 50 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.10.</episode-num>
-  </programme>
-  <programme start="20200506130000 -0400" stop="20200506140000 -0400" channel="TVA Sports 2">
-    <title lang="en">4 Chevaliers</title>
-    <sub-title lang="en">Épisode 412</sub-title>
-    <desc lang="en">Les 4 chevaliers est une équipe de balle rapide humoristique et légendaire fondée par Claude Potvin il y a plus de 50 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.11.</episode-num>
-  </programme>
-  <programme start="20200506140000 -0400" stop="20200506143000 -0400" channel="TVA Sports 2">
-    <title lang="en">Red Bull Reel Rock</title>
-    <sub-title lang="en">Épisode 505</sub-title>
-    <desc lang="en">Eliav Nissan, un alpiniste israélo-américain, a grandi en Israël en écoutant des histoires sur le désert du Wadi Rum en Jordanie. Avec l'aide du guide bédouin Mohammed Hussein, il veut attirer les grimpeurs vers ce paradis rocheux.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">4.4.</episode-num>
-  </programme>
-  <programme start="20200506143000 -0400" stop="20200506150000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 106</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506150000 -0400" stop="20200506153000 -0400" channel="TVA Sports 2">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">Les joueurs les plus divertissants</sub-title>
-    <desc lang="en">Les joueurs les plus divertissants de l'histoire du baseball majeur.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506153000 -0400" stop="20200506160000 -0400" channel="TVA Sports 2">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">Les plus grandes remontées de l'histoire en séries</sub-title>
-    <desc lang="en">Les plus grandes remontées de l'histoire en séries.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506160000 -0400" stop="20200506170000 -0400" channel="TVA Sports 2">
-    <title lang="en">Mike Trout: Millville à MVP</title>
-    <desc lang="en">Voyez l'ascension de Mike Trout d'une petite ville du New Jersey pour devenir sans doute l'un des meilleurs joueurs de baseball.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506170000 -0400" stop="20200506180000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 06 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506180000 -0400" stop="20200506190000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 06 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506190000 -0400" stop="20200506213000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #3</sub-title>
-    <desc lang="en">Le 10 avril 1982, demi-finales de divisions, match #3. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506213000 -0400" stop="20200506223000 -0400" channel="TVA Sports 2">
-    <title lang="en">Lutte WWE Raw</title>
-    <sub-title lang="en">Épisode 1406</sub-title>
-    <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506223000 -0400" stop="20200506233000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506233000 -0400" stop="20200507013000 -0400" channel="TVA Sports 2">
-    <title lang="en">Ninja Warrior: Le parcours ultime</title>
-    <sub-title lang="en">208)</sub-title>
-    <desc lang="en">Les 30 meilleurs concurrents des qualifications de Dallas s'affrontent. Les nouveaux obstacles sont Répercussions et Le piège à araignée. Daniel Gil, Barclay Stockett, Mathis «The Kid» Owhadi, Brent Steffensen et Abel Gonzalez sont de retour.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Jeu</category>
-    <episode-num system="xmltv_ns">9.7.</episode-num>
-  </programme>
-  <programme start="20200507013000 -0400" stop="20200507040000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #3</sub-title>
-    <desc lang="en">Le 10 avril 1982, demi-finales de divisions, match #3. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507040000 -0400" stop="20200507050000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507050000 -0400" stop="20200507053000 -0400" channel="TVA Sports 2">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 105</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507053000 -0400" stop="20200507060000 -0400" channel="TVA Sports 2">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">Rémi</sub-title>
-    <desc lang="en">Daniel vous présente ce club de golf de la Mauricie, Le golf St-Rémi. Il jouera une normale 4 avec Yvan Pedneault le directeur du club. Les membres sont très fiers de leur club et ils vous le feront sentir.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.7.</episode-num>
-  </programme>
-  <programme start="20200507060000 -0400" stop="20200507070000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 07 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507070000 -0400" stop="20200507080000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507080000 -0400" stop="20200507083000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 103</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507083000 -0400" stop="20200507090000 -0400" channel="TVA Sports 2">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">9 grands jeux au marbre</sub-title>
-    <desc lang="en">9 grands jeux au marbre.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507090000 -0400" stop="20200507113000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #3</sub-title>
-    <desc lang="en">Le 10 avril 1982, demi-finales de divisions, match #3. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507113000 -0400" stop="20200507120000 -0400" channel="TVA Sports 2">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 112</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-  </programme>
-  <programme start="20200507120000 -0400" stop="20200507123000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 106</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507123000 -0400" stop="20200507130000 -0400" channel="TVA Sports 2">
-    <title lang="en">Alexis le randonneur</title>
-    <sub-title lang="en">Épisode 101</sub-title>
-    <desc lang="en">Alexis Le randonneur va, lors d'escapade en sentier, à la découverte des plus belles montagnes du Québec et de ses environs. Il propose aussi des trucs et conseils pour vous permettre de vivre des randonnées exceptionnelles.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507130000 -0400" stop="20200507133000 -0400" channel="TVA Sports 2">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507133000 -0400" stop="20200507140000 -0400" channel="TVA Sports 2">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 105</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507140000 -0400" stop="20200507150000 -0400" channel="TVA Sports 2">
-    <title lang="en">Red Bull Cliff Diving</title>
-    <sub-title lang="en">Épisode 803</sub-title>
-    <desc lang="en">Les meilleurs plongeurs au monde se livrent une chaude compétition dans des endroits à couper le souffle, un peu partout dans le monde.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507150000 -0400" stop="20200507170000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Klitschko vs. Chisora</sub-title>
-    <desc lang="en">Carte principale : Vitali Klitschko vs. Derek Chisora En direct de Munich, Vitali Klitschko défendra sa ceinture de champion de la WBC chez les poids lourds en faisant face à son opposant, Derek Chisora.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507170000 -0400" stop="20200507180000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 07 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507180000 -0400" stop="20200507190000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 07 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507190000 -0400" stop="20200507213000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #4</sub-title>
-    <desc lang="en">Le 11 avril 1982, demi-finales de divisions, match #4. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507213000 -0400" stop="20200507223000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507223000 -0400" stop="20200507233000 -0400" channel="TVA Sports 2">
-    <title lang="en">Lutte WWE Raw</title>
-    <sub-title lang="en">Épisode 1406</sub-title>
-    <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507233000 -0400" stop="20200508010000 -0400" channel="TVA Sports 2">
-    <title lang="en">Ninja Warrior: Le parcours ultime</title>
-    <sub-title lang="en">209)</sub-title>
-    <desc lang="en">Les 30 meilleurs concurrents des qualifications de Miami s'affrontent. Un parcours encore plus extrême les attend avec, entre autres, le nouvel obstacle Les folles horloges.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Jeu</category>
-    <episode-num system="xmltv_ns">9.8.</episode-num>
-  </programme>
-  <programme start="20200508010000 -0400" stop="20200508033000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #4</sub-title>
-    <desc lang="en">Le 11 avril 1982, demi-finales de divisions, match #4. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508033000 -0400" stop="20200508043000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508043000 -0400" stop="20200508050000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Vétérans</sub-title>
-    <desc lang="en">Thème: Vétérans.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508050000 -0400" stop="20200508053000 -0400" channel="TVA Sports 2">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 104</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508053000 -0400" stop="20200508060000 -0400" channel="TVA Sports 2">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">Club de golf Le Sélect</sub-title>
-    <desc lang="en">Daniel découvre les nouveautés du club de golf Le sélect de Mirabel. Une belle rencontre avec deux frères golfeurs et passionnés. On discute avec le golfeur de 22 ans Hugo Bernard et Jérôme nous parle de temps de jeu.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">5.7.</episode-num>
-  </programme>
-  <programme start="20200508060000 -0400" stop="20200508070000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 08 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508070000 -0400" stop="20200508080000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508080000 -0400" stop="20200508083000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 106</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508083000 -0400" stop="20200508090000 -0400" channel="TVA Sports 2">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">9 grands attrapés en saison régulière</sub-title>
-    <desc lang="en">9 grands attrapés en saison régulière.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508090000 -0400" stop="20200508113000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #4</sub-title>
-    <desc lang="en">Le 11 avril 1982, demi-finales de divisions, match #4. Du Colisée de Québec, les Canadiens de Montréal contre les Nordiques de Québec.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508113000 -0400" stop="20200508120000 -0400" channel="TVA Sports 2">
-    <title lang="en">Roadfish</title>
-    <sub-title lang="en">Épisode 303</sub-title>
-    <desc lang="en">L'animateur Daniel Gagné et son équipe parcourent les flots vers des escapades de pêche HD.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.2.</episode-num>
-  </programme>
-  <programme start="20200508120000 -0400" stop="20200508123000 -0400" channel="TVA Sports 2">
-    <title lang="en">Wildcats: pêche à la mouche</title>
-    <sub-title lang="en">Cuba</sub-title>
-    <desc lang="en">Cette semaine David et Jérôme partent à l'aventure dans les eaux salées de Cuba, plus précisément à l'Île de la jeunesse à bord du Avalon Fleet 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508123000 -0400" stop="20200508130000 -0400" channel="TVA Sports 2">
-    <title lang="en">QVO (Québec à vol d'oiseau)</title>
-    <sub-title lang="en">Chasse du cerf rouge au Domaine du Wapiti</sub-title>
-    <desc lang="en">Cette semaine, l'équipe de QVO accepte l'invitation de Simon Tanguay, propriétaire du Domaine du Wapiti, et découvre une réserve québécoise habitée par de grands gibiers exotiques.(n)</desc>
-    <date>2010</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">4.5.</episode-num>
-  </programme>
-  <programme start="20200508130000 -0400" stop="20200508133000 -0400" channel="TVA Sports 2">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">La romana</sub-title>
-    <desc lang="en">Nous poursuivons notre visite des plus beaux parcours de la République Dominicaine avec le tout nouveau La Romana. Concept du groupe Maverick, ce parcours propose quatre trous en bordure de mer.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.2.</episode-num>
-  </programme>
-  <programme start="20200508133000 -0400" stop="20200508140000 -0400" channel="TVA Sports 2">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508140000 -0400" stop="20200508150000 -0400" channel="TVA Sports 2">
-    <title lang="en">Red Bull Cliff Diving</title>
-    <sub-title lang="en">Épisode 804</sub-title>
-    <desc lang="en">Les meilleurs plongeurs au monde se livrent une chaude compétition dans des endroits à couper le souffle, un peu partout dans le monde.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508150000 -0400" stop="20200508170000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Didier Bence c. Jonte Willis</sub-title>
-    <desc lang="en">Didier Bence c. Jonte Willis.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508170000 -0400" stop="20200508180000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 08 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508180000 -0400" stop="20200508190000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 08 MAI 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508190000 -0400" stop="20200508210000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Lemieux et Alcine</sub-title>
-    <desc lang="en">Jean-Charles Lajoie et Michel Bilodeau commentent des combats fort enlevants. David Lemieux vs Elvin Ayala . Joachim Alcine vs Christophe Canclaux (5 décembre 2009 au Casino de Montréal).(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508210000 -0400" stop="20200508230000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">David Lemieux c. Hassan N'Dam</sub-title>
-    <desc lang="en">Présentation du combat entre David Lemieux et Hassan N'Dam.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503000000 -0400" stop="20200503003000 -0400" channel="RDS">
-    <title lang="en">Le sport en crise</title>
-    <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503003000 -0400" stop="20200503033000 -0400" channel="RDS">
-    <title lang="en">PGA: Championnat Wells Fargo</title>
-    <sub-title lang="en">Dernière ronde 2019</sub-title>
-    <desc lang="en">De Charlotte, en Caroline du Nord, dernière ronde du championnat Wells Fargo 2019 de la PGA.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503033000 -0400" stop="20200503035000 -0400" channel="RDS">
-    <title lang="en">Sur la ligne de départ</title>
-    <desc lang="en">Un avant-goût du prochain Grand Prix de Formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503035000 -0400" stop="20200503060000 -0400" channel="RDS">
-    <title lang="en">Grand Prix d'Azerbaïdjan</title>
-    <sub-title lang="en">Course 2019</sub-title>
-    <desc lang="en">Du circuit urbain de Bakou, le Grand Prix d'Azerbaïdjan 2019 de formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503060000 -0400" stop="20200503063000 -0400" channel="RDS">
-    <title lang="en">Passion Autos</title>
-    <desc lang="en">Magazine automobile.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503063000 -0400" stop="20200503070000 -0400" channel="RDS">
-    <title lang="en">Le show de moto</title>
-    <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503070000 -0400" stop="20200503090000 -0400" channel="RDS">
-    <title lang="en">Tennis de l'ATP</title>
-    <sub-title lang="en">1er tour</sub-title>
-    <desc lang="en">Mutua de Madrid 2019: Shapovalov c. Auger-Aliassime - 1er tour.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503090000 -0400" stop="20200503120000 -0400" channel="RDS">
-    <title lang="en">PGA: Championnat Wells Fargo</title>
-    <sub-title lang="en">Dernière ronde 2019</sub-title>
-    <desc lang="en">De Charlotte, en Caroline du Nord, dernière ronde du championnat Wells Fargo 2019 de la PGA.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503120000 -0400" stop="20200503133000 -0400" channel="RDS">
-    <title lang="en">Championnat FIA de Formule E</title>
-    <sub-title lang="en">Monaco (Monte Carlo)</sub-title>
-    <desc lang="en">De Monaco.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503133000 -0400" stop="20200503135000 -0400" channel="RDS">
-    <title lang="en">Sur la ligne de départ</title>
-    <desc lang="en">Un avant-goût du prochain Grand Prix de Formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503135000 -0400" stop="20200503160000 -0400" channel="RDS">
-    <title lang="en">Grand Prix d'Azerbaïdjan</title>
-    <sub-title lang="en">Course 2019</sub-title>
-    <desc lang="en">Du circuit urbain de Bakou, le Grand Prix d'Azerbaïdjan 2019 de formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503160000 -0400" stop="20200503163000 -0400" channel="RDS">
-    <title lang="en">Magazine Golf: Au 19e</title>
-    <desc lang="en">Les dessous de l'industrie du golf via des entrevues, des chroniques conseils et la visite de parcours de golf du Québec.(n)</desc>
-    <date>2012</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503163000 -0400" stop="20200503173000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503173000 -0400" stop="20200503183000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503183000 -0400" stop="20200503190000 -0400" channel="RDS">
-    <title lang="en">Mes souvenirs sportifs</title>
-    <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503190000 -0400" stop="20200503210000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">6e match</sub-title>
-    <desc lang="en">Les Séries éliminatoires 2002: Bruins c. Canadiens - 6e match.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503210000 -0400" stop="20200503213000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503213000 -0400" stop="20200503220000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503220000 -0400" stop="20200503230000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200503230000 -0400" stop="20200503233000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Nouvelle donne</sub-title>
-    <desc lang="en">En affrontant un vieil ennemi, Spencer met en jeu sa réputation et celle de sa compagnie. À la veille de son 30e anniversaire, le repentant Ricky reçoit de mauvaises nouvelles.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
-  </programme>
-  <programme start="20200503233000 -0400" stop="20200504000000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Dans le temple du foot</sub-title>
-    <desc lang="en">Tandis qu'il magouille afin d'arracher un gros client à son rival Andre, Spencer cherche un remède à ses maux divers. Ricky envisage l'avenir avec appréhension. Reggie se bat pour obtenir de Vernon ce qu'il croit être son dû.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
-  </programme>
-  <programme start="20200504000000 -0400" stop="20200504003000 -0400" channel="RDS">
-    <title lang="en">Le sport en crise</title>
-    <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504003000 -0400" stop="20200504033000 -0400" channel="RDS">
-    <title lang="en">PGA: Championnat Wells Fargo</title>
-    <sub-title lang="en">Dernière ronde 2019</sub-title>
-    <desc lang="en">De Charlotte, en Caroline du Nord, dernière ronde du championnat Wells Fargo 2019 de la PGA.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504033000 -0400" stop="20200504035000 -0400" channel="RDS">
-    <title lang="en">Sur la ligne de départ</title>
-    <desc lang="en">Un avant-goût du prochain Grand Prix de Formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504035000 -0400" stop="20200504060000 -0400" channel="RDS">
-    <title lang="en">Grand Prix d'Azerbaïdjan</title>
-    <sub-title lang="en">Course 2019</sub-title>
-    <desc lang="en">Du circuit urbain de Bakou, le Grand Prix d'Azerbaïdjan 2019 de formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504060000 -0400" stop="20200504063000 -0400" channel="RDS">
-    <title lang="en">Passion Autos</title>
-    <desc lang="en">Magazine automobile.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504063000 -0400" stop="20200504070000 -0400" channel="RDS">
-    <title lang="en">Le show de moto</title>
-    <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504070000 -0400" stop="20200504090000 -0400" channel="RDS">
-    <title lang="en">Tennis de l'ATP</title>
-    <sub-title lang="en">1er tour</sub-title>
-    <desc lang="en">Mutua de Madrid 2019: Shapovalov c. Auger-Aliassime - 1er tour.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504090000 -0400" stop="20200504120000 -0400" channel="RDS">
-    <title lang="en">PGA: Championnat Wells Fargo</title>
-    <sub-title lang="en">Dernière ronde 2019</sub-title>
-    <desc lang="en">De Charlotte, en Caroline du Nord, dernière ronde du championnat Wells Fargo 2019 de la PGA.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504120000 -0400" stop="20200504133000 -0400" channel="RDS">
-    <title lang="en">Championnat FIA de Formule E</title>
-    <sub-title lang="en">Monaco (Monte Carlo)</sub-title>
-    <desc lang="en">De Monaco.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504133000 -0400" stop="20200504135000 -0400" channel="RDS">
-    <title lang="en">Sur la ligne de départ</title>
-    <desc lang="en">Un avant-goût du prochain Grand Prix de Formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200504135000 -0400" stop="20200504160000 -0400" channel="RDS">
-    <title lang="en">Grand Prix d'Azerbaïdjan</title>
-    <sub-title lang="en">Course 2019</sub-title>
-    <desc lang="en">Du circuit urbain de Bakou, le Grand Prix d'Azerbaïdjan 2019 de formule 1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
   <programme start="20200504160000 -0400" stop="20200504163000 -0400" channel="RDS">
     <title lang="en">Magazine Golf: Au 19e</title>
     <desc lang="en">Les dessous de l'industrie du golf via des entrevues, des chroniques conseils et la visite de parcours de golf du Québec.(n)</desc>
@@ -2194,787 +109,398 @@
     <category lang="en">Dramatique</category>
     <episode-num system="xmltv_ns">1.1.</episode-num>
   </programme>
-  <programme start="20200505000000 -0400" stop="20200505003000 -0400" channel="RDS">
-    <title lang="en">Magazine Golf: Au 19e</title>
-    <desc lang="en">Les dessous de l'industrie du golf via des entrevues, des chroniques conseils et la visite de parcours de golf du Québec.(n)</desc>
-    <date>2012</date>
-    <category lang="en">Sport</category>
+  <programme start="20200504160000 -0400" stop="20200504161500 -0400" channel="TOONF">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Les aventures d'un gamin de 10 ans appelé Ben qui a le pouvoir de se transformer en 10 héros différents.(n)</desc>
+    <category lang="en">Enfants</category>
   </programme>
-  <programme start="20200505003000 -0400" stop="20200505013000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
+  <programme start="20200504161500 -0400" stop="20200504163000 -0400" channel="TOONF">
+    <title lang="en">Ben 10</title>
+    <desc lang="en">Les aventures d'un gamin de 10 ans appelé Ben qui a le pouvoir de se transformer en 10 héros différents.(n)</desc>
+    <category lang="en">Enfants</category>
   </programme>
-  <programme start="20200505013000 -0400" stop="20200505023000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
+  <programme start="20200504163000 -0400" stop="20200504170000 -0400" channel="TOONF">
+    <title lang="en">Lego Ninjago</title>
+    <sub-title lang="en">Comment construire un dragon</sub-title>
+    <desc lang="en">Tandis que Lloyd et les rebelles célèbrent leur victoire sur l'Empereur Garmadon, au Royaume des Onis et des Dragons, les ninjas tentent d'échapper aux griffes de Iron Baron et de ses chasseurs.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">8.3.</episode-num>
   </programme>
-  <programme start="20200505023000 -0400" stop="20200505030000 -0400" channel="RDS">
-    <title lang="en">Mes souvenirs sportifs</title>
-    <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+  <programme start="20200504170000 -0400" stop="20200504173000 -0400" channel="TOONF">
+    <title lang="en">Lego Ninjago</title>
+    <sub-title lang="en">Le chemin doré</sub-title>
+    <desc lang="en">Le repaire de la Résistance est pris d'assaut et Lloyd s'échappe avec Nya et Darreth. Prendant ce temps, les ninjas sont rattrapés par Heavy Metal, mais trouvent en ce chasseur un allié inattendu.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">8.4.</episode-num>
   </programme>
-  <programme start="20200505030000 -0400" stop="20200505033000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Nouvelle donne</sub-title>
-    <desc lang="en">En affrontant un vieil ennemi, Spencer met en jeu sa réputation et celle de sa compagnie. À la veille de son 30e anniversaire, le repentant Ricky reçoit de mauvaises nouvelles.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.0.</episode-num>
+  <programme start="20200504173000 -0400" stop="20200504174500 -0400" channel="TOONF">
+    <title lang="en">Unikitty!</title>
+    <sub-title lang="en">Unikitty</sub-title>
+    <desc lang="en">Les histoires amusantes et colorées d'Unikitty.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20200505033000 -0400" stop="20200505040000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Dans le temple du foot</sub-title>
-    <desc lang="en">Tandis qu'il magouille afin d'arracher un gros client à son rival Andre, Spencer cherche un remède à ses maux divers. Ricky envisage l'avenir avec appréhension. Reggie se bat pour obtenir de Vernon ce qu'il croit être son dû.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.1.</episode-num>
+  <programme start="20200504174500 -0400" stop="20200504180000 -0400" channel="TOONF">
+    <title lang="en">Unikitty!</title>
+    <sub-title lang="en">Unikitty</sub-title>
+    <desc lang="en">Les histoires amusantes et colorées d'Unikitty.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Animation</category>
   </programme>
-  <programme start="20200505040000 -0400" stop="20200505060000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">6e match</sub-title>
-    <desc lang="en">Les Séries éliminatoires 2002: Bruins c. Canadiens - 6e match.(n)</desc>
-    <category lang="en">Sport</category>
+  <programme start="20200504180000 -0400" stop="20200504183000 -0400" channel="TOONF">
+    <title lang="en">Les Simpson</title>
+    <sub-title lang="en">Unité meuf</sub-title>
+    <desc lang="en">Marge est arrêtée pour avoir laissé Bart jouer sans surveillance au parc. Envoyée en prison, elle se rend compte que son incarcération lui offre un répit de sa vie de mère et d'épouse. En son absence, Homer tente de gérer toutes les tâches.(n)</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">26.21.</episode-num>
   </programme>
-  <programme start="20200505060000 -0400" stop="20200505063000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
+  <programme start="20200504183000 -0400" stop="20200504190000 -0400" channel="TOONF">
+    <title lang="en">Les Simpson</title>
+    <sub-title lang="en">Revue cochonne</sub-title>
+    <desc lang="en">À la demande des Simpson, M. Burns accepte de financer la reconstruction de la ville, qui a été incendiée, à la condition de pouvoir présenter un spectacle de variétés au Springfield Bowl.(n)</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">27.0.</episode-num>
   </programme>
-  <programme start="20200505063000 -0400" stop="20200505070000 -0400" channel="RDS">
-    <title lang="en">30 images/seconde</title>
-    <desc lang="en">Anim.: Yvan Ponton. Les jeux les plus spectaculaires dans le monde du sport.(n)</desc>
-    <date>2005</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505070000 -0400" stop="20200505080000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505080000 -0400" stop="20200505083000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505083000 -0400" stop="20200505090000 -0400" channel="RDS">
-    <title lang="en">Magazine Golf: Au 19e</title>
-    <desc lang="en">Les dessous de l'industrie du golf via des entrevues, des chroniques conseils et la visite de parcours de golf du Québec.(n)</desc>
-    <date>2012</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505090000 -0400" stop="20200505100000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505100000 -0400" stop="20200505103000 -0400" channel="RDS">
-    <title lang="en">Mes souvenirs sportifs</title>
-    <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505103000 -0400" stop="20200505110000 -0400" channel="RDS">
-    <title lang="en">La vie après</title>
-    <sub-title lang="en">Steve Bégin</sub-title>
-    <desc lang="en">Steve Bégin, le valeureux guerrier du Canadien est maintenant entraîneur adjoint pour les Voltigeurs de Drummondville et actionnaire dans une compagnie. Daniel Savoie découvre que Steve Bégin est un passionné.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505110000 -0400" stop="20200505130000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">6e match</sub-title>
-    <desc lang="en">Les Séries éliminatoires 2002: Bruins c. Canadiens - 6e match.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505130000 -0400" stop="20200505133000 -0400" channel="RDS">
-    <title lang="en">30 images/seconde</title>
-    <desc lang="en">Anim.: Yvan Ponton. Les jeux les plus spectaculaires dans le monde du sport.(n)</desc>
-    <date>2005</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505133000 -0400" stop="20200505140000 -0400" channel="RDS">
-    <title lang="en">Le sport en toute liberté</title>
-    <sub-title lang="en">Saison 2018</sub-title>
-    <desc lang="en">La saison 2018.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505140000 -0400" stop="20200505160000 -0400" channel="RDS">
-    <title lang="en">Gymnastique artistique</title>
-    <sub-title lang="en">Championnat NCAA</sub-title>
-    <desc lang="en">Le Championnat NCAA.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505160000 -0400" stop="20200505163000 -0400" channel="RDS">
-    <title lang="en">RDS 25 ans d'émotions</title>
-    <sub-title lang="en">Birdie</sub-title>
-    <desc lang="en">L'histoire de Serge Vleminckx qui a été la voie du mini-putt au Québec.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505163000 -0400" stop="20200505173000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505173000 -0400" stop="20200505183000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505183000 -0400" stop="20200505190000 -0400" channel="RDS">
-    <title lang="en">Max &amp; Bruno</title>
-    <desc lang="en">Maxime Talbot et Bruno Gervais partagent leur expérience et leurs connaissances avec les amateurs en discutant des sujets chauds dans le monde du hockey.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505190000 -0400" stop="20200505213000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">7e match</sub-title>
-    <desc lang="en">Les Séries éliminatoires 2004: Bruins c. Canadiens - 7e match.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505213000 -0400" stop="20200505220000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505220000 -0400" stop="20200505230000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200505230000 -0400" stop="20200505233000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Elidee</sub-title>
-    <desc lang="en">Spencer conseille à Vernon de garder le silence au sujet de la cause de sa blessure. Alors qu'ils doivent parer les coups portés par Andre, Spencer et Joe se creusent la tête pour trouver la meilleure solution au problème d'un client.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-  </programme>
-  <programme start="20200505233000 -0400" stop="20200506000000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Un monde de douleurs</sub-title>
-    <desc lang="en">Spencer et Joe tentent de découvrir la faiblesse d'André. Vernon attend avec impatience des nouvelles. Jason courtise un client. Ricky tente de comprendre son père.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-  </programme>
-  <programme start="20200506000000 -0400" stop="20200506003000 -0400" channel="RDS">
-    <title lang="en">RDS 25 ans d'émotions</title>
-    <sub-title lang="en">Birdie</sub-title>
-    <desc lang="en">L'histoire de Serge Vleminckx qui a été la voie du mini-putt au Québec.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506003000 -0400" stop="20200506013000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506013000 -0400" stop="20200506023000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506023000 -0400" stop="20200506030000 -0400" channel="RDS">
-    <title lang="en">Max &amp; Bruno</title>
-    <desc lang="en">Maxime Talbot et Bruno Gervais partagent leur expérience et leurs connaissances avec les amateurs en discutant des sujets chauds dans le monde du hockey.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506030000 -0400" stop="20200506033000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Elidee</sub-title>
-    <desc lang="en">Spencer conseille à Vernon de garder le silence au sujet de la cause de sa blessure. Alors qu'ils doivent parer les coups portés par Andre, Spencer et Joe se creusent la tête pour trouver la meilleure solution au problème d'un client.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.2.</episode-num>
-  </programme>
-  <programme start="20200506033000 -0400" stop="20200506040000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Un monde de douleurs</sub-title>
-    <desc lang="en">Spencer et Joe tentent de découvrir la faiblesse d'André. Vernon attend avec impatience des nouvelles. Jason courtise un client. Ricky tente de comprendre son père.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.3.</episode-num>
-  </programme>
-  <programme start="20200506040000 -0400" stop="20200506063000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">7e match</sub-title>
-    <desc lang="en">Les Séries éliminatoires 2004: Bruins c. Canadiens - 7e match.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506063000 -0400" stop="20200506070000 -0400" channel="RDS">
-    <title lang="en">Mes souvenirs sportifs</title>
-    <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506070000 -0400" stop="20200506080000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506080000 -0400" stop="20200506083000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506083000 -0400" stop="20200506090000 -0400" channel="RDS">
-    <title lang="en">Passion Autos</title>
-    <desc lang="en">Magazine automobile.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506090000 -0400" stop="20200506100000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506100000 -0400" stop="20200506103000 -0400" channel="RDS">
-    <title lang="en">RDS 25 ans d'émotions</title>
-    <sub-title lang="en">Birdie</sub-title>
-    <desc lang="en">L'histoire de Serge Vleminckx qui a été la voie du mini-putt au Québec.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506103000 -0400" stop="20200506110000 -0400" channel="RDS">
-    <title lang="en">Max &amp; Bruno</title>
-    <desc lang="en">Maxime Talbot et Bruno Gervais partagent leur expérience et leurs connaissances avec les amateurs en discutant des sujets chauds dans le monde du hockey.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506110000 -0400" stop="20200506133000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">7e match</sub-title>
-    <desc lang="en">Les Séries éliminatoires 2004: Bruins c. Canadiens - 7e match.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506133000 -0400" stop="20200506140000 -0400" channel="RDS">
-    <title lang="en">Hockey Le Magazine</title>
-    <desc lang="en">Magazine sur le hockey de la LNH.(n)</desc>
-    <date>2015</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506140000 -0400" stop="20200506150000 -0400" channel="RDS">
-    <title lang="en">Trajectoires</title>
-    <sub-title lang="en">François Beauchemin</sub-title>
-    <desc lang="en">Le parcours de l'ancien joueur de hockey François Beauchemin.(n)</desc>
+  <programme start="20200504190000 -0400" stop="20200504193000 -0400" channel="TOONF">
+    <title lang="en">Teen Titans Go!</title>
+    <sub-title lang="en">Teen Titans Go</sub-title>
+    <desc lang="en">Suivez les mésaventures rigolotes qui se déroulent entre les missions pour sauver le monde et la vie commune des Teen Titans.(n)</desc>
     <date>2013</date>
-    <category lang="en">Sport</category>
+    <category lang="en">Enfants</category>
   </programme>
-  <programme start="20200506150000 -0400" stop="20200506153000 -0400" channel="RDS">
-    <title lang="en">La vie après</title>
-    <sub-title lang="en">Steve Bégin</sub-title>
-    <desc lang="en">Steve Bégin, le valeureux guerrier du Canadien est maintenant entraîneur adjoint pour les Voltigeurs de Drummondville et actionnaire dans une compagnie. Daniel Savoie découvre que Steve Bégin est un passionné.(n)</desc>
+  <programme start="20200504193000 -0400" stop="20200504200000 -0400" channel="TOONF">
+    <title lang="en">Cupcake et Dino: Services en tout genre</title>
+    <desc lang="en">Les frères Cupcake et Dino veulent réussir dans le secteur super-concurrentiel des services en tout genre.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20200504200000 -0400" stop="20200504203000 -0400" channel="TOONF">
+    <title lang="en">Batman, la série animée</title>
+    <desc lang="en">Les aventures enlevantes du millionnaire Bruce Wayne qui se métamorphose en Batman pour lutter contre le crime et la corruption.(n)</desc>
+    <category lang="en">Enfants</category>
+  </programme>
+  <programme start="20200504203000 -0400" stop="20200504210000 -0400" channel="TOONF">
+    <title lang="en">American Dad!</title>
+    <sub-title lang="en">Chasse à l'Homme</sub-title>
+    <desc lang="en">Stan tombe par hasard sur son ancienne flamme du camp d'entraînement de la CIA et voit son attirance pour elle renaître, ce qui ne manque pas de rendre Francine folle de jalousie. Francine implique Roger dans son plan de vengeance.(n)</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">6.5.</episode-num>
+  </programme>
+  <programme start="20200504210000 -0400" stop="20200504213000 -0400" channel="TOONF">
+    <title lang="en">Les Simpson</title>
+    <sub-title lang="en">rtuelle de famille</sub-title>
+    <desc lang="en">M. Burns recrute les Simpson pour qu'ils personnifient sa famille virtuelle, mais il exclut Homer afin de pouvoir être le père. Maintenant seul, Homer se fait une nouvelle amie: Julia, la fille d'à-côté qui mange, boit et pense comme lui.(n)</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">27.1.</episode-num>
+  </programme>
+  <programme start="20200504213000 -0400" stop="20200504220000 -0400" channel="TOONF">
+    <title lang="en">Les Simpson</title>
+    <sub-title lang="en">Boston, crime, bye</sub-title>
+    <desc lang="en">Après avoir vu Bart encourager l'équipe de football rivale de Springfield, les Boston Americans, Homer entraîne la famille à Boston pour montrer à Bart les côtés horribles de cette ville.(n)</desc>
+    <credits>
+      <actor>Bill Burr (Townie)</actor>
+      <actor>Dana Gould (Murphy)</actor>
+      <actor>Doris Kearns Goodwin (Dans son propre rôle)</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">27.2.</episode-num>
+  </programme>
+  <programme start="20200504220000 -0400" stop="20200504223000 -0400" channel="TOONF">
+    <title lang="en">Family Guy</title>
+    <desc lang="en">Les aventures d'une famille d'excentriques vivant au Rhode Island.(n)</desc>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20200504223000 -0400" stop="20200504230000 -0400" channel="TOONF">
+    <title lang="en">Family Guy</title>
+    <sub-title lang="en">À la découverte de Family Guy</sub-title>
+    <desc lang="en">James Woods guide les téléspectateurs dans un épisode qui montre comment est réalisée la série Family Guy.(n)</desc>
+    <credits>
+      <actor>Gary Newman (Dans son propre rôle)</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">14.3.</episode-num>
+  </programme>
+  <programme start="20200504230000 -0400" stop="20200504233000 -0400" channel="TOONF">
+    <title lang="en">Les Simpson</title>
+    <sub-title lang="en">rtuelle de famille</sub-title>
+    <desc lang="en">M. Burns recrute les Simpson pour qu'ils personnifient sa famille virtuelle, mais il exclut Homer afin de pouvoir être le père. Maintenant seul, Homer se fait une nouvelle amie: Julia, la fille d'à-côté qui mange, boit et pense comme lui.(n)</desc>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">27.1.</episode-num>
+  </programme>
+  <programme start="20200504233000 -0400" stop="20200505000000 -0400" channel="TOONF">
+    <title lang="en">Les Simpson</title>
+    <sub-title lang="en">Boston, crime, bye</sub-title>
+    <desc lang="en">Après avoir vu Bart encourager l'équipe de football rivale de Springfield, les Boston Americans, Homer entraîne la famille à Boston pour montrer à Bart les côtés horribles de cette ville.(n)</desc>
+    <credits>
+      <actor>Bill Burr (Townie)</actor>
+      <actor>Dana Gould (Murphy)</actor>
+      <actor>Doris Kearns Goodwin (Dans son propre rôle)</actor>
+    </credits>
+    <category lang="en">Animation</category>
+    <episode-num system="xmltv_ns">27.2.</episode-num>
+  </programme>
+  <programme start="20200504160000 -0400" stop="20200504170000 -0400" channel="Canal Vie">
+    <title lang="en">Méchantes belles</title>
+    <sub-title lang="en">Saison 2 Épisode 3</sub-title>
+    <desc lang="en">Le père célibataire Dennis Yaklich épouse une belle femme nommée Donna. Mais celle-ci commence bientôt à lui voler de l'argent et à tourmenter ses enfants.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Information</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+  </programme>
+  <programme start="20200504170000 -0400" stop="20200504173000 -0400" channel="Canal Vie">
+    <title lang="en">Pas le choix de rénover: les coulisses</title>
+    <sub-title lang="en">La maison des Sandvall</sub-title>
+    <desc lang="en">Joanna et son équipe s'attaquent à la maison des Sandvall, une demeure bâtie dans les années 1980 qui manque de charme. Ils la transforment en un endroit traditionnel avec suffisamment d'espace pour cette famille de cinq.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Téléréalité</category>
+  </programme>
+  <programme start="20200504173000 -0400" stop="20200504180000 -0400" channel="Canal Vie">
+    <title lang="en">Pas le choix de rénover: les coulisses</title>
+    <sub-title lang="en">La maison des McCall</sub-title>
+    <desc lang="en">Joanna transforme la maison de sa soeur, de son beau-frère et de leurs cinq enfants. Dans son décor, elle mélange des éléments rétro à des objets plus modernes.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Téléréalité</category>
+  </programme>
+  <programme start="20200504180000 -0400" stop="20200504190000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover?</title>
+    <sub-title lang="en">Sharlene et David</sub-title>
+    <desc lang="en">La nouvelle mariée Sharlene adore son mari, mais pas sa maison! David a une demeure avec une vieille cuisine délabrée et une salle de bains hideuse, ce qui la rend folle.(n)</desc>
+    <category lang="en">Téléréalité</category>
+  </programme>
+  <programme start="20200504190000 -0400" stop="20200504193000 -0400" channel="Canal Vie">
+    <title lang="en">C'est quoi ton plan?</title>
+    <sub-title lang="en">L'espace apéro d'Anne et Nicolas</sub-title>
+    <desc lang="en">Puisque le rez-de-chaussée d'Anne et Nicolas est à aire ouverte et que l'espace est en longueur, il est difficile d'imaginer comment créer une délimitation entre la salle à manger et le salon.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Téléréalité</category>
+    <episode-num system="xmltv_ns">3.16.</episode-num>
+  </programme>
+  <programme start="20200504193000 -0400" stop="20200504200000 -0400" channel="Canal Vie">
+    <title lang="en">Les gratteux</title>
+    <sub-title lang="en">Saison 2 Épisode 10</sub-title>
+    <desc lang="en">Gildor rencontre une gratteuse qui prouve que le souci de l'environnement n'est pas juste bon pour la planète, mais aussi pour le portefeuille.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Information</category>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+  </programme>
+  <programme start="20200504200000 -0400" stop="20200504210000 -0400" channel="Canal Vie">
+    <title lang="en">La famille Groulx</title>
+    <sub-title lang="en">La famille Groulx en confinement : Ça va bien aller</sub-title>
+    <desc lang="en">Le Québec vit présentement une situation exceptionnelle en raison de la pandémie de la COVID-19. La famille Groulx a accepté de se filmer elle-même pour montrer les hauts et les bas de leur confinement.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Téléréalité</category>
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+  </programme>
+  <programme start="20200504210000 -0400" stop="20200504220000 -0400" channel="Canal Vie">
+    <title lang="en">Le pro des pieds</title>
+    <sub-title lang="en">L'ongle zombie</sub-title>
+    <desc lang="en">Un nageur olympique fait appel au Pro des pieds pour se débarrasser d'une infection fongique. Après 25 ans, une femme consulte enfin pour venir à bout de son orteil rebelle.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Information</category>
+  </programme>
+  <programme start="20200504220000 -0400" stop="20200504230000 -0400" channel="Canal Vie">
+    <title lang="en">Animaux VIP</title>
+    <sub-title lang="en">Chalet pour chien</sub-title>
+    <desc lang="en">Une famille a besoin d'aide pour rendre son chalet de montagne sécuritaire pour Chickie, un chien âgé aveugle. Antonio et son équipe construisent une salle de séjour pour chien d'inspiration japonaise pour stimuler les autres sens de Chickie.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Téléréalité</category>
+  </programme>
+  <programme start="20200504230000 -0400" stop="20200505000000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover?</title>
+    <sub-title lang="en">Sharlene et David</sub-title>
+    <desc lang="en">La nouvelle mariée Sharlene adore son mari, mais pas sa maison! David a une demeure avec une vieille cuisine délabrée et une salle de bains hideuse, ce qui la rend folle.(n)</desc>
+    <category lang="en">Téléréalité</category>
+  </programme>
+  <programme start="20200504160000 -0400" stop="20200504165000 -0400" channel="Canal Savoir">
+    <title lang="en">Inventer le ciel</title>
+    <sub-title lang="en">1930</sub-title>
+    <desc lang="en">L'horizon définit l'identité des plus grandes métropoles du monde : chaque nouveau gratte-ciel qui s'élève apporte sa pierre à l'édifice de l'urbanisation.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Documentaire</category>
+  </programme>
+  <programme start="20200504165000 -0400" stop="20200504174000 -0400" channel="Canal Savoir">
+    <title lang="en">Inventer le ciel</title>
+    <sub-title lang="en">1972</sub-title>
+    <desc lang="en">La forme suit la fonction 1933-1972.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Documentaire</category>
+  </programme>
+  <programme start="20200504174000 -0400" stop="20200504183000 -0400" channel="Canal Savoir">
+    <title lang="en">Inventer le ciel</title>
+    <sub-title lang="en">1997</sub-title>
+    <desc lang="en">À New York, au début des années 70, l'économie est en pleine récession et le secteur industriel est au bord de l'effondrement : 500 000 emplois sont supprimés. La construction des tours jumelles marque une nouvelle étape dans la course au gigantisme.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Documentaire</category>
+  </programme>
+  <programme start="20200504183000 -0400" stop="20200504190000 -0400" channel="Canal Savoir">
+    <title lang="en">Archi branchés</title>
+    <sub-title lang="en">Un hôtel nouveau genre</sub-title>
+    <desc lang="en">Maxime-Alexis Frappier est derrière la conception de l'hôtel Monville, à Montréal. La création d'une « zone habitée » en plein coeur du centre-ville représentait pour l'architecte un défi des plus intéressants.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Documentaire</category>
+  </programme>
+  <programme start="20200504190000 -0400" stop="20200504191500 -0400" channel="Canal Savoir">
+    <title lang="en">La science de l'art</title>
+    <sub-title lang="en">L'architecture</sub-title>
+    <desc lang="en">Châteaux de sable ou tours de blocs, l'architecture fascine les tout-petits. Mais une construction solide se bâtit selon des principes scientifiques : gravité, pression, torsion.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Information</category>
+  </programme>
+  <programme start="20200504191500 -0400" stop="20200504193000 -0400" channel="Canal Savoir">
+    <title lang="en">L'histoire nous le dira</title>
+    <sub-title lang="en">Déchets</sub-title>
+    <desc lang="en">Depuis toujours, les humains font face au problème de la gestion des ordures. Ces dernières années, le mouvement Zéro déchet a même été lancé pour protéger l'environnement.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Documentaire</category>
+  </programme>
+  <programme start="20200504193000 -0400" stop="20200504200000 -0400" channel="Canal Savoir">
+    <title lang="en">La grande tournée</title>
+    <sub-title lang="en">Tracy/Vieux Montréal</sub-title>
+    <desc lang="en">Jérémie rencontre un professeur en bioécologie du Cégep de Saint-Laurent. Il se rend également au Cégep du Vieux Montréal, qui accueille des étudiants réfugiés. Au Cégep de Saint-Jérôme, Laïma prend connaissance du projet En action différemment.(n)</desc>
+    <category lang="en">Information</category>
+  </programme>
+  <programme start="20200504200000 -0400" stop="20200504203000 -0400" channel="Canal Savoir">
+    <title lang="en">Telle est la question</title>
+    <sub-title lang="en">Sécurité informatique</sub-title>
+    <desc lang="en">Qu'est-ce qu'on retrouve sur le dark web? Comment je peux faire pour protéger mes données sur internet? Si on utilise des objets connectés, est-ce que ça veut dire qu'on est surveillé.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Documentaire</category>
+  </programme>
+  <programme start="20200504203000 -0400" stop="20200504210000 -0400" channel="Canal Savoir">
+    <title lang="en">Couple de nerds</title>
+    <sub-title lang="en">C'est quoi un gars, une fille</sub-title>
+    <desc lang="en">C'est quoi un gars, une fille.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Information</category>
+  </programme>
+  <programme start="20200504210000 -0400" stop="20200504213000 -0400" channel="Canal Savoir">
+    <title lang="en">Archi branchés</title>
+    <sub-title lang="en">Le Monastère des Augustines</sub-title>
+    <desc lang="en">Il fallait beaucoup d'audace pour reconvertir un bâtiment aussi important que le Monastère des Augustines. Celui-ci occupe les ailes anciennes d'un des premiers hôpitaux en Amérique.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Documentaire</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+  </programme>
+  <programme start="20200504213000 -0400" stop="20200504214300 -0400" channel="Canal Savoir">
+    <title lang="en">L'histoire nous le dira</title>
+    <sub-title lang="en">Végétarisme et véganisme</sub-title>
+    <desc lang="en">Pythagore était-il le premier vegan de l'histoire? Laurent Turcot reçoit Jean-Philippe Cyr de La cuisine de Jean-Philippe pour nous parler des origines des mouvements végétarien et vegan, de l'Antiquité à nos jours.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Documentaire</category>
+  </programme>
+  <programme start="20200504214300 -0400" stop="20200504215100 -0400" channel="Canal Savoir">
+    <title lang="en">Les recommandations des bibliothécaires</title>
+    <sub-title lang="en">Suggestions de lecture sur le véganisme</sub-title>
+    <desc lang="en">De plus en plus visible, le mode de vie végétalien veut éviter de faire souffrir tous les animaux non-humains. Le véganisme reste controversé, polarisant plusieurs personnes.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Information</category>
+  </programme>
+  <programme start="20200504215100 -0400" stop="20200504220000 -0400" channel="Canal Savoir">
+    <title lang="en">Décortiqué</title>
+    <sub-title lang="en">il une population idéale de Terriens</sub-title>
+    <desc lang="en">Face à la crise climatique et à l'épuisement des ressources, de nombreuses voix s'élèvent pour affirmer que nous sommes trop nombreux. Est-ce qu'il y a une population idéale de Terriens.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Information</category>
+  </programme>
+  <programme start="20200504220000 -0400" stop="20200504230000 -0400" channel="Canal Savoir">
+    <title lang="en">Ordinaire ou super</title>
+    <sub-title lang="en">Regards sur Mies van der Rohe</sub-title>
+    <desc lang="en">Regard sur l'oeuvre de l'architecte Mies van der Rohe.(n)</desc>
+    <date>2006</date>
+    <category lang="en">Information</category>
+  </programme>
+  <programme start="20200504230000 -0400" stop="20200504233000 -0400" channel="Canal Savoir">
+    <title lang="en">Archi branchés</title>
+    <sub-title lang="en">Un amphithéâtre au bord du fleuve</sub-title>
+    <desc lang="en">Dans le cadre des célébrations du 375e anniversaire de Trois-Rivières, le maire Yves Lévesque a annoncé son projet d'une nouvelle salle de spectacle. c'est l'architecte montréalais Paul Laurendeau qui a remporté le concours lancé par la ville.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Documentaire</category>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+  </programme>
+  <programme start="20200504233000 -0400" stop="20200504235800 -0400" channel="Canal Savoir">
+    <title lang="en">Du génie pour la planète</title>
+    <sub-title lang="en">Recycler nos déchets</sub-title>
+    <desc lang="en">Beaucoup de matières ne sont toujours pas recyclées et il y a encore de nombreux défis à relever dans la gestion des déchets, au Québec comme ailleurs.(n)</desc>
+    <date>2020</date>
+    <category lang="en">Information</category>
+  </programme>
+  <programme start="20200504235800 -0400" stop="20200505000000 -0400" channel="Canal Savoir">
+    <title lang="en">Profession ingénieur.e</title>
+    <sub-title lang="en">Céline Vaneeckhaute</sub-title>
+    <desc lang="en">Spécialisée en génie environnemental, Céline Vaneeckhaute s'intéresse aux procédés verts et aux bioraffineries. Passionnée par l'environnement et la nature, elle s'est tournée vers la bio-ingénierie pour faire quelque chose d'utile pour la société.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Information</category>
+  </programme>
+  <programme start="20200504170000 -0400" stop="20200504180000 -0400" channel="TVA Sports">
+    <title lang="en">JiC</title>
+    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
+    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506153000 -0400" stop="20200506160000 -0400" channel="RDS">
-    <title lang="en">Max &amp; Bruno</title>
-    <desc lang="en">Maxime Talbot et Bruno Gervais partagent leur expérience et leurs connaissances avec les amateurs en discutant des sujets chauds dans le monde du hockey.(n)</desc>
+  <programme start="20200504180000 -0400" stop="20200504190000 -0400" channel="TVA Sports">
+    <title lang="en">JiC</title>
+    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
+    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506160000 -0400" stop="20200506163000 -0400" channel="RDS">
-    <title lang="en">Mes souvenirs sportifs</title>
-    <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
+  <programme start="20200504190000 -0400" stop="20200504210000 -0400" channel="TVA Sports">
+    <title lang="en">Soirée vintage</title>
+    <sub-title lang="en">Match #1</sub-title>
+    <desc lang="en">Le 7 avril 1982, demi-finales de divisions, match #1. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506163000 -0400" stop="20200506173000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
+  <programme start="20200504210000 -0400" stop="20200504220000 -0400" channel="TVA Sports">
+    <title lang="en">Dave Morissette en direct</title>
+    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
+    <date>2014</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200506173000 -0400" stop="20200506183000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
+  <programme start="20200504220000 -0400" stop="20200505000000 -0400" channel="TVA Sports">
+    <title lang="en">Ninja Warrior: Le parcours ultime</title>
+    <sub-title lang="en">206)</sub-title>
+    <desc lang="en">À Minneapolis, les concurrents se mesurent à un parcours de six obstacles. Celui-ci comprend les nouveautés Tornades doubles et Course aux losanges. Les vétérans Meagan Martin, Joe Moravsky et Sarah Schoback font leur retour à la compétition.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Jeu</category>
+    <episode-num system="xmltv_ns">9.5.</episode-num>
   </programme>
-  <programme start="20200506183000 -0400" stop="20200506190000 -0400" channel="RDS">
-    <title lang="en">Et le but! avec Pierre Houde</title>
-    <sub-title lang="en">Épisode 04</sub-title>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506190000 -0400" stop="20200506213000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">finale: Italie c. Brésil</sub-title>
-    <desc lang="en">La Coupe du monde de soccer 1994 - finale: Italie c. Brésil.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506213000 -0400" stop="20200506220000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506220000 -0400" stop="20200506230000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200506230000 -0400" stop="20200506233000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">La plupart des gars</sub-title>
-    <desc lang="en">Spencer tente de conseiller Travis tout en esquivant les nouvelles médicales. Reggie et How achètent un cadeau spécial à Vernon. Ricky encourage Charles à se lever par lui-même.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-  </programme>
-  <programme start="20200506233000 -0400" stop="20200507000000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Un samedi d'embrouilles</sub-title>
-    <desc lang="en">Spencer tente de négocier la paix entre Travis et une critique. Charles est forcé de donner de mauvaises nouvelles.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-  </programme>
-  <programme start="20200507000000 -0400" stop="20200507003000 -0400" channel="RDS">
-    <title lang="en">Le show de moto</title>
-    <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507003000 -0400" stop="20200507013000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507013000 -0400" stop="20200507023000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507023000 -0400" stop="20200507030000 -0400" channel="RDS">
-    <title lang="en">Et le but! avec Pierre Houde</title>
-    <sub-title lang="en">Épisode 04</sub-title>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507030000 -0400" stop="20200507033000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">La plupart des gars</sub-title>
-    <desc lang="en">Spencer tente de conseiller Travis tout en esquivant les nouvelles médicales. Reggie et How achètent un cadeau spécial à Vernon. Ricky encourage Charles à se lever par lui-même.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.4.</episode-num>
-  </programme>
-  <programme start="20200507033000 -0400" stop="20200507040000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Un samedi d'embrouilles</sub-title>
-    <desc lang="en">Spencer tente de négocier la paix entre Travis et une critique. Charles est forcé de donner de mauvaises nouvelles.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-  </programme>
-  <programme start="20200507040000 -0400" stop="20200507063000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">finale: Italie c. Brésil</sub-title>
-    <desc lang="en">La Coupe du monde de soccer 1994 - finale: Italie c. Brésil.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507063000 -0400" stop="20200507070000 -0400" channel="RDS">
-    <title lang="en">Max &amp; Bruno</title>
-    <desc lang="en">Maxime Talbot et Bruno Gervais partagent leur expérience et leurs connaissances avec les amateurs en discutant des sujets chauds dans le monde du hockey.(n)</desc>
+  <programme start="20200504170000 -0400" stop="20200504180000 -0400" channel="TVA Sports 2">
+    <title lang="en">JiC</title>
+    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
+    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200507070000 -0400" stop="20200507080000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507080000 -0400" stop="20200507083000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507083000 -0400" stop="20200507090000 -0400" channel="RDS">
-    <title lang="en">Le show de moto</title>
-    <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507090000 -0400" stop="20200507100000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507100000 -0400" stop="20200507103000 -0400" channel="RDS">
-    <title lang="en">L'histoire derrière...</title>
-    <sub-title lang="en">Tiger Woods</sub-title>
-    <desc lang="en">Tiger Woods.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507103000 -0400" stop="20200507110000 -0400" channel="RDS">
-    <title lang="en">Et le but! avec Pierre Houde</title>
-    <sub-title lang="en">Épisode 04</sub-title>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507110000 -0400" stop="20200507133000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">finale: Italie c. Brésil</sub-title>
-    <desc lang="en">La Coupe du monde de soccer 1994 - finale: Italie c. Brésil.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507133000 -0400" stop="20200507163000 -0400" channel="RDS">
-    <title lang="en">Tennis de l'ATP</title>
-    <sub-title lang="en">2e tour</sub-title>
-    <desc lang="en">Mutua de Madrid 2019: Auger-Aliassime c. Nadal - 2e tour.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507163000 -0400" stop="20200507173000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507173000 -0400" stop="20200507183000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507183000 -0400" stop="20200507190000 -0400" channel="RDS">
-    <title lang="en">Le sport en crise</title>
-    <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507190000 -0400" stop="20200507213000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">7e match</sub-title>
-    <desc lang="en">Les Séries éliminatoires 2008: Bruins c. Canadiens - 7e match.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507213000 -0400" stop="20200507220000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507220000 -0400" stop="20200507230000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200507230000 -0400" stop="20200507233000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Tout le monde sait</sub-title>
-    <desc lang="en">La visite surprise d'Andre dans les bureaux pousse Spencer à redoubler d'efforts pour garder une longueur d'avance sur son rival. Joe apprend des secrets douteux sur son partenaire. Ricky tente de se réconcilier avec son père.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-  </programme>
-  <programme start="20200507233000 -0400" stop="20200508000000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Gagner du temps</sub-title>
-    <desc lang="en">Spencer veut passer à autre chose. Joe tente de maintenir le statu quo. Charles et Ricky s'affrontent. Travis s'inquiète pour son avenir.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-  </programme>
-  <programme start="20200508000000 -0400" stop="20200508003000 -0400" channel="RDS">
-    <title lang="en">Passion Autos</title>
-    <desc lang="en">Magazine automobile.(n)</desc>
+  <programme start="20200504180000 -0400" stop="20200504190000 -0400" channel="TVA Sports 2">
+    <title lang="en">JiC</title>
+    <sub-title lang="en">Épisode du 04 MAI 2020</sub-title>
+    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
     <date>2019</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508003000 -0400" stop="20200508013000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508013000 -0400" stop="20200508023000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508023000 -0400" stop="20200508030000 -0400" channel="RDS">
-    <title lang="en">Le sport en crise</title>
-    <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508030000 -0400" stop="20200508033000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Tout le monde sait</sub-title>
-    <desc lang="en">La visite surprise d'Andre dans les bureaux pousse Spencer à redoubler d'efforts pour garder une longueur d'avance sur son rival. Joe apprend des secrets douteux sur son partenaire. Ricky tente de se réconcilier avec son père.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-  </programme>
-  <programme start="20200508033000 -0400" stop="20200508040000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Gagner du temps</sub-title>
-    <desc lang="en">Spencer veut passer à autre chose. Joe tente de maintenir le statu quo. Charles et Ricky s'affrontent. Travis s'inquiète pour son avenir.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.7.</episode-num>
-  </programme>
-  <programme start="20200508040000 -0400" stop="20200508063000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">7e match</sub-title>
-    <desc lang="en">Les Séries éliminatoires 2008: Bruins c. Canadiens - 7e match.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508063000 -0400" stop="20200508070000 -0400" channel="RDS">
-    <title lang="en">Et le but! avec Pierre Houde</title>
-    <sub-title lang="en">Épisode 04</sub-title>
+  <programme start="20200504190000 -0400" stop="20200504210000 -0400" channel="TVA Sports 2">
+    <title lang="en">Soirée vintage</title>
+    <sub-title lang="en">Match #1</sub-title>
+    <desc lang="en">Le 7 avril 1982, demi-finales de divisions, match #1. Du Forum de Montréal, les Nordiques de Québec contre les Canadiens de Montréal.(n)</desc>
     <date>2020</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508070000 -0400" stop="20200508080000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
+  <programme start="20200504210000 -0400" stop="20200504220000 -0400" channel="TVA Sports 2">
+    <title lang="en">Dave Morissette en direct</title>
+    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
+    <date>2014</date>
     <category lang="en">Sport</category>
   </programme>
-  <programme start="20200508080000 -0400" stop="20200508083000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508083000 -0400" stop="20200508090000 -0400" channel="RDS">
-    <title lang="en">Mes souvenirs sportifs</title>
-    <desc lang="en">David Arsenault reçoit un invité qui plonge dans les moments précieux et importants de sa carrière sportive.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508090000 -0400" stop="20200508100000 -0400" channel="RDS">
-    <title lang="en">Coupe Mini</title>
-    <sub-title lang="en">Coupe 2012</sub-title>
-    <desc lang="en">RDS présente la Coupe Mini-Putt 2012. Avec Serge Vleminckx et Carl Carmoni.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508100000 -0400" stop="20200508103000 -0400" channel="RDS">
-    <title lang="en">L'histoire derrière...</title>
-    <sub-title lang="en">Le golf</sub-title>
-    <desc lang="en">L'histoire derrière le golf.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508103000 -0400" stop="20200508110000 -0400" channel="RDS">
-    <title lang="en">Le sport en crise</title>
-    <desc lang="en">François-Etienne Corbin s'entretient avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508110000 -0400" stop="20200508133000 -0400" channel="RDS">
-    <title lang="en">Les Classiques RDS</title>
-    <sub-title lang="en">7e match</sub-title>
-    <desc lang="en">Les Séries éliminatoires 2008: Bruins c. Canadiens - 7e match.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508133000 -0400" stop="20200508140000 -0400" channel="RDS">
-    <title lang="en">Le show de moto</title>
-    <desc lang="en">Magazine sur la moto. Essais de moto, chroniques et reportages sur les nouveaux produits.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508140000 -0400" stop="20200508143000 -0400" channel="RDS">
-    <title lang="en">Passion Autos</title>
-    <desc lang="en">Magazine automobile.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508143000 -0400" stop="20200508150000 -0400" channel="RDS">
-    <title lang="en">Mobil 1 The Grid</title>
-    <desc lang="en">Faits saillants de courses de sports motorisés dans le monde.(n)</desc>
-    <date>2010</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508150000 -0400" stop="20200508173000 -0400" channel="RDS">
-    <title lang="en">Tennis de l'ATP</title>
-    <sub-title lang="en">½ finale #1</sub-title>
-    <desc lang="en">Mutua de Madrid 2019: Djokovic c. Thiem - ½ finale #1.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508173000 -0400" stop="20200508183000 -0400" channel="RDS">
-    <title lang="en">Le 5 à 7</title>
-    <desc lang="en">Frédéric Plante et Yanick Bouchard animent ce magazine sportif.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508183000 -0400" stop="20200508193000 -0400" channel="RDS">
-    <title lang="en">Boxe</title>
-    <sub-title lang="en">2011</sub-title>
-    <desc lang="en">Miguel Cotto c. Antonio Margarito - 2011.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508193000 -0400" stop="20200508213000 -0400" channel="RDS">
-    <title lang="en">UFC</title>
-    <sub-title lang="en">Rousey c. Holm &amp; Letourneau c. Jedrzejczyk</sub-title>
-    <desc lang="en">UFC 193 - Rousey c. Holm &amp; Letourneau c. Jedrzejczyk.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508213000 -0400" stop="20200508220000 -0400" channel="RDS">
-    <title lang="en">L'antichambre</title>
-    <desc lang="en">L'Antichambre propose des débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
-    <date>2008</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508220000 -0400" stop="20200508230000 -0400" channel="RDS">
-    <title lang="en">UFC Le Décompte</title>
-    <sub-title lang="en">UFC 249: Ferguson c. Gaethje</sub-title>
-    <desc lang="en">UFC 249: Ferguson c. Gaethje.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200508230000 -0400" stop="20200508233000 -0400" channel="RDS">
-    <title lang="en">Ballers</title>
-    <sub-title lang="en">Des millions de dollars dans un sac</sub-title>
-    <desc lang="en">Spencer obtient une offre surprenante d'André. Vernon fait de nombreuses heures supplémentaires pour retourner sur le terrain. Charles et Julie se heurtent à son horaire chargé.(n)</desc>
-    <credits>
-      <actor>Omar Benson Miller (Charles Greane)</actor>
-      <actor>John David Washington (Ricky Jerret)</actor>
-      <actor>Rob Corddry (Joe Krutel)</actor>
-      <actor>Troy Garity (Jason)</actor>
-      <actor>Donovan Carter (Vernon)</actor>
-      <actor>Jazmyn Simon (Julie Greane)</actor>
-      <actor>Dwayne Johnson (Spencer Strasmore)</actor>
-      <actor>London Brown (Reggie)</actor>
-    </credits>
-    <category lang="en">Dramatique</category>
-    <episode-num system="xmltv_ns">1.8.</episode-num>
+  <programme start="20200504220000 -0400" stop="20200505000000 -0400" channel="TVA Sports 2">
+    <title lang="en">Ninja Warrior: Le parcours ultime</title>
+    <sub-title lang="en">206)</sub-title>
+    <desc lang="en">À Minneapolis, les concurrents se mesurent à un parcours de six obstacles. Celui-ci comprend les nouveautés Tornades doubles et Course aux losanges. Les vétérans Meagan Martin, Joe Moravsky et Sarah Schoback font leur retour à la compétition.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Jeu</category>
+    <episode-num system="xmltv_ns">9.5.</episode-num>
   </programme>
 </tv>

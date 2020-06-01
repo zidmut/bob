@@ -1,0 +1,2186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Addik TV">
+    <display-name lang="en">Addik TV</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/addiktv.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="WWE">
+    <display-name lang="en">WWE</display-name>
+    <icon src="https://sec.wwe.com/f/styles/og_16x9/public/wwe_default.jpg" />
+    <url>http://www.wwe.com.E</url>
+  </channel>
+  <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Le concours de frappe</sub-title>
+    <desc lang="en">Un homme meurt électrocuté lors d'un concours de dactylographie auquel participent Crabtree et la journaliste Louise Cherry. L'enquête de Murdoch l'amène à croire que la véritable cible du tueur était en fait une toute autre personne.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601070000 -0400" stop="20200601080000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">Tous les coups sont permis</sub-title>
+    <desc lang="en">Rip veut affaiblir Vandal Savage en le privant de ses actifs financiers. Il infiltre la banque de Savage avec Sara, mais ils se font démasquer. Le professeur Stein guide Ray dans une dangereuse mission.(n)</desc>
+    <credits>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601080000 -0400" stop="20200601090000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">La voix de la liberté</sub-title>
+    <desc lang="en">Crochet se sert de son passé complexe avec Ursula pour découvrir ce qu'elle sait sur les intentions de Gold. Gold et la Reine des ténèbres torturent August pour obtenir de l'information sur l'Auteur.(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601090000 -0400" stop="20200601100000 -0400" channel="Addik TV">
+    <title lang="en">Blindspot: Mémoire tatouée</title>
+    <sub-title lang="en">Les bombes humaines</sub-title>
+    <desc lang="en">L'équipe mène une course contre la montre pour empêcher un attentat terroriste. Elle est aidée par la petite amie journaliste de Reade, qui enquête justement sur un groupe de réfugiés dont se sert le terroriste pour commettre ses crimes.(n)</desc>
+    <credits>
+      <actor>Sullivan Stapleton</actor>
+      <actor>Jaimie Alexander</actor>
+      <actor>Rob Brown</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601100000 -0400" stop="20200601110000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Un fils pas comme les autres</sub-title>
+    <desc lang="en">Une mère fournit de précieuses informations à l'équipe du BAU. Celle-ci enquête sur un suspect appelé le Bone Crusher qui prend plaisir à briser les os de jeunes femmes. Reid s'adapte à de nouvelles conditions de vie en prison.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200601110000 -0400" stop="20200601120000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Le concours de frappe</sub-title>
+    <desc lang="en">Un homme meurt électrocuté lors d'un concours de dactylographie auquel participent Crabtree et la journaliste Louise Cherry. L'enquête de Murdoch l'amène à croire que la véritable cible du tueur était en fait une toute autre personne.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601120000 -0400" stop="20200601130000 -0400" channel="Addik TV">
+    <title lang="en">Shooter: Tireur d'élite</title>
+    <sub-title lang="en">Cul-de-sac</sub-title>
+    <desc lang="en">Bob Lee et Isaac apprennent que le meilleur assassin au monde est aux États-Unis. Des retours en arrière sur une mission en Afghanistan révèlent l'identité de l'assassin: Solotov. Nadine arrive au Texas avec des soupçons sur un complot.(n)</desc>
+    <credits>
+      <actor>Ryan Phillippe</actor>
+      <actor>Omar Epps</actor>
+      <actor>Cynthia Addai-Robinson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601130000 -0400" stop="20200601140000 -0400" channel="Addik TV">
+    <title lang="en">L'enlèvement</title>
+    <sub-title lang="en">Le prix de la vérité</sub-title>
+    <desc lang="en">Hart doit trouver un moyen de contrecarrer les plans d'un ex-journaliste exilé. Celui-ci cherche à révéler les noms d'agents du gouvernement actifs à l'étranger, ce qui pourrait causer la mort de nombreux innocents.(n)</desc>
+    <credits>
+      <actor>Clive Standen</actor>
+      <actor>Jennifer Beals</actor>
+      <actor>Brooklyn Sudano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601140000 -0400" stop="20200601150000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Terreur nocturne</sub-title>
+    <desc lang="en">Le BAU soupçonne deux tueurs en série d'être actifs en même temps. Les victimes retrouvées dans la petite ville de Burlington montrent deux modes opératoires distincts. En prison, la situation de Reid devient critique.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200601150000 -0400" stop="20200601160000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Le Livre assassin</sub-title>
+    <desc lang="en">La publication du livre de méthodologie écrit par Murdoch et la Dre Ogden est assombrie par une série de meurtres commis par un mystérieux imitateur ayant décidé de reproduire les homicides décrits dans l'ouvrage.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601160000 -0400" stop="20200601170000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">La voix de la liberté</sub-title>
+    <desc lang="en">Crochet se sert de son passé complexe avec Ursula pour découvrir ce qu'elle sait sur les intentions de Gold. Gold et la Reine des ténèbres torturent August pour obtenir de l'information sur l'Auteur.(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601170000 -0400" stop="20200601180000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">Tous les coups sont permis</sub-title>
+    <desc lang="en">Rip veut affaiblir Vandal Savage en le privant de ses actifs financiers. Il infiltre la banque de Savage avec Sara, mais ils se font démasquer. Le professeur Stein guide Ray dans une dangereuse mission.(n)</desc>
+    <credits>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601180000 -0400" stop="20200601200000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Incompatibles</sub-title>
+    <desc lang="en">Deux flics mal assortis font équipe afin de résoudre une affaire de meurtre.(n)</desc>
+    <credits>
+      <director>David Charhon</director>
+      <actor>Omar Sy</actor>
+      <actor>Laurent Lafitte</actor>
+      <actor>Sabrina Ouazani</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200601200000 -0400" stop="20200601210000 -0400" channel="Addik TV">
+    <title lang="en">Killing Eve: la série</title>
+    <sub-title lang="en">À la vie, à la mort</sub-title>
+    <desc lang="en">La mission d'Eve est dangereusement compromise. Eve doit prendre une décision après avoir été informée par Carolyn de sa situation au sein du gouvernement britannique. Villanelle fait tout en son pouvoir pour parvenir à ses fins.(n)</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601210000 -0400" stop="20200601220000 -0400" channel="Addik TV">
+    <title lang="en">Avocats de la rue</title>
+    <sub-title lang="en">Retour au bercail</sub-title>
+    <desc lang="en">Olivia et Mina se rendent à Montréal, où elles rencontrent un visage familier. Restés à Toronto, Lilly et Adam recherchent un nouveau témoin expert. Olivia traverse une crise personnelle.(n)</desc>
+    <credits>
+      <actor>Cynthia Dale</actor>
+      <actor>Cara Ricketts</actor>
+      <actor>Steve Lund</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601220000 -0400" stop="20200601230000 -0400" channel="Addik TV">
+    <title lang="en">La pécheresse</title>
+    <sub-title lang="en">L'éteau</sub-title>
+    <desc lang="en">Julian est arrêté et envoyé derrière les barreaux en attendant son procès. En fouillant dans le passé de Marin, Heather tombe sur une révélation explosive. Avec Harry, elle va interroger le Dr Poole, qui s'est occupé des naissances à Mooswood.(n)</desc>
+    <credits>
+      <director>Antonio Campos</director>
+      <actor>Bill Pullman</actor>
+      <actor>Elisha Heing</actor>
+      <actor>Carrie Coon</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200601230000 -0400" stop="20200602000000 -0400" channel="Addik TV">
+    <title lang="en">Histoire d'horreur</title>
+    <sub-title lang="en">L'assassin est parmis nous</sub-title>
+    <desc lang="en">Ally emmène Meadow voir le Dr Rudy pour qu'elle confirme son histoire sur la secte. Kai n'apprécie pas d'avoir une opposante politique et prend les moyens qui s'imposent. Le lendemain, une fusillade éclate lors d'un rassemblement politique de Kai.(n)</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602000000 -0400" stop="20200602010000 -0400" channel="Addik TV">
+    <title lang="en">The Walking Dead (v.f.)</title>
+    <sub-title lang="en">Le doigt sur la détente</sub-title>
+    <desc lang="en">Piégés, Rick, Hershel et Glenn doivent se battre pour survivre. Ils affrontent de nouveaux ennemis, certains morts, d'autres vivants. Shane trouve Lori en danger sur la route et se fait un devoir de la ramener en sécurité à la ferme.(n)</desc>
+    <credits>
+      <actor>Andrew Lincoln</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Sarah Wayne Callies</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602010000 -0400" stop="20200602020000 -0400" channel="Addik TV">
+    <title lang="en">Nation Z</title>
+    <sub-title lang="en">En quête de la main rouge</sub-title>
+    <desc lang="en">Warren et ses compagnons inspectent Murphytown. Ils réalisent qu'ils auront besoin d'une plus grande armée pour en extraire Murphy.(n)</desc>
+    <credits>
+      <actor>Kellita Smith</actor>
+      <actor>D.J. Qualls</actor>
+      <actor>Keith Allan</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200602020000 -0400" stop="20200602030000 -0400" channel="Addik TV">
+    <title lang="en">Wynonna Earp</title>
+    <sub-title lang="en">Naissance et résurrection</sub-title>
+    <desc lang="en">L'équipe fait face aux attaques des veuves, de l'Ordre, de Bobo et des revenants. Elle doit à tout prix les repousser afin de permettre à Wynonna de donner naissance à son enfant.(n)</desc>
+    <credits>
+      <actor>Melanie Scrofano</actor>
+      <actor>Tim Rozon</actor>
+      <actor>Shamier Anderson</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602030000 -0400" stop="20200602040000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Le Livre assassin</sub-title>
+    <desc lang="en">La publication du livre de méthodologie écrit par Murdoch et la Dre Ogden est assombrie par une série de meurtres commis par un mystérieux imitateur ayant décidé de reproduire les homicides décrits dans l'ouvrage.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602040000 -0400" stop="20200602043000 -0400" channel="Addik TV">
+    <title lang="en">Mort en service</title>
+    <sub-title lang="en">Vincent Roy: Route 139</sub-title>
+    <desc lang="en">La mort du policier Vincent Roy amène à l'adoption de la loi sur le corridor de sécurité.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602043000 -0400" stop="20200602050000 -0400" channel="Addik TV">
+    <title lang="en">Mort en service</title>
+    <sub-title lang="en">François Pichette: L'appel</sub-title>
+    <desc lang="en">Le 4 octobre 1999, une série d'incidents malheureux changent le cours des choses pour l'ambulancier François Pichette.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602050000 -0400" stop="20200602060000 -0400" channel="Addik TV">
+    <title lang="en">Wynonna Earp</title>
+    <sub-title lang="en">Naissance et résurrection</sub-title>
+    <desc lang="en">L'équipe fait face aux attaques des veuves, de l'Ordre, de Bobo et des revenants. Elle doit à tout prix les repousser afin de permettre à Wynonna de donner naissance à son enfant.(n)</desc>
+    <credits>
+      <actor>Melanie Scrofano</actor>
+      <actor>Tim Rozon</actor>
+      <actor>Shamier Anderson</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602060000 -0400" stop="20200602070000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Le Livre assassin</sub-title>
+    <desc lang="en">La publication du livre de méthodologie écrit par Murdoch et la Dre Ogden est assombrie par une série de meurtres commis par un mystérieux imitateur ayant décidé de reproduire les homicides décrits dans l'ouvrage.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602070000 -0400" stop="20200602080000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">Guerres froides</sub-title>
+    <desc lang="en">Vandal Savage bat en retraite derrière le rideau de fer, au début des années 1980, et des scientifiques en physique nucléaire se mettent à disparaître mystérieusement. Ray tente de se rapprocher de la ravissante scientifique russe Valentina Vostock.(n)</desc>
+    <credits>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602080000 -0400" stop="20200602090000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">La licorne</sub-title>
+    <desc lang="en">Crochet raconte à Emma que son destin est menacé par les plans de Gold. Regina mène les méchants dans une chasse aux sorcières. Henry fait une découverte dans sa recherche de l'Auteur.Guests: Rebecca Mader..(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602090000 -0400" stop="20200602100000 -0400" channel="Addik TV">
+    <title lang="en">Blindspot: Mémoire tatouée</title>
+    <sub-title lang="en">Le magicien d'or</sub-title>
+    <desc lang="en">Jane et Weller s'associent avec un homme mystérieux pour sauver un être cher à Berlin. Reade, Zapata et Patterson découvrent que l'application Wizardville de Patterson a été piratée dans le but de vendre des bombes à un groupe terroriste.(n)</desc>
+    <credits>
+      <actor>Sullivan Stapleton</actor>
+      <actor>Jaimie Alexander</actor>
+      <actor>Rob Brown</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602100000 -0400" stop="20200602110000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Terreur nocturne</sub-title>
+    <desc lang="en">Le BAU soupçonne deux tueurs en série d'être actifs en même temps. Les victimes retrouvées dans la petite ville de Burlington montrent deux modes opératoires distincts. En prison, la situation de Reid devient critique.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602110000 -0400" stop="20200602120000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Le Livre assassin</sub-title>
+    <desc lang="en">La publication du livre de méthodologie écrit par Murdoch et la Dre Ogden est assombrie par une série de meurtres commis par un mystérieux imitateur ayant décidé de reproduire les homicides décrits dans l'ouvrage.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602120000 -0400" stop="20200602130000 -0400" channel="Addik TV">
+    <title lang="en">Shooter: Tireur d'élite</title>
+    <sub-title lang="en">Les colts au soleil</sub-title>
+    <desc lang="en">Bob Lee tente de découvrir pourquoi Solotov s'en prend à son unité des marines. Nadine trouve un témoin à l'événement qui a tout déclenché. Solotov se cache au nez et à la barbe de tous.(n)</desc>
+    <credits>
+      <actor>Ryan Phillippe</actor>
+      <actor>Omar Epps</actor>
+      <actor>Cynthia Addai-Robinson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602130000 -0400" stop="20200602140000 -0400" channel="Addik TV">
+    <title lang="en">L'enlèvement</title>
+    <sub-title lang="en">Une nouvelle Eve</sub-title>
+    <desc lang="en">Des espèces envahissantes ont été volées à la Réserve mondiale de semences du Svalbard. Bryan est dépêché en Norvège pour remonter la piste des voleurs et éviter qu'un acte de terrorisme biologique soit commis.(n)</desc>
+    <credits>
+      <actor>Clive Standen</actor>
+      <actor>Jennifer Beals</actor>
+      <actor>Brooklyn Sudano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602140000 -0400" stop="20200602150000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Sang pour sang</sub-title>
+    <desc lang="en">L'équipe enquête sur un vampire qui sévirait à New York en enlevant ses victimes la nuit. Elle doit faire vite avant qu'une adolescente disparue ne soit retrouvée vidée de son sang. En prison, Raid prend une décision qui a de graves conséquences.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602150000 -0400" stop="20200602160000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Des ténèbres à la lumière</sub-title>
+    <desc lang="en">Alors que Murdoch s'apprête à être promu inspecteur en chef, un agent est touché lors d'une descente officieuse menée par l'inspecteur Watts dans une fumerie d'opium.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602160000 -0400" stop="20200602170000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">La licorne</sub-title>
+    <desc lang="en">Crochet raconte à Emma que son destin est menacé par les plans de Gold. Regina mène les méchants dans une chasse aux sorcières. Henry fait une découverte dans sa recherche de l'Auteur.Guests: Rebecca Mader..(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602170000 -0400" stop="20200602180000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">Guerres froides</sub-title>
+    <desc lang="en">Vandal Savage bat en retraite derrière le rideau de fer, au début des années 1980, et des scientifiques en physique nucléaire se mettent à disparaître mystérieusement. Ray tente de se rapprocher de la ravissante scientifique russe Valentina Vostock.(n)</desc>
+    <credits>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200602180000 -0400" stop="20200602200000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Bonne chance Slevin!</sub-title>
+    <desc lang="en">Un homme est précipité au milieu d'une guerre de gangs et doit assassiner le fils d'un chef du crime organisé afin de sauver sa vie.(n)</desc>
+    <credits>
+      <director>Paul McGuigan</director>
+      <actor>Bruce Willis</actor>
+      <actor>Josh Hartnett</actor>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20200602200000 -0400" stop="20200602220000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Vice (v.f.)</sub-title>
+    <desc lang="en">Des clients utilisent des robots à apparence humaine pour assouvir leurs fantasmes.(n)</desc>
+    <credits>
+      <director>Brian A. Miller</director>
+      <actor>Bruce Willis</actor>
+      <actor>Thomas Jane</actor>
+      <actor>Ambyr Childers</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602220000 -0400" stop="20200602230000 -0400" channel="Addik TV">
+    <title lang="en">Castle Rock (v.f.)</title>
+    <sub-title lang="en">Les liens qui nous unissent</sub-title>
+    <desc lang="en">Joy passe du bon temps avec ses amis au bord d'un lac. À son retour, elle retrouve sa mère en pleine crise psychotique. Abdi emmène Pop à l'hôpital, où il apprend qu'il est mourant. Revenu d'entre les morts, Ace rencontre une agente immobilière.(n)</desc>
+    <credits>
+      <actor>Lizzy Caplan</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Paul Sparks</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602230000 -0400" stop="20200603000000 -0400" channel="Addik TV">
+    <title lang="en">M. Mercedes</title>
+    <sub-title lang="en">Sous le parapluie bleu</sub-title>
+    <desc lang="en">Hodges et Janey approfondissent leur enquête sur les circonstances de la mort d'Olivia. Hodges se sert de Debbie pour prendre le dessus sur Brady. Le père de Jerome s'interpose entre son fils et Hodges.(n)</desc>
+    <credits>
+      <actor>Brendan Gleeson</actor>
+      <actor>Harry Treadaway</actor>
+      <actor>Justine Lupe</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603000000 -0400" stop="20200603010000 -0400" channel="Addik TV">
+    <title lang="en">The Walking Dead (v.f.)</title>
+    <sub-title lang="en">À 18 miles, au moins</sub-title>
+    <desc lang="en">Rick et Shane sont en désaccord sur le sort d'un étranger. Andrea aide la plus jeune fille d'Hershel à prendre une décision cruciale.(n)</desc>
+    <credits>
+      <actor>Andrew Lincoln</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Sarah Wayne Callies</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603010000 -0400" stop="20200603020000 -0400" channel="Addik TV">
+    <title lang="en">Nation Z</title>
+    <sub-title lang="en">Ça pousse si vite!</sub-title>
+    <desc lang="en">Doc et Addy tentent de convaincre la famille de Lucy de les suivre. Murphy met à l'épreuve l'allégeance de 10K.(n)</desc>
+    <credits>
+      <actor>Kellita Smith</actor>
+      <actor>D.J. Qualls</actor>
+      <actor>Keith Allan</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200603020000 -0400" stop="20200603030000 -0400" channel="Addik TV">
+    <title lang="en">Justifié</title>
+    <sub-title lang="en">La fin d'une époque</sub-title>
+    <desc lang="en">Raylan rappelle à Ava ses obligations d'informatrice sur Boyd. Il essaie également de retourner Dewey Crowe, un vieil allié de Boyd. Pendant ce temps, Boyd prépare un vol audacieux qu'il compte réaliser au nez et à la barbe de Raylan.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200603030000 -0400" stop="20200603040000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Des ténèbres à la lumière</sub-title>
+    <desc lang="en">Alors que Murdoch s'apprête à être promu inspecteur en chef, un agent est touché lors d'une descente officieuse menée par l'inspecteur Watts dans une fumerie d'opium.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603040000 -0400" stop="20200603043000 -0400" channel="Addik TV">
+    <title lang="en">Mort en service</title>
+    <sub-title lang="en">Patrick Poirier: Eaux froides</sub-title>
+    <desc lang="en">Patrick Poirier sera emporté par un infarctus après le renversement de son avion.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603043000 -0400" stop="20200603050000 -0400" channel="Addik TV">
+    <title lang="en">Mort en service</title>
+    <sub-title lang="en">Têtu et Giguère: Le traître</sub-title>
+    <desc lang="en">Deux policiers sont tués par un sergent corrompu d'une ville voisine.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603050000 -0400" stop="20200603053000 -0400" channel="Addik TV">
+    <title lang="en">Enquêteurs</title>
+    <sub-title lang="en">Hors de tout doute</sub-title>
+    <desc lang="en">Lisette Poulin est retrouvée sans vie sur sa terre de St-Agapit à la suite de ce qui semble être un accident. L'enquêteur Arold Bernatchez fera face à l'affaire la plus complexe de sa carrière.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200603053000 -0400" stop="20200603060000 -0400" channel="Addik TV">
+    <title lang="en">Enquêteurs</title>
+    <sub-title lang="en">Le vrai du faux</sub-title>
+    <desc lang="en">L'enquêteur Alain Lacoursière devra confirmer qui est le réel propriétaire d'un tableau de la Renaissance valant 16 millions de dollars et ayant causé le malheur de bien des spéculateurs.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200603060000 -0400" stop="20200603070000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Des ténèbres à la lumière</sub-title>
+    <desc lang="en">Alors que Murdoch s'apprête à être promu inspecteur en chef, un agent est touché lors d'une descente officieuse menée par l'inspecteur Watts dans une fumerie d'opium.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603070000 -0400" stop="20200603080000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">La prison de Koshmar</sub-title>
+    <desc lang="en">Certains membres des légendes sont capturés et jetés dans un goulag russe au plus fort de la guerre froide, en 1986. Snart dirige alors une équipe pour tenter l'impossible évasion de ses camarades.(n)</desc>
+    <credits>
+      <director>Dermott Downs</director>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200603080000 -0400" stop="20200603090000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">Un coeur en or</sub-title>
+    <desc lang="en">Toujours sous le choc à propos du lien passé entre ses parents et Maléfique, Emma doit se concentrer et retrouver l'Auteur, qui se promène librement dans Storybrooke, avant que Gold ne le fasse.(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603090000 -0400" stop="20200603100000 -0400" channel="Addik TV">
+    <title lang="en">Blindspot: Mémoire tatouée</title>
+    <sub-title lang="en">Le bunker</sub-title>
+    <desc lang="en">Weller et son ex-partenaire du FBI refont équipe pour une dangereuse mission clandestine. De son côté, Zapata interroge un ancien ennemi pour obtenir des informations vitales.(n)</desc>
+    <credits>
+      <actor>Sullivan Stapleton</actor>
+      <actor>Jaimie Alexander</actor>
+      <actor>Rob Brown</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603100000 -0400" stop="20200603110000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Sang pour sang</sub-title>
+    <desc lang="en">L'équipe enquête sur un vampire qui sévirait à New York en enlevant ses victimes la nuit. Elle doit faire vite avant qu'une adolescente disparue ne soit retrouvée vidée de son sang. En prison, Raid prend une décision qui a de graves conséquences.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603110000 -0400" stop="20200603120000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Des ténèbres à la lumière</sub-title>
+    <desc lang="en">Alors que Murdoch s'apprête à être promu inspecteur en chef, un agent est touché lors d'une descente officieuse menée par l'inspecteur Watts dans une fumerie d'opium.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603120000 -0400" stop="20200603130000 -0400" channel="Addik TV">
+    <title lang="en">Shooter: Tireur d'élite</title>
+    <sub-title lang="en">La traversée du Rio Grande</sub-title>
+    <desc lang="en">Bob Lee suit l'argent de Solotov, qui le mène jusqu'à un cartel mexicain. Nadine aide un journaliste d'enquête sur une affaire qu'on a tenté d'étouffer. Julie fait entendre sa frustration.(n)</desc>
+    <credits>
+      <actor>Ryan Phillippe</actor>
+      <actor>Omar Epps</actor>
+      <actor>Cynthia Addai-Robinson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603130000 -0400" stop="20200603140000 -0400" channel="Addik TV">
+    <title lang="en">L'enlèvement</title>
+    <sub-title lang="en">Mot de passe</sub-title>
+    <desc lang="en">Kilroy poursuit un pirate informatique notoire. Après l'explosion d'une bombe à Washington, D.C., l'équipe soupçonne qu'un innocent a été injustement accusé du crime.Guests: Tahmoh Penikett, Ian Matthews, Vinny Chhibber, James Colby, Diane Johnstone, Michael Potts, Phil Craig, Brittany Allen..(n)</desc>
+    <credits>
+      <actor>Clive Standen</actor>
+      <actor>Jennifer Beals</actor>
+      <actor>Brooklyn Sudano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200603140000 -0400" stop="20200603150000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">La bourse ou la vie</sub-title>
+    <desc lang="en">L'équipe est appelée à enquêter dans le désert d'Arizona. Trois victimes sans aucun lien apparent ont été trouvées attachées à des pieux.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603150000 -0400" stop="20200603160000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Des ténèbres à la lumière</sub-title>
+    <desc lang="en">Brackenreid est accusé de meurtre à la suite de la descente bâclée. Une accusation infondée selon Murdoch, qui soupçonne plutôt un flic corrompu du poste de chercher à piéger Brackenreid.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603160000 -0400" stop="20200603170000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">Un coeur en or</sub-title>
+    <desc lang="en">Toujours sous le choc à propos du lien passé entre ses parents et Maléfique, Emma doit se concentrer et retrouver l'Auteur, qui se promène librement dans Storybrooke, avant que Gold ne le fasse.(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603170000 -0400" stop="20200603180000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">La prison de Koshmar</sub-title>
+    <desc lang="en">Certains membres des légendes sont capturés et jetés dans un goulag russe au plus fort de la guerre froide, en 1986. Snart dirige alors une équipe pour tenter l'impossible évasion de ses camarades.(n)</desc>
+    <credits>
+      <director>Dermott Downs</director>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200603180000 -0400" stop="20200603200000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Le livre d'Eli</sub-title>
+    <desc lang="en">Suivant une apocalypse, un homme solitaire tente de protéger un livre sacré.(n)</desc>
+    <credits>
+      <director>Albert Hughes</director>
+      <director>Allen Hughes</director>
+      <actor>Denzel Washington</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Mila Kunis</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20200603200000 -0400" stop="20200603210000 -0400" channel="Addik TV">
+    <title lang="en">Frankie Drake: détective privée</title>
+    <sub-title lang="en">Une voix divine</sub-title>
+    <desc lang="en">Frankie et Trudy s'investissent pleinement dans l'univers de la scène jazz de Toronto. Elles le font dans le but de protéger un guérisseur de la foi.(n)</desc>
+    <credits>
+      <actor>Lauren Lee Smith</actor>
+      <actor>Chantel Riley</actor>
+      <actor>Rebecca Liddiard</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603210000 -0400" stop="20200603220000 -0400" channel="Addik TV">
+    <title lang="en">Flash</title>
+    <sub-title lang="en">Nous sommes Flash</sub-title>
+    <desc lang="en">L'équipe Flash obtient l'aide d'un allié inattendu dans sa lutte contre DeVoe.(n)</desc>
+    <credits>
+      <actor>Grant Gustin</actor>
+      <actor>Jesse L. Martin</actor>
+      <actor>Tom Cavanaugh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603220000 -0400" stop="20200603230000 -0400" channel="Addik TV">
+    <title lang="en">Un ennemi parmi nous</title>
+    <sub-title lang="en">La taupe</sub-title>
+    <desc lang="en">Keaton mène sa propre enquête sur l'intégrité de l'agente Cruz. Si elle est bien la taupe au sein du FBI comme l'affirme Shepherd, il espère pouvoir la convaincre de trahir Tal. Mais Shepherd, échaudée par une mauvaise expérience, craint le pire.(n)</desc>
+    <credits>
+      <actor>Jennifer Carpenter</actor>
+      <actor>Morris Chestnut</actor>
+      <actor>Raza Jaffrey</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200603230000 -0400" stop="20200604000000 -0400" channel="Addik TV">
+    <title lang="en">Mr. Robot</title>
+    <sub-title lang="en">408 Temps d'attente écoulé</sub-title>
+    <desc lang="en">Sous le choc, Elliot se rend au musée d'art du Queens, où il se remémore son enfance. Plus que jamais, il a besoin de Mr. Robot à ses côtés. Déterminée à en finir, Janice torture Darlene et Dominique afin de découvrir où se cache Elliot.(n)</desc>
+    <credits>
+      <actor>BD Wong</actor>
+      <actor>Martin Wallström</actor>
+      <actor>Christian Slater</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604000000 -0400" stop="20200604010000 -0400" channel="Addik TV">
+    <title lang="en">The Walking Dead (v.f.)</title>
+    <sub-title lang="en">Juge, juré et bourreau</sub-title>
+    <desc lang="en">Rick se range aux côtés de Shane sur une décision capitale. Cela amène Dale à croire que le groupe a perdu son humanité. Les actions de Carl ont des conséquences imprévues sur le groupe.(n)</desc>
+    <credits>
+      <actor>Andrew Lincoln</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Sarah Wayne Callies</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604010000 -0400" stop="20200604020000 -0400" channel="Addik TV">
+    <title lang="en">Nation Z</title>
+    <sub-title lang="en">Les trois grâces</sub-title>
+    <desc lang="en">Doc cherche un moyen de communiquer avec Warren. C'est alors qu'il rencontre quelque chose d'encore plus sinistre.(n)</desc>
+    <credits>
+      <actor>Kellita Smith</actor>
+      <actor>D.J. Qualls</actor>
+      <actor>Keith Allan</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200604020000 -0400" stop="20200604030000 -0400" channel="Addik TV">
+    <title lang="en">Justifié</title>
+    <sub-title lang="en">Double jeu</sub-title>
+    <desc lang="en">L'enquête de Raylan sur le vol lui attire des ennuis avec un groupe paramilitaire. De son côté, Boyd et ses partenaires tentent de tirer profit de leur larcin.(n)</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604030000 -0400" stop="20200604040000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Des ténèbres à la lumière</sub-title>
+    <desc lang="en">Brackenreid est accusé de meurtre à la suite de la descente bâclée. Une accusation infondée selon Murdoch, qui soupçonne plutôt un flic corrompu du poste de chercher à piéger Brackenreid.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604040000 -0400" stop="20200604043000 -0400" channel="Addik TV">
+    <title lang="en">Mort en service</title>
+    <sub-title lang="en">Benoît L'Écuyer: Opération radar</sub-title>
+    <desc lang="en">Benoît L'Écuyer est assassiné par un grand criminel dangereux lors d'une poursuite.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604043000 -0400" stop="20200604050000 -0400" channel="Addik TV">
+    <title lang="en">Mort en service</title>
+    <sub-title lang="en">Diane Lavigne: La chemise bleue</sub-title>
+    <desc lang="en">Le 26 juin 1997, Diane Lavigne, une gardienne de prison de Bordeaux, est prise en chasse à la sortie de son travail, par une moto sur laquelle se trouvent deux individus. Quelques minutes plus tard, elle est retrouvée morte à bord de son véhicule.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604050000 -0400" stop="20200604053000 -0400" channel="Addik TV">
+    <title lang="en">Enquêteurs</title>
+    <sub-title lang="en">De précieuses secondes</sub-title>
+    <desc lang="en">Le négociateur Arold Bernatchez est dépêché d'urgence à Cap-Santé, où un homme armé tient plusieurs personnes en otage dans une maison, dont un enfant.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200604053000 -0400" stop="20200604060000 -0400" channel="Addik TV">
+    <title lang="en">Enquêteurs</title>
+    <sub-title lang="en">Gagner du temps de vie</sub-title>
+    <desc lang="en">Les enquêteurs Jean-François Brochu et Arold Bernatchez unissent leurs efforts pour relier un meurtre et une disparition à un jeune homme d'affaires sans scrupules.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200604060000 -0400" stop="20200604070000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Des ténèbres à la lumière</sub-title>
+    <desc lang="en">Brackenreid est accusé de meurtre à la suite de la descente bâclée. Une accusation infondée selon Murdoch, qui soupçonne plutôt un flic corrompu du poste de chercher à piéger Brackenreid.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604070000 -0400" stop="20200604080000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">Destination: 2046</sub-title>
+    <desc lang="en">Une défaillance fait s'écraser le Waverider à Star City en 2046. Les légendes rencontrent alors des versions plus âgées d'elles-mêmes dans un avenir où elles n'ont jamais réussi à arrêter Savage.(n)</desc>
+    <credits>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604080000 -0400" stop="20200604090000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">La veuve noire</sub-title>
+    <desc lang="en">Dans une Angleterre fictive des années 1920, la mère oppressive de Cruella se sert de ses dalmatiens pour la terroriser. Cruella est confinée dans le grenier de la maison jusqu'à ce qu'un mystérieux étranger arrive pour lui donner de l'aide.(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604090000 -0400" stop="20200604100000 -0400" channel="Addik TV">
+    <title lang="en">Blindspot: Mémoire tatouée</title>
+    <sub-title lang="en">Coup de semonce</sub-title>
+    <desc lang="en">Une visite de Nas aiguille l'équipe sur le vol d'un virus informatique à la NSA. L'équipe doit intervenir avant que le virus tombe entre de mauvaises mains lors d'une vente aux enchères. Roman et Blake participent à un important tournoi de poker.(n)</desc>
+    <credits>
+      <actor>Sullivan Stapleton</actor>
+      <actor>Jaimie Alexander</actor>
+      <actor>Rob Brown</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604100000 -0400" stop="20200604110000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">La bourse ou la vie</sub-title>
+    <desc lang="en">L'équipe est appelée à enquêter dans le désert d'Arizona. Trois victimes sans aucun lien apparent ont été trouvées attachées à des pieux.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604110000 -0400" stop="20200604120000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Des ténèbres à la lumière</sub-title>
+    <desc lang="en">Brackenreid est accusé de meurtre à la suite de la descente bâclée. Une accusation infondée selon Murdoch, qui soupçonne plutôt un flic corrompu du poste de chercher à piéger Brackenreid.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604120000 -0400" stop="20200604130000 -0400" channel="Addik TV">
+    <title lang="en">Shooter: Tireur d'élite</title>
+    <sub-title lang="en">Il était une fois la Bolivie</sub-title>
+    <desc lang="en">Bob Lee et Isaac doivent faire équipe pour s'évader d'une prison mexicaine. Ils doivent faire vite avant que Solotov ne les trouve. Nadine continue de creuser l'affaire Atlas, qui la ramène à l'unité des marines de Bob Lee. Julie a des ennuis avec la loi.(n)</desc>
+    <credits>
+      <actor>Ryan Phillippe</actor>
+      <actor>Omar Epps</actor>
+      <actor>Cynthia Addai-Robinson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604130000 -0400" stop="20200604140000 -0400" channel="Addik TV">
+    <title lang="en">L'enlèvement</title>
+    <sub-title lang="en">Marché noir</sub-title>
+    <desc lang="en">Un dangereux marchand d'armes fait entrer ses marchandises à New York. Bryan fait équipe avec le FBI dans l'espoir d'arrêter ce criminel avant qu'il ne parvienne à rejoindre les eaux internationales.(n)</desc>
+    <credits>
+      <actor>Clive Standen</actor>
+      <actor>Jennifer Beals</actor>
+      <actor>Brooklyn Sudano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604140000 -0400" stop="20200604150000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Un passé ineffaçable</sub-title>
+    <desc lang="en">Le BAU enquête sur la mort de plusieurs employés du gouvernement. Ceux-ci semblent tous avoir été victimes d'une crise cardiaque, et parmi eux figure un ami proche de Walker. Reid attend, anxieux, de connaître la date de son procès.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604150000 -0400" stop="20200604160000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">À l'eau Murdoch?</sub-title>
+    <desc lang="en">La fille d'un puissant industriel à la tête d'une compagnie de transport maritime disparaît sans laisser de trace. Murdoch la recherche.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Hélène Joy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604160000 -0400" stop="20200604170000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">La veuve noire</sub-title>
+    <desc lang="en">Dans une Angleterre fictive des années 1920, la mère oppressive de Cruella se sert de ses dalmatiens pour la terroriser. Cruella est confinée dans le grenier de la maison jusqu'à ce qu'un mystérieux étranger arrive pour lui donner de l'aide.(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604170000 -0400" stop="20200604180000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">Destination: 2046</sub-title>
+    <desc lang="en">Une défaillance fait s'écraser le Waverider à Star City en 2046. Les légendes rencontrent alors des versions plus âgées d'elles-mêmes dans un avenir où elles n'ont jamais réussi à arrêter Savage.(n)</desc>
+    <credits>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604180000 -0400" stop="20200604200000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Sniper 5: L'héritage</sub-title>
+    <desc lang="en">Un sergent de l'armée américaine réalise qu'on l'a utilisé comme appât pour une capture.(n)</desc>
+    <credits>
+      <director>Don Michael Paul</director>
+      <actor>Doug Allen</actor>
+      <actor>Asen Asenov</actor>
+      <actor>Tom Berenger</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200604200000 -0400" stop="20200604210000 -0400" channel="Addik TV">
+    <title lang="en">Avocats de la rue</title>
+    <sub-title lang="en">Fissures</sub-title>
+    <desc lang="en">Un juge décède subitement. Leon choisit ce moment trouble pour débarquer. L'affaire du recours collectif passe à l'étape du procès.(n)</desc>
+    <credits>
+      <actor>Cynthia Dale</actor>
+      <actor>Cara Ricketts</actor>
+      <actor>Steve Lund</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604210000 -0400" stop="20200604220000 -0400" channel="Addik TV">
+    <title lang="en">Mr. Robot</title>
+    <sub-title lang="en">409 Conflit</sub-title>
+    <desc lang="en">Dans l'esprit d'Elliot, Mr. Robot échange avec Magda et un jeune Elliot. Darlene retrouve Mr. Robot pour compléter le piratage du groupe Deus. Ils reçoivent la visite d'un allié qui veut s'assurer de la destruction de la machine de Whitehorse.(n)</desc>
+    <credits>
+      <actor>BD Wong</actor>
+      <actor>Martin Wallström</actor>
+      <actor>Christian Slater</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604220000 -0400" stop="20200604230000 -0400" channel="Addik TV">
+    <title lang="en">S.W.A.T.</title>
+    <sub-title lang="en">Les faux monnayeurs</sub-title>
+    <desc lang="en">La lieutenante Lynch demande au S.W.A.T. de prendre part à une opération secrète. Celle-ci vise à infiltrer et à démanteler un gang qui imprime de la fausse monnaie. Rien ne va plus entre les parents de Hondo, qui se disputent de plus en plus.(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>Stephanie Sigman</actor>
+      <actor>Alex Russell</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200604230000 -0400" stop="20200605000000 -0400" channel="Addik TV">
+    <title lang="en">Castle Rock (v.f.)</title>
+    <sub-title lang="en">Les liens qui nous unissent</sub-title>
+    <desc lang="en">Joy passe du bon temps avec ses amis au bord d'un lac. À son retour, elle retrouve sa mère en pleine crise psychotique. Abdi emmène Pop à l'hôpital, où il apprend qu'il est mourant. Revenu d'entre les morts, Ace rencontre une agente immobilière.(n)</desc>
+    <credits>
+      <actor>Lizzy Caplan</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Paul Sparks</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605000000 -0400" stop="20200605010000 -0400" channel="Addik TV">
+    <title lang="en">The Walking Dead (v.f.)</title>
+    <sub-title lang="en">Les meilleurs anges de notre nature</sub-title>
+    <desc lang="en">Le groupe apprend qu'un dangereux individu rôderait près de la ferme. La nuit tombée, Rick, Shane, Daryl et Glenn ratissent la forêt afin d´éliminer la menace et de protéger le groupe.(n)</desc>
+    <credits>
+      <actor>Andrew Lincoln</actor>
+      <actor>Jon Bernthal</actor>
+      <actor>Sarah Wayne Callies</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605010000 -0400" stop="20200605020000 -0400" channel="Addik TV">
+    <title lang="en">Nation Z</title>
+    <sub-title lang="en">L'alliance</sub-title>
+    <desc lang="en">Warren mène une attaque contre Murphytown pour en extraire son chef arrogant. Il a enfin la chance d'affronter Murphy en personne.(n)</desc>
+    <credits>
+      <actor>Kellita Smith</actor>
+      <actor>D.J. Qualls</actor>
+      <actor>Keith Allan</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200605020000 -0400" stop="20200605030000 -0400" channel="Addik TV">
+    <title lang="en">Justifié</title>
+    <sub-title lang="en">Noblesse oblige</sub-title>
+    <desc lang="en">Raylan suit une piste d'explosifs illégaux dans l'espoir qu'elle le conduise à Boyd. Ce dernier découvre qu'il s'est mis à dos un dangereux nouvel adversaire.(n)</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605030000 -0400" stop="20200605040000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">À l'eau Murdoch?</sub-title>
+    <desc lang="en">La fille d'un puissant industriel à la tête d'une compagnie de transport maritime disparaît sans laisser de trace. Murdoch la recherche.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Hélène Joy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605040000 -0400" stop="20200605043000 -0400" channel="Addik TV">
+    <title lang="en">Mort en service</title>
+    <sub-title lang="en">Valérie Gignac: Porte close</sub-title>
+    <desc lang="en">Une policière est abattue par un fusil de chasse devant la demeure de François Pépin.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605043000 -0400" stop="20200605050000 -0400" channel="Addik TV">
+    <title lang="en">Mort en service</title>
+    <sub-title lang="en">Hugh Haugland: Le dernier vol</sub-title>
+    <desc lang="en">À Mont-Laurier, le 5 août 2009, Hugh Haugland, un caméraman de CTV, monte à bord d'un hélicoptère pour filmer les ravages laissés par le passage d'une tornade. Peu avant l'atterrissage, un problème de moteur force le pilote à atterrir d'urgence.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605050000 -0400" stop="20200605053000 -0400" channel="Addik TV">
+    <title lang="en">Enquêteurs</title>
+    <sub-title lang="en">La course au Riopelle</sub-title>
+    <desc lang="en">L'enquêteur Alain Lacoursière est dépêché sur les lieux du vol d'un tableau de Jean-Paul Riopelle, qui a été subtilisé à la galerie du Centre du commerce mondial dans le Vieux-Montréal.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200605053000 -0400" stop="20200605060000 -0400" channel="Addik TV">
+    <title lang="en">Enquêteurs</title>
+    <sub-title lang="en">Le vol mortel</sub-title>
+    <desc lang="en">Un patrouilleur de nuit est retrouvé mort sur le site d'une mine désaffectée. L'enquêteur Jean-François Brochu, investiguera le meurtre, qui semble être un vol ayant tourné au cauchemar.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200605060000 -0400" stop="20200605070000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">À l'eau Murdoch?</sub-title>
+    <desc lang="en">La fille d'un puissant industriel à la tête d'une compagnie de transport maritime disparaît sans laisser de trace. Murdoch la recherche.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Hélène Joy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605070000 -0400" stop="20200605080000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">Les pirates du temps</sub-title>
+    <desc lang="en">Rip répond à l'appel de détresse d'un autre vaisseau temporel échoué dans l'espace afin de pouvoir utiliser son ordinateur et ainsi localiser Savage. Les légendes tombent toutefois dans le piège tendu par des pirates du temps.(n)</desc>
+    <credits>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605080000 -0400" stop="20200605090000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">Lily</sub-title>
+    <desc lang="en">Emma se rend compte que Lily, la fille de Maléfique, est son amie d'enfance. Elle décide alors de la retrouver pour que son ami puisse renouer avec sa mère. Regina se joint à Emma et ensemble elles partent à la recherche de Lil.(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605090000 -0400" stop="20200605100000 -0400" channel="Addik TV">
+    <title lang="en">Blindspot: Mémoire tatouée</title>
+    <sub-title lang="en">Le jour sans fin</sub-title>
+    <desc lang="en">L'équipe enquête sur les décès de plusieurs marines en apparence sans lien entre eux. Une explosion survient et plonge Patterson dans le coma, où elle est condamnée à revivre sans cesse l'enquête jusqu'à ce qu'elle parvienne à la résoudre.(n)</desc>
+    <credits>
+      <actor>Sullivan Stapleton</actor>
+      <actor>Jaimie Alexander</actor>
+      <actor>Rob Brown</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605100000 -0400" stop="20200605110000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Un passé ineffaçable</sub-title>
+    <desc lang="en">Le BAU enquête sur la mort de plusieurs employés du gouvernement. Ceux-ci semblent tous avoir été victimes d'une crise cardiaque, et parmi eux figure un ami proche de Walker. Reid attend, anxieux, de connaître la date de son procès.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605110000 -0400" stop="20200605120000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">À l'eau Murdoch?</sub-title>
+    <desc lang="en">La fille d'un puissant industriel à la tête d'une compagnie de transport maritime disparaît sans laisser de trace. Murdoch la recherche.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Hélène Joy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605120000 -0400" stop="20200605130000 -0400" channel="Addik TV">
+    <title lang="en">Shooter: Tireur d'élite</title>
+    <sub-title lang="en">A la vie, à la mort</sub-title>
+    <desc lang="en">Bob Lee tente de faire sortir Solotov de sa cachette. Il réalise toutefois que le Tchétchène a l'avantage. Des retours en arrière révèlent l'origine de Solotov. Isaac est courtisé par son créateur.(n)</desc>
+    <credits>
+      <actor>Ryan Phillippe</actor>
+      <actor>Omar Epps</actor>
+      <actor>Cynthia Addai-Robinson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605130000 -0400" stop="20200605140000 -0400" channel="Addik TV">
+    <title lang="en">L'enlèvement</title>
+    <sub-title lang="en">Trafic d'organes</sub-title>
+    <desc lang="en">Le fils d'un analyste de la CIA est kidnappé. L'équipe reçoit alors l'aide inattendue d'une autre victime d'enlèvement. Entre-temps, Hart découvre les sinistres motivations derrière ces enlèvements.(n)</desc>
+    <credits>
+      <actor>Clive Standen</actor>
+      <actor>Jennifer Beals</actor>
+      <actor>Brooklyn Sudano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605140000 -0400" stop="20200605150000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Enfin libre</sub-title>
+    <desc lang="en">Reid craint que sa mère ait été enlevée. Il demande au BAU de mener l'enquête pendant qu'il est détenu en prison.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605150000 -0400" stop="20200605160000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Les dessous de la petite reine</sub-title>
+    <desc lang="en">Pendant une course de vélo, un des coureurs meurt. Pour Murdoch, tout porte à croire qu'il a été tué en ingérant une mystérieuse boisson énergisante.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Hélène Joy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605160000 -0400" stop="20200605170000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">Lily</sub-title>
+    <desc lang="en">Emma se rend compte que Lily, la fille de Maléfique, est son amie d'enfance. Elle décide alors de la retrouver pour que son ami puisse renouer avec sa mère. Regina se joint à Emma et ensemble elles partent à la recherche de Lil.(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605170000 -0400" stop="20200605180000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">Les pirates du temps</sub-title>
+    <desc lang="en">Rip répond à l'appel de détresse d'un autre vaisseau temporel échoué dans l'espace afin de pouvoir utiliser son ordinateur et ainsi localiser Savage. Les légendes tombent toutefois dans le piège tendu par des pirates du temps.(n)</desc>
+    <credits>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605180000 -0400" stop="20200605200000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Zodiaque: Les signes de l'apocalypse</sub-title>
+    <desc lang="en">Un scientifique versé dans l'ésotérisme tente de stopper la trajectoire d'une mystérieuse planète qui, en croisant le soleil, a provoqué sur Terre une série de catastrophes naturelles.(n)</desc>
+    <credits>
+      <director>David Hogan</director>
+      <actor>Christopher Lloyd</actor>
+      <actor>Joel Gretsch</actor>
+      <actor>Reilly Dolman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200605200000 -0400" stop="20200605210000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Ensevelis</sub-title>
+    <desc lang="en">Le BAU enquête sur un étrange hiéroglyphe découvert sur un sans-abri décédé. Ce hiéroglyphe est identique à celui trouvé sur d'autres victimes par le passé. Reid décide de sortir prématurément sa mère d'une étude clinique pour la ramener chez lui.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605210000 -0400" stop="20200605220000 -0400" channel="Addik TV">
+    <title lang="en">S.W.A.T.</title>
+    <sub-title lang="en">Les faux monnayeurs</sub-title>
+    <desc lang="en">La lieutenante Lynch demande au S.W.A.T. de prendre part à une opération secrète. Celle-ci vise à infiltrer et à démanteler un gang qui imprime de la fausse monnaie. Rien ne va plus entre les parents de Hondo, qui se disputent de plus en plus.(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>Stephanie Sigman</actor>
+      <actor>Alex Russell</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200605220000 -0400" stop="20200606003000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Grindhouse: À l'épreuve de la mort</sub-title>
+    <desc lang="en">Un psychopathe tue des femmes sur les routes avec sa voiture blindée. Contre toutes attentes, il est sévèrement puni par des cascadeuses professionnelles qui lui en font voir de toutes les couleurs.(n)</desc>
+    <credits>
+      <director>Quentin Tarantino</director>
+      <actor>Kurt Russell</actor>
+      <actor>Rosario Dawson</actor>
+      <actor>Vanessa Ferlito</actor>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20200606003000 -0400" stop="20200606030000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Délivrez-nous du mal</sub-title>
+    <desc lang="en">Dans un village, un homme tue accidentellement une femme et présente de fausses preuves accusant un immigré. Le frère du coupable prend parti pour l'innocent.(n)</desc>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200606030000 -0400" stop="20200606040000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Les dessous de la petite reine</sub-title>
+    <desc lang="en">Pendant une course de vélo, un des coureurs meurt. Pour Murdoch, tout porte à croire qu'il a été tué en ingérant une mystérieuse boisson énergisante.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Hélène Joy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200606040000 -0400" stop="20200606043000 -0400" channel="Addik TV">
+    <title lang="en">Mort en service</title>
+    <sub-title lang="en">James Peter Ratcliffe: Par-dessus bord</sub-title>
+    <desc lang="en">Un pompier perd la vie alors qu'il participe à une formation en sauvetage nautique.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606043000 -0400" stop="20200606050000 -0400" channel="Addik TV">
+    <title lang="en">Mort en service</title>
+    <sub-title lang="en">Marcel Marleau: La bête</sub-title>
+    <desc lang="en">Un pompier perd la vie lors d'un violent incendie dans un bloc appartement de Montréal.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606050000 -0400" stop="20200606060000 -0400" channel="Addik TV">
+    <title lang="en">Coroner</title>
+    <sub-title lang="en">Maison à vendre</sub-title>
+    <desc lang="en">Un confinement est décrété au bâtiment de la coroner. Jenny, isolée de son équipe, plonge dans le passé. Le détective McAvoy traque un tueur récemment libéré de prison.(n)</desc>
+    <credits>
+      <actor>Serinda Swan</actor>
+      <actor>Roger R. Cross</actor>
+      <actor>Lovell Adams-Gray</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200606060000 -0400" stop="20200606070000 -0400" channel="Addik TV">
+    <title lang="en">Frankie Drake: détective privée</title>
+    <sub-title lang="en">Une voix divine</sub-title>
+    <desc lang="en">Frankie et Trudy s'investissent pleinement dans l'univers de la scène jazz de Toronto. Elles le font dans le but de protéger un guérisseur de la foi.(n)</desc>
+    <credits>
+      <actor>Lauren Lee Smith</actor>
+      <actor>Chantel Riley</actor>
+      <actor>Rebecca Liddiard</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200606070000 -0400" stop="20200606080000 -0400" channel="Addik TV">
+    <title lang="en">Suits: Les deux font la paire</title>
+    <sub-title lang="en">Sur la corde raide</sub-title>
+    <desc lang="en">Harvey et Mike s'associent pour les besoins d'un recours collectif. Louis a besoin de l'aide de Rachel pour impressionner un client au cours d'une présentation annuelle. Donna et Benjamin affinent leur produit.(n)</desc>
+    <credits>
+      <actor>Gabriel Macht</actor>
+      <actor>Patrick J. Adams</actor>
+      <actor>Meghan Markle</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200606080000 -0400" stop="20200606090000 -0400" channel="Addik TV">
+    <title lang="en">Avocats de la rue</title>
+    <sub-title lang="en">Fissures</sub-title>
+    <desc lang="en">Un juge décède subitement. Leon choisit ce moment trouble pour débarquer. L'affaire du recours collectif passe à l'étape du procès.(n)</desc>
+    <credits>
+      <actor>Cynthia Dale</actor>
+      <actor>Cara Ricketts</actor>
+      <actor>Steve Lund</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606090000 -0400" stop="20200606110000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Zodiaque: Les signes de l'apocalypse</sub-title>
+    <desc lang="en">Un scientifique versé dans l'ésotérisme tente de stopper la trajectoire d'une mystérieuse planète qui, en croisant le soleil, a provoqué sur Terre une série de catastrophes naturelles.(n)</desc>
+    <credits>
+      <director>David Hogan</director>
+      <actor>Christopher Lloyd</actor>
+      <actor>Joel Gretsch</actor>
+      <actor>Reilly Dolman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200606110000 -0400" stop="20200606120000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Le rôdeur</sub-title>
+    <desc lang="en">Murdoch s'efforce d'appréhender un criminel au déguisement lubrique. Celui-ci, connu sous le nom du 'Rôdeur' et adepte de rencontres amoureuses, a commis un meurtre.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200606120000 -0400" stop="20200606130000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">La voix du démon</sub-title>
+    <desc lang="en">Un meurtrier affirme être possédé par l'esprit de James Gillies, l'ennemi juré de Murdoch. Murdoch et Ogden soupçonnent alors Gillies d'être encore en vie.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200606130000 -0400" stop="20200606140000 -0400" channel="Addik TV">
+    <title lang="en">S.W.A.T.</title>
+    <sub-title lang="en">Les faux monnayeurs</sub-title>
+    <desc lang="en">La lieutenante Lynch demande au S.W.A.T. de prendre part à une opération secrète. Celle-ci vise à infiltrer et à démanteler un gang qui imprime de la fausse monnaie. Rien ne va plus entre les parents de Hondo, qui se disputent de plus en plus.(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>Stephanie Sigman</actor>
+      <actor>Alex Russell</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200606140000 -0400" stop="20200606150000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Ensevelis</sub-title>
+    <desc lang="en">Le BAU enquête sur un étrange hiéroglyphe découvert sur un sans-abri décédé. Ce hiéroglyphe est identique à celui trouvé sur d'autres victimes par le passé. Reid décide de sortir prématurément sa mère d'une étude clinique pour la ramener chez lui.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606150000 -0400" stop="20200606160000 -0400" channel="Addik TV">
+    <title lang="en">Mr. Robot</title>
+    <sub-title lang="en">409 Conflit</sub-title>
+    <desc lang="en">Dans l'esprit d'Elliot, Mr. Robot échange avec Magda et un jeune Elliot. Darlene retrouve Mr. Robot pour compléter le piratage du groupe Deus. Ils reçoivent la visite d'un allié qui veut s'assurer de la destruction de la machine de Whitehorse.(n)</desc>
+    <credits>
+      <actor>BD Wong</actor>
+      <actor>Martin Wallström</actor>
+      <actor>Christian Slater</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200606160000 -0400" stop="20200606180000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Bonne chance Slevin!</sub-title>
+    <desc lang="en">Un homme est précipité au milieu d'une guerre de gangs et doit assassiner le fils d'un chef du crime organisé afin de sauver sa vie.(n)</desc>
+    <credits>
+      <director>Paul McGuigan</director>
+      <actor>Bruce Willis</actor>
+      <actor>Josh Hartnett</actor>
+      <actor>Morgan Freeman</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20200606180000 -0400" stop="20200606190000 -0400" channel="Addik TV">
+    <title lang="en">Frankie Drake: détective privée</title>
+    <sub-title lang="en">Une voix divine</sub-title>
+    <desc lang="en">Frankie et Trudy s'investissent pleinement dans l'univers de la scène jazz de Toronto. Elles le font dans le but de protéger un guérisseur de la foi.(n)</desc>
+    <credits>
+      <actor>Lauren Lee Smith</actor>
+      <actor>Chantel Riley</actor>
+      <actor>Rebecca Liddiard</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200606190000 -0400" stop="20200606200000 -0400" channel="Addik TV">
+    <title lang="en">Avocats de la rue</title>
+    <sub-title lang="en">Fissures</sub-title>
+    <desc lang="en">Un juge décède subitement. Leon choisit ce moment trouble pour débarquer. L'affaire du recours collectif passe à l'étape du procès.(n)</desc>
+    <credits>
+      <actor>Cynthia Dale</actor>
+      <actor>Cara Ricketts</actor>
+      <actor>Steve Lund</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606200000 -0400" stop="20200606210000 -0400" channel="Addik TV">
+    <title lang="en">Castle Rock (v.f.)</title>
+    <sub-title lang="en">Les liens qui nous unissent</sub-title>
+    <desc lang="en">Joy passe du bon temps avec ses amis au bord d'un lac. À son retour, elle retrouve sa mère en pleine crise psychotique. Abdi emmène Pop à l'hôpital, où il apprend qu'il est mourant. Revenu d'entre les morts, Ace rencontre une agente immobilière.(n)</desc>
+    <credits>
+      <actor>Lizzy Caplan</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Paul Sparks</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606210000 -0400" stop="20200606233000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">L'International</sub-title>
+    <desc lang="en">Un agent d'Interpol et l'assistante d'un procureur veulent arrêter des banques corrompues.(n)</desc>
+    <credits>
+      <director>Tom Tykwer</director>
+      <actor>Clive Owen</actor>
+      <actor>Naomi Watts</actor>
+      <actor>Ulrich Thomsen</actor>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Crime Story</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20200606233000 -0400" stop="20200607013000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Cellulaire</sub-title>
+    <desc lang="en">Dans la région de Boston, quelques survivants tentent d'échapper à des humains devenus des zombies agressifs après avoir utilisé leurs téléphones cellulaires.(n)</desc>
+    <credits>
+      <director>Tod Williams</director>
+      <actor>John Cusack</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Isabelle Fuhrman</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+  </programme>
+  <programme start="20200607013000 -0400" stop="20200607033000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Zodiaque: Les signes de l'apocalypse</sub-title>
+    <desc lang="en">Un scientifique versé dans l'ésotérisme tente de stopper la trajectoire d'une mystérieuse planète qui, en croisant le soleil, a provoqué sur Terre une série de catastrophes naturelles.(n)</desc>
+    <credits>
+      <director>David Hogan</director>
+      <actor>Christopher Lloyd</actor>
+      <actor>Joel Gretsch</actor>
+      <actor>Reilly Dolman</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200607033000 -0400" stop="20200607040000 -0400" channel="Addik TV">
+    <title lang="en">Enquêteurs</title>
+    <sub-title lang="en">Hors de tout doute</sub-title>
+    <desc lang="en">Lisette Poulin est retrouvée sans vie sur sa terre de St-Agapit à la suite de ce qui semble être un accident. L'enquêteur Arold Bernatchez fera face à l'affaire la plus complexe de sa carrière.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200607040000 -0400" stop="20200607050000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Le rôdeur</sub-title>
+    <desc lang="en">Murdoch s'efforce d'appréhender un criminel au déguisement lubrique. Celui-ci, connu sous le nom du 'Rôdeur' et adepte de rencontres amoureuses, a commis un meurtre.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200607050000 -0400" stop="20200607060000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">La voix du démon</sub-title>
+    <desc lang="en">Un meurtrier affirme être possédé par l'esprit de James Gillies, l'ennemi juré de Murdoch. Murdoch et Ogden soupçonnent alors Gillies d'être encore en vie.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200607060000 -0400" stop="20200607070000 -0400" channel="Addik TV">
+    <title lang="en">Coroner</title>
+    <sub-title lang="en">Maison à vendre</sub-title>
+    <desc lang="en">Un confinement est décrété au bâtiment de la coroner. Jenny, isolée de son équipe, plonge dans le passé. Le détective McAvoy traque un tueur récemment libéré de prison.(n)</desc>
+    <credits>
+      <actor>Serinda Swan</actor>
+      <actor>Roger R. Cross</actor>
+      <actor>Lovell Adams-Gray</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200607070000 -0400" stop="20200607080000 -0400" channel="Addik TV">
+    <title lang="en">Suits: Les deux font la paire</title>
+    <sub-title lang="en">Quid pro quo</sub-title>
+    <desc lang="en">Le recours collectif se heurte à un problème qui pourrait coûter très cher à Mike. Harvey, Louis et Rachel songent à se salir les mains. Donna et Benjamin sont à la recherche d'un investisseur.(n)</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200607080000 -0400" stop="20200607090000 -0400" channel="Addik TV">
+    <title lang="en">Suits: Les deux font la paire</title>
+    <sub-title lang="en">Tout ou rien</sub-title>
+    <desc lang="en">Mike a besoin de l'aide de Rachel et Harvey pour surmonter un obstacle impossible, sinon il peut dire adieu à son rêve de devenir un vrai avocat. C'est au tour de Donna de connaître des ennuis avec son projet. Louis essaie de se réconcilier avec Tara.(n)</desc>
+    <credits>
+      <actor>Gabriel Macht</actor>
+      <actor>Patrick J. Adams</actor>
+      <actor>Meghan Markle</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200607090000 -0400" stop="20200607110000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Incompatibles</sub-title>
+    <desc lang="en">Deux flics mal assortis font équipe afin de résoudre une affaire de meurtre.(n)</desc>
+    <credits>
+      <director>David Charhon</director>
+      <actor>Omar Sy</actor>
+      <actor>Laurent Lafitte</actor>
+      <actor>Sabrina Ouazani</actor>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200607110000 -0400" stop="20200607120000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Un fin limier</sub-title>
+    <desc lang="en">Murdoch enquête sur la mort d'un chien de concours. Il se découvre alors des sentiments inconnus pour les compagnons canins.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200607120000 -0400" stop="20200607130000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Retrouvailles inespérées</sub-title>
+    <desc lang="en">Un homme se présente et affirme être un garçon ayant été enlevé 20 ans plus tôt. Murdoch mène l'enquête pour confirmer son identité, car celui-ci serait aujourd'hui un riche héritier.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200607130000 -0400" stop="20200607140000 -0400" channel="Addik TV">
+    <title lang="en">Mr. Robot</title>
+    <sub-title lang="en">409 Conflit</sub-title>
+    <desc lang="en">Dans l'esprit d'Elliot, Mr. Robot échange avec Magda et un jeune Elliot. Darlene retrouve Mr. Robot pour compléter le piratage du groupe Deus. Ils reçoivent la visite d'un allié qui veut s'assurer de la destruction de la machine de Whitehorse.(n)</desc>
+    <credits>
+      <actor>BD Wong</actor>
+      <actor>Martin Wallström</actor>
+      <actor>Christian Slater</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200607140000 -0400" stop="20200607150000 -0400" channel="Addik TV">
+    <title lang="en">Flash</title>
+    <sub-title lang="en">Nous sommes Flash</sub-title>
+    <desc lang="en">L'équipe Flash obtient l'aide d'un allié inattendu dans sa lutte contre DeVoe.(n)</desc>
+    <credits>
+      <actor>Grant Gustin</actor>
+      <actor>Jesse L. Martin</actor>
+      <actor>Tom Cavanaugh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200607150000 -0400" stop="20200607160000 -0400" channel="Addik TV">
+    <title lang="en">Castle Rock (v.f.)</title>
+    <sub-title lang="en">Les liens qui nous unissent</sub-title>
+    <desc lang="en">Joy passe du bon temps avec ses amis au bord d'un lac. À son retour, elle retrouve sa mère en pleine crise psychotique. Abdi emmène Pop à l'hôpital, où il apprend qu'il est mourant. Revenu d'entre les morts, Ace rencontre une agente immobilière.(n)</desc>
+    <credits>
+      <actor>Lizzy Caplan</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Paul Sparks</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200607160000 -0400" stop="20200607180000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Vice (v.f.)</sub-title>
+    <desc lang="en">Des clients utilisent des robots à apparence humaine pour assouvir leurs fantasmes.(n)</desc>
+    <credits>
+      <director>Brian A. Miller</director>
+      <actor>Bruce Willis</actor>
+      <actor>Thomas Jane</actor>
+      <actor>Ambyr Childers</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200607180000 -0400" stop="20200607190000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Ensevelis</sub-title>
+    <desc lang="en">Le BAU enquête sur un étrange hiéroglyphe découvert sur un sans-abri décédé. Ce hiéroglyphe est identique à celui trouvé sur d'autres victimes par le passé. Reid décide de sortir prématurément sa mère d'une étude clinique pour la ramener chez lui.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200607190000 -0400" stop="20200607200000 -0400" channel="Addik TV">
+    <title lang="en">Amis et assassins</title>
+    <sub-title lang="en">La loi de la nature</sub-title>
+    <desc lang="en">Des randonneurs découvrent le corps d'une femme. Les soupçons se portent aussitôt sur les amis ayant campé avec la victime. Mais en poursuivant l'enquêtant, les détectives réalisent que la jalousie et un dangereux prédateur sont plutôt à blâmer.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200607200000 -0400" stop="20200607210000 -0400" channel="Addik TV">
+    <title lang="en">S.W.A.T.</title>
+    <sub-title lang="en">Les faux monnayeurs</sub-title>
+    <desc lang="en">La lieutenante Lynch demande au S.W.A.T. de prendre part à une opération secrète. Celle-ci vise à infiltrer et à démanteler un gang qui imprime de la fausse monnaie. Rien ne va plus entre les parents de Hondo, qui se disputent de plus en plus.(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>Stephanie Sigman</actor>
+      <actor>Alex Russell</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200607210000 -0400" stop="20200607220000 -0400" channel="Addik TV">
+    <title lang="en">Un ennemi parmi nous</title>
+    <sub-title lang="en">Situation explosive</sub-title>
+    <desc lang="en">Au New Jersey, l'explosion d'une bombe tue huit civiles. Keaton et son équipe utilisent le cellulaire de Cruz pour remonter jusqu'à l'expert en communication de Tal et découvrent que celui-ci possède ce qu'il faut pour fabriquer neuf autres bombes.(n)</desc>
+    <credits>
+      <actor>Jennifer Carpenter</actor>
+      <actor>Morris Chestnut</actor>
+      <actor>Raza Jaffrey</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200607220000 -0400" stop="20200607230000 -0400" channel="Addik TV">
+    <title lang="en">Mr. Robot</title>
+    <sub-title lang="en">409 Conflit</sub-title>
+    <desc lang="en">Dans l'esprit d'Elliot, Mr. Robot échange avec Magda et un jeune Elliot. Darlene retrouve Mr. Robot pour compléter le piratage du groupe Deus. Ils reçoivent la visite d'un allié qui veut s'assurer de la destruction de la machine de Whitehorse.(n)</desc>
+    <credits>
+      <actor>BD Wong</actor>
+      <actor>Martin Wallström</actor>
+      <actor>Christian Slater</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200607230000 -0400" stop="20200608000000 -0400" channel="Addik TV">
+    <title lang="en">La liste noire</title>
+    <sub-title lang="en">Miles McGrath</sub-title>
+    <desc lang="en">Red et l'équipe prennent des mesures extrêmes pour trouver l'un des alliés d'Alexander Kirk, Mike McGrath, un 'incubateur' qui finance des crimes pour faire du profit. Liz en apprend plus sur sa famille.(n)</desc>
+    <credits>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Harry J. Lennix</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200601204000 +0000" stop="20200602000000 +0000" channel="WWE">
+    <title lang="en">Best of Asuka’s Undefeated Streak</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run.For over two years, Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run, including her hotly-contested encounters against Bayley, Ember Moon and Sasha Banks.(n)</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E28</episode-num>
+  </programme>
+  <programme start="20200602000000 +0000" stop="20200602010000 +0000" channel="WWE">
+    <title lang="en">WWE NXT UK</title>
+    <sub-title lang="en">WWE NXT UK</sub-title>
+    <desc lang="en">This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.(n)</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200602010000 +0000" stop="20200602013000 +0000" channel="WWE">
+    <title lang="en">Tommaso Ciampa: blackHEART</title>
+    <desc lang="en">As former NXT Champion Tommaso Ciampa fights to overcome a devastating injury, he finds strength in his wife, baby daughter, friends, and the NXT Universe.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200602013000 +0000" stop="20200602020000 +0000" channel="WWE">
+    <title lang="en">The Comeback: Tegan Nox</title>
+    <desc lang="en">Tegan Nox's WWE dream nearly ended due to a pair of serious knee injuries. Witness the highs and lows of her journey back to the ring.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200602020000 +0000" stop="20200602030000 +0000" channel="WWE">
+    <title lang="en">Sting: Into the Light</title>
+    <desc lang="en">Sting relives some of his greatest moments in sports-entertainment and prepares to compete in a WWE ring for the first time at WrestleMania.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200602030000 +0000" stop="20200602033000 +0000" channel="WWE">
+    <title lang="en">June 1, 2020</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200602033000 +0000" stop="20200602040000 +0000" channel="WWE">
+    <title lang="en">Sting: The Lost Tape</title>
+    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200602040000 +0000" stop="20200602050000 +0000" channel="WWE">
+    <title lang="en">Chapter 3: End of an Era</title>
+    <sub-title lang="en">Undertaker: The Last Ride</sub-title>
+    <desc lang="en">Undertaker seeks closure on his career in a series of matches with those he respects the most, setting the stage to ride off into the night.Fresh off his stellar performance at WrestleMania 34 against John Cena, The Undertaker seeks closure on his 30-year career in a series of matches with the men he respects the most - Triple H, Shawn Michaels and Kane. With a dream scenario involving all four Legends at WWE Crown Jewel, the stage was set for The Phenom to ride off into the night.(n)</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E3</episode-num>
+  </programme>
+  <programme start="20200602050000 +0000" stop="20200602060000 +0000" channel="WWE">
+    <title lang="en">I am The Game</title>
+    <sub-title lang="en">WWE Untold</sub-title>
+    <desc lang="en">A pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. This is his untold story.At the dawn of the new millennium, a pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. He, along with Mick Foley and others, look back at the untold stories behind the rise of The Game.(n)</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E4</episode-num>
+  </programme>
+  <programme start="20200602060000 +0000" stop="20200602063000 +0000" channel="WWE">
+    <title lang="en">June 1, 2020</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200602063000 +0000" stop="20200602070000 +0000" channel="WWE">
+    <title lang="en">Sting: The Lost Tape</title>
+    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200602070000 +0000" stop="20200602094000 +0000" channel="WWE">
+    <title lang="en">Stone Cold’s Best WrestleMania Matches</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania moments, from his legendary battles with The Rock to winning the WWE Title.Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania matches and moments, from his legendary battles with The Rock to kicking off \"The Austin Era\" by winning the WWE Championship for the first time.(n)</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E11</episode-num>
+  </programme>
+  <programme start="20200602094000 +0000" stop="20200602100000 +0000" channel="WWE">
+    <title lang="en">Ricochet</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.(n)</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E4</episode-num>
+  </programme>
+  <programme start="20200602100000 +0000" stop="20200602124500 +0000" channel="WWE">
+    <title lang="en">Backlash 2016</title>
+    <sub-title lang="en">Backlash</sub-title>
+    <desc lang="en">AJ Styles challenges Dean Ambrose for the WWE World Title. Plus, the first SmackDown LIVE Tag Team and Women's Champions are crownIn the main event, Dean Ambrose puts the coveted WWE World Championship on the line against The Phenomenal AJ Styles. Plus, the finals of the SmackDown Tag Team Championship Tournament, a Six-Pack Challenge to crown the first SmackDown Women's Champion, and much more.(n)</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2016 E1</episode-num>
+  </programme>
+  <programme start="20200602124500 +0000" stop="20200602204000 +0000" channel="WWE">
+    <title lang="en">AJ Styles</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his rivalry with John Cena.AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his captivating rivalry with John Cena.(n)</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E5</episode-num>
+  </programme>
+  <programme start="20200602204000 +0000" stop="20200603000000 +0000" channel="WWE">
+    <title lang="en">Best of Asuka’s Undefeated Streak</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run.For over two years, Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run, including her hotly-contested encounters against Bayley, Ember Moon and Sasha Banks.(n)</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E28</episode-num>
+  </programme>
+  <programme start="20200602204000 +0000" stop="20200603000000 +0000" channel="WWE">
+    <title lang="en">Best of Asuka’s Undefeated Streak</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run.For over two years, Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run, including her hotly-contested encounters against Bayley, Ember Moon and Sasha Banks.(n)</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E28</episode-num>
+  </programme>
+  <programme start="20200602204000 +0000" stop="20200603000000 +0000" channel="WWE">
+    <title lang="en">Best of Asuka’s Undefeated Streak</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run.For over two years, Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run, including her hotly-contested encounters against Bayley, Ember Moon and Sasha Banks.(n)</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E28</episode-num>
+  </programme>
+  <programme start="20200603000000 +0000" stop="20200603010000 +0000" channel="WWE">
+    <title lang="en">WWE NXT UK</title>
+    <sub-title lang="en">WWE NXT UK</sub-title>
+    <desc lang="en">This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.(n)</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200603000000 +0000" stop="20200603010000 +0000" channel="WWE">
+    <title lang="en">WWE NXT UK</title>
+    <sub-title lang="en">WWE NXT UK</sub-title>
+    <desc lang="en">This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.(n)</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200603000000 +0000" stop="20200603010000 +0000" channel="WWE">
+    <title lang="en">WWE NXT UK</title>
+    <sub-title lang="en">WWE NXT UK</sub-title>
+    <desc lang="en">This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.(n)</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200603010000 +0000" stop="20200603013000 +0000" channel="WWE">
+    <title lang="en">Tommaso Ciampa: blackHEART</title>
+    <desc lang="en">As former NXT Champion Tommaso Ciampa fights to overcome a devastating injury, he finds strength in his wife, baby daughter, friends, and the NXT Universe.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603010000 +0000" stop="20200603013000 +0000" channel="WWE">
+    <title lang="en">Tommaso Ciampa: blackHEART</title>
+    <desc lang="en">As former NXT Champion Tommaso Ciampa fights to overcome a devastating injury, he finds strength in his wife, baby daughter, friends, and the NXT Universe.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603010000 +0000" stop="20200603013000 +0000" channel="WWE">
+    <title lang="en">Tommaso Ciampa: blackHEART</title>
+    <desc lang="en">As former NXT Champion Tommaso Ciampa fights to overcome a devastating injury, he finds strength in his wife, baby daughter, friends, and the NXT Universe.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603013000 +0000" stop="20200603020000 +0000" channel="WWE">
+    <title lang="en">The Comeback: Tegan Nox</title>
+    <desc lang="en">Tegan Nox's WWE dream nearly ended due to a pair of serious knee injuries. Witness the highs and lows of her journey back to the ring.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603013000 +0000" stop="20200603020000 +0000" channel="WWE">
+    <title lang="en">The Comeback: Tegan Nox</title>
+    <desc lang="en">Tegan Nox's WWE dream nearly ended due to a pair of serious knee injuries. Witness the highs and lows of her journey back to the ring.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603013000 +0000" stop="20200603020000 +0000" channel="WWE">
+    <title lang="en">The Comeback: Tegan Nox</title>
+    <desc lang="en">Tegan Nox's WWE dream nearly ended due to a pair of serious knee injuries. Witness the highs and lows of her journey back to the ring.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603020000 +0000" stop="20200603030000 +0000" channel="WWE">
+    <title lang="en">Sting: Into the Light</title>
+    <desc lang="en">Sting relives some of his greatest moments in sports-entertainment and prepares to compete in a WWE ring for the first time at WrestleMania.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603020000 +0000" stop="20200603030000 +0000" channel="WWE">
+    <title lang="en">Sting: Into the Light</title>
+    <desc lang="en">Sting relives some of his greatest moments in sports-entertainment and prepares to compete in a WWE ring for the first time at WrestleMania.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603020000 +0000" stop="20200603030000 +0000" channel="WWE">
+    <title lang="en">Sting: Into the Light</title>
+    <desc lang="en">Sting relives some of his greatest moments in sports-entertainment and prepares to compete in a WWE ring for the first time at WrestleMania.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603030000 +0000" stop="20200603033000 +0000" channel="WWE">
+    <title lang="en">June 1, 2020</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200603030000 +0000" stop="20200603033000 +0000" channel="WWE">
+    <title lang="en">June 1, 2020</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200603030000 +0000" stop="20200603033000 +0000" channel="WWE">
+    <title lang="en">June 1, 2020</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200603033000 +0000" stop="20200603040000 +0000" channel="WWE">
+    <title lang="en">Sting: The Lost Tape</title>
+    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603033000 +0000" stop="20200603040000 +0000" channel="WWE">
+    <title lang="en">Sting: The Lost Tape</title>
+    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603033000 +0000" stop="20200603040000 +0000" channel="WWE">
+    <title lang="en">Sting: The Lost Tape</title>
+    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603040000 +0000" stop="20200603050000 +0000" channel="WWE">
+    <title lang="en">Chapter 3: End of an Era</title>
+    <sub-title lang="en">Undertaker: The Last Ride</sub-title>
+    <desc lang="en">Undertaker seeks closure on his career in a series of matches with those he respects the most, setting the stage to ride off into the night.Fresh off his stellar performance at WrestleMania 34 against John Cena, The Undertaker seeks closure on his 30-year career in a series of matches with the men he respects the most - Triple H, Shawn Michaels and Kane. With a dream scenario involving all four Legends at WWE Crown Jewel, the stage was set for The Phenom to ride off into the night.(n)</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E3</episode-num>
+  </programme>
+  <programme start="20200603040000 +0000" stop="20200603050000 +0000" channel="WWE">
+    <title lang="en">Chapter 3: End of an Era</title>
+    <sub-title lang="en">Undertaker: The Last Ride</sub-title>
+    <desc lang="en">Undertaker seeks closure on his career in a series of matches with those he respects the most, setting the stage to ride off into the night.Fresh off his stellar performance at WrestleMania 34 against John Cena, The Undertaker seeks closure on his 30-year career in a series of matches with the men he respects the most - Triple H, Shawn Michaels and Kane. With a dream scenario involving all four Legends at WWE Crown Jewel, the stage was set for The Phenom to ride off into the night.(n)</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E3</episode-num>
+  </programme>
+  <programme start="20200603040000 +0000" stop="20200603050000 +0000" channel="WWE">
+    <title lang="en">Chapter 3: End of an Era</title>
+    <sub-title lang="en">Undertaker: The Last Ride</sub-title>
+    <desc lang="en">Undertaker seeks closure on his career in a series of matches with those he respects the most, setting the stage to ride off into the night.Fresh off his stellar performance at WrestleMania 34 against John Cena, The Undertaker seeks closure on his 30-year career in a series of matches with the men he respects the most - Triple H, Shawn Michaels and Kane. With a dream scenario involving all four Legends at WWE Crown Jewel, the stage was set for The Phenom to ride off into the night.(n)</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E3</episode-num>
+  </programme>
+  <programme start="20200603050000 +0000" stop="20200603060000 +0000" channel="WWE">
+    <title lang="en">I am The Game</title>
+    <sub-title lang="en">WWE Untold</sub-title>
+    <desc lang="en">A pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. This is his untold story.At the dawn of the new millennium, a pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. He, along with Mick Foley and others, look back at the untold stories behind the rise of The Game.(n)</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E4</episode-num>
+  </programme>
+  <programme start="20200603050000 +0000" stop="20200603060000 +0000" channel="WWE">
+    <title lang="en">I am The Game</title>
+    <sub-title lang="en">WWE Untold</sub-title>
+    <desc lang="en">A pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. This is his untold story.At the dawn of the new millennium, a pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. He, along with Mick Foley and others, look back at the untold stories behind the rise of The Game.(n)</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E4</episode-num>
+  </programme>
+  <programme start="20200603050000 +0000" stop="20200603060000 +0000" channel="WWE">
+    <title lang="en">I am The Game</title>
+    <sub-title lang="en">WWE Untold</sub-title>
+    <desc lang="en">A pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. This is his untold story.At the dawn of the new millennium, a pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. He, along with Mick Foley and others, look back at the untold stories behind the rise of The Game.(n)</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">S2020 E4</episode-num>
+  </programme>
+  <programme start="20200603060000 +0000" stop="20200603063000 +0000" channel="WWE">
+    <title lang="en">June 1, 2020</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200603060000 +0000" stop="20200603063000 +0000" channel="WWE">
+    <title lang="en">June 1, 2020</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200603060000 +0000" stop="20200603063000 +0000" channel="WWE">
+    <title lang="en">June 1, 2020</title>
+    <sub-title lang="en">Raw Talk</sub-title>
+    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
+    <category lang="en">Shoulder</category>
+    <episode-num system="onscreen">S2020 E22</episode-num>
+  </programme>
+  <programme start="20200603063000 +0000" stop="20200603070000 +0000" channel="WWE">
+    <title lang="en">Sting: The Lost Tape</title>
+    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603063000 +0000" stop="20200603070000 +0000" channel="WWE">
+    <title lang="en">Sting: The Lost Tape</title>
+    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603063000 +0000" stop="20200603070000 +0000" channel="WWE">
+    <title lang="en">Sting: The Lost Tape</title>
+    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200603070000 +0000" stop="20200603094000 +0000" channel="WWE">
+    <title lang="en">Stone Cold’s Best WrestleMania Matches</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania moments, from his legendary battles with The Rock to winning the WWE Title.Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania matches and moments, from his legendary battles with The Rock to kicking off \"The Austin Era\" by winning the WWE Championship for the first time.(n)</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E11</episode-num>
+  </programme>
+  <programme start="20200603070000 +0000" stop="20200603094000 +0000" channel="WWE">
+    <title lang="en">Stone Cold’s Best WrestleMania Matches</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania moments, from his legendary battles with The Rock to winning the WWE Title.Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania matches and moments, from his legendary battles with The Rock to kicking off \"The Austin Era\" by winning the WWE Championship for the first time.(n)</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E11</episode-num>
+  </programme>
+  <programme start="20200603070000 +0000" stop="20200603094000 +0000" channel="WWE">
+    <title lang="en">Stone Cold’s Best WrestleMania Matches</title>
+    <sub-title lang="en">The Best of WWE</sub-title>
+    <desc lang="en">Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania moments, from his legendary battles with The Rock to winning the WWE Title.Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania matches and moments, from his legendary battles with The Rock to kicking off \"The Austin Era\" by winning the WWE Championship for the first time.(n)</desc>
+    <category lang="en">Best of</category>
+    <episode-num system="onscreen">S2020 E11</episode-num>
+  </programme>
+  <programme start="20200603094000 +0000" stop="20200603100000 +0000" channel="WWE">
+    <title lang="en">Ricochet</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.(n)</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E4</episode-num>
+  </programme>
+  <programme start="20200603094000 +0000" stop="20200603100000 +0000" channel="WWE">
+    <title lang="en">Ricochet</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.(n)</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E4</episode-num>
+  </programme>
+  <programme start="20200603094000 +0000" stop="20200603100000 +0000" channel="WWE">
+    <title lang="en">Ricochet</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.(n)</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E4</episode-num>
+  </programme>
+  <programme start="20200603100000 +0000" stop="20200603124500 +0000" channel="WWE">
+    <title lang="en">Backlash 2016</title>
+    <sub-title lang="en">Backlash</sub-title>
+    <desc lang="en">AJ Styles challenges Dean Ambrose for the WWE World Title. Plus, the first SmackDown LIVE Tag Team and Women's Champions are crownIn the main event, Dean Ambrose puts the coveted WWE World Championship on the line against The Phenomenal AJ Styles. Plus, the finals of the SmackDown Tag Team Championship Tournament, a Six-Pack Challenge to crown the first SmackDown Women's Champion, and much more.(n)</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2016 E1</episode-num>
+  </programme>
+  <programme start="20200603100000 +0000" stop="20200603124500 +0000" channel="WWE">
+    <title lang="en">Backlash 2016</title>
+    <sub-title lang="en">Backlash</sub-title>
+    <desc lang="en">AJ Styles challenges Dean Ambrose for the WWE World Title. Plus, the first SmackDown LIVE Tag Team and Women's Champions are crownIn the main event, Dean Ambrose puts the coveted WWE World Championship on the line against The Phenomenal AJ Styles. Plus, the finals of the SmackDown Tag Team Championship Tournament, a Six-Pack Challenge to crown the first SmackDown Women's Champion, and much more.(n)</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2016 E1</episode-num>
+  </programme>
+  <programme start="20200603100000 +0000" stop="20200603124500 +0000" channel="WWE">
+    <title lang="en">Backlash 2016</title>
+    <sub-title lang="en">Backlash</sub-title>
+    <desc lang="en">AJ Styles challenges Dean Ambrose for the WWE World Title. Plus, the first SmackDown LIVE Tag Team and Women's Champions are crownIn the main event, Dean Ambrose puts the coveted WWE World Championship on the line against The Phenomenal AJ Styles. Plus, the finals of the SmackDown Tag Team Championship Tournament, a Six-Pack Challenge to crown the first SmackDown Women's Champion, and much more.(n)</desc>
+    <category lang="en">Event</category>
+    <episode-num system="onscreen">S2016 E1</episode-num>
+  </programme>
+  <programme start="20200603124500 +0000" stop="20200603204000 +0000" channel="WWE">
+    <title lang="en">AJ Styles</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his rivalry with John Cena.AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his captivating rivalry with John Cena.(n)</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E5</episode-num>
+  </programme>
+  <programme start="20200603124500 +0000" stop="20200603204000 +0000" channel="WWE">
+    <title lang="en">AJ Styles</title>
+    <sub-title lang="en">WWE Break It Down</sub-title>
+    <desc lang="en">AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his rivalry with John Cena.AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his captivating rivalry with John Cena.(n)</desc>
+    <category lang="en">Talk Show</category>
+    <episode-num system="onscreen">S2020 E5</episode-num>
+  </programme>
+</tv>

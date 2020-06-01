@@ -1,0 +1,66 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ADDIK TV" tvg-name="ADDIK TV" tvg-logo="https://s3.amazonaws.com/ok2logo/addik.png" group-title="1 - Quebec",Addik TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27117&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="CANAL D" tvg-name="CANAL D" tvg-logo="https://s3.amazonaws.com/ok2logo/CANAL+D.png" group-title="1 - Quebec",Canal D
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27127&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="CANAL VIE" tvg-name="CANAL VIE" tvg-logo="https://s3.amazonaws.com/ok2logo/canalvie.png" group-title="1 - Quebec",Canal Vie
+http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/50248?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA" tvg-logo="https://s3.amazonaws.com/ok2logo/historia.png" group-title="1 - Quebec",Historia
+
+#EXTINF:-1 tvg-ID="ICI" tvg-name="ICI" tvg-logo="https://s3.amazonaws.com/ok2logo/ICI+LOGO.jpg" group-title="FRENCH",Ici
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27178&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec",LCN
+
+#EXTINF:-1 tvg-id="MOI & CIE" tvg-name="MOI & CIE" tvg-logo="https://s3.amazonaws.com/ok2logo/moi%26cie.png" group-title="1 - Quebec",Moi & Cie
+
+#EXTINF:-1 tvg-id="PRISE2" tvg-name="PRISE2 (FR)" tvg-logo="https://s3.amazonaws.com/ok2logo/prise2.png" group-title="1 - Quebec",Prise 2
+
+
+#EXTINF:-1 tvg-id="ICI RDI" tvg-name="ICI RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+
+#EXTINF:-1 tvg-id="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS+LOGO.jpg" group-title="1 - Quebec",RDS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27210&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS.jpg" group-title="1 - Quebec",RDS2
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27211&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="RDS-INFO" tvg-name="RDS-INFO" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS+INFO+LOGO.jpg" group-title="1 - Quebec",RDS Info
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27212&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="TELETOON FR" tvg-name="TELETOON FR" tvg-logo="https://s3.amazonaws.com/ok2logo/FRENCH/TELETOON.png" group-title="1 - Quebec",Teletoon FR
+http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/50029?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="SRC" tvg-name="SRC" tvg-logo="https://s3.amazonaws.com/ok2logo/src.png" group-title="1 - Quebec",SRC
+
+
+#EXTINF:-1 tvg-id="TVA GATINEAU" tvg-name="TVA GATINEAU" tvg-logo="https://s3.amazonaws.com/ok2logo/tva.png" group-title="1 - Quebec",TVA GATINEAU
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27244&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="TVA SPORTS" tvg-name="TVA SPORTS" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="1 - Quebec",TVA SPORTS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27246&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="TVA MONTREAL" tvg-name="TVA MONTREAL" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="1 - Quebec",TVA MONTREAL
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27245&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="V Montreal" tvg-name="CFJP" tvg-logo="https://s3.amazonaws.com/ok2logo/CANALV+TV+logo.png" group-title="1 - Quebec",V-Tele
+
+
+#EXTINF:-1 tvg-ID="VRAK" tvg-name="VRAK" tvg-logo="https://s3.amazonaws.com/ok2logo/vrak.png" group-title="FRENCH",VRAK
+
+
+#EXTINF:-1 tvg-ID="ZTELE" tvg-name="ZTELE" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="1 - Quebec",ZTELE
+
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://s3.amazonaws.com/ok2logo/amc.png" group-title="2 - Anglais",AMC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27119&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://s3.amazonaws.com/ok2logo/hbo.png" group-title="2 - Anglais",HBO
+
+
+

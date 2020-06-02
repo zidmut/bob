@@ -25,6 +25,21 @@
     <icon src="http://cdn.tvpassport.com/image/station/240x135/lcn.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
+  <channel id="RDS">
+    <display-name lang="en">RDS</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/rds-copy.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="RDS 2">
+    <display-name lang="en">RDS 2</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/rds2.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
+  <channel id="RDS Info">
+    <display-name lang="en">RDS Info</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/rdsinfo.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <programme start="20200602060000 -0400" stop="20200602070000 -0400" channel="Addik TV">
     <title lang="en">Les enquêtes de Murdoch</title>
     <sub-title lang="en">Le Livre assassin</sub-title>
@@ -8833,5 +8848,2286 @@
     <rating system="US">
       <value>TVG</value>
     </rating>
+  </programme>
+  <programme start="20200602053000 -0400" stop="20200602073000 -0400" channel="RDS">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200602073000 -0400" stop="20200602080000 -0400" channel="RDS">
+    <title lang="en">HabsTV rembobinée</title>
+    <desc lang="en">HabsTV rembobinée.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200602080000 -0400" stop="20200602110000 -0400" channel="RDS">
+    <title lang="en">Québec Remparts vs. Moncton Wildcats</title>
+    <desc lang="en">Classique de hockey Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200602110000 -0400" stop="20200602113000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200602113000 -0400" stop="20200602120000 -0400" channel="RDS">
+    <title lang="en">Passion autos</title>
+    <desc lang="en">Passion autos.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200602120000 -0400" stop="20200602143000 -0400" channel="RDS">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200602143000 -0400" stop="20200602150000 -0400" channel="RDS">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200602150000 -0400" stop="20200602170000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Serena Williams c. Venus Williams.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200602170000 -0400" stop="20200602183000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602183000 -0400" stop="20200602213000 -0400" channel="RDS">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200602213000 -0400" stop="20200602220000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200602220000 -0400" stop="20200602223000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200602223000 -0400" stop="20200603000000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603000000 -0400" stop="20200603020000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Serena Williams c. Venus Williams.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200603020000 -0400" stop="20200603023000 -0400" channel="RDS">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200603023000 -0400" stop="20200603030000 -0400" channel="RDS">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200603030000 -0400" stop="20200603060000 -0400" channel="RDS">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200603060000 -0400" stop="20200603063000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200603063000 -0400" stop="20200603083000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Serena Williams c. Venus Williams.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200603083000 -0400" stop="20200603110000 -0400" channel="RDS">
+    <title lang="en">Toronto Raptors vs. Milwaukee Bucks</title>
+    <desc lang="en">Classique de basketball Finale de la Conférence de l'Est 6e match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200603110000 -0400" stop="20200603113000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200603113000 -0400" stop="20200603120000 -0400" channel="RDS">
+    <title lang="en">Le sport en toute liberté</title>
+    <desc lang="en">Magazine sur le monde des sports extrêmes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+  </programme>
+  <programme start="20200603120000 -0400" stop="20200603123000 -0400" channel="RDS">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200603123000 -0400" stop="20200603130000 -0400" channel="RDS">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200603130000 -0400" stop="20200603170000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Wawrinka c. Djokovic.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200603170000 -0400" stop="20200603183000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603183000 -0400" stop="20200603190000 -0400" channel="RDS">
+    <title lang="en">Et le but! avec Pierre Houde</title>
+    <desc lang="en">Pierre Houde s'entretient avec des personnalités sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200603190000 -0400" stop="20200603213000 -0400" channel="RDS">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200603213000 -0400" stop="20200603220000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200603220000 -0400" stop="20200603223000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200603223000 -0400" stop="20200604000000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604000000 -0400" stop="20200604040000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Wawrinka c. Djokovic.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200604040000 -0400" stop="20200604053000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604053000 -0400" stop="20200604053000 -0400" channel="RDS">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200604053000 -0400" stop="20200604080000 -0400" channel="RDS">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200604080000 -0400" stop="20200604110000 -0400" channel="RDS">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200604110000 -0400" stop="20200604113000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604113000 -0400" stop="20200604120000 -0400" channel="RDS">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200604120000 -0400" stop="20200604140000 -0400" channel="RDS">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200604140000 -0400" stop="20200604143000 -0400" channel="RDS">
+    <title lang="en">HabsTV rembobinée</title>
+    <desc lang="en">HabsTV rembobinée.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200604143000 -0400" stop="20200604170000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Williams c. Muguruza.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200604170000 -0400" stop="20200604183000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604183000 -0400" stop="20200604190000 -0400" channel="RDS">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200604190000 -0400" stop="20200604213000 -0400" channel="RDS">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200604213000 -0400" stop="20200604220000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604220000 -0400" stop="20200604223000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604223000 -0400" stop="20200605000000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605000000 -0400" stop="20200605023000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Williams c. Muguruza.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200605023000 -0400" stop="20200605040000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605040000 -0400" stop="20200605040000 -0400" channel="RDS">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200605040000 -0400" stop="20200605063000 -0400" channel="RDS">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200605063000 -0400" stop="20200605070000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200605070000 -0400" stop="20200605093000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Williams c. Muguruza.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200605093000 -0400" stop="20200605100000 -0400" channel="RDS">
+    <title lang="en">Le sport en toute liberté</title>
+    <desc lang="en">Magazine sur le monde des sports extrêmes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+  </programme>
+  <programme start="20200605100000 -0400" stop="20200605103000 -0400" channel="RDS">
+    <title lang="en">Passion autos</title>
+    <desc lang="en">Passion autos.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200605103000 -0400" stop="20200605110000 -0400" channel="RDS">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200605110000 -0400" stop="20200605113000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200605113000 -0400" stop="20200605123000 -0400" channel="RDS">
+    <title lang="en">UFC le décompte</title>
+    <sub-title lang="en">UFC 250: Amanda Nunes vs. Felicia Spencer</sub-title>
+    <desc lang="en">UFC le décompte.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20200605123000 -0400" stop="20200605130000 -0400" channel="RDS">
+    <title lang="en">Et le but! avec Pierre Houde</title>
+    <desc lang="en">Pierre Houde s'entretient avec des personnalités sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200605130000 -0400" stop="20200605133000 -0400" channel="RDS">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605133000 -0400" stop="20200605170000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Djokovic c. Murray.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200605170000 -0400" stop="20200605183000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605183000 -0400" stop="20200605193000 -0400" channel="RDS">
+    <title lang="en">Documentaires MLB</title>
+    <sub-title lang="en">Match des Étoiles 1987</sub-title>
+    <desc lang="en">Documentaires MLB.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200605193000 -0400" stop="20200605213000 -0400" channel="RDS">
+    <title lang="en">Documentaires MLB</title>
+    <sub-title lang="en">La Série Mondiale 2001</sub-title>
+    <desc lang="en">Documentaires MLB.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200605213000 -0400" stop="20200605220000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200605220000 -0400" stop="20200605223000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200605223000 -0400" stop="20200606000000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606000000 -0400" stop="20200606033000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Djokovic c. Murray.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200606033000 -0400" stop="20200606050000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606050000 -0400" stop="20200606053000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200606053000 -0400" stop="20200606060000 -0400" channel="RDS">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606060000 -0400" stop="20200606063000 -0400" channel="RDS">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606063000 -0400" stop="20200606070000 -0400" channel="RDS">
+    <title lang="en">Le sport en toute liberté</title>
+    <desc lang="en">Magazine sur le monde des sports extrêmes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+  </programme>
+  <programme start="20200606070000 -0400" stop="20200606123000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Demi-finale Djokovic c. Thiem et Femmes finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200606123000 -0400" stop="20200606130000 -0400" channel="RDS">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200606130000 -0400" stop="20200606150000 -0400" channel="RDS">
+    <title lang="en">Course de camions</title>
+    <desc lang="en">Série de camions.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200606150000 -0400" stop="20200606180000 -0400" channel="RDS">
+    <title lang="en">Classique de golf</title>
+    <desc lang="en">Classique de golf 3e ronde.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200606180000 -0400" stop="20200606190000 -0400" channel="RDS">
+    <title lang="en">UFC le décompte</title>
+    <sub-title lang="en">UFC 250: Amanda Nunes vs. Felicia Spencer</sub-title>
+    <desc lang="en">UFC le décompte.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20200606190000 -0400" stop="20200606220000 -0400" channel="RDS">
+    <title lang="en">UFC 250</title>
+    <desc lang="en">Ne manquez pas le championnat des poids plumes mettant en vedette Amanda Nunes contre Felicia Spencer. Combats préliminaires.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20200606220000 -0400" stop="20200606233000 -0400" channel="RDS">
+    <title lang="en">Classique de boxe</title>
+    <desc lang="en">Les combats de boxe qui ont marqué l'histoire. Arturo Gatti c. Micky Ward III. 7 juin 2003.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200606233000 -0400" stop="20200607000000 -0400" channel="RDS">
+    <title lang="en">Oups</title>
+    <desc lang="en">Rendez-vous humoristique de performances sportives inédites, de chutes et de fous rires.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200607000000 -0400" stop="20200607030000 -0400" channel="RDS">
+    <title lang="en">Classique de golf</title>
+    <desc lang="en">Classique de golf 3e ronde.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200607030000 -0400" stop="20200607060000 -0400" channel="RDS">
+    <title lang="en">UFC 250</title>
+    <desc lang="en">Ne manquez pas le championnat des poids plumes mettant en vedette Amanda Nunes contre Felicia Spencer. Combats préliminaires.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20200607060000 -0400" stop="20200607063000 -0400" channel="RDS">
+    <title lang="en">Et le but! avec Pierre Houde</title>
+    <desc lang="en">Pierre Houde s'entretient avec des personnalités sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200607063000 -0400" stop="20200607073000 -0400" channel="RDS">
+    <title lang="en">25 ans d'émotions</title>
+    <sub-title lang="en">Régis le seul et unique</sub-title>
+    <desc lang="en">Retour sur les histoires humaines et événements sportifs marquants des 25 dernières années.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200607073000 -0400" stop="20200607080000 -0400" channel="RDS">
+    <title lang="en">Oups</title>
+    <desc lang="en">Rendez-vous humoristique de performances sportives inédites, de chutes et de fous rires.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200607080000 -0400" stop="20200607082000 -0400" channel="RDS">
+    <title lang="en">Sur la ligne de départ</title>
+    <desc lang="en">Émission d'avant-course du Grand Prix de Formule 1.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200607082000 -0400" stop="20200607103000 -0400" channel="RDS">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200607103000 -0400" stop="20200607110000 -0400" channel="RDS">
+    <title lang="en">Martin Horik: Octane</title>
+    <desc lang="en">Martin Horik partage son plaisir de piloter des véhicules en tous genres.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607110000 -0400" stop="20200607113000 -0400" channel="RDS">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200607113000 -0400" stop="20200607120000 -0400" channel="RDS">
+    <title lang="en">Course de bateau</title>
+    <desc lang="en">Groupe A 6e ronde.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+  </programme>
+  <programme start="20200607120000 -0400" stop="20200607123000 -0400" channel="RDS">
+    <title lang="en">Passion autos</title>
+    <desc lang="en">Passion autos.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200607123000 -0400" stop="20200607130000 -0400" channel="RDS">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200607130000 -0400" stop="20200607133000 -0400" channel="RDS">
+    <title lang="en">Génération soccer</title>
+    <desc lang="en">Le monde du soccer au Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200607133000 -0400" stop="20200607160000 -0400" channel="RDS">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200607160000 -0400" stop="20200607183000 -0400" channel="RDS">
+    <title lang="en">Classique de golf</title>
+    <desc lang="en">Classique de golf Jour finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200607183000 -0400" stop="20200607190000 -0400" channel="RDS">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200607190000 -0400" stop="20200607200000 -0400" channel="RDS">
+    <title lang="en">Trajectoires</title>
+    <sub-title lang="en">PJ Stock</sub-title>
+    <desc lang="en">Derrière le rideau d'anciens joueurs de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200607200000 -0400" stop="20200608000000 -0400" channel="RDS">
+    <title lang="en">Course automobile</title>
+    <desc lang="en">Série Coupe.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200608000000 -0400" stop="20200608003000 -0400" channel="RDS">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200608003000 -0400" stop="20200608030000 -0400" channel="RDS">
+    <title lang="en">Classique de golf</title>
+    <desc lang="en">Classique de golf Jour finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200608030000 -0400" stop="20200608030000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Nadal c. Thiem.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200608030000 -0400" stop="20200608063000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Nadal c. Thiem.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200608063000 -0400" stop="20200608090000 -0400" channel="RDS">
+    <title lang="en">Chicago Bulls vs. Utah Jazz</title>
+    <desc lang="en">Classique de basketball Finale 6e match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200608090000 -0400" stop="20200608093000 -0400" channel="RDS">
+    <title lang="en">L'histoire derrière...</title>
+    <sub-title lang="en">Basketball</sub-title>
+    <desc lang="en">L'histoire derrière….(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608093000 -0400" stop="20200608100000 -0400" channel="RDS">
+    <title lang="en">Oups</title>
+    <desc lang="en">Rendez-vous humoristique de performances sportives inédites, de chutes et de fous rires.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608100000 -0400" stop="20200608103000 -0400" channel="RDS">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608103000 -0400" stop="20200608110000 -0400" channel="RDS">
+    <title lang="en">Génération soccer</title>
+    <desc lang="en">Le monde du soccer au Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608110000 -0400" stop="20200608143000 -0400" channel="RDS">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Nadal c. Thiem.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200608143000 -0400" stop="20200608170000 -0400" channel="RDS">
+    <title lang="en">Golden State Warriors vs. Toronto Raptors</title>
+    <desc lang="en">Classique de basketball Finale 1er match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200608170000 -0400" stop="20200608183000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200608183000 -0400" stop="20200608190000 -0400" channel="RDS">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608190000 -0400" stop="20200608213000 -0400" channel="RDS">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200608213000 -0400" stop="20200608220000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200608220000 -0400" stop="20200608223000 -0400" channel="RDS">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200608223000 -0400" stop="20200609000000 -0400" channel="RDS">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602033000 -0400" stop="20200602063000 -0400" channel="RDS 2">
+    <title lang="en">Classique de golf</title>
+    <desc lang="en">Classique de golf Jour finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200602063000 -0400" stop="20200602080000 -0400" channel="RDS 2">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602080000 -0400" stop="20200602120000 -0400" channel="RDS 2">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Gaudio c. Coria.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200602120000 -0400" stop="20200602133000 -0400" channel="RDS 2">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602133000 -0400" stop="20200602163000 -0400" channel="RDS 2">
+    <title lang="en">Classique de golf</title>
+    <desc lang="en">Classique de golf Jour finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200602163000 -0400" stop="20200602183000 -0400" channel="RDS 2">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200602183000 -0400" stop="20200602190000 -0400" channel="RDS 2">
+    <title lang="en">HabsTV rembobinée</title>
+    <desc lang="en">HabsTV rembobinée.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200602190000 -0400" stop="20200602193000 -0400" channel="RDS 2">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200602193000 -0400" stop="20200602200000 -0400" channel="RDS 2">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200602200000 -0400" stop="20200602220000 -0400" channel="RDS 2">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Serena Williams c. Venus Williams.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200602220000 -0400" stop="20200602223000 -0400" channel="RDS 2">
+    <title lang="en">La vie après</title>
+    <sub-title lang="en">Bruno Gervais</sub-title>
+    <desc lang="en">Défenseur au style méthodique et fiable, Bruno Gervais a opéré une transition rapide vers les médias sportifs. À peine deux ans après avoir accroché ses patins, le joueur est encore en train de faire le deuil de sa carrière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602223000 -0400" stop="20200602233000 -0400" channel="RDS 2">
+    <title lang="en">Trajectoires</title>
+    <sub-title lang="en">PJ Stock</sub-title>
+    <desc lang="en">Derrière le rideau d'anciens joueurs de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200602233000 -0400" stop="20200603000000 -0400" channel="RDS 2">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200603000000 -0400" stop="20200603023000 -0400" channel="RDS 2">
+    <title lang="en">Toronto Raptors vs. Milwaukee Bucks</title>
+    <desc lang="en">Classique de basketball Finale de la Conférence de l'Est 6e match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200603023000 -0400" stop="20200603030000 -0400" channel="RDS 2">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200603030000 -0400" stop="20200603060000 -0400" channel="RDS 2">
+    <title lang="en">Québec Remparts vs. Moncton Wildcats</title>
+    <desc lang="en">Classique de hockey Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200603060000 -0400" stop="20200603073000 -0400" channel="RDS 2">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603073000 -0400" stop="20200603080000 -0400" channel="RDS 2">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200603080000 -0400" stop="20200603100000 -0400" channel="RDS 2">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200603100000 -0400" stop="20200603120000 -0400" channel="RDS 2">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Serena Williams c. Venus Williams.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200603120000 -0400" stop="20200603133000 -0400" channel="RDS 2">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603133000 -0400" stop="20200603153000 -0400" channel="RDS 2">
+    <title lang="en">UFC 202</title>
+    <desc lang="en">Nate Diaz affronte Conor McGregor dans un combat d'arts martiaux mixtes à Las Vegas. Nate Diaz c. Conor McGregor II.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603153000 -0400" stop="20200603160000 -0400" channel="RDS 2">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200603160000 -0400" stop="20200603190000 -0400" channel="RDS 2">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200603190000 -0400" stop="20200603193000 -0400" channel="RDS 2">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200603193000 -0400" stop="20200603200000 -0400" channel="RDS 2">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200603200000 -0400" stop="20200604000000 -0400" channel="RDS 2">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Wawrinka c. Djokovic.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200604000000 -0400" stop="20200604030000 -0400" channel="RDS 2">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200604030000 -0400" stop="20200604033000 -0400" channel="RDS 2">
+    <title lang="en">Et le but! avec Pierre Houde</title>
+    <desc lang="en">Pierre Houde s'entretient avec des personnalités sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604033000 -0400" stop="20200604040000 -0400" channel="RDS 2">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604040000 -0400" stop="20200604043000 -0400" channel="RDS 2">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604043000 -0400" stop="20200604043000 -0400" channel="RDS 2">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200604043000 -0400" stop="20200604063000 -0400" channel="RDS 2">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200604063000 -0400" stop="20200604080000 -0400" channel="RDS 2">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604080000 -0400" stop="20200604120000 -0400" channel="RDS 2">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Wawrinka c. Djokovic.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200604120000 -0400" stop="20200604133000 -0400" channel="RDS 2">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604133000 -0400" stop="20200604140000 -0400" channel="RDS 2">
+    <title lang="en">Le sport en toute liberté</title>
+    <desc lang="en">Magazine sur le monde des sports extrêmes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+  </programme>
+  <programme start="20200604140000 -0400" stop="20200604143000 -0400" channel="RDS 2">
+    <title lang="en">Hors-jeu 2.0</title>
+    <desc lang="en">L'univers des joueurs de la LNH par le biais de rencontres et de découvertes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200604143000 -0400" stop="20200604150000 -0400" channel="RDS 2">
+    <title lang="en">La vie après</title>
+    <sub-title lang="en">Bruno Gervais</sub-title>
+    <desc lang="en">Défenseur au style méthodique et fiable, Bruno Gervais a opéré une transition rapide vers les médias sportifs. À peine deux ans après avoir accroché ses patins, le joueur est encore en train de faire le deuil de sa carrière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604150000 -0400" stop="20200604160000 -0400" channel="RDS 2">
+    <title lang="en">Trajectoires</title>
+    <sub-title lang="en">PJ Stock</sub-title>
+    <desc lang="en">Derrière le rideau d'anciens joueurs de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200604160000 -0400" stop="20200604163000 -0400" channel="RDS 2">
+    <title lang="en">Et le but! avec Pierre Houde</title>
+    <desc lang="en">Pierre Houde s'entretient avec des personnalités sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604163000 -0400" stop="20200604190000 -0400" channel="RDS 2">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200604190000 -0400" stop="20200604200000 -0400" channel="RDS 2">
+    <title lang="en">UFC le décompte</title>
+    <sub-title lang="en">UFC 250: Amanda Nunes vs. Felicia Spencer</sub-title>
+    <desc lang="en">UFC le décompte.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20200604200000 -0400" stop="20200604223000 -0400" channel="RDS 2">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Williams c. Muguruza.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200604223000 -0400" stop="20200604230000 -0400" channel="RDS 2">
+    <title lang="en">Jeter l'ancre</title>
+    <sub-title lang="en">Nassau (Bahamas)</sub-title>
+    <desc lang="en">Des invités de la scène artistique se joindront à l'équipage chaque semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+  </programme>
+  <programme start="20200604230000 -0400" stop="20200604233000 -0400" channel="RDS 2">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200604233000 -0400" stop="20200605000000 -0400" channel="RDS 2">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200605000000 -0400" stop="20200605023000 -0400" channel="RDS 2">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200605023000 -0400" stop="20200605030000 -0400" channel="RDS 2">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605030000 -0400" stop="20200605060000 -0400" channel="RDS 2">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200605060000 -0400" stop="20200605063000 -0400" channel="RDS 2">
+    <title lang="en">Oups</title>
+    <desc lang="en">Rendez-vous humoristique de performances sportives inédites, de chutes et de fous rires.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605063000 -0400" stop="20200605080000 -0400" channel="RDS 2">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605080000 -0400" stop="20200605083000 -0400" channel="RDS 2">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200605083000 -0400" stop="20200605090000 -0400" channel="RDS 2">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200605090000 -0400" stop="20200605093000 -0400" channel="RDS 2">
+    <title lang="en">Jeter l'ancre</title>
+    <sub-title lang="en">Nassau (Bahamas)</sub-title>
+    <desc lang="en">Des invités de la scène artistique se joindront à l'équipage chaque semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+  </programme>
+  <programme start="20200605093000 -0400" stop="20200605120000 -0400" channel="RDS 2">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Williams c. Muguruza.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200605120000 -0400" stop="20200605133000 -0400" channel="RDS 2">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605133000 -0400" stop="20200605160000 -0400" channel="RDS 2">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200605160000 -0400" stop="20200605163000 -0400" channel="RDS 2">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605163000 -0400" stop="20200605190000 -0400" channel="RDS 2">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200605190000 -0400" stop="20200605193000 -0400" channel="RDS 2">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605193000 -0400" stop="20200605200000 -0400" channel="RDS 2">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605200000 -0400" stop="20200605233000 -0400" channel="RDS 2">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Djokovic c. Murray.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200605233000 -0400" stop="20200606000000 -0400" channel="RDS 2">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200606000000 -0400" stop="20200606023000 -0400" channel="RDS 2">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200606023000 -0400" stop="20200606030000 -0400" channel="RDS 2">
+    <title lang="en">Passion autos</title>
+    <desc lang="en">Passion autos.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200606030000 -0400" stop="20200606033000 -0400" channel="RDS 2">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200606033000 -0400" stop="20200606040000 -0400" channel="RDS 2">
+    <title lang="en">Martin Horik: Octane</title>
+    <desc lang="en">Martin Horik partage son plaisir de piloter des véhicules en tous genres.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606040000 -0400" stop="20200606043000 -0400" channel="RDS 2">
+    <title lang="en">La vie après</title>
+    <sub-title lang="en">Bruno Gervais</sub-title>
+    <desc lang="en">Défenseur au style méthodique et fiable, Bruno Gervais a opéré une transition rapide vers les médias sportifs. À peine deux ans après avoir accroché ses patins, le joueur est encore en train de faire le deuil de sa carrière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606043000 -0400" stop="20200606050000 -0400" channel="RDS 2">
+    <title lang="en">Hors-jeu 2.0</title>
+    <desc lang="en">L'univers des joueurs de la LNH par le biais de rencontres et de découvertes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200606050000 -0400" stop="20200606053000 -0400" channel="RDS 2">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606053000 -0400" stop="20200606060000 -0400" channel="RDS 2">
+    <title lang="en">Et le but! avec Pierre Houde</title>
+    <desc lang="en">Pierre Houde s'entretient avec des personnalités sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200606060000 -0400" stop="20200606063000 -0400" channel="RDS 2">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606063000 -0400" stop="20200606080000 -0400" channel="RDS 2">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606080000 -0400" stop="20200606083000 -0400" channel="RDS 2">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606083000 -0400" stop="20200606110000 -0400" channel="RDS 2">
+    <title lang="en">Chicago Bulls vs. Utah Jazz</title>
+    <desc lang="en">Classique de basketball Finale 6e match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200606110000 -0400" stop="20200606113000 -0400" channel="RDS 2">
+    <title lang="en">Passion autos</title>
+    <desc lang="en">Passion autos.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200606113000 -0400" stop="20200606120000 -0400" channel="RDS 2">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200606120000 -0400" stop="20200606133000 -0400" channel="RDS 2">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606133000 -0400" stop="20200606143000 -0400" channel="RDS 2">
+    <title lang="en">UFC le décompte</title>
+    <sub-title lang="en">UFC 250: Amanda Nunes vs. Felicia Spencer</sub-title>
+    <desc lang="en">UFC le décompte.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20200606143000 -0400" stop="20200606163000 -0400" channel="RDS 2">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200606163000 -0400" stop="20200606173000 -0400" channel="RDS 2">
+    <title lang="en">Documentaires MLB</title>
+    <sub-title lang="en">Match des Étoiles 1987</sub-title>
+    <desc lang="en">Documentaires MLB.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200606173000 -0400" stop="20200606180000 -0400" channel="RDS 2">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606180000 -0400" stop="20200606233000 -0400" channel="RDS 2">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Demi-finale Djokovic c. Thiem et Femmes finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200606233000 -0400" stop="20200607000000 -0400" channel="RDS 2">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200607000000 -0400" stop="20200607023000 -0400" channel="RDS 2">
+    <title lang="en">Chicago Bulls vs. Utah Jazz</title>
+    <desc lang="en">Classique de basketball Finale 6e match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200607023000 -0400" stop="20200607043000 -0400" channel="RDS 2">
+    <title lang="en">Course de camions</title>
+    <desc lang="en">Série de camions.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200607043000 -0400" stop="20200607050000 -0400" channel="RDS 2">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200607050000 -0400" stop="20200607053000 -0400" channel="RDS 2">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200607053000 -0400" stop="20200607060000 -0400" channel="RDS 2">
+    <title lang="en">Jeter l'ancre</title>
+    <sub-title lang="en">Nassau (Bahamas)</sub-title>
+    <desc lang="en">Des invités de la scène artistique se joindront à l'équipage chaque semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+  </programme>
+  <programme start="20200607060000 -0400" stop="20200607083000 -0400" channel="RDS 2">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200607083000 -0400" stop="20200607090000 -0400" channel="RDS 2">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200607090000 -0400" stop="20200607120000 -0400" channel="RDS 2">
+    <title lang="en">Classique de golf</title>
+    <desc lang="en">Classique de golf 3e ronde.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200607120000 -0400" stop="20200607123000 -0400" channel="RDS 2">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200607123000 -0400" stop="20200607125000 -0400" channel="RDS 2">
+    <title lang="en">Sur la ligne de départ</title>
+    <desc lang="en">Émission d'avant-course du Grand Prix de Formule 1.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200607125000 -0400" stop="20200607150000 -0400" channel="RDS 2">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200607150000 -0400" stop="20200607190000 -0400" channel="RDS 2">
+    <title lang="en">Course automobile</title>
+    <desc lang="en">Série Coupe.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200607190000 -0400" stop="20200607193000 -0400" channel="RDS 2">
+    <title lang="en">La vie après</title>
+    <sub-title lang="en">Bruno Gervais</sub-title>
+    <desc lang="en">Défenseur au style méthodique et fiable, Bruno Gervais a opéré une transition rapide vers les médias sportifs. À peine deux ans après avoir accroché ses patins, le joueur est encore en train de faire le deuil de sa carrière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607193000 -0400" stop="20200607200000 -0400" channel="RDS 2">
+    <title lang="en">Hors-jeu 2.0</title>
+    <desc lang="en">L'univers des joueurs de la LNH par le biais de rencontres et de découvertes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200607200000 -0400" stop="20200607233000 -0400" channel="RDS 2">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Nadal c. Thiem.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200607233000 -0400" stop="20200608000000 -0400" channel="RDS 2">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608000000 -0400" stop="20200608013000 -0400" channel="RDS 2">
+    <title lang="en">Classique de boxe</title>
+    <desc lang="en">Les combats de boxe qui ont marqué l'histoire. Arturo Gatti c. Micky Ward III. 7 juin 2003.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200608013000 -0400" stop="20200608043000 -0400" channel="RDS 2">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200608043000 -0400" stop="20200608053000 -0400" channel="RDS 2">
+    <title lang="en">25 ans d'émotions</title>
+    <sub-title lang="en">Régis le seul et unique</sub-title>
+    <desc lang="en">Retour sur les histoires humaines et événements sportifs marquants des 25 dernières années.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608053000 -0400" stop="20200608060000 -0400" channel="RDS 2">
+    <title lang="en">Hors-jeu 2.0</title>
+    <desc lang="en">L'univers des joueurs de la LNH par le biais de rencontres et de découvertes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200608060000 -0400" stop="20200608063000 -0400" channel="RDS 2">
+    <title lang="en">La vie après</title>
+    <sub-title lang="en">Bruno Gervais</sub-title>
+    <desc lang="en">Défenseur au style méthodique et fiable, Bruno Gervais a opéré une transition rapide vers les médias sportifs. À peine deux ans après avoir accroché ses patins, le joueur est encore en train de faire le deuil de sa carrière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608063000 -0400" stop="20200608070000 -0400" channel="RDS 2">
+    <title lang="en">Festidrag.tv</title>
+    <sub-title lang="en">Alex Labbé</sub-title>
+    <desc lang="en">Sarah et Martin présentent des courses, des pilotes et des histoires à couper le souffle.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200608070000 -0400" stop="20200608110000 -0400" channel="RDS 2">
+    <title lang="en">Course automobile</title>
+    <desc lang="en">Série Coupe.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200608110000 -0400" stop="20200608113000 -0400" channel="RDS 2">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608113000 -0400" stop="20200608120000 -0400" channel="RDS 2">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200608120000 -0400" stop="20200608130000 -0400" channel="RDS 2">
+    <title lang="en">25 ans d'émotions</title>
+    <sub-title lang="en">Régis le seul et unique</sub-title>
+    <desc lang="en">Retour sur les histoires humaines et événements sportifs marquants des 25 dernières années.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608130000 -0400" stop="20200608143000 -0400" channel="RDS 2">
+    <title lang="en">Classique de boxe</title>
+    <desc lang="en">Les combats de boxe qui ont marqué l'histoire. Arturo Gatti c. Micky Ward III. 7 juin 2003.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200608143000 -0400" stop="20200608150000 -0400" channel="RDS 2">
+    <title lang="en">Festidrag.tv</title>
+    <sub-title lang="en">Raphaël Lessard</sub-title>
+    <desc lang="en">Sarah et Martin présentent des courses, des pilotes et des histoires à couper le souffle.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200608150000 -0400" stop="20200608170000 -0400" channel="RDS 2">
+    <title lang="en">Course de camions</title>
+    <desc lang="en">Série de camions.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200608170000 -0400" stop="20200608173000 -0400" channel="RDS 2">
+    <title lang="en">Jeter l'ancre</title>
+    <sub-title lang="en">Nassau (Bahamas)</sub-title>
+    <desc lang="en">Des invités de la scène artistique se joindront à l'équipage chaque semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+  </programme>
+  <programme start="20200608173000 -0400" stop="20200608180000 -0400" channel="RDS 2">
+    <title lang="en">Martin Horik: Octane</title>
+    <desc lang="en">Martin Horik partage son plaisir de piloter des véhicules en tous genres.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608180000 -0400" stop="20200608183000 -0400" channel="RDS 2">
+    <title lang="en">Passion autos</title>
+    <desc lang="en">Passion autos.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200608183000 -0400" stop="20200608190000 -0400" channel="RDS 2">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200608190000 -0400" stop="20200608193000 -0400" channel="RDS 2">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200608193000 -0400" stop="20200608200000 -0400" channel="RDS 2">
+    <title lang="en">Oups</title>
+    <desc lang="en">Rendez-vous humoristique de performances sportives inédites, de chutes et de fous rires.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608200000 -0400" stop="20200608223000 -0400" channel="RDS 2">
+    <title lang="en">Golden State Warriors vs. Toronto Raptors</title>
+    <desc lang="en">Classique de basketball Finale 1er match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200608223000 -0400" stop="20200608230000 -0400" channel="RDS 2">
+    <title lang="en">Hors-jeu 2.0</title>
+    <desc lang="en">L'univers des joueurs de la LNH par le biais de rencontres et de découvertes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200608230000 -0400" stop="20200608233000 -0400" channel="RDS 2">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608233000 -0400" stop="20200609000000 -0400" channel="RDS 2">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200602033000 -0400" stop="20200602063000 -0400" channel="RDS Info">
+    <title lang="en">Classique de golf</title>
+    <desc lang="en">Classique de golf Jour finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200602063000 -0400" stop="20200602080000 -0400" channel="RDS Info">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602080000 -0400" stop="20200602120000 -0400" channel="RDS Info">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Gaudio c. Coria.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200602120000 -0400" stop="20200602133000 -0400" channel="RDS Info">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602133000 -0400" stop="20200602163000 -0400" channel="RDS Info">
+    <title lang="en">Classique de golf</title>
+    <desc lang="en">Classique de golf Jour finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200602163000 -0400" stop="20200602183000 -0400" channel="RDS Info">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200602183000 -0400" stop="20200602190000 -0400" channel="RDS Info">
+    <title lang="en">HabsTV rembobinée</title>
+    <desc lang="en">HabsTV rembobinée.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200602190000 -0400" stop="20200602193000 -0400" channel="RDS Info">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200602193000 -0400" stop="20200602200000 -0400" channel="RDS Info">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200602200000 -0400" stop="20200602220000 -0400" channel="RDS Info">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Serena Williams c. Venus Williams.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200602220000 -0400" stop="20200602223000 -0400" channel="RDS Info">
+    <title lang="en">La vie après</title>
+    <sub-title lang="en">Bruno Gervais</sub-title>
+    <desc lang="en">Défenseur au style méthodique et fiable, Bruno Gervais a opéré une transition rapide vers les médias sportifs. À peine deux ans après avoir accroché ses patins, le joueur est encore en train de faire le deuil de sa carrière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602223000 -0400" stop="20200602233000 -0400" channel="RDS Info">
+    <title lang="en">Trajectoires</title>
+    <sub-title lang="en">PJ Stock</sub-title>
+    <desc lang="en">Derrière le rideau d'anciens joueurs de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200602233000 -0400" stop="20200603000000 -0400" channel="RDS Info">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200603000000 -0400" stop="20200603023000 -0400" channel="RDS Info">
+    <title lang="en">Toronto Raptors vs. Milwaukee Bucks</title>
+    <desc lang="en">Classique de basketball Finale de la Conférence de l'Est 6e match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200603023000 -0400" stop="20200603030000 -0400" channel="RDS Info">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200603030000 -0400" stop="20200603060000 -0400" channel="RDS Info">
+    <title lang="en">Québec Remparts vs. Moncton Wildcats</title>
+    <desc lang="en">Classique de hockey Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200603060000 -0400" stop="20200603073000 -0400" channel="RDS Info">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603073000 -0400" stop="20200603080000 -0400" channel="RDS Info">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200603080000 -0400" stop="20200603100000 -0400" channel="RDS Info">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5 Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200603100000 -0400" stop="20200603120000 -0400" channel="RDS Info">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Serena Williams c. Venus Williams.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200603120000 -0400" stop="20200603133000 -0400" channel="RDS Info">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603133000 -0400" stop="20200603153000 -0400" channel="RDS Info">
+    <title lang="en">UFC 202</title>
+    <desc lang="en">Nate Diaz affronte Conor McGregor dans un combat d'arts martiaux mixtes à Las Vegas. Nate Diaz c. Conor McGregor II.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603153000 -0400" stop="20200603160000 -0400" channel="RDS Info">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200603160000 -0400" stop="20200603190000 -0400" channel="RDS Info">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200603190000 -0400" stop="20200603193000 -0400" channel="RDS Info">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200603193000 -0400" stop="20200603200000 -0400" channel="RDS Info">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200603200000 -0400" stop="20200604000000 -0400" channel="RDS Info">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Wawrinka c. Djokovic.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200604000000 -0400" stop="20200604030000 -0400" channel="RDS Info">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200604030000 -0400" stop="20200604033000 -0400" channel="RDS Info">
+    <title lang="en">Et le but! avec Pierre Houde</title>
+    <desc lang="en">Pierre Houde s'entretient avec des personnalités sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604033000 -0400" stop="20200604040000 -0400" channel="RDS Info">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604040000 -0400" stop="20200604043000 -0400" channel="RDS Info">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604043000 -0400" stop="20200604043000 -0400" channel="RDS Info">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200604043000 -0400" stop="20200604063000 -0400" channel="RDS Info">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200604063000 -0400" stop="20200604080000 -0400" channel="RDS Info">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604080000 -0400" stop="20200604120000 -0400" channel="RDS Info">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Wawrinka c. Djokovic.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200604120000 -0400" stop="20200604133000 -0400" channel="RDS Info">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604133000 -0400" stop="20200604140000 -0400" channel="RDS Info">
+    <title lang="en">Le sport en toute liberté</title>
+    <desc lang="en">Magazine sur le monde des sports extrêmes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+  </programme>
+  <programme start="20200604140000 -0400" stop="20200604143000 -0400" channel="RDS Info">
+    <title lang="en">Hors-jeu 2.0</title>
+    <desc lang="en">L'univers des joueurs de la LNH par le biais de rencontres et de découvertes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200604143000 -0400" stop="20200604150000 -0400" channel="RDS Info">
+    <title lang="en">La vie après</title>
+    <sub-title lang="en">Bruno Gervais</sub-title>
+    <desc lang="en">Défenseur au style méthodique et fiable, Bruno Gervais a opéré une transition rapide vers les médias sportifs. À peine deux ans après avoir accroché ses patins, le joueur est encore en train de faire le deuil de sa carrière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604150000 -0400" stop="20200604160000 -0400" channel="RDS Info">
+    <title lang="en">Trajectoires</title>
+    <sub-title lang="en">PJ Stock</sub-title>
+    <desc lang="en">Derrière le rideau d'anciens joueurs de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200604160000 -0400" stop="20200604163000 -0400" channel="RDS Info">
+    <title lang="en">Et le but! avec Pierre Houde</title>
+    <desc lang="en">Pierre Houde s'entretient avec des personnalités sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604163000 -0400" stop="20200604190000 -0400" channel="RDS Info">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200604190000 -0400" stop="20200604200000 -0400" channel="RDS Info">
+    <title lang="en">UFC le décompte</title>
+    <sub-title lang="en">UFC 250: Amanda Nunes vs. Felicia Spencer</sub-title>
+    <desc lang="en">UFC le décompte.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20200604200000 -0400" stop="20200604223000 -0400" channel="RDS Info">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Williams c. Muguruza.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200604223000 -0400" stop="20200604230000 -0400" channel="RDS Info">
+    <title lang="en">Jeter l'ancre</title>
+    <sub-title lang="en">Nassau (Bahamas)</sub-title>
+    <desc lang="en">Des invités de la scène artistique se joindront à l'équipage chaque semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+  </programme>
+  <programme start="20200604230000 -0400" stop="20200604233000 -0400" channel="RDS Info">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200604233000 -0400" stop="20200605000000 -0400" channel="RDS Info">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200605000000 -0400" stop="20200605023000 -0400" channel="RDS Info">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200605023000 -0400" stop="20200605030000 -0400" channel="RDS Info">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605030000 -0400" stop="20200605060000 -0400" channel="RDS Info">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200605060000 -0400" stop="20200605063000 -0400" channel="RDS Info">
+    <title lang="en">Oups</title>
+    <desc lang="en">Rendez-vous humoristique de performances sportives inédites, de chutes et de fous rires.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605063000 -0400" stop="20200605080000 -0400" channel="RDS Info">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605080000 -0400" stop="20200605083000 -0400" channel="RDS Info">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200605083000 -0400" stop="20200605090000 -0400" channel="RDS Info">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200605090000 -0400" stop="20200605093000 -0400" channel="RDS Info">
+    <title lang="en">Jeter l'ancre</title>
+    <sub-title lang="en">Nassau (Bahamas)</sub-title>
+    <desc lang="en">Des invités de la scène artistique se joindront à l'équipage chaque semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+  </programme>
+  <programme start="20200605093000 -0400" stop="20200605120000 -0400" channel="RDS Info">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Femmes finale Williams c. Muguruza.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200605120000 -0400" stop="20200605133000 -0400" channel="RDS Info">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605133000 -0400" stop="20200605160000 -0400" channel="RDS Info">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200605160000 -0400" stop="20200605163000 -0400" channel="RDS Info">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605163000 -0400" stop="20200605190000 -0400" channel="RDS Info">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200605190000 -0400" stop="20200605193000 -0400" channel="RDS Info">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605193000 -0400" stop="20200605200000 -0400" channel="RDS Info">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200605200000 -0400" stop="20200605233000 -0400" channel="RDS Info">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Djokovic c. Murray.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200605233000 -0400" stop="20200606000000 -0400" channel="RDS Info">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200606000000 -0400" stop="20200606023000 -0400" channel="RDS Info">
+    <title lang="en">Classique de course automobile</title>
+    <desc lang="en">Classique de course automobile.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200606023000 -0400" stop="20200606030000 -0400" channel="RDS Info">
+    <title lang="en">Passion autos</title>
+    <desc lang="en">Passion autos.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200606030000 -0400" stop="20200606033000 -0400" channel="RDS Info">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200606033000 -0400" stop="20200606040000 -0400" channel="RDS Info">
+    <title lang="en">Martin Horik: Octane</title>
+    <desc lang="en">Martin Horik partage son plaisir de piloter des véhicules en tous genres.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606040000 -0400" stop="20200606043000 -0400" channel="RDS Info">
+    <title lang="en">La vie après</title>
+    <sub-title lang="en">Bruno Gervais</sub-title>
+    <desc lang="en">Défenseur au style méthodique et fiable, Bruno Gervais a opéré une transition rapide vers les médias sportifs. À peine deux ans après avoir accroché ses patins, le joueur est encore en train de faire le deuil de sa carrière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606043000 -0400" stop="20200606050000 -0400" channel="RDS Info">
+    <title lang="en">Hors-jeu 2.0</title>
+    <desc lang="en">L'univers des joueurs de la LNH par le biais de rencontres et de découvertes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200606050000 -0400" stop="20200606053000 -0400" channel="RDS Info">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606053000 -0400" stop="20200606060000 -0400" channel="RDS Info">
+    <title lang="en">Et le but! avec Pierre Houde</title>
+    <desc lang="en">Pierre Houde s'entretient avec des personnalités sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200606060000 -0400" stop="20200606063000 -0400" channel="RDS Info">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606063000 -0400" stop="20200606080000 -0400" channel="RDS Info">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606080000 -0400" stop="20200606083000 -0400" channel="RDS Info">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606083000 -0400" stop="20200606110000 -0400" channel="RDS Info">
+    <title lang="en">Chicago Bulls vs. Utah Jazz</title>
+    <desc lang="en">Classique de basketball Finale 6e match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200606110000 -0400" stop="20200606113000 -0400" channel="RDS Info">
+    <title lang="en">Passion autos</title>
+    <desc lang="en">Passion autos.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200606113000 -0400" stop="20200606120000 -0400" channel="RDS Info">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200606120000 -0400" stop="20200606133000 -0400" channel="RDS Info">
+    <title lang="en">Le 5 à 7</title>
+    <desc lang="en">Informations, commentaires et analyses sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606133000 -0400" stop="20200606143000 -0400" channel="RDS Info">
+    <title lang="en">UFC le décompte</title>
+    <sub-title lang="en">UFC 250: Amanda Nunes vs. Felicia Spencer</sub-title>
+    <desc lang="en">UFC le décompte.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Martial Arts</category>
+  </programme>
+  <programme start="20200606143000 -0400" stop="20200606163000 -0400" channel="RDS Info">
+    <title lang="en">Montreal Expos vs. Philadelphia Phillies</title>
+    <desc lang="en">Classique de baseball 5e Match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200606163000 -0400" stop="20200606173000 -0400" channel="RDS Info">
+    <title lang="en">Documentaires MLB</title>
+    <sub-title lang="en">Match des Étoiles 1987</sub-title>
+    <desc lang="en">Documentaires MLB.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200606173000 -0400" stop="20200606180000 -0400" channel="RDS Info">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606180000 -0400" stop="20200606233000 -0400" channel="RDS Info">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Demi-finale Djokovic c. Thiem et Femmes finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200606233000 -0400" stop="20200607000000 -0400" channel="RDS Info">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200607000000 -0400" stop="20200607023000 -0400" channel="RDS Info">
+    <title lang="en">Chicago Bulls vs. Utah Jazz</title>
+    <desc lang="en">Classique de basketball Finale 6e match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200607023000 -0400" stop="20200607043000 -0400" channel="RDS Info">
+    <title lang="en">Course de camions</title>
+    <desc lang="en">Série de camions.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200607043000 -0400" stop="20200607050000 -0400" channel="RDS Info">
+    <title lang="en">30 images/ seconde</title>
+    <desc lang="en">À la découverte des plus beaux moments du sport de la dernière semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200607050000 -0400" stop="20200607053000 -0400" channel="RDS Info">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200607053000 -0400" stop="20200607060000 -0400" channel="RDS Info">
+    <title lang="en">Jeter l'ancre</title>
+    <sub-title lang="en">Nassau (Bahamas)</sub-title>
+    <desc lang="en">Des invités de la scène artistique se joindront à l'équipage chaque semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+  </programme>
+  <programme start="20200607060000 -0400" stop="20200607083000 -0400" channel="RDS Info">
+    <title lang="en">Netherlands vs. Spain</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200607083000 -0400" stop="20200607090000 -0400" channel="RDS Info">
+    <title lang="en">Au 19e</title>
+    <desc lang="en">Les dessous de l'industrie du golf ainsi que les plus beaux parcours du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200607090000 -0400" stop="20200607120000 -0400" channel="RDS Info">
+    <title lang="en">Classique de golf</title>
+    <desc lang="en">Classique de golf 3e ronde.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
+  </programme>
+  <programme start="20200607120000 -0400" stop="20200607123000 -0400" channel="RDS Info">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200607123000 -0400" stop="20200607130000 -0400" channel="RDS Info">
+    <title lang="en">Et le but! avec Pierre Houde</title>
+    <desc lang="en">Pierre Houde s'entretient avec des personnalités sportives.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200607130000 -0400" stop="20200607160000 -0400" channel="RDS Info">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200607160000 -0400" stop="20200607173000 -0400" channel="RDS Info">
+    <title lang="en">Classique de boxe</title>
+    <desc lang="en">Les combats de boxe qui ont marqué l'histoire. Arturo Gatti c. Micky Ward III. 7 juin 2003.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200607173000 -0400" stop="20200607180000 -0400" channel="RDS Info">
+    <title lang="en">25 ans d'émotions</title>
+    <sub-title lang="en">Patrice Bergeron/ Papa CH</sub-title>
+    <desc lang="en">Retour sur les histoires humaines et événements sportifs marquants des 25 dernières années.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200607180000 -0400" stop="20200607190000 -0400" channel="RDS Info">
+    <title lang="en">Trajectoires</title>
+    <sub-title lang="en">PJ Stock</sub-title>
+    <desc lang="en">Derrière le rideau d'anciens joueurs de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200607190000 -0400" stop="20200607193000 -0400" channel="RDS Info">
+    <title lang="en">La vie après</title>
+    <sub-title lang="en">Bruno Gervais</sub-title>
+    <desc lang="en">Défenseur au style méthodique et fiable, Bruno Gervais a opéré une transition rapide vers les médias sportifs. À peine deux ans après avoir accroché ses patins, le joueur est encore en train de faire le deuil de sa carrière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607193000 -0400" stop="20200607200000 -0400" channel="RDS Info">
+    <title lang="en">Hors-jeu 2.0</title>
+    <desc lang="en">L'univers des joueurs de la LNH par le biais de rencontres et de découvertes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200607200000 -0400" stop="20200607233000 -0400" channel="RDS Info">
+    <title lang="en">Classique de tennis</title>
+    <desc lang="en">Finale Nadal c. Thiem.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200607233000 -0400" stop="20200608000000 -0400" channel="RDS Info">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608000000 -0400" stop="20200608013000 -0400" channel="RDS Info">
+    <title lang="en">Classique de boxe</title>
+    <desc lang="en">Les combats de boxe qui ont marqué l'histoire. Arturo Gatti c. Micky Ward III. 7 juin 2003.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200608013000 -0400" stop="20200608043000 -0400" channel="RDS Info">
+    <title lang="en">Montreal Alouettes vs. Hamilton Tiger-Cats</title>
+    <desc lang="en">Classique de football 27 août 2015.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20200608043000 -0400" stop="20200608053000 -0400" channel="RDS Info">
+    <title lang="en">25 ans d'émotions</title>
+    <sub-title lang="en">Régis le seul et unique</sub-title>
+    <desc lang="en">Retour sur les histoires humaines et événements sportifs marquants des 25 dernières années.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608053000 -0400" stop="20200608060000 -0400" channel="RDS Info">
+    <title lang="en">Hors-jeu 2.0</title>
+    <desc lang="en">L'univers des joueurs de la LNH par le biais de rencontres et de découvertes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200608060000 -0400" stop="20200608063000 -0400" channel="RDS Info">
+    <title lang="en">La vie après</title>
+    <sub-title lang="en">Bruno Gervais</sub-title>
+    <desc lang="en">Défenseur au style méthodique et fiable, Bruno Gervais a opéré une transition rapide vers les médias sportifs. À peine deux ans après avoir accroché ses patins, le joueur est encore en train de faire le deuil de sa carrière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608063000 -0400" stop="20200608070000 -0400" channel="RDS Info">
+    <title lang="en">Festidrag.tv</title>
+    <sub-title lang="en">Alex Labbé</sub-title>
+    <desc lang="en">Sarah et Martin présentent des courses, des pilotes et des histoires à couper le souffle.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200608070000 -0400" stop="20200608110000 -0400" channel="RDS Info">
+    <title lang="en">Course automobile</title>
+    <desc lang="en">Série Coupe.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200608110000 -0400" stop="20200608113000 -0400" channel="RDS Info">
+    <title lang="en">Le sport en crise</title>
+    <desc lang="en">L'animateur François-Etienne Corbin s'entretien avec différents experts afin de tenir les amateurs informés des plus récents développements dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608113000 -0400" stop="20200608120000 -0400" channel="RDS Info">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200608120000 -0400" stop="20200608130000 -0400" channel="RDS Info">
+    <title lang="en">25 ans d'émotions</title>
+    <sub-title lang="en">Régis le seul et unique</sub-title>
+    <desc lang="en">Retour sur les histoires humaines et événements sportifs marquants des 25 dernières années.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608130000 -0400" stop="20200608143000 -0400" channel="RDS Info">
+    <title lang="en">Classique de boxe</title>
+    <desc lang="en">Les combats de boxe qui ont marqué l'histoire. Arturo Gatti c. Micky Ward III. 7 juin 2003.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200608143000 -0400" stop="20200608150000 -0400" channel="RDS Info">
+    <title lang="en">Festidrag.tv</title>
+    <sub-title lang="en">Raphaël Lessard</sub-title>
+    <desc lang="en">Sarah et Martin présentent des courses, des pilotes et des histoires à couper le souffle.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200608150000 -0400" stop="20200608170000 -0400" channel="RDS Info">
+    <title lang="en">Course de camions</title>
+    <desc lang="en">Série de camions.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+  </programme>
+  <programme start="20200608170000 -0400" stop="20200608173000 -0400" channel="RDS Info">
+    <title lang="en">Jeter l'ancre</title>
+    <sub-title lang="en">Nassau (Bahamas)</sub-title>
+    <desc lang="en">Des invités de la scène artistique se joindront à l'équipage chaque semaine.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Boating</category>
+  </programme>
+  <programme start="20200608173000 -0400" stop="20200608180000 -0400" channel="RDS Info">
+    <title lang="en">Martin Horik: Octane</title>
+    <desc lang="en">Martin Horik partage son plaisir de piloter des véhicules en tous genres.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Auto Racing</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608180000 -0400" stop="20200608183000 -0400" channel="RDS Info">
+    <title lang="en">Passion autos</title>
+    <desc lang="en">Passion autos.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200608183000 -0400" stop="20200608190000 -0400" channel="RDS Info">
+    <title lang="en">Le show de moto</title>
+    <desc lang="en">Présentation d'essais de motos et des reportages sur les nouveaux produits.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Motorcycle Racing</category>
+  </programme>
+  <programme start="20200608190000 -0400" stop="20200608193000 -0400" channel="RDS Info">
+    <title lang="en">Tatoué Rodéo</title>
+    <sub-title lang="en">Rodéo Mont-Sainte-Anne</sub-title>
+    <desc lang="en">Les meilleurs moments de l'Équipe de Rodéo du Québec.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Rodeo</category>
+  </programme>
+  <programme start="20200608193000 -0400" stop="20200608200000 -0400" channel="RDS Info">
+    <title lang="en">Oups</title>
+    <desc lang="en">Rendez-vous humoristique de performances sportives inédites, de chutes et de fous rires.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608200000 -0400" stop="20200608223000 -0400" channel="RDS Info">
+    <title lang="en">Golden State Warriors vs. Toronto Raptors</title>
+    <desc lang="en">Classique de basketball Finale 1er match.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20200608223000 -0400" stop="20200608230000 -0400" channel="RDS Info">
+    <title lang="en">Hors-jeu 2.0</title>
+    <desc lang="en">L'univers des joueurs de la LNH par le biais de rencontres et de découvertes.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200608230000 -0400" stop="20200608233000 -0400" channel="RDS Info">
+    <title lang="en">Mes souvenirs sportifs</title>
+    <desc lang="en">Mes souvenirs sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608233000 -0400" stop="20200609000000 -0400" channel="RDS Info">
+    <title lang="en">L'antichambre</title>
+    <desc lang="en">Débats sur les sujets les plus chauds de l'actualité sportive.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
   </programme>
 </tv>

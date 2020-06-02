@@ -10,6 +10,11 @@
     <icon src="http://cdn.tvpassport.com/image/station/240x135/canald.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
+  <channel id="Canal Z">
+    <display-name lang="en">Canal Z</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/canal_z.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Addik TV">
     <title lang="en">Les enquêtes de Murdoch</title>
     <sub-title lang="en">Le concours de frappe</sub-title>
@@ -3478,6 +3483,1895 @@
     <category lang="en">Docu-Series</category>
     <rating system="US">
       <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Canal Z">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">L'équipe travaille contre la montre pour bâtir une réplique d'un Ford Bronco à partir d'un F350 et d'un Ford Excursion. Heavy D ajoute sa touche spéciale et permet à la construction de défier les lois de la physique.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200601070000 -0400" stop="20200601073000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">Les mensonges de Wanda</sub-title>
+    <desc lang="en">Bernice donne une leçon de remorquage au petit nouveau chez Tremont, Davy. L'étrange voiture neuve de Kosgrove attire un peu trop l'attention. Eddie est de retour et il réalise que les temps sont durs chez Tremont. Jerome se méfie de Wanda.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200601073000 -0400" stop="20200601080000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Les Grandes Crues</sub-title>
+    <desc lang="en">Les Grandes Crues débarquent à St-Joseph-de-Coleraine pour y présenter un numéro d'humour écrit sur mesure. Pour s'inspirer, Ève Côté et Marie-Lyne Joncas rencontrent des gens du coin et participent à diverses activités.Guests: Les Grandes Crues..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601080000 -0400" stop="20200601090000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Jouer au chat et à la souris</sub-title>
+    <desc lang="en">La course se poursuit à travers Shanghai, en Chine, et puis à Bangkok, en Thaïlande, où lors d'un détour, des participants luttent pour s'en sortir.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601090000 -0400" stop="20200601100000 -0400" channel="Canal Z">
+    <title lang="en">Les stupéfiants</title>
+    <sub-title lang="en">L'homme contre l'automobile/ L'évasion électrisante</sub-title>
+    <desc lang="en">Les Stupéfiants s'intéressent aux accidents de voiture. Ils vérifient si un piéton peut éviter un impact grâce à un saut et s'il est possible de se sortir d'une voiture emmêlée dans des fils électriques.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601100000 -0400" stop="20200601110000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Mario Jean</sub-title>
+    <desc lang="en">Mario Jean se hasarde dans une situation critique de survie avec Francis Bouillon et le coach de survie Frédéric Dion.Guests: Mario Jean..(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601110000 -0400" stop="20200601120000 -0400" channel="Canal Z">
+    <title lang="en">Le tour du monde de l'incroyable</title>
+    <sub-title lang="en">Le clou du spectacle</sub-title>
+    <desc lang="en">Les Maîtres de la foudre canalisent l'électricité; le Maître des dominos Lily Hevish remercie ses adeptes; Michael Gump est un homme aux multiples visages et April Choi maîtrise l'art du fouet.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601120000 -0400" stop="20200601123000 -0400" channel="Canal Z">
+    <title lang="en">Routiers déchaînés</title>
+    <sub-title lang="en">Carnage de mi-saison</sub-title>
+    <desc lang="en">À la moitié de la saison, l'équipe Lucky 13 se trouve au bas du palmarès. Ashley, de son côté, est à une place du podium. Ronnie Singer, le meneur au classement, a un accident et cause le chaos sur la piste.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601123000 -0400" stop="20200601130000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Les Grandes Crues</sub-title>
+    <desc lang="en">Les Grandes Crues débarquent à St-Joseph-de-Coleraine pour y présenter un numéro d'humour écrit sur mesure. Pour s'inspirer, Ève Côté et Marie-Lyne Joncas rencontrent des gens du coin et participent à diverses activités.Guests: Les Grandes Crues..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601130000 -0400" stop="20200601140000 -0400" channel="Canal Z">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">L'équipe travaille contre la montre pour bâtir une réplique d'un Ford Bronco à partir d'un F350 et d'un Ford Excursion. Heavy D ajoute sa touche spéciale et permet à la construction de défier les lois de la physique.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200601140000 -0400" stop="20200601150000 -0400" channel="Canal Z">
+    <title lang="en">Seuls et tout nus XL</title>
+    <desc lang="en">Après le départ de Russel, les survivalistes restants se regroupent pour amorcer une expédition de deux jours. Ils risquent de rencontrer des anguilles électriques, des anacondas et des caïmans. Dernier épisode de la saison.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200601150000 -0400" stop="20200601160000 -0400" channel="Canal Z">
+    <title lang="en">Les Brown: génération Alaska</title>
+    <sub-title lang="en">Retour dans la nature</sub-title>
+    <desc lang="en">Les Brown sont plus déterminés que jamais à atteindre leur nouvelle terre. Après avoir échappé au désastre sur les flots, la famille demande l'aide d'un vieil ami.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200601160000 -0400" stop="20200601170000 -0400" channel="Canal Z">
+    <title lang="en">Les stupéfiants</title>
+    <sub-title lang="en">L'homme contre l'automobile/ L'évasion électrisante</sub-title>
+    <desc lang="en">Les Stupéfiants s'intéressent aux accidents de voiture. Ils vérifient si un piéton peut éviter un impact grâce à un saut et s'il est possible de se sortir d'une voiture emmêlée dans des fils électriques.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601170000 -0400" stop="20200601180000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Jouer au chat et à la souris</sub-title>
+    <desc lang="en">La course se poursuit à travers Shanghai, en Chine, et puis à Bangkok, en Thaïlande, où lors d'un détour, des participants luttent pour s'en sortir.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601180000 -0400" stop="20200601190000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Mario Jean</sub-title>
+    <desc lang="en">Mario Jean se hasarde dans une situation critique de survie avec Francis Bouillon et le coach de survie Frédéric Dion.Guests: Mario Jean..(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601190000 -0400" stop="20200601193000 -0400" channel="Canal Z">
+    <title lang="en">Le Roy des toilettes</title>
+    <sub-title lang="en">Le Tour</sub-title>
+    <desc lang="en">Premier gros test de la saison pour l'équipe, le Tour de l'Île de Montréal.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601193000 -0400" stop="20200601200000 -0400" channel="Canal Z">
+    <title lang="en">Routiers déchaînés</title>
+    <sub-title lang="en">Citrouille bredouille</sub-title>
+    <desc lang="en">Pour beaucoup de conducteurs, la ville de Barraute, au Québec, marque la fin de la saison de course. Jug Boulanger tente de mettre la main sur au moins un trophée cette année.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601200000 -0400" stop="20200601210000 -0400" channel="Canal Z">
+    <title lang="en">Top Gear</title>
+    <sub-title lang="en">Cuba libre</sub-title>
+    <desc lang="en">Chris et Rory se rendent à Cuba avec une Maserati Biturbo et une Chevrolet Camaro. Ils traversent le pays de la baie des Cochons jusqu'à La Havane et en profitent pour faire quelques courses contre des locaux.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200601210000 -0400" stop="20200601213000 -0400" channel="Canal Z">
+    <title lang="en">Au volant d'une belle cubaine</title>
+    <sub-title lang="en">Une décapotable fait maison</sub-title>
+    <desc lang="en">Partant à la recherche des décapotables les plus originales de l'île, José et Gildor suivent les traces d'une Ford Edsel dont le toit rigide a été modifié pour se glisser à l'intérieur de la valise arrière.(n)</desc>
+    <category lang="en">Automotive</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601213000 -0400" stop="20200601220000 -0400" channel="Canal Z">
+    <title lang="en">Les génies de la vitesse</title>
+    <sub-title lang="en">Dodge Charger vs Porsche</sub-title>
+    <desc lang="en">Danny Pruneau adore les voitures américaines. Ce carrossier de 24 ans, fondateur du regroupement d'amateurs de voitures modifiées 'Ride Union', amène sur la piste une Dodge Charger SRT8 capable de développer 400 chevaux-vapeur aux roues.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601220000 -0400" stop="20200601230000 -0400" channel="Canal Z">
+    <title lang="en">The Gifted (v.f.)</title>
+    <sub-title lang="en">Malheureux présages</sub-title>
+    <desc lang="en">Reeva se prépare à mettre en marche son plan pour le Cercle, mais tous ne sont pas d'accord avec celui-ci.(n)</desc>
+    <credits>
+      <actor>Grace Byers</actor>
+      <actor>Amy Acker</actor>
+      <actor>Percy Hynes</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200601230000 -0400" stop="20200602000000 -0400" channel="Canal Z">
+    <title lang="en">Grimm</title>
+    <sub-title lang="en">Monde parallèle</sub-title>
+    <desc lang="en">Eve décide d'affronter la force sombre croisée dans un miroir et elle se retrouve en territoire inconnu. Nick tente de la rejoindre.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602000000 -0400" stop="20200602003000 -0400" channel="Canal Z">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">Le Retour de la communauté de l'anneau des deux tours</sub-title>
+    <desc lang="en">Les gars partent en mission: retourner le film 'Le Seigneur des anneaux' au club vidéo.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200602003000 -0400" stop="20200602010000 -0400" channel="Canal Z">
+    <title lang="en">Les génies de la vitesse</title>
+    <sub-title lang="en">Dodge Charger vs Porsche</sub-title>
+    <desc lang="en">Danny Pruneau adore les voitures américaines. Ce carrossier de 24 ans, fondateur du regroupement d'amateurs de voitures modifiées 'Ride Union', amène sur la piste une Dodge Charger SRT8 capable de développer 400 chevaux-vapeur aux roues.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602010000 -0400" stop="20200602013000 -0400" channel="Canal Z">
+    <title lang="en">Direct dans l'net</title>
+    <desc lang="en">Le trio présente des casse-cous sur roulettes et une maquilleuse qui fait compétition à Pinocchio.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602013000 -0400" stop="20200602020000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Les Grandes Crues</sub-title>
+    <desc lang="en">Les Grandes Crues débarquent à St-Joseph-de-Coleraine pour y présenter un numéro d'humour écrit sur mesure. Pour s'inspirer, Ève Côté et Marie-Lyne Joncas rencontrent des gens du coin et participent à diverses activités.Guests: Les Grandes Crues..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602020000 -0400" stop="20200602023000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">Les mensonges de Wanda</sub-title>
+    <desc lang="en">Bernice donne une leçon de remorquage au petit nouveau chez Tremont, Davy. L'étrange voiture neuve de Kosgrove attire un peu trop l'attention. Eddie est de retour et il réalise que les temps sont durs chez Tremont. Jerome se méfie de Wanda.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602023000 -0400" stop="20200602030000 -0400" channel="Canal Z">
+    <title lang="en">Coups de cochon</title>
+    <sub-title lang="en">Martin Vachon piège Frank Grenier</sub-title>
+    <desc lang="en">Matthieu et Michelle remplacent la massothérapeute de Guillaume. Guillaume et Martin Vachon font vivre un spectacle d'humour humiliant à l'humoriste Frank Grenier.Guests: Martin Vachon, Frank Grenier..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602030000 -0400" stop="20200602040000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Jouer au chat et à la souris</sub-title>
+    <desc lang="en">La course se poursuit à travers Shanghai, en Chine, et puis à Bangkok, en Thaïlande, où lors d'un détour, des participants luttent pour s'en sortir.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602040000 -0400" stop="20200602050000 -0400" channel="Canal Z">
+    <title lang="en">Grimm</title>
+    <sub-title lang="en">Le destructeur arrive..</sub-title>
+    <desc lang="en">La prophétie dévoilée est sur le point de se réaliser quand une force obscure arrive à Portland, le regard tourné vers Diana.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602050000 -0400" stop="20200602060000 -0400" channel="Canal Z">
+    <title lang="en">Seuls et tout nus</title>
+    <sub-title lang="en">Le danger rôde tout près (Floride)</sub-title>
+    <desc lang="en">Une mère monoparentale qui déteste les araignées et un homme qui a des tarentules comme animaux de compagnie sont abandonnés dans une forêt du comté de Seminole en Floride.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602060000 -0400" stop="20200602070000 -0400" channel="Canal Z">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">Irrité par le traitement qu'il reçoit sur les médias sociaux, Heavy D décide de s'attaquer au véhicule utilitaire qui constitue jusqu'à maintenant l'échec le plus cuisant de l'année pour l'équipe.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200602070000 -0400" stop="20200602073000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">Bernice fait des vagues</sub-title>
+    <desc lang="en">Jerome et Davy tombent sur un autobus délabré qui a servi pour faire la fête. Robbie remorque une Corvette. Bernice atteint de nouveaux sommets en remorquant un yacht.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602073000 -0400" stop="20200602080000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Pierre Hébert</sub-title>
+    <desc lang="en">Pierre Hébert débarque à Ormstown afin d'y présenter un numéro d'humour écrit sur mesure pour les gens du coin.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602080000 -0400" stop="20200602090000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">On vient d'apercevoir Johnny Moutarde</sub-title>
+    <desc lang="en">Les équipes se dirigent vers Ottawa où ils doivent faire un test de citoyenneté et ce n'est pas facile pour tout le monde.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602090000 -0400" stop="20200602100000 -0400" channel="Canal Z">
+    <title lang="en">Les stupéfiants</title>
+    <sub-title lang="en">Une perception efficace/ Larguer une bombe</sub-title>
+    <desc lang="en">Les Stupéfiants testent un mythe inspiré des jeux vidéo et vérifient s'il est possible de déboucher une toilette en utilisant une bombe de sel.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602100000 -0400" stop="20200602110000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Julien Lacroix et Medhi Bousaidan</sub-title>
+    <desc lang="en">Les deux humoristes Julien Lacroix et Mehdi Bousaidan acceptent de vivre une expérience de survie en kayak de mer sur le fleuve Saint-Laurent.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602110000 -0400" stop="20200602120000 -0400" channel="Canal Z">
+    <title lang="en">The Gifted (v.f.)</title>
+    <sub-title lang="en">Malheureux présages</sub-title>
+    <desc lang="en">Reeva se prépare à mettre en marche son plan pour le Cercle, mais tous ne sont pas d'accord avec celui-ci.(n)</desc>
+    <credits>
+      <actor>Grace Byers</actor>
+      <actor>Amy Acker</actor>
+      <actor>Percy Hynes</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200602120000 -0400" stop="20200602123000 -0400" channel="Canal Z">
+    <title lang="en">Les génies de la vitesse</title>
+    <sub-title lang="en">Dodge Charger vs Porsche</sub-title>
+    <desc lang="en">Danny Pruneau adore les voitures américaines. Ce carrossier de 24 ans, fondateur du regroupement d'amateurs de voitures modifiées 'Ride Union', amène sur la piste une Dodge Charger SRT8 capable de développer 400 chevaux-vapeur aux roues.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602123000 -0400" stop="20200602130000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Pierre Hébert</sub-title>
+    <desc lang="en">Pierre Hébert débarque à Ormstown afin d'y présenter un numéro d'humour écrit sur mesure pour les gens du coin.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602130000 -0400" stop="20200602140000 -0400" channel="Canal Z">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">Irrité par le traitement qu'il reçoit sur les médias sociaux, Heavy D décide de s'attaquer au véhicule utilitaire qui constitue jusqu'à maintenant l'échec le plus cuisant de l'année pour l'équipe.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200602140000 -0400" stop="20200602150000 -0400" channel="Canal Z">
+    <title lang="en">Seuls et tout nus</title>
+    <sub-title lang="en">Le danger rôde tout près (Floride)</sub-title>
+    <desc lang="en">Une mère monoparentale qui déteste les araignées et un homme qui a des tarentules comme animaux de compagnie sont abandonnés dans une forêt du comté de Seminole en Floride.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602150000 -0400" stop="20200602160000 -0400" channel="Canal Z">
+    <title lang="en">Les Brown: génération Alaska</title>
+    <sub-title lang="en">Bienvenue à Brownville</sub-title>
+    <desc lang="en">Les Brown sont enfin installés dans un endroit où ils ont tout ce qu'il faut pour survivre. Comme les habiletés des garçons semblent un peu rouillées, ils doivent prouver à Billy qu'ils sont toujours capables de jouer leur rôle au sein du clan.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200602160000 -0400" stop="20200602170000 -0400" channel="Canal Z">
+    <title lang="en">Les stupéfiants</title>
+    <sub-title lang="en">Une perception efficace/ Larguer une bombe</sub-title>
+    <desc lang="en">Les Stupéfiants testent un mythe inspiré des jeux vidéo et vérifient s'il est possible de déboucher une toilette en utilisant une bombe de sel.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602170000 -0400" stop="20200602180000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">On vient d'apercevoir Johnny Moutarde</sub-title>
+    <desc lang="en">Les équipes se dirigent vers Ottawa où ils doivent faire un test de citoyenneté et ce n'est pas facile pour tout le monde.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602180000 -0400" stop="20200602190000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Julien Lacroix et Medhi Bousaidan</sub-title>
+    <desc lang="en">Les deux humoristes Julien Lacroix et Mehdi Bousaidan acceptent de vivre une expérience de survie en kayak de mer sur le fleuve Saint-Laurent.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602190000 -0400" stop="20200602200000 -0400" channel="Canal Z">
+    <title lang="en">Face Off</title>
+    <sub-title lang="en">Aliens antiques</sub-title>
+    <desc lang="en">Dans leur premier Spotlight Challenge individuel, les 13 concurrents restants doivent créer un extraterrestre en s'inspirant des 7 merveilles du monde antique.(n)</desc>
+    <credits>
+      <actor>Glenn Hetrick</actor>
+      <actor>Ve Neill</actor>
+      <actor>Neville Page</actor>
+    </credits>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602200000 -0400" stop="20200602203000 -0400" channel="Canal Z">
+    <title lang="en">Just Tattoo of Us (v.f.)</title>
+    <sub-title lang="en">Les jolies nanas de Floribama</sub-title>
+    <desc lang="en">Les meilleures amies de Floribama Shore, Nilsa et Aimee, se font faire des tatouages qui portent à réfléchir. Un couple révèle ce qu'ils pensent réellement de l'un l'autre.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200602203000 -0400" stop="20200602210000 -0400" channel="Canal Z">
+    <title lang="en">Just Tattoo of Us (v.f.)</title>
+    <sub-title lang="en">Drag queens en folie</sub-title>
+    <desc lang="en">Des drag-queens de Chicago testent leur amitié avec des tatouages insolites. Des meilleures amies vont trop loin, quand elles révèlent leurs secrets à l'encre permanente.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200602210000 -0400" stop="20200602220000 -0400" channel="Canal Z">
+    <title lang="en">Vikings</title>
+    <sub-title lang="en">Baldur</sub-title>
+    <desc lang="en">Hvitserk est mis à l'épreuve. Floki fait une incroyable découverte. Ubbe négocie avec les trois rois danois qui ont amassé leurs armées à Reading. Or, les négociations menacent de mal tourner.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200602220000 -0400" stop="20200602223000 -0400" channel="Canal Z">
+    <title lang="en">Infiltration</title>
+    <sub-title lang="en">Orgies</sub-title>
+    <desc lang="en">PY et l'équipe souhaitent comprendre pourquoi les gens s'adonnent à l'activité jouissive.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602223000 -0400" stop="20200602230000 -0400" channel="Canal Z">
+    <title lang="en">Infiltration</title>
+    <sub-title lang="en">Base jumping</sub-title>
+    <desc lang="en">Les sports extrêmes repoussent de plus en plus les limites et frôlent l'illégalité.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602230000 -0400" stop="20200603000000 -0400" channel="Canal Z">
+    <title lang="en">Grimm</title>
+    <sub-title lang="en">Le destructeur arrive..</sub-title>
+    <desc lang="en">La prophétie dévoilée est sur le point de se réaliser quand une force obscure arrive à Portland, le regard tourné vers Diana.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603000000 -0400" stop="20200603003000 -0400" channel="Canal Z">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">Le camp de la mort de tolérance</sub-title>
+    <desc lang="en">M. Garrison essaie désespérément de se faire virer de son nouveau poste de professeur.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200603003000 -0400" stop="20200603010000 -0400" channel="Canal Z">
+    <title lang="en">Au volant d'une belle cubaine</title>
+    <sub-title lang="en">Une décapotable fait maison</sub-title>
+    <desc lang="en">Partant à la recherche des décapotables les plus originales de l'île, José et Gildor suivent les traces d'une Ford Edsel dont le toit rigide a été modifié pour se glisser à l'intérieur de la valise arrière.(n)</desc>
+    <category lang="en">Automotive</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603010000 -0400" stop="20200603013000 -0400" channel="Canal Z">
+    <title lang="en">Routiers déchaînés</title>
+    <sub-title lang="en">Citrouille bredouille</sub-title>
+    <desc lang="en">Pour beaucoup de conducteurs, la ville de Barraute, au Québec, marque la fin de la saison de course. Jug Boulanger tente de mettre la main sur au moins un trophée cette année.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603013000 -0400" stop="20200603020000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Pierre Hébert</sub-title>
+    <desc lang="en">Pierre Hébert débarque à Ormstown afin d'y présenter un numéro d'humour écrit sur mesure pour les gens du coin.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603020000 -0400" stop="20200603023000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">Bernice fait des vagues</sub-title>
+    <desc lang="en">Jerome et Davy tombent sur un autobus délabré qui a servi pour faire la fête. Robbie remorque une Corvette. Bernice atteint de nouveaux sommets en remorquant un yacht.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603023000 -0400" stop="20200603030000 -0400" channel="Canal Z">
+    <title lang="en">Le Roy des toilettes</title>
+    <sub-title lang="en">Le Tour</sub-title>
+    <desc lang="en">Premier gros test de la saison pour l'équipe, le Tour de l'Île de Montréal.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603030000 -0400" stop="20200603040000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">On vient d'apercevoir Johnny Moutarde</sub-title>
+    <desc lang="en">Les équipes se dirigent vers Ottawa où ils doivent faire un test de citoyenneté et ce n'est pas facile pour tout le monde.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603040000 -0400" stop="20200603050000 -0400" channel="Canal Z">
+    <title lang="en">Grimm</title>
+    <sub-title lang="en">Tout a une fin</sub-title>
+    <desc lang="en">Nick doit faire face à son plus grand ennemi qui semble invincible. Monroe, Rosalee et Eve découvrent une potion rare qui pourrait influencer l'issue de la bataille.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603050000 -0400" stop="20200603060000 -0400" channel="Canal Z">
+    <title lang="en">Seuls et tout nus</title>
+    <sub-title lang="en">Le roi de la forêt (Alabama)</sub-title>
+    <desc lang="en">Un 'roi de la forêt' autoproclamé et une athlète d'endurance chevronnée s'attaquent aux forêts reculées de l'Alabama.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603060000 -0400" stop="20200603070000 -0400" channel="Canal Z">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">L'équipe frappe un mur et doit trouver rapidement une solution. Les gars décident de reconstruire leur création la plus marquante: le Megaram.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200603070000 -0400" stop="20200603073000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">Adios Kosgrove</sub-title>
+    <desc lang="en">Les employés de Tremont se réunissent pour dire adieu à Kosgrove. Pendant ce temps, Robbie doit infiltrer un atelier de démontage de voitures. Davy domine un adolescent agressif de douze ans.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603073000 -0400" stop="20200603080000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Sam Breton</sub-title>
+    <desc lang="en">Sam Breton débarque à Richmond, en Estrie, pour présenter un numéro d'humour écrit sur mesure pour les gens du coin.Guests: Sam Breton..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603080000 -0400" stop="20200603090000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Une petite pause pour Korey</sub-title>
+    <desc lang="en">La course se rend à Terre-Neuve où les alliances se détériorent et que les tensions éclatent. Un détour laisse certaines équipes à la dérive.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603090000 -0400" stop="20200603100000 -0400" channel="Canal Z">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">Les dominos dévastateurs et le Jenga extrême</sub-title>
+    <desc lang="en">Les Stupéfiants en herbe s'attaquent à des mythes concernant les jeux de société. Ils tentent de réussir l'impossible à Jenga et vérifient si l'effet domino peut mener à un carambolage de voitures.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603100000 -0400" stop="20200603110000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Valérie Roberts</sub-title>
+    <desc lang="en">Francis et Valérie Roberts doivent nager pendant un bon moment et marcher des heures dans des marécages pollués et nauséabonds afin de retrouver leur chemin.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200603110000 -0400" stop="20200603120000 -0400" channel="Canal Z">
+    <title lang="en">Top Gear</title>
+    <sub-title lang="en">Cuba libre</sub-title>
+    <desc lang="en">Chris et Rory se rendent à Cuba avec une Maserati Biturbo et une Chevrolet Camaro. Ils traversent le pays de la baie des Cochons jusqu'à La Havane et en profitent pour faire quelques courses contre des locaux.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200603120000 -0400" stop="20200603123000 -0400" channel="Canal Z">
+    <title lang="en">Synvain rénove</title>
+    <sub-title lang="en">La chambre de bébé avec Vanessa Pilon</sub-title>
+    <desc lang="en">Le trio rénove la chambre de bébé de Vanessa Pilon, mère de la petite Claire. Elle en profite pour se reposer pendant que Synvain, Esteeve et Marie-Zojée rendent la chambre de sa fille 'hypoallergénique'.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603123000 -0400" stop="20200603130000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Sam Breton</sub-title>
+    <desc lang="en">Sam Breton débarque à Richmond, en Estrie, pour présenter un numéro d'humour écrit sur mesure pour les gens du coin.Guests: Sam Breton..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603130000 -0400" stop="20200603140000 -0400" channel="Canal Z">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">L'équipe frappe un mur et doit trouver rapidement une solution. Les gars décident de reconstruire leur création la plus marquante: le Megaram.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200603140000 -0400" stop="20200603150000 -0400" channel="Canal Z">
+    <title lang="en">Seuls et tout nus</title>
+    <sub-title lang="en">Le roi de la forêt (Alabama)</sub-title>
+    <desc lang="en">Un 'roi de la forêt' autoproclamé et une athlète d'endurance chevronnée s'attaquent aux forêts reculées de l'Alabama.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603150000 -0400" stop="20200603160000 -0400" channel="Canal Z">
+    <title lang="en">Face Off</title>
+    <sub-title lang="en">Aliens antiques</sub-title>
+    <desc lang="en">Dans leur premier Spotlight Challenge individuel, les 13 concurrents restants doivent créer un extraterrestre en s'inspirant des 7 merveilles du monde antique.(n)</desc>
+    <credits>
+      <actor>Glenn Hetrick</actor>
+      <actor>Ve Neill</actor>
+      <actor>Neville Page</actor>
+    </credits>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603160000 -0400" stop="20200603170000 -0400" channel="Canal Z">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">Les dominos dévastateurs et le Jenga extrême</sub-title>
+    <desc lang="en">Les Stupéfiants en herbe s'attaquent à des mythes concernant les jeux de société. Ils tentent de réussir l'impossible à Jenga et vérifient si l'effet domino peut mener à un carambolage de voitures.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603170000 -0400" stop="20200603180000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Une petite pause pour Korey</sub-title>
+    <desc lang="en">La course se rend à Terre-Neuve où les alliances se détériorent et que les tensions éclatent. Un détour laisse certaines équipes à la dérive.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603180000 -0400" stop="20200603190000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Valérie Roberts</sub-title>
+    <desc lang="en">Francis et Valérie Roberts doivent nager pendant un bon moment et marcher des heures dans des marécages pollués et nauséabonds afin de retrouver leur chemin.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200603190000 -0400" stop="20200603193000 -0400" channel="Canal Z">
+    <title lang="en">Au volant d'une belle cubaine</title>
+    <sub-title lang="en">Une décapotable fait maison</sub-title>
+    <desc lang="en">Partant à la recherche des décapotables les plus originales de l'île, José et Gildor suivent les traces d'une Ford Edsel dont le toit rigide a été modifié pour se glisser à l'intérieur de la valise arrière.(n)</desc>
+    <category lang="en">Automotive</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603193000 -0400" stop="20200603200000 -0400" channel="Canal Z">
+    <title lang="en">Les génies de la vitesse</title>
+    <sub-title lang="en">Dodge Charger vs Porsche</sub-title>
+    <desc lang="en">Danny Pruneau adore les voitures américaines. Ce carrossier de 24 ans, fondateur du regroupement d'amateurs de voitures modifiées 'Ride Union', amène sur la piste une Dodge Charger SRT8 capable de développer 400 chevaux-vapeur aux roues.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603200000 -0400" stop="20200603203000 -0400" channel="Canal Z">
+    <title lang="en">Coups de cochon</title>
+    <sub-title lang="en">Korine Côté piège sa cousine Manon</sub-title>
+    <desc lang="en">Guillaume et Matthieu mettent leur ego de côté pour aider Korine Côté à piéger sa cousine à son bureau. Guillaume se transforme en mannequin très dérangeant dans une vitrine de magasin.Guests: Korine Côté..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603203000 -0400" stop="20200603210000 -0400" channel="Canal Z">
+    <title lang="en">Synvain rénove</title>
+    <sub-title lang="en">Le sous-sol avec Michel Charette</sub-title>
+    <desc lang="en">L'équipe s'attaque au sous-sol de Michel Charrette, qui a grandement besoin des services de professionnels.Guests: Michel Charette..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603210000 -0400" stop="20200603213000 -0400" channel="Canal Z">
+    <title lang="en">Roast Battle: le grand duel</title>
+    <sub-title lang="en">Qualification 4</sub-title>
+    <desc lang="en">Anaïs Favron affronte Dave Morgan, et Simon Delisle affronte Pierre-Luc Pomerleau.Guests: Anaïs Favron, Dave Morgan, Simon Delisle, Pierre-Luc Pomerleau..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200603213000 -0400" stop="20200603220000 -0400" channel="Canal Z">
+    <title lang="en">En rodage</title>
+    <sub-title lang="en">Simon Gouache</sub-title>
+    <desc lang="en">À travers le rodage de son spectacle solo 'Une belle soirée', Simon Gouache doit prendre une décision difficile: poursuivre son rodage plus longtemps que prévu.Guests: Simon Gouache..(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603220000 -0400" stop="20200603223000 -0400" channel="Canal Z">
+    <title lang="en">Le must du ridicule</title>
+    <sub-title lang="en">Spectacle vivant</sub-title>
+    <desc lang="en">D'hilarantes vidéos du web mettant en vedette des performances de spectacles de talents.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603223000 -0400" stop="20200603230000 -0400" channel="Canal Z">
+    <title lang="en">Ballers (v.f.)</title>
+    <sub-title lang="en">Revanche sur la vie</sub-title>
+    <desc lang="en">Spencer cherche à obtenir la bénédiction d'un propriétaire pour amener une équipe de football professionnel à Las Vegas. La tension monte entre Charles et Larry.(n)</desc>
+    <credits>
+      <actor>Dwayne 'The Rock' Johnson</actor>
+      <actor>John David Washington</actor>
+      <actor>Omar Benson Miller</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603230000 -0400" stop="20200604000000 -0400" channel="Canal Z">
+    <title lang="en">Grimm</title>
+    <sub-title lang="en">Tout a une fin</sub-title>
+    <desc lang="en">Nick doit faire face à son plus grand ennemi qui semble invincible. Monroe, Rosalee et Eve découvrent une potion rare qui pourrait influencer l'issue de la bataille.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604000000 -0400" stop="20200604003000 -0400" channel="Canal Z">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">Le plus gros Connard de l'univers</sub-title>
+    <desc lang="en">Cartman cherche à exorciser l'âme de Kenny qui a envahi son corps.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200604003000 -0400" stop="20200604010000 -0400" channel="Canal Z">
+    <title lang="en">Synvain rénove</title>
+    <sub-title lang="en">Le sous-sol avec Michel Charette</sub-title>
+    <desc lang="en">L'équipe s'attaque au sous-sol de Michel Charrette, qui a grandement besoin des services de professionnels.Guests: Michel Charette..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604010000 -0400" stop="20200604013000 -0400" channel="Canal Z">
+    <title lang="en">Le Roy des toilettes</title>
+    <sub-title lang="en">Le Tour</sub-title>
+    <desc lang="en">Premier gros test de la saison pour l'équipe, le Tour de l'Île de Montréal.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604013000 -0400" stop="20200604020000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Sam Breton</sub-title>
+    <desc lang="en">Sam Breton débarque à Richmond, en Estrie, pour présenter un numéro d'humour écrit sur mesure pour les gens du coin.Guests: Sam Breton..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604020000 -0400" stop="20200604023000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">Adios Kosgrove</sub-title>
+    <desc lang="en">Les employés de Tremont se réunissent pour dire adieu à Kosgrove. Pendant ce temps, Robbie doit infiltrer un atelier de démontage de voitures. Davy domine un adolescent agressif de douze ans.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604023000 -0400" stop="20200604030000 -0400" channel="Canal Z">
+    <title lang="en">Roast Battle: le grand duel</title>
+    <sub-title lang="en">Qualification 4</sub-title>
+    <desc lang="en">Anaïs Favron affronte Dave Morgan, et Simon Delisle affronte Pierre-Luc Pomerleau.Guests: Anaïs Favron, Dave Morgan, Simon Delisle, Pierre-Luc Pomerleau..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200604030000 -0400" stop="20200604040000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Une petite pause pour Korey</sub-title>
+    <desc lang="en">La course se rend à Terre-Neuve où les alliances se détériorent et que les tensions éclatent. Un détour laisse certaines équipes à la dérive.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604040000 -0400" stop="20200604050000 -0400" channel="Canal Z">
+    <title lang="en">Sleepy Hollow</title>
+    <sub-title lang="en">Columbia</sub-title>
+    <desc lang="en">Après la mort d'Abbie Mills, Ichabod et Jenny se mettent à la recherche de leur prochain témoin. Les forces du mal en jeu sont plus puissantes que ce que Crane avait imaginé au départ. Premier épisode de la saison.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604050000 -0400" stop="20200604060000 -0400" channel="Canal Z">
+    <title lang="en">Seuls et tout nus</title>
+    <sub-title lang="en">Parc naturel de Kopacki Rit (Croatie)</sub-title>
+    <desc lang="en">Une étudiante en biologie et un instructeur de survie australien font équipe sur le rivage marécageux de la Croatie pour prouver qu'ils peuvent compter sur leurs habiletés.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604060000 -0400" stop="20200604070000 -0400" channel="Canal Z">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">Heavy D, Diesel Dave et le reste de l'équipe travaillent contre la montre pour terminer un F100 à temps pour la légendaire course Mint 400.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200604070000 -0400" stop="20200604073000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">L'admirateur secret</sub-title>
+    <desc lang="en">Christie révèle les secrets du second emploi de Perez. Pendant ce temps, Bernice découvre l'identité de son admirateur secret. Eddie sème les paroles de sagesse à un propriétaire particulièrement irrité.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604073000 -0400" stop="20200604080000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Philippe Laprise</sub-title>
+    <desc lang="en">Philippe Laprise débarque aux Îles-de-la-Madeleine pour présenter un numéro d'humour écrit sur mesure pour les gens du coin. Pour s'inspirer, il nage dans les grottes, récolte des huîtres, déguste de la bagosse et se promène avec des chèvres.Guests: Philippe Laprise..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604080000 -0400" stop="20200604090000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Je te vois, Kuna!</sub-title>
+    <desc lang="en">Les équipes se dirigent vers le sud, à Panama. Certaines équipes se perdent à cause d'un détour.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604090000 -0400" stop="20200604100000 -0400" channel="Canal Z">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">La gravité et le crayon à mine</sub-title>
+    <desc lang="en">Les Stupéfiants juniors testent la capacité anti-gravité d'un jouet et appliquent ensuite le même principe à une voiture. Ils mettent aussi à l'épreuve la longévité légendaire du crayon à mine HB numéro 2.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604100000 -0400" stop="20200604110000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Rémi-Pierre Paquin et Catherine Brunet</sub-title>
+    <desc lang="en">Catherine Brunet et Rémi-Pierre Paquin se lancent dans une expédition de pêche en canot avec Francis et Frédéric.Guests: Rémi-Pierre Paquin, Catherine Brunet..(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200604110000 -0400" stop="20200604113000 -0400" channel="Canal Z">
+    <title lang="en">Roast Battle: le grand duel</title>
+    <sub-title lang="en">Qualification 4</sub-title>
+    <desc lang="en">Anaïs Favron affronte Dave Morgan, et Simon Delisle affronte Pierre-Luc Pomerleau.Guests: Anaïs Favron, Dave Morgan, Simon Delisle, Pierre-Luc Pomerleau..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200604113000 -0400" stop="20200604120000 -0400" channel="Canal Z">
+    <title lang="en">Coups de cochon</title>
+    <sub-title lang="en">Korine Côté piège sa cousine Manon</sub-title>
+    <desc lang="en">Guillaume et Matthieu mettent leur ego de côté pour aider Korine Côté à piéger sa cousine à son bureau. Guillaume se transforme en mannequin très dérangeant dans une vitrine de magasin.Guests: Korine Côté..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604120000 -0400" stop="20200604123000 -0400" channel="Canal Z">
+    <title lang="en">Au volant d'une belle cubaine</title>
+    <sub-title lang="en">Une décapotable fait maison</sub-title>
+    <desc lang="en">Partant à la recherche des décapotables les plus originales de l'île, José et Gildor suivent les traces d'une Ford Edsel dont le toit rigide a été modifié pour se glisser à l'intérieur de la valise arrière.(n)</desc>
+    <category lang="en">Automotive</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604123000 -0400" stop="20200604130000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Philippe Laprise</sub-title>
+    <desc lang="en">Philippe Laprise débarque aux Îles-de-la-Madeleine pour présenter un numéro d'humour écrit sur mesure pour les gens du coin. Pour s'inspirer, il nage dans les grottes, récolte des huîtres, déguste de la bagosse et se promène avec des chèvres.Guests: Philippe Laprise..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604130000 -0400" stop="20200604140000 -0400" channel="Canal Z">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">Heavy D, Diesel Dave et le reste de l'équipe travaillent contre la montre pour terminer un F100 à temps pour la légendaire course Mint 400.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200604140000 -0400" stop="20200604150000 -0400" channel="Canal Z">
+    <title lang="en">Seuls et tout nus</title>
+    <sub-title lang="en">Parc naturel de Kopacki Rit (Croatie)</sub-title>
+    <desc lang="en">Une étudiante en biologie et un instructeur de survie australien font équipe sur le rivage marécageux de la Croatie pour prouver qu'ils peuvent compter sur leurs habiletés.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604150000 -0400" stop="20200604153000 -0400" channel="Canal Z">
+    <title lang="en">Just Tattoo of Us (v.f.)</title>
+    <sub-title lang="en">Les jolies nanas de Floribama</sub-title>
+    <desc lang="en">Les meilleures amies de Floribama Shore, Nilsa et Aimee, se font faire des tatouages qui portent à réfléchir. Un couple révèle ce qu'ils pensent réellement de l'un l'autre.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200604153000 -0400" stop="20200604160000 -0400" channel="Canal Z">
+    <title lang="en">Just Tattoo of Us (v.f.)</title>
+    <sub-title lang="en">Drag queens en folie</sub-title>
+    <desc lang="en">Des drag-queens de Chicago testent leur amitié avec des tatouages insolites. Des meilleures amies vont trop loin, quand elles révèlent leurs secrets à l'encre permanente.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200604160000 -0400" stop="20200604170000 -0400" channel="Canal Z">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">La gravité et le crayon à mine</sub-title>
+    <desc lang="en">Les Stupéfiants juniors testent la capacité anti-gravité d'un jouet et appliquent ensuite le même principe à une voiture. Ils mettent aussi à l'épreuve la longévité légendaire du crayon à mine HB numéro 2.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604170000 -0400" stop="20200604180000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Je te vois, Kuna!</sub-title>
+    <desc lang="en">Les équipes se dirigent vers le sud, à Panama. Certaines équipes se perdent à cause d'un détour.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604180000 -0400" stop="20200604190000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Rémi-Pierre Paquin et Catherine Brunet</sub-title>
+    <desc lang="en">Catherine Brunet et Rémi-Pierre Paquin se lancent dans une expédition de pêche en canot avec Francis et Frédéric.Guests: Rémi-Pierre Paquin, Catherine Brunet..(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200604190000 -0400" stop="20200604200000 -0400" channel="Canal Z">
+    <title lang="en">Cobaye humain</title>
+    <sub-title lang="en">Les maîtres du kung-fu</sub-title>
+    <desc lang="en">Todd Sampson fait un séjour dans une école située dans les monts Wudang, en Chine, où il apprend à maîtriser l'art ancien du kung-fu.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604200000 -0400" stop="20200604210000 -0400" channel="Canal Z">
+    <title lang="en">Le tour du monde de l'incroyable</title>
+    <sub-title lang="en">Mondes invisibles</sub-title>
+    <desc lang="en">Un photographe new-yorkais escalade des gratte-ciels pour capturer une vue plongeante de la ville et des cascadeurs de la Louisiane utilisent des explosifs pour créer des illusions.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604210000 -0400" stop="20200604220000 -0400" channel="Canal Z">
+    <title lang="en">Star Trek: Discovery</title>
+    <sub-title lang="en">Une obole pour Charon</sub-title>
+    <desc lang="en">Une mystérieuse sphère menace l'USS Discovery. May, dans sa forme originale, met sur pied un plan qui met la vie de Tilly en danger.(n)</desc>
+    <credits>
+      <actor>Sonequa Martin-Green</actor>
+      <actor>Doug Jones</actor>
+      <actor>Shazad Latif</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200604220000 -0400" stop="20200604223000 -0400" channel="Canal Z">
+    <title lang="en">SNCTM: pour adulte seulement</title>
+    <sub-title lang="en">De mère en fils</sub-title>
+    <desc lang="en">Avec son mode de vie hédoniste au rythme effréné, Damon prend la décision risquée de reprendre contact avec sa mère éloignée.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200604223000 -0400" stop="20200604230000 -0400" channel="Canal Z">
+    <title lang="en">Tosh.0</title>
+    <sub-title lang="en">Bras de fer</sub-title>
+    <desc lang="en">Tosh nous présente Pip, championne de bras de fer, et James, qui a fait le tour du web avec une vidéo vantant les qualités de la tarte aux patates douces de Patti Labelle.(n)</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200604230000 -0400" stop="20200605000000 -0400" channel="Canal Z">
+    <title lang="en">Sleepy Hollow</title>
+    <sub-title lang="en">Columbia</sub-title>
+    <desc lang="en">Après la mort d'Abbie Mills, Ichabod et Jenny se mettent à la recherche de leur prochain témoin. Les forces du mal en jeu sont plus puissantes que ce que Crane avait imaginé au départ. Premier épisode de la saison.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605000000 -0400" stop="20200605003000 -0400" channel="Canal Z">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">Mon futur moi et moi</sub-title>
+    <desc lang="en">Stan doit se rendre à l'évidence qu'il deviendra un minable plus tard dans la vie.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200605003000 -0400" stop="20200605010000 -0400" channel="Canal Z">
+    <title lang="en">Roast Battle: le grand duel</title>
+    <sub-title lang="en">Qualification 4</sub-title>
+    <desc lang="en">Anaïs Favron affronte Dave Morgan, et Simon Delisle affronte Pierre-Luc Pomerleau.Guests: Anaïs Favron, Dave Morgan, Simon Delisle, Pierre-Luc Pomerleau..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200605010000 -0400" stop="20200605013000 -0400" channel="Canal Z">
+    <title lang="en">Le must du ridicule</title>
+    <sub-title lang="en">Spectacle vivant</sub-title>
+    <desc lang="en">D'hilarantes vidéos du web mettant en vedette des performances de spectacles de talents.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605013000 -0400" stop="20200605020000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Philippe Laprise</sub-title>
+    <desc lang="en">Philippe Laprise débarque aux Îles-de-la-Madeleine pour présenter un numéro d'humour écrit sur mesure pour les gens du coin. Pour s'inspirer, il nage dans les grottes, récolte des huîtres, déguste de la bagosse et se promène avec des chèvres.Guests: Philippe Laprise..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605020000 -0400" stop="20200605023000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">L'admirateur secret</sub-title>
+    <desc lang="en">Christie révèle les secrets du second emploi de Perez. Pendant ce temps, Bernice découvre l'identité de son admirateur secret. Eddie sème les paroles de sagesse à un propriétaire particulièrement irrité.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605023000 -0400" stop="20200605030000 -0400" channel="Canal Z">
+    <title lang="en">En rodage</title>
+    <sub-title lang="en">Simon Gouache</sub-title>
+    <desc lang="en">À travers le rodage de son spectacle solo 'Une belle soirée', Simon Gouache doit prendre une décision difficile: poursuivre son rodage plus longtemps que prévu.Guests: Simon Gouache..(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605030000 -0400" stop="20200605040000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Je te vois, Kuna!</sub-title>
+    <desc lang="en">Les équipes se dirigent vers le sud, à Panama. Certaines équipes se perdent à cause d'un détour.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605040000 -0400" stop="20200605050000 -0400" channel="Canal Z">
+    <title lang="en">Sleepy Hollow</title>
+    <sub-title lang="en">Le nouveau témoin</sub-title>
+    <desc lang="en">Ichabod et Jenny apprennent que la sorcellerie est impliquée dans leur dernière affaire. Crane doit trouver le moyen d'annoncer une triste nouvelle à Diana.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605050000 -0400" stop="20200605060000 -0400" channel="Canal Z">
+    <title lang="en">Seuls et tout nus</title>
+    <sub-title lang="en">Geler dans la peur (Canada)</sub-title>
+    <desc lang="en">Une jeune biologiste marine et un vétéran des Forces spéciales risquent l'hypothermie à tout moment alors qu'ils affrontent le Canada, tous nus.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605060000 -0400" stop="20200605070000 -0400" channel="Canal Z">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">L'équipe met tout en oeuvre pour construire un Nissan Titan qui émet très peu de gaz à effet de serre. Heavy D réalise un rêve.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200605070000 -0400" stop="20200605073000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">50 nuances de Bernice</sub-title>
+    <desc lang="en">Bernice utilise ses charmes pour réussir un remorquage payant. Pendant ce temps, Jerome déclare son amour à Brandiss et il attire sur lui la fougue de ses intimidateurs.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605073000 -0400" stop="20200605080000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Fabien Cloutier</sub-title>
+    <desc lang="en">Le comédien et humoriste Fabien Cloutier débarque à Val-Morin dans les Laurentides. Il y rencontre des gens colorés, dans le but de leur présenter par la suite un numéro d'humour écrit sur mesure pour eux.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605080000 -0400" stop="20200605090000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Chercher Charlie dans une foule de Charlie</sub-title>
+    <desc lang="en">La course se rend à Regina, en Saskatchewan, où des équipes luttent pour vendre et divertir.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605090000 -0400" stop="20200605100000 -0400" channel="Canal Z">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">Spécial espace</sub-title>
+    <desc lang="en">Les apprentis Stupéfiants s'intéressent à deux mythes inspirés de l'espace. Ils testent un extincteur pour savoir s'il peut servir de jet-pack et vérifient s'il est vraiment impossible d'entendre un cri dans l'espace.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605100000 -0400" stop="20200605110000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Ludivine Reding</sub-title>
+    <desc lang="en">Ludivine Reding et son partenaire d'expédition Francis Bouillon vivent l'expérience cauchemardesque de Julien Vadeboncoeur, perdu pendant cinq jours dans les monts Groulx.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605110000 -0400" stop="20200605120000 -0400" channel="Canal Z">
+    <title lang="en">Star Trek: Discovery</title>
+    <sub-title lang="en">Une obole pour Charon</sub-title>
+    <desc lang="en">Une mystérieuse sphère menace l'USS Discovery. May, dans sa forme originale, met sur pied un plan qui met la vie de Tilly en danger.(n)</desc>
+    <credits>
+      <actor>Sonequa Martin-Green</actor>
+      <actor>Doug Jones</actor>
+      <actor>Shazad Latif</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200605120000 -0400" stop="20200605123000 -0400" channel="Canal Z">
+    <title lang="en">Le must du ridicule</title>
+    <sub-title lang="en">Spectacle vivant</sub-title>
+    <desc lang="en">D'hilarantes vidéos du web mettant en vedette des performances de spectacles de talents.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605123000 -0400" stop="20200605130000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Fabien Cloutier</sub-title>
+    <desc lang="en">Le comédien et humoriste Fabien Cloutier débarque à Val-Morin dans les Laurentides. Il y rencontre des gens colorés, dans le but de leur présenter par la suite un numéro d'humour écrit sur mesure pour eux.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605130000 -0400" stop="20200605140000 -0400" channel="Canal Z">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">L'équipe met tout en oeuvre pour construire un Nissan Titan qui émet très peu de gaz à effet de serre. Heavy D réalise un rêve.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200605140000 -0400" stop="20200605150000 -0400" channel="Canal Z">
+    <title lang="en">Seuls et tout nus</title>
+    <sub-title lang="en">Geler dans la peur (Canada)</sub-title>
+    <desc lang="en">Une jeune biologiste marine et un vétéran des Forces spéciales risquent l'hypothermie à tout moment alors qu'ils affrontent le Canada, tous nus.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605150000 -0400" stop="20200605160000 -0400" channel="Canal Z">
+    <title lang="en">Le tour du monde de l'incroyable</title>
+    <sub-title lang="en">Mondes invisibles</sub-title>
+    <desc lang="en">Un photographe new-yorkais escalade des gratte-ciels pour capturer une vue plongeante de la ville et des cascadeurs de la Louisiane utilisent des explosifs pour créer des illusions.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605160000 -0400" stop="20200605170000 -0400" channel="Canal Z">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">Spécial espace</sub-title>
+    <desc lang="en">Les apprentis Stupéfiants s'intéressent à deux mythes inspirés de l'espace. Ils testent un extincteur pour savoir s'il peut servir de jet-pack et vérifient s'il est vraiment impossible d'entendre un cri dans l'espace.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605170000 -0400" stop="20200605180000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Chercher Charlie dans une foule de Charlie</sub-title>
+    <desc lang="en">La course se rend à Regina, en Saskatchewan, où des équipes luttent pour vendre et divertir.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605180000 -0400" stop="20200605190000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Ludivine Reding</sub-title>
+    <desc lang="en">Ludivine Reding et son partenaire d'expédition Francis Bouillon vivent l'expérience cauchemardesque de Julien Vadeboncoeur, perdu pendant cinq jours dans les monts Groulx.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605190000 -0400" stop="20200605200000 -0400" channel="Canal Z">
+    <title lang="en">Top Gear</title>
+    <sub-title lang="en">Cuba libre</sub-title>
+    <desc lang="en">Chris et Rory se rendent à Cuba avec une Maserati Biturbo et une Chevrolet Camaro. Ils traversent le pays de la baie des Cochons jusqu'à La Havane et en profitent pour faire quelques courses contre des locaux.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200605200000 -0400" stop="20200605220000 -0400" channel="Canal Z">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Commando</sub-title>
+    <desc lang="en">Un ancien soldat entreprend de libérer sa fillette enlevée par un dictateur.(n)</desc>
+    <credits>
+      <director>Mark L. Lester</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Carl Weathers</actor>
+      <actor>Elpidia Carrillo</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20200605220000 -0400" stop="20200605223000 -0400" channel="Canal Z">
+    <title lang="en">Synvain rénove</title>
+    <sub-title lang="en">Le sous-sol avec Michel Charette</sub-title>
+    <desc lang="en">L'équipe s'attaque au sous-sol de Michel Charrette, qui a grandement besoin des services de professionnels.Guests: Michel Charette..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605223000 -0400" stop="20200605230000 -0400" channel="Canal Z">
+    <title lang="en">Direct dans l'net</title>
+    <desc lang="en">Le trio présente des casse-cous sur roulettes et une maquilleuse qui fait compétition à Pinocchio.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605230000 -0400" stop="20200606000000 -0400" channel="Canal Z">
+    <title lang="en">Sleepy Hollow</title>
+    <sub-title lang="en">Le nouveau témoin</sub-title>
+    <desc lang="en">Ichabod et Jenny apprennent que la sorcellerie est impliquée dans leur dernière affaire. Crane doit trouver le moyen d'annoncer une triste nouvelle à Diana.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606000000 -0400" stop="20200606003000 -0400" channel="Canal Z">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">La chute du traîneau rouge</sub-title>
+    <desc lang="en">Pour se repentir et recevoir des cadeaux de Noël, Cartman doit faire une bonne action.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Christmas</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200606003000 -0400" stop="20200606010000 -0400" channel="Canal Z">
+    <title lang="en">En rodage</title>
+    <sub-title lang="en">Simon Gouache</sub-title>
+    <desc lang="en">À travers le rodage de son spectacle solo 'Une belle soirée', Simon Gouache doit prendre une décision difficile: poursuivre son rodage plus longtemps que prévu.Guests: Simon Gouache..(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606010000 -0400" stop="20200606013000 -0400" channel="Canal Z">
+    <title lang="en">Tosh.0</title>
+    <sub-title lang="en">Bras de fer</sub-title>
+    <desc lang="en">Tosh nous présente Pip, championne de bras de fer, et James, qui a fait le tour du web avec une vidéo vantant les qualités de la tarte aux patates douces de Patti Labelle.(n)</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200606013000 -0400" stop="20200606020000 -0400" channel="Canal Z">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Fabien Cloutier</sub-title>
+    <desc lang="en">Le comédien et humoriste Fabien Cloutier débarque à Val-Morin dans les Laurentides. Il y rencontre des gens colorés, dans le but de leur présenter par la suite un numéro d'humour écrit sur mesure pour eux.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606020000 -0400" stop="20200606023000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">50 nuances de Bernice</sub-title>
+    <desc lang="en">Bernice utilise ses charmes pour réussir un remorquage payant. Pendant ce temps, Jerome déclare son amour à Brandiss et il attire sur lui la fougue de ses intimidateurs.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606023000 -0400" stop="20200606030000 -0400" channel="Canal Z">
+    <title lang="en">Direct dans l'net</title>
+    <desc lang="en">Le trio présente des casse-cous sur roulettes et une maquilleuse qui fait compétition à Pinocchio.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606030000 -0400" stop="20200606040000 -0400" channel="Canal Z">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Chercher Charlie dans une foule de Charlie</sub-title>
+    <desc lang="en">La course se rend à Regina, en Saskatchewan, où des équipes luttent pour vendre et divertir.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606040000 -0400" stop="20200606050000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Mario Jean</sub-title>
+    <desc lang="en">Mario Jean se hasarde dans une situation critique de survie avec Francis Bouillon et le coach de survie Frédéric Dion.Guests: Mario Jean..(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606050000 -0400" stop="20200606060000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Julien Lacroix et Medhi Bousaidan</sub-title>
+    <desc lang="en">Les deux humoristes Julien Lacroix et Mehdi Bousaidan acceptent de vivre une expérience de survie en kayak de mer sur le fleuve Saint-Laurent.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606060000 -0400" stop="20200606070000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Valérie Roberts</sub-title>
+    <desc lang="en">Francis et Valérie Roberts doivent nager pendant un bon moment et marcher des heures dans des marécages pollués et nauséabonds afin de retrouver leur chemin.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200606070000 -0400" stop="20200606080000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Rémi-Pierre Paquin et Catherine Brunet</sub-title>
+    <desc lang="en">Catherine Brunet et Rémi-Pierre Paquin se lancent dans une expédition de pêche en canot avec Francis et Frédéric.Guests: Rémi-Pierre Paquin, Catherine Brunet..(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200606080000 -0400" stop="20200606090000 -0400" channel="Canal Z">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Ludivine Reding</sub-title>
+    <desc lang="en">Ludivine Reding et son partenaire d'expédition Francis Bouillon vivent l'expérience cauchemardesque de Julien Vadeboncoeur, perdu pendant cinq jours dans les monts Groulx.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606090000 -0400" stop="20200606093000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">Les mensonges de Wanda</sub-title>
+    <desc lang="en">Bernice donne une leçon de remorquage au petit nouveau chez Tremont, Davy. L'étrange voiture neuve de Kosgrove attire un peu trop l'attention. Eddie est de retour et il réalise que les temps sont durs chez Tremont. Jerome se méfie de Wanda.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606093000 -0400" stop="20200606100000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">Bernice fait des vagues</sub-title>
+    <desc lang="en">Jerome et Davy tombent sur un autobus délabré qui a servi pour faire la fête. Robbie remorque une Corvette. Bernice atteint de nouveaux sommets en remorquant un yacht.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606100000 -0400" stop="20200606103000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">Adios Kosgrove</sub-title>
+    <desc lang="en">Les employés de Tremont se réunissent pour dire adieu à Kosgrove. Pendant ce temps, Robbie doit infiltrer un atelier de démontage de voitures. Davy domine un adolescent agressif de douze ans.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606103000 -0400" stop="20200606110000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">L'admirateur secret</sub-title>
+    <desc lang="en">Christie révèle les secrets du second emploi de Perez. Pendant ce temps, Bernice découvre l'identité de son admirateur secret. Eddie sème les paroles de sagesse à un propriétaire particulièrement irrité.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606110000 -0400" stop="20200606113000 -0400" channel="Canal Z">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">50 nuances de Bernice</sub-title>
+    <desc lang="en">Bernice utilise ses charmes pour réussir un remorquage payant. Pendant ce temps, Jerome déclare son amour à Brandiss et il attire sur lui la fougue de ses intimidateurs.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606113000 -0400" stop="20200606120000 -0400" channel="Canal Z">
+    <title lang="en">Synvain rénove</title>
+    <sub-title lang="en">Le sous-sol avec Michel Charette</sub-title>
+    <desc lang="en">L'équipe s'attaque au sous-sol de Michel Charrette, qui a grandement besoin des services de professionnels.Guests: Michel Charette..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606120000 -0400" stop="20200606123000 -0400" channel="Canal Z">
+    <title lang="en">Roast Battle: le grand duel</title>
+    <sub-title lang="en">Qualification 4</sub-title>
+    <desc lang="en">Anaïs Favron affronte Dave Morgan, et Simon Delisle affronte Pierre-Luc Pomerleau.Guests: Anaïs Favron, Dave Morgan, Simon Delisle, Pierre-Luc Pomerleau..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200606123000 -0400" stop="20200606130000 -0400" channel="Canal Z">
+    <title lang="en">Les génies de la vitesse</title>
+    <sub-title lang="en">Dodge Charger vs Porsche</sub-title>
+    <desc lang="en">Danny Pruneau adore les voitures américaines. Ce carrossier de 24 ans, fondateur du regroupement d'amateurs de voitures modifiées 'Ride Union', amène sur la piste une Dodge Charger SRT8 capable de développer 400 chevaux-vapeur aux roues.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606130000 -0400" stop="20200606140000 -0400" channel="Canal Z">
+    <title lang="en">Top Gear</title>
+    <sub-title lang="en">Cuba libre</sub-title>
+    <desc lang="en">Chris et Rory se rendent à Cuba avec une Maserati Biturbo et une Chevrolet Camaro. Ils traversent le pays de la baie des Cochons jusqu'à La Havane et en profitent pour faire quelques courses contre des locaux.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200606140000 -0400" stop="20200606160000 -0400" channel="Canal Z">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">48 heures</sub-title>
+    <desc lang="en">Pour retrouver un criminel qui vient de s'évader, un policier fait sortir de prison pour quarante-huit heures un ancien complice du fugitif.(n)</desc>
+    <credits>
+      <director>Walter Hill</director>
+      <actor>Eddie Murphy</actor>
+      <actor>Nick Nolte</actor>
+      <actor>James Remar</actor>
+    </credits>
+    <date>1982</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Police</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20200606160000 -0400" stop="20200606180000 -0400" channel="Canal Z">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Commando</sub-title>
+    <desc lang="en">Un ancien soldat entreprend de libérer sa fillette enlevée par un dictateur.(n)</desc>
+    <credits>
+      <director>Mark L. Lester</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Carl Weathers</actor>
+      <actor>Elpidia Carrillo</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20200606180000 -0400" stop="20200606183000 -0400" channel="Canal Z">
+    <title lang="en">Le must du ridicule</title>
+    <sub-title lang="en">Spectacle vivant</sub-title>
+    <desc lang="en">D'hilarantes vidéos du web mettant en vedette des performances de spectacles de talents.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606183000 -0400" stop="20200606190000 -0400" channel="Canal Z">
+    <title lang="en">Direct dans l'net</title>
+    <desc lang="en">Le trio présente des casse-cous sur roulettes et une maquilleuse qui fait compétition à Pinocchio.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606190000 -0400" stop="20200606193000 -0400" channel="Canal Z">
+    <title lang="en">En rodage</title>
+    <sub-title lang="en">Simon Gouache</sub-title>
+    <desc lang="en">À travers le rodage de son spectacle solo 'Une belle soirée', Simon Gouache doit prendre une décision difficile: poursuivre son rodage plus longtemps que prévu.Guests: Simon Gouache..(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606193000 -0400" stop="20200606200000 -0400" channel="Canal Z">
+    <title lang="en">Synvain rénove</title>
+    <sub-title lang="en">Le sous-sol avec Michel Charette</sub-title>
+    <desc lang="en">L'équipe s'attaque au sous-sol de Michel Charrette, qui a grandement besoin des services de professionnels.Guests: Michel Charette..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606200000 -0400" stop="20200606210000 -0400" channel="Canal Z">
+    <title lang="en">Face Off</title>
+    <sub-title lang="en">Aliens antiques</sub-title>
+    <desc lang="en">Dans leur premier Spotlight Challenge individuel, les 13 concurrents restants doivent créer un extraterrestre en s'inspirant des 7 merveilles du monde antique.(n)</desc>
+    <credits>
+      <actor>Glenn Hetrick</actor>
+      <actor>Ve Neill</actor>
+      <actor>Neville Page</actor>
+    </credits>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606210000 -0400" stop="20200606233000 -0400" channel="Canal Z">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Les Bleus</sub-title>
+    <desc lang="en">Les mésaventures de deux amis engagés dans l'armée.(n)</desc>
+    <credits>
+      <director>Ivan Reitman</director>
+      <actor>Bill Murray</actor>
+      <actor>Harold Ramis</actor>
+      <actor>Warren Oates</actor>
+    </credits>
+    <date>1981</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20200606233000 -0400" stop="20200607000000 -0400" channel="Canal Z">
+    <title lang="en">Les génies de la vitesse</title>
+    <sub-title lang="en">Dodge Charger vs Porsche</sub-title>
+    <desc lang="en">Danny Pruneau adore les voitures américaines. Ce carrossier de 24 ans, fondateur du regroupement d'amateurs de voitures modifiées 'Ride Union', amène sur la piste une Dodge Charger SRT8 capable de développer 400 chevaux-vapeur aux roues.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607000000 -0400" stop="20200607003000 -0400" channel="Canal Z">
+    <title lang="en">Au volant d'une belle cubaine</title>
+    <sub-title lang="en">Une décapotable fait maison</sub-title>
+    <desc lang="en">Partant à la recherche des décapotables les plus originales de l'île, José et Gildor suivent les traces d'une Ford Edsel dont le toit rigide a été modifié pour se glisser à l'intérieur de la valise arrière.(n)</desc>
+    <category lang="en">Automotive</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607003000 -0400" stop="20200607010000 -0400" channel="Canal Z">
+    <title lang="en">Ballers (v.f.)</title>
+    <sub-title lang="en">Revanche sur la vie</sub-title>
+    <desc lang="en">Spencer cherche à obtenir la bénédiction d'un propriétaire pour amener une équipe de football professionnel à Las Vegas. La tension monte entre Charles et Larry.(n)</desc>
+    <credits>
+      <actor>Dwayne 'The Rock' Johnson</actor>
+      <actor>John David Washington</actor>
+      <actor>Omar Benson Miller</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200607010000 -0400" stop="20200607020000 -0400" channel="Canal Z">
+    <title lang="en">The Gifted (v.f.)</title>
+    <sub-title lang="en">Malheureux présages</sub-title>
+    <desc lang="en">Reeva se prépare à mettre en marche son plan pour le Cercle, mais tous ne sont pas d'accord avec celui-ci.(n)</desc>
+    <credits>
+      <actor>Grace Byers</actor>
+      <actor>Amy Acker</actor>
+      <actor>Percy Hynes</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200607020000 -0400" stop="20200607030000 -0400" channel="Canal Z">
+    <title lang="en">Top Gear</title>
+    <sub-title lang="en">Cuba libre</sub-title>
+    <desc lang="en">Chris et Rory se rendent à Cuba avec une Maserati Biturbo et une Chevrolet Camaro. Ils traversent le pays de la baie des Cochons jusqu'à La Havane et en profitent pour faire quelques courses contre des locaux.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200607030000 -0400" stop="20200607033000 -0400" channel="Canal Z">
+    <title lang="en">SNCTM: pour adulte seulement</title>
+    <sub-title lang="en">De mère en fils</sub-title>
+    <desc lang="en">Avec son mode de vie hédoniste au rythme effréné, Damon prend la décision risquée de reprendre contact avec sa mère éloignée.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200607033000 -0400" stop="20200607040000 -0400" channel="Canal Z">
+    <title lang="en">Infiltration</title>
+    <sub-title lang="en">Base jumping</sub-title>
+    <desc lang="en">Les sports extrêmes repoussent de plus en plus les limites et frôlent l'illégalité.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200607040000 -0400" stop="20200607050000 -0400" channel="Canal Z">
+    <title lang="en">Les stupéfiants</title>
+    <sub-title lang="en">L'homme contre l'automobile/ L'évasion électrisante</sub-title>
+    <desc lang="en">Les Stupéfiants s'intéressent aux accidents de voiture. Ils vérifient si un piéton peut éviter un impact grâce à un saut et s'il est possible de se sortir d'une voiture emmêlée dans des fils électriques.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607050000 -0400" stop="20200607060000 -0400" channel="Canal Z">
+    <title lang="en">Les stupéfiants</title>
+    <sub-title lang="en">Une perception efficace/ Larguer une bombe</sub-title>
+    <desc lang="en">Les Stupéfiants testent un mythe inspiré des jeux vidéo et vérifient s'il est possible de déboucher une toilette en utilisant une bombe de sel.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607060000 -0400" stop="20200607070000 -0400" channel="Canal Z">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">Les dominos dévastateurs et le Jenga extrême</sub-title>
+    <desc lang="en">Les Stupéfiants en herbe s'attaquent à des mythes concernant les jeux de société. Ils tentent de réussir l'impossible à Jenga et vérifient si l'effet domino peut mener à un carambolage de voitures.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607070000 -0400" stop="20200607080000 -0400" channel="Canal Z">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">La gravité et le crayon à mine</sub-title>
+    <desc lang="en">Les Stupéfiants juniors testent la capacité anti-gravité d'un jouet et appliquent ensuite le même principe à une voiture. Ils mettent aussi à l'épreuve la longévité légendaire du crayon à mine HB numéro 2.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607080000 -0400" stop="20200607090000 -0400" channel="Canal Z">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">Spécial espace</sub-title>
+    <desc lang="en">Les apprentis Stupéfiants s'intéressent à deux mythes inspirés de l'espace. Ils testent un extincteur pour savoir s'il peut servir de jet-pack et vérifient s'il est vraiment impossible d'entendre un cri dans l'espace.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607090000 -0400" stop="20200607100000 -0400" channel="Canal Z">
+    <title lang="en">Les Brown: génération Alaska</title>
+    <sub-title lang="en">Retour dans la nature</sub-title>
+    <desc lang="en">Les Brown sont plus déterminés que jamais à atteindre leur nouvelle terre. Après avoir échappé au désastre sur les flots, la famille demande l'aide d'un vieil ami.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200607100000 -0400" stop="20200607110000 -0400" channel="Canal Z">
+    <title lang="en">Les Brown: génération Alaska</title>
+    <sub-title lang="en">Bienvenue à Brownville</sub-title>
+    <desc lang="en">Les Brown sont enfin installés dans un endroit où ils ont tout ce qu'il faut pour survivre. Comme les habiletés des garçons semblent un peu rouillées, ils doivent prouver à Billy qu'ils sont toujours capables de jouer leur rôle au sein du clan.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200607110000 -0400" stop="20200607120000 -0400" channel="Canal Z">
+    <title lang="en">Face Off</title>
+    <sub-title lang="en">Aliens antiques</sub-title>
+    <desc lang="en">Dans leur premier Spotlight Challenge individuel, les 13 concurrents restants doivent créer un extraterrestre en s'inspirant des 7 merveilles du monde antique.(n)</desc>
+    <credits>
+      <actor>Glenn Hetrick</actor>
+      <actor>Ve Neill</actor>
+      <actor>Neville Page</actor>
+    </credits>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607120000 -0400" stop="20200607123000 -0400" channel="Canal Z">
+    <title lang="en">Just Tattoo of Us (v.f.)</title>
+    <sub-title lang="en">Les jolies nanas de Floribama</sub-title>
+    <desc lang="en">Les meilleures amies de Floribama Shore, Nilsa et Aimee, se font faire des tatouages qui portent à réfléchir. Un couple révèle ce qu'ils pensent réellement de l'un l'autre.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200607123000 -0400" stop="20200607130000 -0400" channel="Canal Z">
+    <title lang="en">Just Tattoo of Us (v.f.)</title>
+    <sub-title lang="en">Drag queens en folie</sub-title>
+    <desc lang="en">Des drag-queens de Chicago testent leur amitié avec des tatouages insolites. Des meilleures amies vont trop loin, quand elles révèlent leurs secrets à l'encre permanente.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200607130000 -0400" stop="20200607140000 -0400" channel="Canal Z">
+    <title lang="en">Cobaye humain</title>
+    <sub-title lang="en">Les maîtres du kung-fu</sub-title>
+    <desc lang="en">Todd Sampson fait un séjour dans une école située dans les monts Wudang, en Chine, où il apprend à maîtriser l'art ancien du kung-fu.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607140000 -0400" stop="20200607160000 -0400" channel="Canal Z">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Capitaine Ron</sub-title>
+    <desc lang="en">Un employé de bureau entraîne sa famille dans une croisière sur la mer.(n)</desc>
+    <credits>
+      <director>Thom Eberhardt</director>
+      <actor>Martin Short</actor>
+      <actor>Kurt Russell</actor>
+      <actor>Mary Kay Place</actor>
+    </credits>
+    <date>1992</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20200607160000 -0400" stop="20200607163000 -0400" channel="Canal Z">
+    <title lang="en">Routiers déchaînés</title>
+    <sub-title lang="en">Citrouille bredouille</sub-title>
+    <desc lang="en">Pour beaucoup de conducteurs, la ville de Barraute, au Québec, marque la fin de la saison de course. Jug Boulanger tente de mettre la main sur au moins un trophée cette année.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607163000 -0400" stop="20200607170000 -0400" channel="Canal Z">
+    <title lang="en">Le Roy des toilettes</title>
+    <sub-title lang="en">Le Tour</sub-title>
+    <desc lang="en">Premier gros test de la saison pour l'équipe, le Tour de l'Île de Montréal.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607170000 -0400" stop="20200607173000 -0400" channel="Canal Z">
+    <title lang="en">Au volant d'une belle cubaine</title>
+    <sub-title lang="en">Une décapotable fait maison</sub-title>
+    <desc lang="en">Partant à la recherche des décapotables les plus originales de l'île, José et Gildor suivent les traces d'une Ford Edsel dont le toit rigide a été modifié pour se glisser à l'intérieur de la valise arrière.(n)</desc>
+    <category lang="en">Automotive</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607173000 -0400" stop="20200607180000 -0400" channel="Canal Z">
+    <title lang="en">Les génies de la vitesse</title>
+    <sub-title lang="en">Dodge Charger vs Porsche</sub-title>
+    <desc lang="en">Danny Pruneau adore les voitures américaines. Ce carrossier de 24 ans, fondateur du regroupement d'amateurs de voitures modifiées 'Ride Union', amène sur la piste une Dodge Charger SRT8 capable de développer 400 chevaux-vapeur aux roues.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607180000 -0400" stop="20200607190000 -0400" channel="Canal Z">
+    <title lang="en">Le tour du monde de l'incroyable</title>
+    <sub-title lang="en">Mondes invisibles</sub-title>
+    <desc lang="en">Un photographe new-yorkais escalade des gratte-ciels pour capturer une vue plongeante de la ville et des cascadeurs de la Louisiane utilisent des explosifs pour créer des illusions.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607190000 -0400" stop="20200607193000 -0400" channel="Canal Z">
+    <title lang="en">Roast Battle: le grand duel</title>
+    <sub-title lang="en">Qualification 4</sub-title>
+    <desc lang="en">Anaïs Favron affronte Dave Morgan, et Simon Delisle affronte Pierre-Luc Pomerleau.Guests: Anaïs Favron, Dave Morgan, Simon Delisle, Pierre-Luc Pomerleau..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVY7</value>
+    </rating>
+  </programme>
+  <programme start="20200607193000 -0400" stop="20200607200000 -0400" channel="Canal Z">
+    <title lang="en">Coups de cochon</title>
+    <sub-title lang="en">Korine Côté piège sa cousine Manon</sub-title>
+    <desc lang="en">Guillaume et Matthieu mettent leur ego de côté pour aider Korine Côté à piéger sa cousine à son bureau. Guillaume se transforme en mannequin très dérangeant dans une vitrine de magasin.Guests: Korine Côté..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607200000 -0400" stop="20200607203000 -0400" channel="Canal Z">
+    <title lang="en">Just Tattoo of Us (v.f.)</title>
+    <sub-title lang="en">Les jolies nanas de Floribama</sub-title>
+    <desc lang="en">Les meilleures amies de Floribama Shore, Nilsa et Aimee, se font faire des tatouages qui portent à réfléchir. Un couple révèle ce qu'ils pensent réellement de l'un l'autre.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200607203000 -0400" stop="20200607210000 -0400" channel="Canal Z">
+    <title lang="en">Just Tattoo of Us (v.f.)</title>
+    <sub-title lang="en">Drag queens en folie</sub-title>
+    <desc lang="en">Des drag-queens de Chicago testent leur amitié avec des tatouages insolites. Des meilleures amies vont trop loin, quand elles révèlent leurs secrets à l'encre permanente.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200607210000 -0400" stop="20200607220000 -0400" channel="Canal Z">
+    <title lang="en">Star Trek: Discovery</title>
+    <sub-title lang="en">Une obole pour Charon</sub-title>
+    <desc lang="en">Une mystérieuse sphère menace l'USS Discovery. May, dans sa forme originale, met sur pied un plan qui met la vie de Tilly en danger.(n)</desc>
+    <credits>
+      <actor>Sonequa Martin-Green</actor>
+      <actor>Doug Jones</actor>
+      <actor>Shazad Latif</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+  </programme>
+  <programme start="20200607220000 -0400" stop="20200607230000 -0400" channel="Canal Z">
+    <title lang="en">Vikings</title>
+    <sub-title lang="en">Baldur</sub-title>
+    <desc lang="en">Hvitserk est mis à l'épreuve. Floki fait une incroyable découverte. Ubbe négocie avec les trois rois danois qui ont amassé leurs armées à Reading. Or, les négociations menacent de mal tourner.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200607230000 -0400" stop="20200607233000 -0400" channel="Canal Z">
+    <title lang="en">Infiltration</title>
+    <sub-title lang="en">Orgies</sub-title>
+    <desc lang="en">PY et l'équipe souhaitent comprendre pourquoi les gens s'adonnent à l'activité jouissive.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200607233000 -0400" stop="20200608000000 -0400" channel="Canal Z">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">Le Retour de la communauté de l'anneau des deux tours</sub-title>
+    <desc lang="en">Les gars partent en mission: retourner le film 'Le Seigneur des anneaux' au club vidéo.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVMA</value>
     </rating>
   </programme>
 </tv>

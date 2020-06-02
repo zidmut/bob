@@ -15,6 +15,11 @@
     <icon src="http://cdn.tvpassport.com/image/station/240x135/canal_z.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
+  <channel id="Canal Vie">
+    <display-name lang="en">Canal Vie</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/canalvie.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Addik TV">
     <title lang="en">Les enquêtes de Murdoch</title>
     <sub-title lang="en">Le concours de frappe</sub-title>
@@ -5372,6 +5377,2021 @@
     <category lang="en">Animated</category>
     <rating system="US">
       <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover au Québec</title>
+    <sub-title lang="en">Un condo, trois enfants</sub-title>
+    <desc lang="en">Des propriétaires doivent décider entre rénover ou trouver une nouvelle maison.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601070000 -0400" stop="20200601080000 -0400" channel="Canal Vie">
+    <title lang="en">Rénos au bord de l'eau</title>
+    <sub-title lang="en">Ambiance nautique au lac Smith</sub-title>
+    <desc lang="en">Un couple désire faire l'acquisition d'une maison de vacances près du lac Smith en Alabama. Ils doivent choisir entre trois propriétés qui demandent toutes des rénovations et sélectionner celle qui correspond le plus à leur budget.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601080000 -0400" stop="20200601090000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">21 m2 pour voyager et travailler</sub-title>
+    <desc lang="en">Allen et Alexa sont de jeunes mariés qui cherchent à donner de l'expansion à leur magazine en ligne en déménagement dans une minimaison. Ils souhaitent un espace qui combine leurs intérêts.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601090000 -0400" stop="20200601100000 -0400" channel="Canal Vie">
+    <title lang="en">Maman médium</title>
+    <sub-title lang="en">La chasse aux fantômes</sub-title>
+    <desc lang="en">La famille se rend au chalet pour de courtes vacances, mais Jennie doit tout de même travailler.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601100000 -0400" stop="20200601110000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Les quintuplées prennent d'assaut Manhattan</sub-title>
+    <desc lang="en">L'équipe d'une émission de télévision invite les Busby à participer à un tournage en direct à New York, et toute la famille se rend à la Grosse Pomme.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601110000 -0400" stop="20200601120000 -0400" channel="Canal Vie">
+    <title lang="en">Maintenant ou jamais</title>
+    <sub-title lang="en">Grandir</sub-title>
+    <desc lang="en">Forte des rencontres qu'elle a faites jusqu'à maintenant, Chantal met en place son nouveau mode de vie.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601120000 -0400" stop="20200601123000 -0400" channel="Canal Vie">
+    <title lang="en">Faites-nous la cour</title>
+    <sub-title lang="en">L'atelier d'art</sub-title>
+    <desc lang="en">Christine et Olivier ont une cour qui manque de verdure. La moitié du terrain est en béton et leur grand garage blanc se trouve en plein milieu.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601123000 -0400" stop="20200601130000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur dans ma cour</title>
+    <sub-title lang="en">La cuisine extérieure de Marie-Michèle et Philippe</sub-title>
+    <desc lang="en">Marie-Michèle et Philippe adorent recevoir, mais leur petite terrasse de bois n'est pas du tout adaptée pour le faire.(n)</desc>
+    <category lang="en">Garden</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601130000 -0400" stop="20200601133000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">On dit adieu au papier peint à Le Gardeur</sub-title>
+    <desc lang="en">De passage à Le Gardeur, Brigitte et Enock s'attaquent à une propriété qui n'a jamais eu de visiteurs en deux ans!(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601133000 -0400" stop="20200601140000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Un condo rose fuchsia à Saint-Laurent</sub-title>
+    <desc lang="en">De passage à Saint-Laurent, Brigitte et Enock aident Denis qui souhaite vendre son condo depuis plus de deux ans! Dès l'entrée, le rose fuchsia saute aux yeux. Naturellement, grâce à la magie de la couleur la pièce change du tout au tout.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601140000 -0400" stop="20200601143000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Quand une banquette occupe trop de place à Montréal-Nord</sub-title>
+    <desc lang="en">Pour des raisons de santé, Nathalie et son conjoint ont dû mettre leur maison de Montréal-Nord en vente.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601143000 -0400" stop="20200601150000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Une nouvelle céramique bien méritée dans une cuisine de Blainville</sub-title>
+    <desc lang="en">À Blainville, Richard, un pilote d'hélicoptère, désire vendre sa maison pour s'établir à Terre-Neuve afin de retrouver l'amour de sa vie.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601150000 -0400" stop="20200601153000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons au paradis</title>
+    <sub-title lang="en">Un fourgon au coeur d'un vignoble</sub-title>
+    <desc lang="en">Un couple de travailleurs vinicoles qui veut en finir avec la location transforme un camion à pain rétro en maison miniature nichée au coeur de la route des vins californienne.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601153000 -0400" stop="20200601160000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">La salle de lavage vibrante de Patsy</sub-title>
+    <desc lang="en">Monoparentale depuis peu, Patsy a tant bien que mal entrepris de rénover sa salle de lavage. Après plusieurs échecs, elle s'est rapidement découragée.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601160000 -0400" stop="20200601170000 -0400" channel="Canal Vie">
+    <title lang="en">Animaux VIP</title>
+    <sub-title lang="en">Appartement pour animal</sub-title>
+    <desc lang="en">Antonio Ballatore rénove un condo exigu logeant deux chats et un chien. L'équipe démolit les murs de la cuisine.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601170000 -0400" stop="20200601180000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">La grande décision: Partie 2</sub-title>
+    <desc lang="en">Ce sont les experts qui ont formé ces couples et c'est maintenant aux couples de décider s'ils veulent rester mariés ou s'ils demandent le divorce.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601180000 -0400" stop="20200601190000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Les quintuplées prennent d'assaut Manhattan</sub-title>
+    <desc lang="en">L'équipe d'une émission de télévision invite les Busby à participer à un tournage en direct à New York, et toute la famille se rend à la Grosse Pomme.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601190000 -0400" stop="20200601193000 -0400" channel="Canal Vie">
+    <title lang="en">Bienvenue chez les cheaps</title>
+    <sub-title lang="en">Changeons le monde</sub-title>
+    <desc lang="en">Lany fait son épicerie. Comme il a trouvé trop de nourriture, il préfère partager et faire profiter les gens de ses trouvailles. Michèle fait son bouillon de dinde.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601193000 -0400" stop="20200601200000 -0400" channel="Canal Vie">
+    <title lang="en">Conseils d'amis</title>
+    <sub-title lang="en">Sylvie, Sophie, Tammy, Antoine, Geneviève et Ève</sub-title>
+    <desc lang="en">Sylvie Léonard et Sophie Cadieux, Geneviève Schmidt et Eve Landry, Antoine Vézina et Tammy Verge répondent aux questions les plus étonnantes du public.Guests: Sylvie Léonard, Sophie Cadieux, Geneviève Schmidt, Eve Landry, Antoine Vézina, Tammy Verge..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601200000 -0400" stop="20200601203000 -0400" channel="Canal Vie">
+    <title lang="en">Nombreux et heureux en vacances</title>
+    <sub-title lang="en">En attendant la cigogne chez les Beausoleil-Williamson</sub-title>
+    <desc lang="en">L'été, les Beausoleil-Williamson profitent de la belle saison. Baignade dans la piscine des grands-parents, journée à cuisiner et jardiner; ils ne manquent pas d'activités!(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601203000 -0400" stop="20200601210000 -0400" channel="Canal Vie">
+    <title lang="en">Ma petite vie</title>
+    <sub-title lang="en">Embrasser sa condition</sub-title>
+    <desc lang="en">Les personnes de petite taille s'imposent dans leurs accomplissements pour constater qu'il n'y a rien d'impossible.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601210000 -0400" stop="20200601220000 -0400" channel="Canal Vie">
+    <title lang="en">Le pro des pieds</title>
+    <sub-title lang="en">La reine des verrues</sub-title>
+    <desc lang="en">Le Pro des pieds vient en aide à deux frères excentriques aux prises avec des callosités et des ongles incarnés. Il traite également la verrue d'un batteur qui est incapable de jouer de son instrument en raison de la douleur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601220000 -0400" stop="20200601223000 -0400" channel="Canal Vie">
+    <title lang="en">Notre premier flip</title>
+    <sub-title lang="en">Fatigue, calculs et environnement</sub-title>
+    <desc lang="en">La fatigue se fait sentir, et Cédrik manque de temps. Heureusement, plusieurs des problèmes du début du chantier semblent enfin se régler, mais un dégât d'eau retarde les travaux. L'équipe se questionne aussi sur la place de l'écologie dans un flip.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601223000 -0400" stop="20200601230000 -0400" channel="Canal Vie">
+    <title lang="en">Notre premier flip</title>
+    <sub-title lang="en">L'importance de la communication</sub-title>
+    <desc lang="en">La communication dans le couple est primordiale au succès d'une entreprise comme un flip. Il ne faut pas oublier l'essentiel: le bonheur de faire un projet à deux.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601230000 -0400" stop="20200602000000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">21 m2 pour voyager et travailler</sub-title>
+    <desc lang="en">Allen et Alexa sont de jeunes mariés qui cherchent à donner de l'expansion à leur magazine en ligne en déménagement dans une minimaison. Ils souhaitent un espace qui combine leurs intérêts.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602000000 -0400" stop="20200602003000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">La salle de bain d'André Ducharme</sub-title>
+    <desc lang="en">André Ducharme désire rénover sa salle de bain depuis des années! Marie-Christine va lui proposer une transformation de taille pour actualiser celle-ci.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602003000 -0400" stop="20200602010000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">La salle télé de Brigitte Boisjoli</sub-title>
+    <desc lang="en">Brigitte Boisjoli vient d'acquérir une nouvelle maison et elle veut ajouter de la chaleur et du caractère à sa salle de télévision.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602010000 -0400" stop="20200602013000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">La chambre à coucher de Jason Roy Léveillée</sub-title>
+    <desc lang="en">Jason Roy Léveillée demande à Marie-Christine Lavoie de l'aide pour optimiser l'espace de sa chambre principale. La designer répond aux besoins de Jason tout en actualisant le décor de la pièce avec un style moderne, et en y ajoutant une touche exotique.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602013000 -0400" stop="20200602020000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">Le salon/ salle a manger de Mylène St-Sauveur</sub-title>
+    <desc lang="en">Marie-Christine Lavoie transforme la pièce contenant le salon et la salle à manger chez Mylène St-Sauveur.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602020000 -0400" stop="20200602023000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons au paradis</title>
+    <sub-title lang="en">Un fourgon au coeur d'un vignoble</sub-title>
+    <desc lang="en">Un couple de travailleurs vinicoles qui veut en finir avec la location transforme un camion à pain rétro en maison miniature nichée au coeur de la route des vins californienne.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602023000 -0400" stop="20200602030000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">La salle de lavage vibrante de Patsy</sub-title>
+    <desc lang="en">Monoparentale depuis peu, Patsy a tant bien que mal entrepris de rénover sa salle de lavage. Après plusieurs échecs, elle s'est rapidement découragée.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602030000 -0400" stop="20200602040000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Les quintuplées prennent d'assaut Manhattan</sub-title>
+    <desc lang="en">L'équipe d'une émission de télévision invite les Busby à participer à un tournage en direct à New York, et toute la famille se rend à la Grosse Pomme.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602040000 -0400" stop="20200602050000 -0400" channel="Canal Vie">
+    <title lang="en">Animaux VIP</title>
+    <sub-title lang="en">Appartement pour animal</sub-title>
+    <desc lang="en">Antonio Ballatore rénove un condo exigu logeant deux chats et un chien. L'équipe démolit les murs de la cuisine.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602050000 -0400" stop="20200602060000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">Retrouvailles: Six mois plus tard</sub-title>
+    <desc lang="en">Six mois se sont écoulés depuis ce jour où six participants se sont mariés à l'aveugle. Les trois couples rencontrent le docteur Schwarts pour discuter de leur expérience et révéler où ils en sont dans leurs relations, depuis leur dernière rencontre.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602060000 -0400" stop="20200602070000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover au Québec</title>
+    <sub-title lang="en">Combler le vide!</sub-title>
+    <desc lang="en">Johanne rêve d'une grande cuisine conviviale et d'une aire ouverte pour recevoir. Régis, de son côté, trouve qu'ils ont assez déménagé dans leur vie et veut rester.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602070000 -0400" stop="20200602073000 -0400" channel="Canal Vie">
+    <title lang="en">Faites-nous la cour</title>
+    <sub-title lang="en">L'atelier d'art</sub-title>
+    <desc lang="en">Christine et Olivier ont une cour qui manque de verdure. La moitié du terrain est en béton et leur grand garage blanc se trouve en plein milieu.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602073000 -0400" stop="20200602080000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur dans ma cour</title>
+    <sub-title lang="en">La cuisine extérieure de Marie-Michèle et Philippe</sub-title>
+    <desc lang="en">Marie-Michèle et Philippe adorent recevoir, mais leur petite terrasse de bois n'est pas du tout adaptée pour le faire.(n)</desc>
+    <category lang="en">Garden</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602080000 -0400" stop="20200602090000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">35 m2 pour des amateurs de derby</sub-title>
+    <desc lang="en">Scott et Marianne demandent à John et Zack de les aider à créer une minimaison qui incarnera le charme rustique qu'ils adorent, mais qui inclut des gadgets.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602090000 -0400" stop="20200602100000 -0400" channel="Canal Vie">
+    <title lang="en">Belle à ma façon</title>
+    <sub-title lang="en">Intimidation</sub-title>
+    <desc lang="en">Chantal met en lumière trois femmes inspirantes. Elles ne se connaissent pas, mais partagent un point commun: elles ont vécu de l'intimidation. Loin d'être des victimes, ces femmes se sont épanouies malgré les difficultés qu'elles ont dû surmonter.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602100000 -0400" stop="20200602110000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">À l'aube de la crise des 2 ans</sub-title>
+    <desc lang="en">Quand les quintuplées atteignent l'âge terrible de deux ans, les Busby sont plus occupés que jamais.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602110000 -0400" stop="20200602113000 -0400" channel="Canal Vie">
+    <title lang="en">L'Unité des naissances</title>
+    <sub-title lang="en">La joie</sub-title>
+    <desc lang="en">En néonatalogie, on procède à l'extubation d'un bébé. Au bloc opératoire, le docteur Lallier s'attaque à une hernie diaphragmatique.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602113000 -0400" stop="20200602120000 -0400" channel="Canal Vie">
+    <title lang="en">L'Unité des naissances</title>
+    <sub-title lang="en">Le guerrier</sub-title>
+    <desc lang="en">Bébé James naît avec une malformation: un trou laisse fuir ses intestins en dehors de l'abdomen. L'équipe doit corriger d'urgence cette anomalie. Des jumeaux nés à 24 semaines sont transférés du CHUM.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602120000 -0400" stop="20200602130000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover?</title>
+    <sub-title lang="en">Dana et Brian</sub-title>
+    <desc lang="en">Brian demande à Hilary de rénover leur maison prise d'assaut par les jouets et les vêtements, tandis que Dana supplie David de leur trouver une nouvelle maison qui saura mieux répondre aux besoins de leur petite famille.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602130000 -0400" stop="20200602133000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">La salle de bain d'André Ducharme</sub-title>
+    <desc lang="en">André Ducharme désire rénover sa salle de bain depuis des années! Marie-Christine va lui proposer une transformation de taille pour actualiser celle-ci.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602133000 -0400" stop="20200602140000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">La salle télé de Brigitte Boisjoli</sub-title>
+    <desc lang="en">Brigitte Boisjoli vient d'acquérir une nouvelle maison et elle veut ajouter de la chaleur et du caractère à sa salle de télévision.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602140000 -0400" stop="20200602143000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">La chambre à coucher de Jason Roy Léveillée</sub-title>
+    <desc lang="en">Jason Roy Léveillée demande à Marie-Christine Lavoie de l'aide pour optimiser l'espace de sa chambre principale. La designer répond aux besoins de Jason tout en actualisant le décor de la pièce avec un style moderne, et en y ajoutant une touche exotique.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602143000 -0400" stop="20200602150000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">Le salon/ salle a manger de Mylène St-Sauveur</sub-title>
+    <desc lang="en">Marie-Christine Lavoie transforme la pièce contenant le salon et la salle à manger chez Mylène St-Sauveur.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602150000 -0400" stop="20200602153000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons au paradis</title>
+    <sub-title lang="en">Un mini-refuge à Lakeside</sub-title>
+    <desc lang="en">Un jeune couple du Montana déménage dans une minuscule cabane dans les bois. L'endroit comprend un puits de lumière pour observer les étoiles, un hamac suspendu en guise de lit, un foyer en pierres et un jacuzzi rustique en cèdre.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602153000 -0400" stop="20200602160000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">Le salon moderne d'Audrey-Anne et Vincent</sub-title>
+    <desc lang="en">Audrey-Anne et Vincent ont, depuis peu, une charmante maison au style champêtre. Comme cela ne leur convient pas, ils ont entrepris des rénovations au salon pour lui donner un aspect plus moderne. Malheureusement, plusieurs erreurs ont été commises.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602160000 -0400" stop="20200602163000 -0400" channel="Canal Vie">
+    <title lang="en">SPCA en action</title>
+    <sub-title lang="en">Une question de confort</sub-title>
+    <desc lang="en">L'agente Dupuis doit saisir une impressionnante quantité de chats cachés dans un logement insalubre avant de faire comprendre à un maître que son fidèle compagnon endure une souffrance inutile.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602163000 -0400" stop="20200602170000 -0400" channel="Canal Vie">
+    <title lang="en">Un safari près de chez nous</title>
+    <sub-title lang="en">Des journées bien remplies</sub-title>
+    <desc lang="en">Au Parc Safari, il n'y a pas que les employés qui sont bien occupés: les animaux le sont aussi.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602170000 -0400" stop="20200602180000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">Retrouvailles: Six mois plus tard</sub-title>
+    <desc lang="en">Six mois se sont écoulés depuis ce jour où six participants se sont mariés à l'aveugle. Les trois couples rencontrent le docteur Schwarts pour discuter de leur expérience et révéler où ils en sont dans leurs relations, depuis leur dernière rencontre.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602180000 -0400" stop="20200602190000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">À l'aube de la crise des 2 ans</sub-title>
+    <desc lang="en">Quand les quintuplées atteignent l'âge terrible de deux ans, les Busby sont plus occupés que jamais.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602190000 -0400" stop="20200602193000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur dans ma cour</title>
+    <sub-title lang="en">La cour pour jammer de Nathalie, Pierre et les enfants</sub-title>
+    <desc lang="en">Nathalie, Pierre et leurs trois enfants rêvent de pouvoir enfin profiter de leur cour. Cependant, les deux immenses pommiers compliquent l'aménagement de l'espace en laissant tomber des centaines de pommes sur leur tête.(n)</desc>
+    <category lang="en">Garden</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602193000 -0400" stop="20200602200000 -0400" channel="Canal Vie">
+    <title lang="en">Faites-nous la cour</title>
+    <sub-title lang="en">La maison centenaire</sub-title>
+    <desc lang="en">Sophie et Thierry ont un grand arbre centenaire en plein milieu de la cour qui complique l'aménagement et leur porte patio donne directement sur la terre.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602200000 -0400" stop="20200602210000 -0400" channel="Canal Vie">
+    <title lang="en">Rénos au bord de l'eau</title>
+    <sub-title lang="en">Le gîte au bord du lac</sub-title>
+    <desc lang="en">Amber et Jon cherchent une maison de vacances pour s'évader proche de leur domicile. Ils trouvent l'endroit parfait, mais la propriété est en piètre condition.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602210000 -0400" stop="20200602220000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover?</title>
+    <sub-title lang="en">Danielle et Eli</sub-title>
+    <desc lang="en">Danielle rêve d'une maison plus spacieuse et fonctionnelle qui lui permettrait de travailler de la maison, mais son conjoint Eli est tombé sous le charme du terrain et de la tranquillité de leur maison actuelle.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602220000 -0400" stop="20200602223000 -0400" channel="Canal Vie">
+    <title lang="en">C'est quoi ton plan?</title>
+    <sub-title lang="en">De l'espace pour tous</sub-title>
+    <desc lang="en">L'aire de vie commune de Julie-Kim et Kevin ne répond plus aux besoins de leur famille qui s'agrandit. Il est difficile d'imaginer un aménagement fonctionnel dans cet espace avec des murs en angle, différents niveaux et de nombreuses fenêtres.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602223000 -0400" stop="20200602230000 -0400" channel="Canal Vie">
+    <title lang="en">Ma villa au soleil</title>
+    <desc lang="en">Holly, Jason et leur fils, Bodhi, quittent leur vie mouvementée à San Francisco pour l'Espagne afin de profiter d'un quotidien plus tranquille. Ils espèrent trouver une maison près d'une bonne école et avec une piscine.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602230000 -0400" stop="20200603000000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">35 m2 pour des amateurs de derby</sub-title>
+    <desc lang="en">Scott et Marianne demandent à John et Zack de les aider à créer une minimaison qui incarnera le charme rustique qu'ils adorent, mais qui inclut des gadgets.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603000000 -0400" stop="20200603003000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">On dit adieu au papier peint à Le Gardeur</sub-title>
+    <desc lang="en">De passage à Le Gardeur, Brigitte et Enock s'attaquent à une propriété qui n'a jamais eu de visiteurs en deux ans!(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603003000 -0400" stop="20200603010000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Un condo rose fuchsia à Saint-Laurent</sub-title>
+    <desc lang="en">De passage à Saint-Laurent, Brigitte et Enock aident Denis qui souhaite vendre son condo depuis plus de deux ans! Dès l'entrée, le rose fuchsia saute aux yeux. Naturellement, grâce à la magie de la couleur la pièce change du tout au tout.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603010000 -0400" stop="20200603013000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Quand une banquette occupe trop de place à Montréal-Nord</sub-title>
+    <desc lang="en">Pour des raisons de santé, Nathalie et son conjoint ont dû mettre leur maison de Montréal-Nord en vente.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603013000 -0400" stop="20200603020000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Une nouvelle céramique bien méritée dans une cuisine de Blainville</sub-title>
+    <desc lang="en">À Blainville, Richard, un pilote d'hélicoptère, désire vendre sa maison pour s'établir à Terre-Neuve afin de retrouver l'amour de sa vie.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603020000 -0400" stop="20200603023000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons au paradis</title>
+    <sub-title lang="en">Un mini-refuge à Lakeside</sub-title>
+    <desc lang="en">Un jeune couple du Montana déménage dans une minuscule cabane dans les bois. L'endroit comprend un puits de lumière pour observer les étoiles, un hamac suspendu en guise de lit, un foyer en pierres et un jacuzzi rustique en cèdre.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603023000 -0400" stop="20200603030000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">Le salon moderne d'Audrey-Anne et Vincent</sub-title>
+    <desc lang="en">Audrey-Anne et Vincent ont, depuis peu, une charmante maison au style champêtre. Comme cela ne leur convient pas, ils ont entrepris des rénovations au salon pour lui donner un aspect plus moderne. Malheureusement, plusieurs erreurs ont été commises.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603030000 -0400" stop="20200603040000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">À l'aube de la crise des 2 ans</sub-title>
+    <desc lang="en">Quand les quintuplées atteignent l'âge terrible de deux ans, les Busby sont plus occupés que jamais.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603040000 -0400" stop="20200603050000 -0400" channel="Canal Vie">
+    <title lang="en">Réno par le haut</title>
+    <sub-title lang="en">De maison qui s'affaisse à maison de rêve</sub-title>
+    <desc lang="en">Keith paie le gros prix pour une maison sur un coin de rue, mais les problèmes arrivent vite quand il découvre qu'il y a un affaissement de terrain sous une des chambres. Il parvient à créer une aire ouverte au premier avec un étonnant foyer.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603050000 -0400" stop="20200603060000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">Le choix des candidats</sub-title>
+    <desc lang="en">On découvre les candidats assez courageux pour se marier à de parfaits inconnus.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603060000 -0400" stop="20200603070000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover au Québec</title>
+    <sub-title lang="en">La maison au bois dormant</sub-title>
+    <desc lang="en">Autoproclamée 'femme la plus patiente du monde', Michèle n'en peut plus d'attendre la fin des rénos.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603070000 -0400" stop="20200603073000 -0400" channel="Canal Vie">
+    <title lang="en">Notre premier flip</title>
+    <sub-title lang="en">Fatigue, calculs et environnement</sub-title>
+    <desc lang="en">La fatigue se fait sentir, et Cédrik manque de temps. Heureusement, plusieurs des problèmes du début du chantier semblent enfin se régler, mais un dégât d'eau retarde les travaux. L'équipe se questionne aussi sur la place de l'écologie dans un flip.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603073000 -0400" stop="20200603080000 -0400" channel="Canal Vie">
+    <title lang="en">Notre premier flip</title>
+    <sub-title lang="en">L'importance de la communication</sub-title>
+    <desc lang="en">La communication dans le couple est primordiale au succès d'une entreprise comme un flip. Il ne faut pas oublier l'essentiel: le bonheur de faire un projet à deux.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603080000 -0400" stop="20200603090000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">Maisonnette de 29 m2 pour Penny</sub-title>
+    <desc lang="en">Tim et Amber veulent construire une minimaison entièrement conçue pour que leur fille Penny puisse donner libre cours à son imagination. Ils souhaitent un espace à la fois fonctionnel et sécuritaire pour leur enfant.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603090000 -0400" stop="20200603093000 -0400" channel="Canal Vie">
+    <title lang="en">Conseils d'amis</title>
+    <sub-title lang="en">Sylvie, Sophie, Tammy, Antoine, Geneviève et Ève</sub-title>
+    <desc lang="en">Sylvie Léonard et Sophie Cadieux, Geneviève Schmidt et Eve Landry, Antoine Vézina et Tammy Verge répondent aux questions les plus étonnantes du public.Guests: Sylvie Léonard, Sophie Cadieux, Geneviève Schmidt, Eve Landry, Antoine Vézina, Tammy Verge..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603093000 -0400" stop="20200603100000 -0400" channel="Canal Vie">
+    <title lang="en">Projection privée</title>
+    <sub-title lang="en">Jean-François Breau</sub-title>
+    <desc lang="en">Hélène Bourgeois Leclerc reçoit Jean-François Breau pour visionner un film sur sa vie narrant son passé au Nouveau- Brunswick, sa passion pour la musique et sa relation avec Marie-Ève Janvier.Guests: Jean-François Breau..(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603100000 -0400" stop="20200603110000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Apprendre à utiliser le petit pot n'a jamais tué personne</sub-title>
+    <desc lang="en">Quand la possibilité d'une autre opération apparaît pour Hazel, Adam angoisse au sujet de son rendez-vous imminent avec un nouveau médecin. Danielle entreprend donc l'apprentissage de la propreté aux quintuplées, mais les résultats sont désastreux.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603110000 -0400" stop="20200603120000 -0400" channel="Canal Vie">
+    <title lang="en">Le pro des pieds</title>
+    <sub-title lang="en">La reine des verrues</sub-title>
+    <desc lang="en">Le Pro des pieds vient en aide à deux frères excentriques aux prises avec des callosités et des ongles incarnés. Il traite également la verrue d'un batteur qui est incapable de jouer de son instrument en raison de la douleur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603120000 -0400" stop="20200603130000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover au Québec</title>
+    <sub-title lang="en">Un condo, trois enfants</sub-title>
+    <desc lang="en">Des propriétaires doivent décider entre rénover ou trouver une nouvelle maison.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603130000 -0400" stop="20200603150000 -0400" channel="Canal Vie">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Un baiser, enfin!</sub-title>
+    <desc lang="en">Une journaliste retourne dans son école en se faisant passer pour une étudiante.(n)</desc>
+    <credits>
+      <director>Raja Gosnell</director>
+      <actor>David Arquette</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Michael Vartan</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20200603150000 -0400" stop="20200603153000 -0400" channel="Canal Vie">
+    <title lang="en">Maison jackpot</title>
+    <sub-title lang="en">Jackpot de 2 700 000 $</sub-title>
+    <desc lang="en">La maison de Tim et Kim est trop petite pour contenir tout ce qu'ils ont accumulé au fil des années.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603153000 -0400" stop="20200603160000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">La salle de bain contrastante d'Éric et Nathalie</sub-title>
+    <desc lang="en">Nathalie, Éric et leurs quatre enfants forment une belle famille reconstituée qui doit se partager chaque matin la seule salle de bain de la maison.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603160000 -0400" stop="20200603170000 -0400" channel="Canal Vie">
+    <title lang="en">Maman médium</title>
+    <sub-title lang="en">La chasse aux fantômes</sub-title>
+    <desc lang="en">La famille se rend au chalet pour de courtes vacances, mais Jennie doit tout de même travailler.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603170000 -0400" stop="20200603180000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">Le choix des candidats</sub-title>
+    <desc lang="en">On découvre les candidats assez courageux pour se marier à de parfaits inconnus.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603180000 -0400" stop="20200603190000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Apprendre à utiliser le petit pot n'a jamais tué personne</sub-title>
+    <desc lang="en">Quand la possibilité d'une autre opération apparaît pour Hazel, Adam angoisse au sujet de son rendez-vous imminent avec un nouveau médecin. Danielle entreprend donc l'apprentissage de la propreté aux quintuplées, mais les résultats sont désastreux.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603190000 -0400" stop="20200603193000 -0400" channel="Canal Vie">
+    <title lang="en">SPCA en action</title>
+    <sub-title lang="en">Le bon environnement</sub-title>
+    <desc lang="en">L'agente Dupuis inspecte un élevage de lapins, tâchant de convaincre les propriétaires d'effectuer les améliorations nécessaires à leurs installations plutôt que d'envoyer les pauvres bêtes à l'abattoir.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603193000 -0400" stop="20200603200000 -0400" channel="Canal Vie">
+    <title lang="en">Un safari près de chez nous</title>
+    <sub-title lang="en">L'ouverture de la haute saison</sub-title>
+    <desc lang="en">Au Parc Safari, l'arrivée de l'été est synonyme de haute saison. La foule est nombreuse à franchir les portes pour rencontrer les différents animaux.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603200000 -0400" stop="20200603210000 -0400" channel="Canal Vie">
+    <title lang="en">Animaux VIP</title>
+    <sub-title lang="en">Jardin de rêve</sub-title>
+    <desc lang="en">Antonio et son équipe transforment une cour présentant un risque pour la santé en un paradis pour chien comprenant un abreuvoir et des plantes médicinales.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603210000 -0400" stop="20200603213000 -0400" channel="Canal Vie">
+    <title lang="en">L'Unité des naissances</title>
+    <sub-title lang="en">La délivrance</sub-title>
+    <desc lang="en">Tania et Martin attendent la naissance de leur fille avec impatience et inquiétude: ils ont déjà perdu un enfant à cause d'une rare maladie génétique.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603213000 -0400" stop="20200603220000 -0400" channel="Canal Vie">
+    <title lang="en">L'Unité des naissances</title>
+    <sub-title lang="en">Le courage</sub-title>
+    <desc lang="en">Docteur Moussa doit annoncer la mauvaise nouvelle. Guise avait peu de chances d'accoucher d'un enfant en santé, mais elle donne finalement naissance au petit bébé qu'elle désirait tant.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603220000 -0400" stop="20200603223000 -0400" channel="Canal Vie">
+    <title lang="en">Faites-nous la cour</title>
+    <sub-title lang="en">La maison centenaire</sub-title>
+    <desc lang="en">Sophie et Thierry ont un grand arbre centenaire en plein milieu de la cour qui complique l'aménagement et leur porte patio donne directement sur la terre.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603223000 -0400" stop="20200603230000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur dans ma cour</title>
+    <sub-title lang="en">La cour pour jammer de Nathalie, Pierre et les enfants</sub-title>
+    <desc lang="en">Nathalie, Pierre et leurs trois enfants rêvent de pouvoir enfin profiter de leur cour. Cependant, les deux immenses pommiers compliquent l'aménagement de l'espace en laissant tomber des centaines de pommes sur leur tête.(n)</desc>
+    <category lang="en">Garden</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603230000 -0400" stop="20200604000000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">Maisonnette de 29 m2 pour Penny</sub-title>
+    <desc lang="en">Tim et Amber veulent construire une minimaison entièrement conçue pour que leur fille Penny puisse donner libre cours à son imagination. Ils souhaitent un espace à la fois fonctionnel et sécuritaire pour leur enfant.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604000000 -0400" stop="20200604020000 -0400" channel="Canal Vie">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Un baiser, enfin!</sub-title>
+    <desc lang="en">Une journaliste retourne dans son école en se faisant passer pour une étudiante.(n)</desc>
+    <credits>
+      <director>Raja Gosnell</director>
+      <actor>David Arquette</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Michael Vartan</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20200604020000 -0400" stop="20200604023000 -0400" channel="Canal Vie">
+    <title lang="en">Maison jackpot</title>
+    <sub-title lang="en">Jackpot de 2 700 000 $</sub-title>
+    <desc lang="en">La maison de Tim et Kim est trop petite pour contenir tout ce qu'ils ont accumulé au fil des années.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604023000 -0400" stop="20200604030000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">La salle de bain contrastante d'Éric et Nathalie</sub-title>
+    <desc lang="en">Nathalie, Éric et leurs quatre enfants forment une belle famille reconstituée qui doit se partager chaque matin la seule salle de bain de la maison.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604030000 -0400" stop="20200604040000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Apprendre à utiliser le petit pot n'a jamais tué personne</sub-title>
+    <desc lang="en">Quand la possibilité d'une autre opération apparaît pour Hazel, Adam angoisse au sujet de son rendez-vous imminent avec un nouveau médecin. Danielle entreprend donc l'apprentissage de la propreté aux quintuplées, mais les résultats sont désastreux.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604040000 -0400" stop="20200604043000 -0400" channel="Canal Vie">
+    <title lang="en">Projection privée</title>
+    <sub-title lang="en">Jean-François Breau</sub-title>
+    <desc lang="en">Hélène Bourgeois Leclerc reçoit Jean-François Breau pour visionner un film sur sa vie narrant son passé au Nouveau- Brunswick, sa passion pour la musique et sa relation avec Marie-Ève Janvier.Guests: Jean-François Breau..(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604043000 -0400" stop="20200604050000 -0400" channel="Canal Vie">
+    <title lang="en">Bienvenue chez les cheaps</title>
+    <sub-title lang="en">Changeons le monde</sub-title>
+    <desc lang="en">Lany fait son épicerie. Comme il a trouvé trop de nourriture, il préfère partager et faire profiter les gens de ses trouvailles. Michèle fait son bouillon de dinde.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604050000 -0400" stop="20200604060000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">Préparatifs nuptiaux</sub-title>
+    <desc lang="en">Dans cette expérience sociale controversée, six nouveaux célibataires se préparent à se marier avec une personne totalement étrangère.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604060000 -0400" stop="20200604070000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover?</title>
+    <sub-title lang="en">Danielle et Eli</sub-title>
+    <desc lang="en">Danielle rêve d'une maison plus spacieuse et fonctionnelle qui lui permettrait de travailler de la maison, mais son conjoint Eli est tombé sous le charme du terrain et de la tranquillité de leur maison actuelle.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604070000 -0400" stop="20200604073000 -0400" channel="Canal Vie">
+    <title lang="en">Ma villa au soleil</title>
+    <desc lang="en">Holly, Jason et leur fils, Bodhi, quittent leur vie mouvementée à San Francisco pour l'Espagne afin de profiter d'un quotidien plus tranquille. Ils espèrent trouver une maison près d'une bonne école et avec une piscine.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604073000 -0400" stop="20200604080000 -0400" channel="Canal Vie">
+    <title lang="en">C'est quoi ton plan?</title>
+    <sub-title lang="en">De l'espace pour tous</sub-title>
+    <desc lang="en">L'aire de vie commune de Julie-Kim et Kevin ne répond plus aux besoins de leur famille qui s'agrandit. Il est difficile d'imaginer un aménagement fonctionnel dans cet espace avec des murs en angle, différents niveaux et de nombreuses fenêtres.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604080000 -0400" stop="20200604090000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">Une maison de 18,5 m2 pour la famille</sub-title>
+    <desc lang="en">Adam et Gabrielle souhaitent une minimaison où ils pourront élever leur famille. Ils veulent un espace conçu pour les enfants. Avec Gabrielle qui est à la fin de sa deuxième grossesse, c'est tout un défi pour John et Zach.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604090000 -0400" stop="20200604100000 -0400" channel="Canal Vie">
+    <title lang="en">Rénos au bord de l'eau</title>
+    <sub-title lang="en">Le gîte au bord du lac</sub-title>
+    <desc lang="en">Amber et Jon cherchent une maison de vacances pour s'évader proche de leur domicile. Ils trouvent l'endroit parfait, mais la propriété est en piètre condition.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604100000 -0400" stop="20200604110000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Les quintuplées donnent du fil à retordre</sub-title>
+    <desc lang="en">Les Busby redoublent de discipline pour maîtriser leurs bambins de deux ans. Danielle incite Adam à lui exprimer ses sentiments. Comme Mimi se traîne les pieds dans la maison, Danielle dresse un plan pour l'aider à profiter de sa nouvelle vie.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604110000 -0400" stop="20200604113000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">Le plus grand défi d'Amanda est de choisir une robe qu'elle et sa grand-mère aimeront. Hillary cherche une robe spécifique que sa défunte grand-mère adorait.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604113000 -0400" stop="20200604120000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">La mariée Lauren aime s'habiller sexy, mais elle veut aussi une robe qui la fera sentir comme une mariée. Ali veut ressembler à Beyonce lors de son grand jour, alors elle aura besoin d'une robe sexy avec des tonnes d'éclat.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604120000 -0400" stop="20200604130000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover au Québec</title>
+    <sub-title lang="en">Combler le vide!</sub-title>
+    <desc lang="en">Johanne rêve d'une grande cuisine conviviale et d'une aire ouverte pour recevoir. Régis, de son côté, trouve qu'ils ont assez déménagé dans leur vie et veut rester.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604130000 -0400" stop="20200604150000 -0400" channel="Canal Vie">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Égarement coupable</sub-title>
+    <desc lang="en">La relation secrète entre une psychiatre et un artiste risque détruire la vie des deux.(n)</desc>
+    <credits>
+      <actor>Mira Sorvino</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Buck Taylor</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604150000 -0400" stop="20200604153000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons au paradis</title>
+    <sub-title lang="en">Un refuge insulaire</sub-title>
+    <desc lang="en">Un couple d'Hawaï ayant adopté quatre enfants rêve d'une maison miniature où il pourrait se retirer pour relaxer. Il veut que son design de 300 pieds carrés au coeur des montagnes soit un sanctuaire paisible rappelant les maisons de ferme rustiques.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604153000 -0400" stop="20200604160000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">La chambre de pirate de Gabriel</sub-title>
+    <desc lang="en">Véronique et Jean-François décident de construire une chambre supplémentaire pour leur aîné Gabriel, un passionné des pirates. Malheureusement, le résultat est loin d'être réussi, en plus de ne pas être très sécuritaire.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604160000 -0400" stop="20200604170000 -0400" channel="Canal Vie">
+    <title lang="en">Le pro des pieds</title>
+    <sub-title lang="en">La reine des verrues</sub-title>
+    <desc lang="en">Le Pro des pieds vient en aide à deux frères excentriques aux prises avec des callosités et des ongles incarnés. Il traite également la verrue d'un batteur qui est incapable de jouer de son instrument en raison de la douleur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604170000 -0400" stop="20200604180000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">Préparatifs nuptiaux</sub-title>
+    <desc lang="en">Dans cette expérience sociale controversée, six nouveaux célibataires se préparent à se marier avec une personne totalement étrangère.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604180000 -0400" stop="20200604190000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Les quintuplées donnent du fil à retordre</sub-title>
+    <desc lang="en">Les Busby redoublent de discipline pour maîtriser leurs bambins de deux ans. Danielle incite Adam à lui exprimer ses sentiments. Comme Mimi se traîne les pieds dans la maison, Danielle dresse un plan pour l'aider à profiter de sa nouvelle vie.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604190000 -0400" stop="20200604193000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">La mariée Margo a du mal à obtenir l'approbation de sa soeur jumelle pour les robes qu'elle essaie. Brenda veut que ses quatre soeurs soient d'accord avec son choix vestimentaire.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604193000 -0400" stop="20200604200000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">Sharde rêve d'une robe colorée pour convenir à son mariage de licorne arc-en-ciel, mais sa mère n'approuve pas du tout. La mariée Spencer veut une robe très avant-gardiste et dramatique pour son grand jour.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604200000 -0400" stop="20200604203000 -0400" channel="Canal Vie">
+    <title lang="en">Projection privée</title>
+    <sub-title lang="en">PY Lord</sub-title>
+    <desc lang="en">Hélène Bourgeois Leclerc reçoit Pierre-Yves Lord pour visionner un film sur sa vie narrant son passé en Haïti, ses débuts en radio et sa vie familiale.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604203000 -0400" stop="20200604210000 -0400" channel="Canal Vie">
+    <title lang="en">Bienvenue chez les cheaps</title>
+    <sub-title lang="en">Changeons le monde</sub-title>
+    <desc lang="en">Lany fait son épicerie. Comme il a trouvé trop de nourriture, il préfère partager et faire profiter les gens de ses trouvailles. Michèle fait son bouillon de dinde.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604210000 -0400" stop="20200604220000 -0400" channel="Canal Vie">
+    <title lang="en">Maintenant ou jamais</title>
+    <sub-title lang="en">Vivre</sub-title>
+    <desc lang="en">Chantal arrive à la fin de son parcours et l'heure est aux bilans. Elle commence par un retour chez la neuropsychologue.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604220000 -0400" stop="20200604223000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur</title>
+    <sub-title lang="en">L'entrée 'mud room' et bureau d'Annie et Pierre-Marc</sub-title>
+    <desc lang="en">L'équipe a pour mandat de faciliter la vie d'une famille de sportifs!(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604223000 -0400" stop="20200604230000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur</title>
+    <sub-title lang="en">La salle de jeux pour jeunes adultes de Caroline</sub-title>
+    <desc lang="en">Caroline aimerait dédier une pièce complète de la maison pour ses trois jeunes hommes de 19 ans.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604230000 -0400" stop="20200605000000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">Une maison de 18,5 m2 pour la famille</sub-title>
+    <desc lang="en">Adam et Gabrielle souhaitent une minimaison où ils pourront élever leur famille. Ils veulent un espace conçu pour les enfants. Avec Gabrielle qui est à la fin de sa deuxième grossesse, c'est tout un défi pour John et Zach.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605000000 -0400" stop="20200605020000 -0400" channel="Canal Vie">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Égarement coupable</sub-title>
+    <desc lang="en">La relation secrète entre une psychiatre et un artiste risque détruire la vie des deux.(n)</desc>
+    <credits>
+      <actor>Mira Sorvino</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Buck Taylor</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605020000 -0400" stop="20200605023000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons au paradis</title>
+    <sub-title lang="en">Un refuge insulaire</sub-title>
+    <desc lang="en">Un couple d'Hawaï ayant adopté quatre enfants rêve d'une maison miniature où il pourrait se retirer pour relaxer. Il veut que son design de 300 pieds carrés au coeur des montagnes soit un sanctuaire paisible rappelant les maisons de ferme rustiques.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605023000 -0400" stop="20200605030000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">La chambre de pirate de Gabriel</sub-title>
+    <desc lang="en">Véronique et Jean-François décident de construire une chambre supplémentaire pour leur aîné Gabriel, un passionné des pirates. Malheureusement, le résultat est loin d'être réussi, en plus de ne pas être très sécuritaire.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605030000 -0400" stop="20200605040000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Les quintuplées donnent du fil à retordre</sub-title>
+    <desc lang="en">Les Busby redoublent de discipline pour maîtriser leurs bambins de deux ans. Danielle incite Adam à lui exprimer ses sentiments. Comme Mimi se traîne les pieds dans la maison, Danielle dresse un plan pour l'aider à profiter de sa nouvelle vie.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605040000 -0400" stop="20200605050000 -0400" channel="Canal Vie">
+    <title lang="en">Maintenant ou jamais</title>
+    <sub-title lang="en">Vivre</sub-title>
+    <desc lang="en">Chantal arrive à la fin de son parcours et l'heure est aux bilans. Elle commence par un retour chez la neuropsychologue.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605050000 -0400" stop="20200605060000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">Les mariages</sub-title>
+    <desc lang="en">C'est jour de mariage. Heather souhaite que Derek soit le bon gars qu'elle espère.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605060000 -0400" stop="20200605063000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">La mariée Margo a du mal à obtenir l'approbation de sa soeur jumelle pour les robes qu'elle essaie. Brenda veut que ses quatre soeurs soient d'accord avec son choix vestimentaire.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605063000 -0400" stop="20200605070000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">Sharde rêve d'une robe colorée pour convenir à son mariage de licorne arc-en-ciel, mais sa mère n'approuve pas du tout. La mariée Spencer veut une robe très avant-gardiste et dramatique pour son grand jour.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605070000 -0400" stop="20200605080000 -0400" channel="Canal Vie">
+    <title lang="en">Réno par le haut</title>
+    <sub-title lang="en">De maison qui s'affaisse à maison de rêve</sub-title>
+    <desc lang="en">Keith paie le gros prix pour une maison sur un coin de rue, mais les problèmes arrivent vite quand il découvre qu'il y a un affaissement de terrain sous une des chambres. Il parvient à créer une aire ouverte au premier avec un étonnant foyer.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605080000 -0400" stop="20200605090000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">Pavillon de ski de 22 m2</sub-title>
+    <desc lang="en">Chris et Tamara adorent faire du ski et du snowboard et ils souhaitent un pavillon de ski moderne qui leur permettra d'avoir les pistes devant leur porte d'entrée. Ils demandent à John et Zach de leur créer un espace fonctionnel.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605090000 -0400" stop="20200605093000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur</title>
+    <sub-title lang="en">L'entrée 'mud room' et bureau d'Annie et Pierre-Marc</sub-title>
+    <desc lang="en">L'équipe a pour mandat de faciliter la vie d'une famille de sportifs!(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605093000 -0400" stop="20200605100000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur</title>
+    <sub-title lang="en">La salle de jeux pour jeunes adultes de Caroline</sub-title>
+    <desc lang="en">Caroline aimerait dédier une pièce complète de la maison pour ses trois jeunes hommes de 19 ans.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605100000 -0400" stop="20200605110000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Métamorphoses extrêmes</sub-title>
+    <desc lang="en">Tandis qu'Adam éprouve des difficultés émotionnelles, les Busby s'attaquent à la rénovation de la salle de jeux des quintuplées et de Blayke.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605110000 -0400" stop="20200605113000 -0400" channel="Canal Vie">
+    <title lang="en">Nombreux et heureux en vacances</title>
+    <sub-title lang="en">En attendant la cigogne chez les Beausoleil-Williamson</sub-title>
+    <desc lang="en">L'été, les Beausoleil-Williamson profitent de la belle saison. Baignade dans la piscine des grands-parents, journée à cuisiner et jardiner; ils ne manquent pas d'activités!(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605113000 -0400" stop="20200605120000 -0400" channel="Canal Vie">
+    <title lang="en">Ma petite vie</title>
+    <sub-title lang="en">Embrasser sa condition</sub-title>
+    <desc lang="en">Les personnes de petite taille s'imposent dans leurs accomplissements pour constater qu'il n'y a rien d'impossible.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605120000 -0400" stop="20200605130000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover au Québec</title>
+    <sub-title lang="en">La maison au bois dormant</sub-title>
+    <desc lang="en">Autoproclamée 'femme la plus patiente du monde', Michèle n'en peut plus d'attendre la fin des rénos.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605130000 -0400" stop="20200605150000 -0400" channel="Canal Vie">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Le bienfaiteur</sub-title>
+    <desc lang="en">Un vieil homme solitaire et fortuné, qui se sent responsable de la mort d'un couple d'amis survenue plusieurs années plus tôt, s'impose dans la vie de leur fille nouvellement mariée.(n)</desc>
+    <credits>
+      <director>Andrew Renzi</director>
+      <actor>Richard Gere</actor>
+      <actor>Dakota Fanning</actor>
+      <actor>Theo James</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605150000 -0400" stop="20200605153000 -0400" channel="Canal Vie">
+    <title lang="en">Maison jackpot</title>
+    <sub-title lang="en">Jackpot de 10 000 000 $</sub-title>
+    <desc lang="en">Le père de Monica a gagné 10 millions de dollars à la loterie et il a partagé son prix avec toute sa famille. David Bromstad aide donc Monica et Nelly à enfin acquérir la propriété de leurs rêves au bord de l'eau.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605153000 -0400" stop="20200605160000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">Le cinéma maison chaleureux de Jacques et Chantal</sub-title>
+    <desc lang="en">Emmanuel Auger débarque avec son équipe sur des chantiers cauchemardesques.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605160000 -0400" stop="20200605170000 -0400" channel="Canal Vie">
+    <title lang="en">Maintenant ou jamais</title>
+    <sub-title lang="en">Vivre</sub-title>
+    <desc lang="en">Chantal arrive à la fin de son parcours et l'heure est aux bilans. Elle commence par un retour chez la neuropsychologue.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605170000 -0400" stop="20200605180000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">Les mariages</sub-title>
+    <desc lang="en">C'est jour de mariage. Heather souhaite que Derek soit le bon gars qu'elle espère.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605180000 -0400" stop="20200605190000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Métamorphoses extrêmes</sub-title>
+    <desc lang="en">Tandis qu'Adam éprouve des difficultés émotionnelles, les Busby s'attaquent à la rénovation de la salle de jeux des quintuplées et de Blayke.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605190000 -0400" stop="20200605193000 -0400" channel="Canal Vie">
+    <title lang="en">Ma villa au soleil</title>
+    <desc lang="en">Holly, Jason et leur fils, Bodhi, quittent leur vie mouvementée à San Francisco pour l'Espagne afin de profiter d'un quotidien plus tranquille. Ils espèrent trouver une maison près d'une bonne école et avec une piscine.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605193000 -0400" stop="20200605200000 -0400" channel="Canal Vie">
+    <title lang="en">C'est quoi ton plan?</title>
+    <sub-title lang="en">De l'espace pour tous</sub-title>
+    <desc lang="en">L'aire de vie commune de Julie-Kim et Kevin ne répond plus aux besoins de leur famille qui s'agrandit. Il est difficile d'imaginer un aménagement fonctionnel dans cet espace avec des murs en angle, différents niveaux et de nombreuses fenêtres.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605200000 -0400" stop="20200605210000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover?</title>
+    <sub-title lang="en">Danielle et Eli</sub-title>
+    <desc lang="en">Danielle rêve d'une maison plus spacieuse et fonctionnelle qui lui permettrait de travailler de la maison, mais son conjoint Eli est tombé sous le charme du terrain et de la tranquillité de leur maison actuelle.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605210000 -0400" stop="20200605213000 -0400" channel="Canal Vie">
+    <title lang="en">Nombreux et heureux en vacances</title>
+    <sub-title lang="en">En attendant la cigogne chez les Beausoleil-Williamson</sub-title>
+    <desc lang="en">L'été, les Beausoleil-Williamson profitent de la belle saison. Baignade dans la piscine des grands-parents, journée à cuisiner et jardiner; ils ne manquent pas d'activités!(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605213000 -0400" stop="20200605220000 -0400" channel="Canal Vie">
+    <title lang="en">Ma petite vie</title>
+    <sub-title lang="en">Embrasser sa condition</sub-title>
+    <desc lang="en">Les personnes de petite taille s'imposent dans leurs accomplissements pour constater qu'il n'y a rien d'impossible.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605220000 -0400" stop="20200605223000 -0400" channel="Canal Vie">
+    <title lang="en">Conseils d'amis</title>
+    <sub-title lang="en">Sylvie, Sophie, Tammy, Antoine, Geneviève et Ève</sub-title>
+    <desc lang="en">Sylvie Léonard et Sophie Cadieux, Geneviève Schmidt et Eve Landry, Antoine Vézina et Tammy Verge répondent aux questions les plus étonnantes du public.Guests: Sylvie Léonard, Sophie Cadieux, Geneviève Schmidt, Eve Landry, Antoine Vézina, Tammy Verge..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605223000 -0400" stop="20200605230000 -0400" channel="Canal Vie">
+    <title lang="en">Projection privée</title>
+    <sub-title lang="en">PY Lord</sub-title>
+    <desc lang="en">Hélène Bourgeois Leclerc reçoit Pierre-Yves Lord pour visionner un film sur sa vie narrant son passé en Haïti, ses débuts en radio et sa vie familiale.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605230000 -0400" stop="20200606000000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">Pavillon de ski de 22 m2</sub-title>
+    <desc lang="en">Chris et Tamara adorent faire du ski et du snowboard et ils souhaitent un pavillon de ski moderne qui leur permettra d'avoir les pistes devant leur porte d'entrée. Ils demandent à John et Zach de leur créer un espace fonctionnel.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606000000 -0400" stop="20200606020000 -0400" channel="Canal Vie">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Le bienfaiteur</sub-title>
+    <desc lang="en">Un vieil homme solitaire et fortuné, qui se sent responsable de la mort d'un couple d'amis survenue plusieurs années plus tôt, s'impose dans la vie de leur fille nouvellement mariée.(n)</desc>
+    <credits>
+      <director>Andrew Renzi</director>
+      <actor>Richard Gere</actor>
+      <actor>Dakota Fanning</actor>
+      <actor>Theo James</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606020000 -0400" stop="20200606023000 -0400" channel="Canal Vie">
+    <title lang="en">Maison jackpot</title>
+    <sub-title lang="en">Jackpot de 10 000 000 $</sub-title>
+    <desc lang="en">Le père de Monica a gagné 10 millions de dollars à la loterie et il a partagé son prix avec toute sa famille. David Bromstad aide donc Monica et Nelly à enfin acquérir la propriété de leurs rêves au bord de l'eau.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606023000 -0400" stop="20200606030000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">Le cinéma maison chaleureux de Jacques et Chantal</sub-title>
+    <desc lang="en">Emmanuel Auger débarque avec son équipe sur des chantiers cauchemardesques.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606030000 -0400" stop="20200606040000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Métamorphoses extrêmes</sub-title>
+    <desc lang="en">Tandis qu'Adam éprouve des difficultés émotionnelles, les Busby s'attaquent à la rénovation de la salle de jeux des quintuplées et de Blayke.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606040000 -0400" stop="20200606043000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">La salle de bain d'André Ducharme</sub-title>
+    <desc lang="en">André Ducharme désire rénover sa salle de bain depuis des années! Marie-Christine va lui proposer une transformation de taille pour actualiser celle-ci.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606043000 -0400" stop="20200606050000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">La salle télé de Brigitte Boisjoli</sub-title>
+    <desc lang="en">Brigitte Boisjoli vient d'acquérir une nouvelle maison et elle veut ajouter de la chaleur et du caractère à sa salle de télévision.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606050000 -0400" stop="20200606053000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">La chambre à coucher de Jason Roy Léveillée</sub-title>
+    <desc lang="en">Jason Roy Léveillée demande à Marie-Christine Lavoie de l'aide pour optimiser l'espace de sa chambre principale. La designer répond aux besoins de Jason tout en actualisant le décor de la pièce avec un style moderne, et en y ajoutant une touche exotique.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606053000 -0400" stop="20200606060000 -0400" channel="Canal Vie">
+    <title lang="en">Design V.I.P.</title>
+    <sub-title lang="en">Le salon/ salle a manger de Mylène St-Sauveur</sub-title>
+    <desc lang="en">Marie-Christine Lavoie transforme la pièce contenant le salon et la salle à manger chez Mylène St-Sauveur.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606060000 -0400" stop="20200606070000 -0400" channel="Canal Vie">
+    <title lang="en">Belle à ma façon</title>
+    <sub-title lang="en">Intimidation</sub-title>
+    <desc lang="en">Chantal met en lumière trois femmes inspirantes. Elles ne se connaissent pas, mais partagent un point commun: elles ont vécu de l'intimidation. Loin d'être des victimes, ces femmes se sont épanouies malgré les difficultés qu'elles ont dû surmonter.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606070000 -0400" stop="20200606080000 -0400" channel="Canal Vie">
+    <title lang="en">Le pro des pieds</title>
+    <sub-title lang="en">La reine des verrues</sub-title>
+    <desc lang="en">Le Pro des pieds vient en aide à deux frères excentriques aux prises avec des callosités et des ongles incarnés. Il traite également la verrue d'un batteur qui est incapable de jouer de son instrument en raison de la douleur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606080000 -0400" stop="20200606083000 -0400" channel="Canal Vie">
+    <title lang="en">Nombreux et heureux en vacances</title>
+    <sub-title lang="en">En attendant la cigogne chez les Beausoleil-Williamson</sub-title>
+    <desc lang="en">L'été, les Beausoleil-Williamson profitent de la belle saison. Baignade dans la piscine des grands-parents, journée à cuisiner et jardiner; ils ne manquent pas d'activités!(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606083000 -0400" stop="20200606090000 -0400" channel="Canal Vie">
+    <title lang="en">Ma petite vie</title>
+    <sub-title lang="en">Embrasser sa condition</sub-title>
+    <desc lang="en">Les personnes de petite taille s'imposent dans leurs accomplissements pour constater qu'il n'y a rien d'impossible.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606090000 -0400" stop="20200606093000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">La mariée Margo a du mal à obtenir l'approbation de sa soeur jumelle pour les robes qu'elle essaie. Brenda veut que ses quatre soeurs soient d'accord avec son choix vestimentaire.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606093000 -0400" stop="20200606100000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">Sharde rêve d'une robe colorée pour convenir à son mariage de licorne arc-en-ciel, mais sa mère n'approuve pas du tout. La mariée Spencer veut une robe très avant-gardiste et dramatique pour son grand jour.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606100000 -0400" stop="20200606103000 -0400" channel="Canal Vie">
+    <title lang="en">Faites-nous la cour</title>
+    <sub-title lang="en">La maison centenaire</sub-title>
+    <desc lang="en">Sophie et Thierry ont un grand arbre centenaire en plein milieu de la cour qui complique l'aménagement et leur porte patio donne directement sur la terre.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606103000 -0400" stop="20200606110000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur dans ma cour</title>
+    <sub-title lang="en">La cour pour jammer de Nathalie, Pierre et les enfants</sub-title>
+    <desc lang="en">Nathalie, Pierre et leurs trois enfants rêvent de pouvoir enfin profiter de leur cour. Cependant, les deux immenses pommiers compliquent l'aménagement de l'espace en laissant tomber des centaines de pommes sur leur tête.(n)</desc>
+    <category lang="en">Garden</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606110000 -0400" stop="20200606120000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover?</title>
+    <sub-title lang="en">Danielle et Eli</sub-title>
+    <desc lang="en">Danielle rêve d'une maison plus spacieuse et fonctionnelle qui lui permettrait de travailler de la maison, mais son conjoint Eli est tombé sous le charme du terrain et de la tranquillité de leur maison actuelle.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606120000 -0400" stop="20200606140000 -0400" channel="Canal Vie">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Kidnappée par mon oncle</sub-title>
+    <desc lang="en">Suit les détails de l'enlèvement d'une adolescente de 16 ans, enlevée en 2013.(n)</desc>
+    <credits>
+      <director>Peter Sullivan</director>
+      <actor>Jessica Amlee</actor>
+      <actor>Scott Patterson</actor>
+      <actor>Brian Mcnamara</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606140000 -0400" stop="20200606163000 -0400" channel="Canal Vie">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Une trêve pour l'amour</sub-title>
+    <desc lang="en">Un jeune leucémique tombe amoureux de l'infirmière qui prend soin de lui à domicile.(n)</desc>
+    <credits>
+      <director>Joel Schumacher</director>
+      <actor>Julia Roberts</actor>
+      <actor>Scott Campbell</actor>
+      <actor>Vincent D'Onofrio</actor>
+    </credits>
+    <date>1991</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20200606163000 -0400" stop="20200606170000 -0400" channel="Canal Vie">
+    <title lang="en">Bienvenue chez les cheaps</title>
+    <sub-title lang="en">Changeons le monde</sub-title>
+    <desc lang="en">Lany fait son épicerie. Comme il a trouvé trop de nourriture, il préfère partager et faire profiter les gens de ses trouvailles. Michèle fait son bouillon de dinde.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606170000 -0400" stop="20200606173000 -0400" channel="Canal Vie">
+    <title lang="en">C'est quoi ton plan?</title>
+    <sub-title lang="en">De l'espace pour tous</sub-title>
+    <desc lang="en">L'aire de vie commune de Julie-Kim et Kevin ne répond plus aux besoins de leur famille qui s'agrandit. Il est difficile d'imaginer un aménagement fonctionnel dans cet espace avec des murs en angle, différents niveaux et de nombreuses fenêtres.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606173000 -0400" stop="20200606180000 -0400" channel="Canal Vie">
+    <title lang="en">Ma villa au soleil</title>
+    <desc lang="en">Holly, Jason et leur fils, Bodhi, quittent leur vie mouvementée à San Francisco pour l'Espagne afin de profiter d'un quotidien plus tranquille. Ils espèrent trouver une maison près d'une bonne école et avec une piscine.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606180000 -0400" stop="20200606190000 -0400" channel="Canal Vie">
+    <title lang="en">Maman médium</title>
+    <sub-title lang="en">La chasse aux fantômes</sub-title>
+    <desc lang="en">La famille se rend au chalet pour de courtes vacances, mais Jennie doit tout de même travailler.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606190000 -0400" stop="20200606193000 -0400" channel="Canal Vie">
+    <title lang="en">Nombreux et heureux en vacances</title>
+    <sub-title lang="en">En attendant la cigogne chez les Beausoleil-Williamson</sub-title>
+    <desc lang="en">L'été, les Beausoleil-Williamson profitent de la belle saison. Baignade dans la piscine des grands-parents, journée à cuisiner et jardiner; ils ne manquent pas d'activités!(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606193000 -0400" stop="20200606200000 -0400" channel="Canal Vie">
+    <title lang="en">Ma petite vie</title>
+    <sub-title lang="en">Embrasser sa condition</sub-title>
+    <desc lang="en">Les personnes de petite taille s'imposent dans leurs accomplissements pour constater qu'il n'y a rien d'impossible.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606200000 -0400" stop="20200606203000 -0400" channel="Canal Vie">
+    <title lang="en">L'Unité des naissances</title>
+    <sub-title lang="en">La délivrance</sub-title>
+    <desc lang="en">Tania et Martin attendent la naissance de leur fille avec impatience et inquiétude: ils ont déjà perdu un enfant à cause d'une rare maladie génétique.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606203000 -0400" stop="20200606210000 -0400" channel="Canal Vie">
+    <title lang="en">L'Unité des naissances</title>
+    <sub-title lang="en">Le courage</sub-title>
+    <desc lang="en">Docteur Moussa doit annoncer la mauvaise nouvelle. Guise avait peu de chances d'accoucher d'un enfant en santé, mais elle donne finalement naissance au petit bébé qu'elle désirait tant.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606210000 -0400" stop="20200606213000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">La mariée Margo a du mal à obtenir l'approbation de sa soeur jumelle pour les robes qu'elle essaie. Brenda veut que ses quatre soeurs soient d'accord avec son choix vestimentaire.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606213000 -0400" stop="20200606220000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">Sharde rêve d'une robe colorée pour convenir à son mariage de licorne arc-en-ciel, mais sa mère n'approuve pas du tout. La mariée Spencer veut une robe très avant-gardiste et dramatique pour son grand jour.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606220000 -0400" stop="20200606230000 -0400" channel="Canal Vie">
+    <title lang="en">Maintenant ou jamais</title>
+    <sub-title lang="en">Vivre</sub-title>
+    <desc lang="en">Chantal arrive à la fin de son parcours et l'heure est aux bilans. Elle commence par un retour chez la neuropsychologue.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606230000 -0400" stop="20200607000000 -0400" channel="Canal Vie">
+    <title lang="en">Rénos au bord de l'eau</title>
+    <sub-title lang="en">Le gîte au bord du lac</sub-title>
+    <desc lang="en">Amber et Jon cherchent une maison de vacances pour s'évader proche de leur domicile. Ils trouvent l'endroit parfait, mais la propriété est en piètre condition.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607000000 -0400" stop="20200607003000 -0400" channel="Canal Vie">
+    <title lang="en">Notre premier flip</title>
+    <sub-title lang="en">Fatigue, calculs et environnement</sub-title>
+    <desc lang="en">La fatigue se fait sentir, et Cédrik manque de temps. Heureusement, plusieurs des problèmes du début du chantier semblent enfin se régler, mais un dégât d'eau retarde les travaux. L'équipe se questionne aussi sur la place de l'écologie dans un flip.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607003000 -0400" stop="20200607010000 -0400" channel="Canal Vie">
+    <title lang="en">Notre premier flip</title>
+    <sub-title lang="en">L'importance de la communication</sub-title>
+    <desc lang="en">La communication dans le couple est primordiale au succès d'une entreprise comme un flip. Il ne faut pas oublier l'essentiel: le bonheur de faire un projet à deux.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607010000 -0400" stop="20200607013000 -0400" channel="Canal Vie">
+    <title lang="en">Bienvenue chez les cheaps</title>
+    <sub-title lang="en">Changeons le monde</sub-title>
+    <desc lang="en">Lany fait son épicerie. Comme il a trouvé trop de nourriture, il préfère partager et faire profiter les gens de ses trouvailles. Michèle fait son bouillon de dinde.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607013000 -0400" stop="20200607020000 -0400" channel="Canal Vie">
+    <title lang="en">Projection privée</title>
+    <sub-title lang="en">PY Lord</sub-title>
+    <desc lang="en">Hélène Bourgeois Leclerc reçoit Pierre-Yves Lord pour visionner un film sur sa vie narrant son passé en Haïti, ses débuts en radio et sa vie familiale.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607020000 -0400" stop="20200607030000 -0400" channel="Canal Vie">
+    <title lang="en">Maman médium</title>
+    <sub-title lang="en">La chasse aux fantômes</sub-title>
+    <desc lang="en">La famille se rend au chalet pour de courtes vacances, mais Jennie doit tout de même travailler.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607030000 -0400" stop="20200607040000 -0400" channel="Canal Vie">
+    <title lang="en">Belle à ma façon</title>
+    <sub-title lang="en">Intimidation</sub-title>
+    <desc lang="en">Chantal met en lumière trois femmes inspirantes. Elles ne se connaissent pas, mais partagent un point commun: elles ont vécu de l'intimidation. Loin d'être des victimes, ces femmes se sont épanouies malgré les difficultés qu'elles ont dû surmonter.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607040000 -0400" stop="20200607043000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">On dit adieu au papier peint à Le Gardeur</sub-title>
+    <desc lang="en">De passage à Le Gardeur, Brigitte et Enock s'attaquent à une propriété qui n'a jamais eu de visiteurs en deux ans!(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607043000 -0400" stop="20200607050000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Un condo rose fuchsia à Saint-Laurent</sub-title>
+    <desc lang="en">De passage à Saint-Laurent, Brigitte et Enock aident Denis qui souhaite vendre son condo depuis plus de deux ans! Dès l'entrée, le rose fuchsia saute aux yeux. Naturellement, grâce à la magie de la couleur la pièce change du tout au tout.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607050000 -0400" stop="20200607053000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Quand une banquette occupe trop de place à Montréal-Nord</sub-title>
+    <desc lang="en">Pour des raisons de santé, Nathalie et son conjoint ont dû mettre leur maison de Montréal-Nord en vente.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607053000 -0400" stop="20200607060000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Une nouvelle céramique bien méritée dans une cuisine de Blainville</sub-title>
+    <desc lang="en">À Blainville, Richard, un pilote d'hélicoptère, désire vendre sa maison pour s'établir à Terre-Neuve afin de retrouver l'amour de sa vie.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607060000 -0400" stop="20200607070000 -0400" channel="Canal Vie">
+    <title lang="en">Animaux VIP</title>
+    <sub-title lang="en">Jardin de rêve</sub-title>
+    <desc lang="en">Antonio et son équipe transforment une cour présentant un risque pour la santé en un paradis pour chien comprenant un abreuvoir et des plantes médicinales.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607070000 -0400" stop="20200607073000 -0400" channel="Canal Vie">
+    <title lang="en">SPCA en action</title>
+    <sub-title lang="en">Le bon environnement</sub-title>
+    <desc lang="en">L'agente Dupuis inspecte un élevage de lapins, tâchant de convaincre les propriétaires d'effectuer les améliorations nécessaires à leurs installations plutôt que d'envoyer les pauvres bêtes à l'abattoir.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607073000 -0400" stop="20200607080000 -0400" channel="Canal Vie">
+    <title lang="en">Un safari près de chez nous</title>
+    <sub-title lang="en">L'ouverture de la haute saison</sub-title>
+    <desc lang="en">Au Parc Safari, l'arrivée de l'été est synonyme de haute saison. La foule est nombreuse à franchir les portes pour rencontrer les différents animaux.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607080000 -0400" stop="20200607083000 -0400" channel="Canal Vie">
+    <title lang="en">L'Unité des naissances</title>
+    <sub-title lang="en">La délivrance</sub-title>
+    <desc lang="en">Tania et Martin attendent la naissance de leur fille avec impatience et inquiétude: ils ont déjà perdu un enfant à cause d'une rare maladie génétique.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607083000 -0400" stop="20200607090000 -0400" channel="Canal Vie">
+    <title lang="en">L'Unité des naissances</title>
+    <sub-title lang="en">Le courage</sub-title>
+    <desc lang="en">Docteur Moussa doit annoncer la mauvaise nouvelle. Guise avait peu de chances d'accoucher d'un enfant en santé, mais elle donne finalement naissance au petit bébé qu'elle désirait tant.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607090000 -0400" stop="20200607110000 -0400" channel="Canal Vie">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">À la recherche de Mr. Parfait</sub-title>
+    <desc lang="en">Une éditrice fait le pari de transformer un petit escroc en homme séduisant et distingué.(n)</desc>
+    <credits>
+      <director>Paul Fox</director>
+      <actor>Dean Cain</actor>
+      <actor>Christina Cox</actor>
+      <actor>David Lewis</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20200607110000 -0400" stop="20200607113000 -0400" channel="Canal Vie">
+    <title lang="en">Conseils d'amis</title>
+    <sub-title lang="en">Sylvie, Sophie, Tammy, Antoine, Geneviève et Ève</sub-title>
+    <desc lang="en">Sylvie Léonard et Sophie Cadieux, Geneviève Schmidt et Eve Landry, Antoine Vézina et Tammy Verge répondent aux questions les plus étonnantes du public.Guests: Sylvie Léonard, Sophie Cadieux, Geneviève Schmidt, Eve Landry, Antoine Vézina, Tammy Verge..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607113000 -0400" stop="20200607120000 -0400" channel="Canal Vie">
+    <title lang="en">Ma villa au soleil</title>
+    <desc lang="en">Holly, Jason et leur fils, Bodhi, quittent leur vie mouvementée à San Francisco pour l'Espagne afin de profiter d'un quotidien plus tranquille. Ils espèrent trouver une maison près d'une bonne école et avec une piscine.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607120000 -0400" stop="20200607130000 -0400" channel="Canal Vie">
+    <title lang="en">Rénos au bord de l'eau</title>
+    <sub-title lang="en">Le gîte au bord du lac</sub-title>
+    <desc lang="en">Amber et Jon cherchent une maison de vacances pour s'évader proche de leur domicile. Ils trouvent l'endroit parfait, mais la propriété est en piètre condition.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607130000 -0400" stop="20200607133000 -0400" channel="Canal Vie">
+    <title lang="en">Nombreux et heureux en vacances</title>
+    <sub-title lang="en">En attendant la cigogne chez les Beausoleil-Williamson</sub-title>
+    <desc lang="en">L'été, les Beausoleil-Williamson profitent de la belle saison. Baignade dans la piscine des grands-parents, journée à cuisiner et jardiner; ils ne manquent pas d'activités!(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607133000 -0400" stop="20200607140000 -0400" channel="Canal Vie">
+    <title lang="en">Ma petite vie</title>
+    <sub-title lang="en">Embrasser sa condition</sub-title>
+    <desc lang="en">Les personnes de petite taille s'imposent dans leurs accomplissements pour constater qu'il n'y a rien d'impossible.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607140000 -0400" stop="20200607143000 -0400" channel="Canal Vie">
+    <title lang="en">Notre premier flip</title>
+    <sub-title lang="en">Fatigue, calculs et environnement</sub-title>
+    <desc lang="en">La fatigue se fait sentir, et Cédrik manque de temps. Heureusement, plusieurs des problèmes du début du chantier semblent enfin se régler, mais un dégât d'eau retarde les travaux. L'équipe se questionne aussi sur la place de l'écologie dans un flip.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607143000 -0400" stop="20200607150000 -0400" channel="Canal Vie">
+    <title lang="en">Notre premier flip</title>
+    <sub-title lang="en">L'importance de la communication</sub-title>
+    <desc lang="en">La communication dans le couple est primordiale au succès d'une entreprise comme un flip. Il ne faut pas oublier l'essentiel: le bonheur de faire un projet à deux.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607150000 -0400" stop="20200607160000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover au Québec</title>
+    <sub-title lang="en">Un condo, trois enfants</sub-title>
+    <desc lang="en">Des propriétaires doivent décider entre rénover ou trouver une nouvelle maison.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607160000 -0400" stop="20200607170000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover au Québec</title>
+    <sub-title lang="en">Combler le vide!</sub-title>
+    <desc lang="en">Johanne rêve d'une grande cuisine conviviale et d'une aire ouverte pour recevoir. Régis, de son côté, trouve qu'ils ont assez déménagé dans leur vie et veut rester.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607170000 -0400" stop="20200607180000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover au Québec</title>
+    <sub-title lang="en">La maison au bois dormant</sub-title>
+    <desc lang="en">Autoproclamée 'femme la plus patiente du monde', Michèle n'en peut plus d'attendre la fin des rénos.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607180000 -0400" stop="20200607190000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover?</title>
+    <sub-title lang="en">Danielle et Eli</sub-title>
+    <desc lang="en">Danielle rêve d'une maison plus spacieuse et fonctionnelle qui lui permettrait de travailler de la maison, mais son conjoint Eli est tombé sous le charme du terrain et de la tranquillité de leur maison actuelle.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607190000 -0400" stop="20200607200000 -0400" channel="Canal Vie">
+    <title lang="en">Animaux VIP</title>
+    <sub-title lang="en">Jardin de rêve</sub-title>
+    <desc lang="en">Antonio et son équipe transforment une cour présentant un risque pour la santé en un paradis pour chien comprenant un abreuvoir et des plantes médicinales.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607200000 -0400" stop="20200607203000 -0400" channel="Canal Vie">
+    <title lang="en">SPCA en action</title>
+    <sub-title lang="en">Le bon environnement</sub-title>
+    <desc lang="en">L'agente Dupuis inspecte un élevage de lapins, tâchant de convaincre les propriétaires d'effectuer les améliorations nécessaires à leurs installations plutôt que d'envoyer les pauvres bêtes à l'abattoir.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607203000 -0400" stop="20200607210000 -0400" channel="Canal Vie">
+    <title lang="en">Un safari près de chez nous</title>
+    <sub-title lang="en">L'ouverture de la haute saison</sub-title>
+    <desc lang="en">Au Parc Safari, l'arrivée de l'été est synonyme de haute saison. La foule est nombreuse à franchir les portes pour rencontrer les différents animaux.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607210000 -0400" stop="20200607230000 -0400" channel="Canal Vie">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">À la recherche de Mr. Parfait</sub-title>
+    <desc lang="en">Une éditrice fait le pari de transformer un petit escroc en homme séduisant et distingué.(n)</desc>
+    <credits>
+      <director>Paul Fox</director>
+      <actor>Dean Cain</actor>
+      <actor>Christina Cox</actor>
+      <actor>David Lewis</actor>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20200607230000 -0400" stop="20200607233000 -0400" channel="Canal Vie">
+    <title lang="en">C'est quoi ton plan?</title>
+    <sub-title lang="en">De l'espace pour tous</sub-title>
+    <desc lang="en">L'aire de vie commune de Julie-Kim et Kevin ne répond plus aux besoins de leur famille qui s'agrandit. Il est difficile d'imaginer un aménagement fonctionnel dans cet espace avec des murs en angle, différents niveaux et de nombreuses fenêtres.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607233000 -0400" stop="20200608000000 -0400" channel="Canal Vie">
+    <title lang="en">Ma villa au soleil</title>
+    <desc lang="en">Holly, Jason et leur fils, Bodhi, quittent leur vie mouvementée à San Francisco pour l'Espagne afin de profiter d'un quotidien plus tranquille. Ils espèrent trouver une maison près d'une bonne école et avec une piscine.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
     </rating>
   </programme>
 </tv>

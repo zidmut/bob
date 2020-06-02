@@ -5,10 +5,10 @@
     <icon src="http://cdn.tvpassport.com/image/station/240x135/addiktv.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
-  <channel id="WWE">
-    <display-name lang="en">WWE</display-name>
-    <icon src="https://sec.wwe.com/f/styles/og_16x9/public/wwe_default.jpg" />
-    <url>http://www.wwe.com.E</url>
+  <channel id="Canal D">
+    <display-name lang="en">Canal D</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/canald.png" />
+    <url>http://www.tvpassport.com</url>
   </channel>
   <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Addik TV">
     <title lang="en">Les enquêtes de Murdoch</title>
@@ -1810,377 +1810,1674 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20200601204000 +0000" stop="20200602000000 +0000" channel="WWE">
-    <title lang="en">Best of Asuka’s Undefeated Streak</title>
-    <sub-title lang="en">The Best of WWE</sub-title>
-    <desc lang="en">Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run.For over two years, Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run, including her hotly-contested encounters against Bayley, Ember Moon and Sasha Banks.(n)</desc>
-    <category lang="en">Best of</category>
-    <episode-num system="onscreen">S2020 E28</episode-num>
+  <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">Tony reçoit l'appel d'un propriétaire d'avion qui est dans le pétrin. Celui qui pilotait son avion s'est retrouvé en prison au Bélize.(n)</desc>
+    <category lang="en">Reality TV</category>
   </programme>
-  <programme start="20200602000000 +0000" stop="20200602010000 +0000" channel="WWE">
-    <title lang="en">WWE NXT UK</title>
-    <sub-title lang="en">WWE NXT UK</sub-title>
-    <desc lang="en">This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.(n)</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
+  <programme start="20200601070000 -0400" stop="20200601080000 -0400" channel="Canal D">
+    <title lang="en">Sur les traces d'un tueur en série</title>
+    <sub-title lang="en">La source</sub-title>
+    <desc lang="en">Le frère d'une des victimes reçoit l'appel d'un homme qui dit avoir des informations sur le meurtre de sa soeur. L'équipe se penche sur cette source et analyse les liens qu'elle établit entre différents meurtres.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200602010000 +0000" stop="20200602013000 +0000" channel="WWE">
-    <title lang="en">Tommaso Ciampa: blackHEART</title>
-    <desc lang="en">As former NXT Champion Tommaso Ciampa fights to overcome a devastating injury, he finds strength in his wife, baby daughter, friends, and the NXT Universe.(n)</desc>
+  <programme start="20200601080000 -0400" stop="20200601090000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Todd doit faire preuve d'humilité pour prier son équipe de revenir travailler avec lui. Une des excavatrices de Parker s'enlise dans un marécage. Tony Beets donne de nouvelles responsabilités à sa fille Monica.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601090000 -0400" stop="20200601093000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Un passager flâne dans les corridors de l'immigration après l'arrivée d'un vol de Toronto et capte l'attention des douaniers.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200602013000 +0000" stop="20200602020000 +0000" channel="WWE">
-    <title lang="en">The Comeback: Tegan Nox</title>
-    <desc lang="en">Tegan Nox's WWE dream nearly ended due to a pair of serious knee injuries. Witness the highs and lows of her journey back to the ring.(n)</desc>
+  <programme start="20200601093000 -0400" stop="20200601100000 -0400" channel="Canal D">
+    <title lang="en">Patrouille en direct: Policières</title>
+    <sub-title lang="en">Les pires appels</sub-title>
+    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200601100000 -0400" stop="20200601110000 -0400" channel="Canal D">
+    <title lang="en">Ancient Mysteries</title>
+    <sub-title lang="en">Destruction</sub-title>
+    <desc lang="en">Sodom et Gomorrhe est l'histoire de deux villes anéanties par une pluie de feu et de souffre. De nouvelles découvertes pourraient mettre au jour les secrets de l'un des plus grands mystères bibliques.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601110000 -0400" stop="20200601120000 -0400" channel="Canal D">
+    <title lang="en">Paranormal sur le vif</title>
+    <sub-title lang="en">Le monstre de Montauk et plus</sub-title>
+    <desc lang="en">Une carcasse semblable à celle du monstre de Montauk, une mystérieuse créature ayant provoqué la controverse en 2008, est observée sur une plage.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601120000 -0400" stop="20200601123000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">La guerre au laser</sub-title>
+    <desc lang="en">Mary parvient enfin à trouver un petit objet antique à El Monte. Ivy dévoile des plaisirs familiaux vieux de plusieurs décennies, tandis que Darrell revisite un passe-temps d'enfance.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601123000 -0400" stop="20200601130000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">Poupées et cocktails</sub-title>
+    <desc lang="en">Jarrod trouve l'unité de fête dont il a toujours rêvé. Rene découvre une nouvelle opportunité d'affaires mobile, et les chaussures d'Ivy font grande impression.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601130000 -0400" stop="20200601140000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">Tony reçoit l'appel d'un propriétaire d'avion qui est dans le pétrin. Celui qui pilotait son avion s'est retrouvé en prison au Bélize.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200601140000 -0400" stop="20200601150000 -0400" channel="Canal D">
+    <title lang="en">Légendes Urbaines</title>
+    <sub-title lang="en">Arnaques</sub-title>
+    <desc lang="en">Il faut du génie pour imaginer des arnaques toujours plus astucieuses les unes que les autres.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20200602020000 +0000" stop="20200602030000 +0000" channel="WWE">
-    <title lang="en">Sting: Into the Light</title>
-    <desc lang="en">Sting relives some of his greatest moments in sports-entertainment and prepares to compete in a WWE ring for the first time at WrestleMania.(n)</desc>
+  <programme start="20200601150000 -0400" stop="20200601160000 -0400" channel="Canal D">
+    <title lang="en">Parker: Sa ruée vers l'or</title>
+    <desc lang="en">Installés dans le village de Kuta, Parker, Karla, Sam et Fred entreprennent leurs recherches à la mine de Mick Leahy.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601160000 -0400" stop="20200601170000 -0400" channel="Canal D">
+    <title lang="en">Méchante météo</title>
+    <sub-title lang="en">Tornades meurtrières</sub-title>
+    <desc lang="en">Cet épisode fait revivre les terribles tornades qui ont ravagé Gatineau en 2018, les plus destructrices de l'histoire du Québec.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200602030000 +0000" stop="20200602033000 +0000" channel="WWE">
-    <title lang="en">June 1, 2020</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
+  <programme start="20200601170000 -0400" stop="20200601180000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Todd doit faire preuve d'humilité pour prier son équipe de revenir travailler avec lui. Une des excavatrices de Parker s'enlise dans un marécage. Tony Beets donne de nouvelles responsabilités à sa fille Monica.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200602033000 +0000" stop="20200602040000 +0000" channel="WWE">
-    <title lang="en">Sting: The Lost Tape</title>
-    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+  <programme start="20200601180000 -0400" stop="20200601183000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Un homme de la Nouvelle-Zélande, avec un passé douteux, est arrêté à la frontière.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200602040000 +0000" stop="20200602050000 +0000" channel="WWE">
-    <title lang="en">Chapter 3: End of an Era</title>
-    <sub-title lang="en">Undertaker: The Last Ride</sub-title>
-    <desc lang="en">Undertaker seeks closure on his career in a series of matches with those he respects the most, setting the stage to ride off into the night.Fresh off his stellar performance at WrestleMania 34 against John Cena, The Undertaker seeks closure on his 30-year career in a series of matches with the men he respects the most - Triple H, Shawn Michaels and Kane. With a dream scenario involving all four Legends at WWE Crown Jewel, the stage was set for The Phenom to ride off into the night.(n)</desc>
+  <programme start="20200601183000 -0400" stop="20200601190000 -0400" channel="Canal D">
+    <title lang="en">La guerre des transports</title>
+    <sub-title lang="en">Chasse au tigre en espace restreint</sub-title>
+    <desc lang="en">Il se peut que la plus récente mission de Jenn lui fasse perdre son amour des animaux, car elle doit transporter six énormes tigres du Bengale. Marc doit user de créativité pour livrer un chargement de statues représentant des figures mythologiques.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601190000 -0400" stop="20200601200000 -0400" channel="Canal D">
+    <title lang="en">Australia Zoo: le défi des Irwin</title>
+    <desc lang="en">Robert suit les pas de Steve en train de se disputer avec Utah, un cobra royal très venimeux de 12 pieds. Le Dr Amber visite Tandora pour s'occuper des koalas sauvages.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601200000 -0400" stop="20200601210000 -0400" channel="Canal D">
+    <title lang="en">Les derniers secrets d'Houdini</title>
+    <sub-title lang="en">Enterré vivant</sub-title>
+    <desc lang="en">Des experts s'intéressent au tour du cercueil et se demandent si des forces obscures pourraient être à l'origine de la tragédie.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601210000 -0400" stop="20200601220000 -0400" channel="Canal D">
+    <title lang="en">Les pires erreurs d'ingénierie</title>
+    <desc lang="en">Un gratte-ciel s'enfonce au centre-ville de San Francisco. Une construction peine à contenir les marées à Venise. Un pont époustouflant pourrait provoquer une catastrophe à Bilbao. Un village entier risque de disparaître sous terre en Allemagne.(n)</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S2020 E3</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200602050000 +0000" stop="20200602060000 +0000" channel="WWE">
-    <title lang="en">I am The Game</title>
-    <sub-title lang="en">WWE Untold</sub-title>
-    <desc lang="en">A pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. This is his untold story.At the dawn of the new millennium, a pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. He, along with Mick Foley and others, look back at the untold stories behind the rise of The Game.(n)</desc>
+  <programme start="20200601220000 -0400" stop="20200601230000 -0400" channel="Canal D">
+    <title lang="en">Les dossiers de la NASA</title>
+    <desc lang="en">Des astronomes trouvent une planète qui pourrait abriter une forme de vie près de la Terre. Un journaliste découvre l'existence d'un programme à cap Canaveral pour envoyer des espions dans l'espace.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200601230000 -0400" stop="20200602000000 -0400" channel="Canal D">
+    <title lang="en">Parker: Sa ruée vers l'or</title>
+    <desc lang="en">Installés dans le village de Kuta, Parker, Karla, Sam et Fred entreprennent leurs recherches à la mine de Mick Leahy.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602000000 -0400" stop="20200602003000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">La guerre au laser</sub-title>
+    <desc lang="en">Mary parvient enfin à trouver un petit objet antique à El Monte. Ivy dévoile des plaisirs familiaux vieux de plusieurs décennies, tandis que Darrell revisite un passe-temps d'enfance.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602003000 -0400" stop="20200602010000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">Poupées et cocktails</sub-title>
+    <desc lang="en">Jarrod trouve l'unité de fête dont il a toujours rêvé. Rene découvre une nouvelle opportunité d'affaires mobile, et les chaussures d'Ivy font grande impression.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602010000 -0400" stop="20200602020000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Todd doit faire preuve d'humilité pour prier son équipe de revenir travailler avec lui. Une des excavatrices de Parker s'enlise dans un marécage. Tony Beets donne de nouvelles responsabilités à sa fille Monica.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602020000 -0400" stop="20200602023000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Un homme de la Nouvelle-Zélande, avec un passé douteux, est arrêté à la frontière.(n)</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S2020 E4</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200602060000 +0000" stop="20200602063000 +0000" channel="WWE">
-    <title lang="en">June 1, 2020</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
+  <programme start="20200602023000 -0400" stop="20200602030000 -0400" channel="Canal D">
+    <title lang="en">La pêche maudite</title>
+    <sub-title lang="en">Les risques du métier</sub-title>
+    <desc lang="en">Le capitaine Jean-Pierre Plourde subit plusieurs mélanges de filets et évite une collision avec le Vieux. Le capitaine Steven Hughes pense avoir dépassé son quota quotidien. Il risque de recevoir une amende salée.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200602063000 +0000" stop="20200602070000 +0000" channel="WWE">
-    <title lang="en">Sting: The Lost Tape</title>
-    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+  <programme start="20200602030000 -0400" stop="20200602040000 -0400" channel="Canal D">
+    <title lang="en">Air Jaws: le retour</title>
+    <desc lang="en">Les 'requins sauteurs' ont disparu de l'Afrique du Sud. Jeff et Chris se rendent donc en Nouvelle-Zélande à leur recherche.(n)</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602040000 -0400" stop="20200602053000 -0400" channel="Canal D">
+    <title lang="en">Billions (v.f.)</title>
+    <sub-title lang="en">Mise en train</sub-title>
+    <desc lang="en">Axe pose un geste audacieux. Taylor est irrité par les récentes décisions d'Axe. Chuck recrute de nouveaux alliés pour mettre en forme son plan d'attaque. Une nouvelle opportunité professionnelle se présente à Connerty.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602053000 -0400" stop="20200602060000 -0400" channel="Canal D">
+    <title lang="en">Fous de bateaux</title>
+    <sub-title lang="en">Des vacances à l'eau</sub-title>
+    <desc lang="en">L'expression 'des vacances à l'eau' prend tout son sens lors de la saison de navigation de plaisance. Si certains préfèrent un été semblable à un long fleuve tranquille, d'autres remplissent leur horaire de partys aux écluses de Sainte-Anne-de-Bellevue.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602060000 -0400" stop="20200602070000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">Les 'go fast' sont des bateaux très précieux qui peuvent atteindre de grandes vitesses et qui se révèlent très utiles pour les trafiquants de drogue.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200602070000 -0400" stop="20200602080000 -0400" channel="Canal D">
+    <title lang="en">Les derniers secrets d'Houdini</title>
+    <sub-title lang="en">Enterré vivant</sub-title>
+    <desc lang="en">Des experts s'intéressent au tour du cercueil et se demandent si des forces obscures pourraient être à l'origine de la tragédie.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602080000 -0400" stop="20200602090000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Encouragés par leur succès et pour extraire suffisamment d'or, les Hoffman ouvrent une seconde mine au Colorado. Parker Schnabel fait l'essai d'une nouvelle mécanique, mais n'obtient pas l'approbation de Mitch.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602090000 -0400" stop="20200602093000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Un Indien arrive en Australie pour y étudier et reçoit sa première leçon à l'immigration lorsqu'il omet de déclarer certains aliments.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200602070000 +0000" stop="20200602094000 +0000" channel="WWE">
-    <title lang="en">Stone Cold’s Best WrestleMania Matches</title>
-    <sub-title lang="en">The Best of WWE</sub-title>
-    <desc lang="en">Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania moments, from his legendary battles with The Rock to winning the WWE Title.Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania matches and moments, from his legendary battles with The Rock to kicking off \"The Austin Era\" by winning the WWE Championship for the first time.(n)</desc>
-    <category lang="en">Best of</category>
-    <episode-num system="onscreen">S2020 E11</episode-num>
+  <programme start="20200602093000 -0400" stop="20200602100000 -0400" channel="Canal D">
+    <title lang="en">Patrouille en direct: Policières</title>
+    <sub-title lang="en">Conduire ou ne pas conduire</sub-title>
+    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
   </programme>
-  <programme start="20200602094000 +0000" stop="20200602100000 +0000" channel="WWE">
-    <title lang="en">Ricochet</title>
-    <sub-title lang="en">WWE Break It Down</sub-title>
-    <desc lang="en">Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.(n)</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2020 E4</episode-num>
-  </programme>
-  <programme start="20200602100000 +0000" stop="20200602124500 +0000" channel="WWE">
-    <title lang="en">Backlash 2016</title>
-    <sub-title lang="en">Backlash</sub-title>
-    <desc lang="en">AJ Styles challenges Dean Ambrose for the WWE World Title. Plus, the first SmackDown LIVE Tag Team and Women's Champions are crownIn the main event, Dean Ambrose puts the coveted WWE World Championship on the line against The Phenomenal AJ Styles. Plus, the finals of the SmackDown Tag Team Championship Tournament, a Six-Pack Challenge to crown the first SmackDown Women's Champion, and much more.(n)</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2016 E1</episode-num>
-  </programme>
-  <programme start="20200602124500 +0000" stop="20200602204000 +0000" channel="WWE">
-    <title lang="en">AJ Styles</title>
-    <sub-title lang="en">WWE Break It Down</sub-title>
-    <desc lang="en">AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his rivalry with John Cena.AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his captivating rivalry with John Cena.(n)</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2020 E5</episode-num>
-  </programme>
-  <programme start="20200602204000 +0000" stop="20200603000000 +0000" channel="WWE">
-    <title lang="en">Best of Asuka’s Undefeated Streak</title>
-    <sub-title lang="en">The Best of WWE</sub-title>
-    <desc lang="en">Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run.For over two years, Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run, including her hotly-contested encounters against Bayley, Ember Moon and Sasha Banks.(n)</desc>
-    <category lang="en">Best of</category>
-    <episode-num system="onscreen">S2020 E28</episode-num>
-  </programme>
-  <programme start="20200602204000 +0000" stop="20200603000000 +0000" channel="WWE">
-    <title lang="en">Best of Asuka’s Undefeated Streak</title>
-    <sub-title lang="en">The Best of WWE</sub-title>
-    <desc lang="en">Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run.For over two years, Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run, including her hotly-contested encounters against Bayley, Ember Moon and Sasha Banks.(n)</desc>
-    <category lang="en">Best of</category>
-    <episode-num system="onscreen">S2020 E28</episode-num>
-  </programme>
-  <programme start="20200602204000 +0000" stop="20200603000000 +0000" channel="WWE">
-    <title lang="en">Best of Asuka’s Undefeated Streak</title>
-    <sub-title lang="en">The Best of WWE</sub-title>
-    <desc lang="en">Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run.For over two years, Asuka sustained a 914-day undefeated streak against the best of WWE and NXT. Experience the biggest matches from her historic run, including her hotly-contested encounters against Bayley, Ember Moon and Sasha Banks.(n)</desc>
-    <category lang="en">Best of</category>
-    <episode-num system="onscreen">S2020 E28</episode-num>
-  </programme>
-  <programme start="20200603000000 +0000" stop="20200603010000 +0000" channel="WWE">
-    <title lang="en">WWE NXT UK</title>
-    <sub-title lang="en">WWE NXT UK</sub-title>
-    <desc lang="en">This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.(n)</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
-  </programme>
-  <programme start="20200603000000 +0000" stop="20200603010000 +0000" channel="WWE">
-    <title lang="en">WWE NXT UK</title>
-    <sub-title lang="en">WWE NXT UK</sub-title>
-    <desc lang="en">This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.(n)</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
-  </programme>
-  <programme start="20200603000000 +0000" stop="20200603010000 +0000" channel="WWE">
-    <title lang="en">WWE NXT UK</title>
-    <sub-title lang="en">WWE NXT UK</sub-title>
-    <desc lang="en">This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.This special episode of NXT UK presents previously unaired matches featuring Finn Bálor, Rhea Ripley and The Grizzled Young Veterans.(n)</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
-  </programme>
-  <programme start="20200603010000 +0000" stop="20200603013000 +0000" channel="WWE">
-    <title lang="en">Tommaso Ciampa: blackHEART</title>
-    <desc lang="en">As former NXT Champion Tommaso Ciampa fights to overcome a devastating injury, he finds strength in his wife, baby daughter, friends, and the NXT Universe.(n)</desc>
+  <programme start="20200602100000 -0400" stop="20200602113000 -0400" channel="Canal D">
+    <title lang="en">Docu-D</title>
+    <sub-title lang="en">Les moustiques</sub-title>
+    <desc lang="en">Les moustiques tuent plus d'un million de personnes chaque année, dont beaucoup d'enfants. Les changements environnementaux rapides et l'accroissement des déplacements internationaux n'ont fait qu'augmenter la menace que posent les moustiques.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603010000 +0000" stop="20200603013000 +0000" channel="WWE">
-    <title lang="en">Tommaso Ciampa: blackHEART</title>
-    <desc lang="en">As former NXT Champion Tommaso Ciampa fights to overcome a devastating injury, he finds strength in his wife, baby daughter, friends, and the NXT Universe.(n)</desc>
+  <programme start="20200602113000 -0400" stop="20200602120000 -0400" channel="Canal D">
+    <title lang="en">Secrets des douanes</title>
+    <sub-title lang="en">Pièces par pièces</sub-title>
+    <desc lang="en">La douane située au tri postal de la ville de Montréal intercepte un colis suspect dont le poids et la valeur ne peuvent concorder.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602120000 -0400" stop="20200602130000 -0400" channel="Canal D">
+    <title lang="en">Amour fatal</title>
+    <sub-title lang="en">L'affaire Despain</sub-title>
+    <desc lang="en">Marc et Michelle vivent une histoire d'amour digne de Roméo et Juliette: sérieuse, rapide et tragique. Lorsque leurs familles respectives apprennent qu'ils souhaitent quitter le nid pour vivre ensemble, les répercussions sont terribles.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20200603010000 +0000" stop="20200603013000 +0000" channel="WWE">
-    <title lang="en">Tommaso Ciampa: blackHEART</title>
-    <desc lang="en">As former NXT Champion Tommaso Ciampa fights to overcome a devastating injury, he finds strength in his wife, baby daughter, friends, and the NXT Universe.(n)</desc>
+  <programme start="20200602130000 -0400" stop="20200602140000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">Les 'go fast' sont des bateaux très précieux qui peuvent atteindre de grandes vitesses et qui se révèlent très utiles pour les trafiquants de drogue.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200602140000 -0400" stop="20200602150000 -0400" channel="Canal D">
+    <title lang="en">Les pires erreurs d'ingénierie</title>
+    <desc lang="en">Un gratte-ciel s'enfonce au centre-ville de San Francisco. Une construction peine à contenir les marées à Venise. Un pont époustouflant pourrait provoquer une catastrophe à Bilbao. Un village entier risque de disparaître sous terre en Allemagne.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603013000 +0000" stop="20200603020000 +0000" channel="WWE">
-    <title lang="en">The Comeback: Tegan Nox</title>
-    <desc lang="en">Tegan Nox's WWE dream nearly ended due to a pair of serious knee injuries. Witness the highs and lows of her journey back to the ring.(n)</desc>
+  <programme start="20200602150000 -0400" stop="20200602160000 -0400" channel="Canal D">
+    <title lang="en">Sur les traces d'un tueur en série</title>
+    <sub-title lang="en">La source</sub-title>
+    <desc lang="en">Le frère d'une des victimes reçoit l'appel d'un homme qui dit avoir des informations sur le meurtre de sa soeur. L'équipe se penche sur cette source et analyse les liens qu'elle établit entre différents meurtres.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602160000 -0400" stop="20200602163000 -0400" channel="Canal D">
+    <title lang="en">GTI: groupe tactique d'intervention</title>
+    <sub-title lang="en">Un retour difficile</sub-title>
+    <desc lang="en">Le retour après un court repos n'est pas facile. La deuxième semaine s'annonce encore plus éprouvante pour les candidats restants.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200602163000 -0400" stop="20200602170000 -0400" channel="Canal D">
+    <title lang="en">GTI: groupe tactique d'intervention</title>
+    <desc lang="en">Les derniers moments du camp sont très difficiles pour les candidats. Les éliminations déterminent la suite: les instructeurs sont intransigeants envers les futures recrues qui feront partie du groupe tactique d'intervention.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200602170000 -0400" stop="20200602180000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Encouragés par leur succès et pour extraire suffisamment d'or, les Hoffman ouvrent une seconde mine au Colorado. Parker Schnabel fait l'essai d'une nouvelle mécanique, mais n'obtient pas l'approbation de Mitch.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602180000 -0400" stop="20200602183000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Une famille utilise leurs trois enfants pour traverser de la drogue à la frontière.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603013000 +0000" stop="20200603020000 +0000" channel="WWE">
-    <title lang="en">The Comeback: Tegan Nox</title>
-    <desc lang="en">Tegan Nox's WWE dream nearly ended due to a pair of serious knee injuries. Witness the highs and lows of her journey back to the ring.(n)</desc>
+  <programme start="20200602183000 -0400" stop="20200602190000 -0400" channel="Canal D">
+    <title lang="en">La guerre des transports</title>
+    <sub-title lang="en">Robot disco à l'assaut d'un château</sub-title>
+    <desc lang="en">Après avoir remporté la commande pour transporter un immense robot crachant du feu dans un festival de musique, Chis devient soudainement nostalgique du temps où les chargements étaient plus faciles à gérer.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602190000 -0400" stop="20200602200000 -0400" channel="Canal D">
+    <title lang="en">Le convoi de l'extrême</title>
+    <sub-title lang="en">Du sang neuf</sub-title>
+    <desc lang="en">Les intrépides camionneurs nordiques doivent encore relever plusieurs défis. Arte Burke fait équipe avec un nouveau venu, Mike Simmons, pour un voyage mouvementé.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603013000 +0000" stop="20200603020000 +0000" channel="WWE">
-    <title lang="en">The Comeback: Tegan Nox</title>
-    <desc lang="en">Tegan Nox's WWE dream nearly ended due to a pair of serious knee injuries. Witness the highs and lows of her journey back to the ring.(n)</desc>
+  <programme start="20200602200000 -0400" stop="20200602210000 -0400" channel="Canal D">
+    <title lang="en">Le choc des bolides</title>
+    <sub-title lang="en">Attention, casse-cou droit devant!</sub-title>
+    <desc lang="en">À Saint-Ferdinand, là où les bazous sautent dans les airs et se retrouvent le plus souvent le nez dans la poussière, David le mécano et Steve le 'bad boy' se livrent une lutte sans merci. Lequel des deux va remporter la victoire?(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200602210000 -0400" stop="20200602220000 -0400" channel="Canal D">
+    <title lang="en">Millionnaire incognito</title>
+    <desc lang="en">Glenn a un nouveau plan audacieux pour développer l'entreprise et ainsi atteindre un million de dollars.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602220000 -0400" stop="20200602223000 -0400" channel="Canal D">
+    <title lang="en">Éboueurs</title>
+    <sub-title lang="en">Les dédales de Westmount</sub-title>
+    <desc lang="en">La vitesse à laquelle un camion se remplit a un gros impact sur la longueur de la journée des gars: vider au dépotoir implique beaucoup de temps de transport.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602223000 -0400" stop="20200602230000 -0400" channel="Canal D">
+    <title lang="en">Fous de bateaux</title>
+    <sub-title lang="en">Mon premier bateau</sub-title>
+    <desc lang="en">Deux plaisanciers achètent un imposant yacht de 1,5 million de dollars comme tout premier bateau. Après une semaine de formation, ils prennent les commandes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602230000 -0400" stop="20200603000000 -0400" channel="Canal D">
+    <title lang="en">Légendes Urbaines</title>
+    <sub-title lang="en">En pays étranger</sub-title>
+    <desc lang="en">Le pays étranger, c'est le lieu de toutes nos angoisses, comme être attaqué dans sa chambre d'hôtel, être piégé par des terroristes, perdre son enfant à l'aéroport ou être pourchassé par un tueur en série sur une route déserte.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20200603020000 +0000" stop="20200603030000 +0000" channel="WWE">
-    <title lang="en">Sting: Into the Light</title>
-    <desc lang="en">Sting relives some of his greatest moments in sports-entertainment and prepares to compete in a WWE ring for the first time at WrestleMania.(n)</desc>
+  <programme start="20200603000000 -0400" stop="20200603010000 -0400" channel="Canal D">
+    <title lang="en">Amour fatal</title>
+    <sub-title lang="en">L'affaire Despain</sub-title>
+    <desc lang="en">Marc et Michelle vivent une histoire d'amour digne de Roméo et Juliette: sérieuse, rapide et tragique. Lorsque leurs familles respectives apprennent qu'ils souhaitent quitter le nid pour vivre ensemble, les répercussions sont terribles.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20200603020000 +0000" stop="20200603030000 +0000" channel="WWE">
-    <title lang="en">Sting: Into the Light</title>
-    <desc lang="en">Sting relives some of his greatest moments in sports-entertainment and prepares to compete in a WWE ring for the first time at WrestleMania.(n)</desc>
+  <programme start="20200603010000 -0400" stop="20200603020000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Encouragés par leur succès et pour extraire suffisamment d'or, les Hoffman ouvrent une seconde mine au Colorado. Parker Schnabel fait l'essai d'une nouvelle mécanique, mais n'obtient pas l'approbation de Mitch.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603020000 -0400" stop="20200603023000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Une famille utilise leurs trois enfants pour traverser de la drogue à la frontière.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603020000 +0000" stop="20200603030000 +0000" channel="WWE">
-    <title lang="en">Sting: Into the Light</title>
-    <desc lang="en">Sting relives some of his greatest moments in sports-entertainment and prepares to compete in a WWE ring for the first time at WrestleMania.(n)</desc>
+  <programme start="20200603023000 -0400" stop="20200603030000 -0400" channel="Canal D">
+    <title lang="en">Tour de Force</title>
+    <sub-title lang="en">Mme Henri Cloutier et Adrien Baillargeaon</sub-title>
+    <desc lang="en">Les tours de force réalisés par des légendes du passé sont examinés.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603030000 -0400" stop="20200603040000 -0400" channel="Canal D">
+    <title lang="en">Les dossiers de la NASA</title>
+    <desc lang="en">Des astronomes trouvent une planète qui pourrait abriter une forme de vie près de la Terre. Un journaliste découvre l'existence d'un programme à cap Canaveral pour envoyer des espions dans l'espace.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603040000 -0400" stop="20200603050000 -0400" channel="Canal D">
+    <title lang="en">Asphalt Cowboys (v.f.)</title>
+    <sub-title lang="en">Le soleil de janvier</sub-title>
+    <desc lang="en">Andreas se rend dans le sud de l'Italie. Le camionneur a enfin décidé de reprendre le contrôle de son poids et suit un régime. Le périple de Monika jusqu'en Autriche est rempli d'obstacles.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603050000 -0400" stop="20200603060000 -0400" channel="Canal D">
+    <title lang="en">Le convoi de l'extrême</title>
+    <sub-title lang="en">Du sang neuf</sub-title>
+    <desc lang="en">Les intrépides camionneurs nordiques doivent encore relever plusieurs défis. Arte Burke fait équipe avec un nouveau venu, Mike Simmons, pour un voyage mouvementé.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603030000 +0000" stop="20200603033000 +0000" channel="WWE">
-    <title lang="en">June 1, 2020</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
+  <programme start="20200603060000 -0400" stop="20200603070000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">Un acheteur contacte Andy et Tony pour se procurer une Dodge Viper. Ils en ont une en stock, mais elle est en Républicaine Dominicaine.(n)</desc>
+    <category lang="en">Reality TV</category>
   </programme>
-  <programme start="20200603030000 +0000" stop="20200603033000 +0000" channel="WWE">
-    <title lang="en">June 1, 2020</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
-  </programme>
-  <programme start="20200603030000 +0000" stop="20200603033000 +0000" channel="WWE">
-    <title lang="en">June 1, 2020</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
-  </programme>
-  <programme start="20200603033000 +0000" stop="20200603040000 +0000" channel="WWE">
-    <title lang="en">Sting: The Lost Tape</title>
-    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+  <programme start="20200603070000 -0400" stop="20200603080000 -0400" channel="Canal D">
+    <title lang="en">Les pires erreurs d'ingénierie</title>
+    <desc lang="en">Un gratte-ciel s'enfonce au centre-ville de San Francisco. Une construction peine à contenir les marées à Venise. Un pont époustouflant pourrait provoquer une catastrophe à Bilbao. Un village entier risque de disparaître sous terre en Allemagne.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603033000 +0000" stop="20200603040000 +0000" channel="WWE">
-    <title lang="en">Sting: The Lost Tape</title>
-    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+  <programme start="20200603080000 -0400" stop="20200603090000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Devant une opération périlleuse, Parker Schnabel n'a d'autre choix que de demander l'aide de son père. Responsable du nettoyage, Logan, le cousin de Todd, remporte un franc succès. Monica, la fille de Tony Beets, commence à extraire de l'or.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603090000 -0400" stop="20200603093000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Les officiers fouillent complètement un avion en provenance du Vietnam après avoir reçu l'information qu'il s'y trouve des stupéfiants.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603033000 +0000" stop="20200603040000 +0000" channel="WWE">
-    <title lang="en">Sting: The Lost Tape</title>
-    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+  <programme start="20200603093000 -0400" stop="20200603100000 -0400" channel="Canal D">
+    <title lang="en">Patrouille en direct: Policières</title>
+    <sub-title lang="en">Vous m'aimez?</sub-title>
+    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603100000 -0400" stop="20200603110000 -0400" channel="Canal D">
+    <title lang="en">Australia Zoo: le défi des Irwin</title>
+    <desc lang="en">Robert suit les pas de Steve en train de se disputer avec Utah, un cobra royal très venimeux de 12 pieds. Le Dr Amber visite Tandora pour s'occuper des koalas sauvages.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603110000 -0400" stop="20200603120000 -0400" channel="Canal D">
+    <title lang="en">Nikola Tesla: le mystère du rayon de la mort</title>
+    <desc lang="en">Aron réussit les tests avec sa réplique du rayon de la mort, ce qui prouve que l'arme révolutionnaire a pu exister.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603040000 +0000" stop="20200603050000 +0000" channel="WWE">
-    <title lang="en">Chapter 3: End of an Era</title>
-    <sub-title lang="en">Undertaker: The Last Ride</sub-title>
-    <desc lang="en">Undertaker seeks closure on his career in a series of matches with those he respects the most, setting the stage to ride off into the night.Fresh off his stellar performance at WrestleMania 34 against John Cena, The Undertaker seeks closure on his 30-year career in a series of matches with the men he respects the most - Triple H, Shawn Michaels and Kane. With a dream scenario involving all four Legends at WWE Crown Jewel, the stage was set for The Phenom to ride off into the night.(n)</desc>
+  <programme start="20200603120000 -0400" stop="20200603123000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">Ventouses pour régler Tonka</sub-title>
+    <desc lang="en">La route est longue jusqu'à la vente de Murietta, et Dave espère que la distance découragera quelques acheteurs. Justin réussit à acheter une unité avec du potentiel et Mary trouve enfin un petit trésor à ramener à la maison.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603123000 -0400" stop="20200603130000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">Spécial nature!</sub-title>
+    <desc lang="en">Les acheteurs se rendent à la vente de Torrance. Dave voit son profit gonfler, Mary fait une bonne affaire et Kenny met à l'épreuve la croyance selon laquelle l'avenir appartient à ceux qui se lèvent tôt.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603130000 -0400" stop="20200603140000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">Un acheteur contacte Andy et Tony pour se procurer une Dodge Viper. Ils en ont une en stock, mais elle est en Républicaine Dominicaine.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200603140000 -0400" stop="20200603150000 -0400" channel="Canal D">
+    <title lang="en">Les dossiers de la NASA</title>
+    <desc lang="en">Des astronomes trouvent une planète qui pourrait abriter une forme de vie près de la Terre. Un journaliste découvre l'existence d'un programme à cap Canaveral pour envoyer des espions dans l'espace.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603150000 -0400" stop="20200603160000 -0400" channel="Canal D">
+    <title lang="en">Asphalt Cowboys (v.f.)</title>
+    <sub-title lang="en">Le soleil de janvier</sub-title>
+    <desc lang="en">Andreas se rend dans le sud de l'Italie. Le camionneur a enfin décidé de reprendre le contrôle de son poids et suit un régime. Le périple de Monika jusqu'en Autriche est rempli d'obstacles.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603160000 -0400" stop="20200603170000 -0400" channel="Canal D">
+    <title lang="en">Paranormal sur le vif</title>
+    <sub-title lang="en">Le monstre de Montauk et plus</sub-title>
+    <desc lang="en">Une carcasse semblable à celle du monstre de Montauk, une mystérieuse créature ayant provoqué la controverse en 2008, est observée sur une plage.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603170000 -0400" stop="20200603180000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Devant une opération périlleuse, Parker Schnabel n'a d'autre choix que de demander l'aide de son père. Responsable du nettoyage, Logan, le cousin de Todd, remporte un franc succès. Monica, la fille de Tony Beets, commence à extraire de l'or.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603180000 -0400" stop="20200603183000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Un homme de la Nouvelle-Zélande cache des informations. Les douaniers se demandent s'il s'agit d'un fugitif.(n)</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S2020 E3</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603040000 +0000" stop="20200603050000 +0000" channel="WWE">
-    <title lang="en">Chapter 3: End of an Era</title>
-    <sub-title lang="en">Undertaker: The Last Ride</sub-title>
-    <desc lang="en">Undertaker seeks closure on his career in a series of matches with those he respects the most, setting the stage to ride off into the night.Fresh off his stellar performance at WrestleMania 34 against John Cena, The Undertaker seeks closure on his 30-year career in a series of matches with the men he respects the most - Triple H, Shawn Michaels and Kane. With a dream scenario involving all four Legends at WWE Crown Jewel, the stage was set for The Phenom to ride off into the night.(n)</desc>
+  <programme start="20200603183000 -0400" stop="20200603190000 -0400" channel="Canal D">
+    <title lang="en">Patrouille en direct: Policières</title>
+    <sub-title lang="en">Facultés affaiblies</sub-title>
+    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200603190000 -0400" stop="20200603193000 -0400" channel="Canal D">
+    <title lang="en">Tour de Force</title>
+    <sub-title lang="en">Louis Cyr et Ben Côté</sub-title>
+    <desc lang="en">Louis Cyr a déjà réussi à soulever 251 kilos avec son majeur droit, et Ben Côté est parvenu à lever deux automobiles en les tenant par le pare-choc. Jean-François Caron et Jimmy Paquet tentent de recréer ces exploits légendaires.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603193000 -0400" stop="20200603200000 -0400" channel="Canal D">
+    <title lang="en">Éboueurs</title>
+    <sub-title lang="en">L'enfer de l'automne</sub-title>
+    <desc lang="en">C'est la saison de l'Halloween. Les éboueurs n'aiment pas ça: du haut de leur camion, ils voient mal les enfants dans les rues. Ça rappelle de douloureux souvenirs à Jocelyn.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603200000 -0400" stop="20200603210000 -0400" channel="Canal D">
+    <title lang="en">Parker: Sa ruée vers l'or</title>
+    <desc lang="en">Parker et son équipe arrivent au terme de leur voyage épique en Papouasie-Nouvelle-Guinée. Ils poursuivent leur mission d'extraction d'or en compagnie d'un descendant du premier explorateur à s'être aventuré sur le territoire.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603210000 -0400" stop="20200603220000 -0400" channel="Canal D">
+    <title lang="en">Méchante météo</title>
+    <sub-title lang="en">Chaleur accablante</sub-title>
+    <desc lang="en">Cet épisode revient sur l'été meurtrier de 2018 où le Québec a enregistré un taux record de décès liés à la chaleur accablante.(n)</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S2020 E3</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603040000 +0000" stop="20200603050000 +0000" channel="WWE">
-    <title lang="en">Chapter 3: End of an Era</title>
-    <sub-title lang="en">Undertaker: The Last Ride</sub-title>
-    <desc lang="en">Undertaker seeks closure on his career in a series of matches with those he respects the most, setting the stage to ride off into the night.Fresh off his stellar performance at WrestleMania 34 against John Cena, The Undertaker seeks closure on his 30-year career in a series of matches with the men he respects the most - Triple H, Shawn Michaels and Kane. With a dream scenario involving all four Legends at WWE Crown Jewel, the stage was set for The Phenom to ride off into the night.(n)</desc>
+  <programme start="20200603220000 -0400" stop="20200603223000 -0400" channel="Canal D">
+    <title lang="en">GTI: groupe tactique d'intervention</title>
+    <sub-title lang="en">Un retour difficile</sub-title>
+    <desc lang="en">Le retour après un court repos n'est pas facile. La deuxième semaine s'annonce encore plus éprouvante pour les candidats restants.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200603223000 -0400" stop="20200603230000 -0400" channel="Canal D">
+    <title lang="en">GTI: groupe tactique d'intervention</title>
+    <desc lang="en">Les derniers moments du camp sont très difficiles pour les candidats. Les éliminations déterminent la suite: les instructeurs sont intransigeants envers les futures recrues qui feront partie du groupe tactique d'intervention.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200603230000 -0400" stop="20200604000000 -0400" channel="Canal D">
+    <title lang="en">Ancient Mysteries</title>
+    <sub-title lang="en">L'étoile de Bethléem</sub-title>
+    <desc lang="en">Cet épisode examine près de 20 siècles de théories afin de découvrir la vérité derrière l'étoile qui aurait guidé les Mages vers l'enfant Jésus. Des études récentes suggèrent que la fameuse étoile était en fait la planète Jupiter.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604000000 -0400" stop="20200604003000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">Ventouses pour régler Tonka</sub-title>
+    <desc lang="en">La route est longue jusqu'à la vente de Murietta, et Dave espère que la distance découragera quelques acheteurs. Justin réussit à acheter une unité avec du potentiel et Mary trouve enfin un petit trésor à ramener à la maison.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604003000 -0400" stop="20200604010000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">Spécial nature!</sub-title>
+    <desc lang="en">Les acheteurs se rendent à la vente de Torrance. Dave voit son profit gonfler, Mary fait une bonne affaire et Kenny met à l'épreuve la croyance selon laquelle l'avenir appartient à ceux qui se lèvent tôt.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604010000 -0400" stop="20200604020000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Devant une opération périlleuse, Parker Schnabel n'a d'autre choix que de demander l'aide de son père. Responsable du nettoyage, Logan, le cousin de Todd, remporte un franc succès. Monica, la fille de Tony Beets, commence à extraire de l'or.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604020000 -0400" stop="20200604023000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Un homme de la Nouvelle-Zélande cache des informations. Les douaniers se demandent s'il s'agit d'un fugitif.(n)</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S2020 E3</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603050000 +0000" stop="20200603060000 +0000" channel="WWE">
-    <title lang="en">I am The Game</title>
-    <sub-title lang="en">WWE Untold</sub-title>
-    <desc lang="en">A pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. This is his untold story.At the dawn of the new millennium, a pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. He, along with Mick Foley and others, look back at the untold stories behind the rise of The Game.(n)</desc>
+  <programme start="20200604023000 -0400" stop="20200604030000 -0400" channel="Canal D">
+    <title lang="en">La guerre des transports</title>
+    <sub-title lang="en">Chasse au tigre en espace restreint</sub-title>
+    <desc lang="en">Il se peut que la plus récente mission de Jenn lui fasse perdre son amour des animaux, car elle doit transporter six énormes tigres du Bengale. Marc doit user de créativité pour livrer un chargement de statues représentant des figures mythologiques.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604030000 -0400" stop="20200604040000 -0400" channel="Canal D">
+    <title lang="en">Millionnaire incognito</title>
+    <desc lang="en">Glenn a un nouveau plan audacieux pour développer l'entreprise et ainsi atteindre un million de dollars.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604040000 -0400" stop="20200604050000 -0400" channel="Canal D">
+    <title lang="en">Otages</title>
+    <sub-title lang="en">L'affaire Deslauriers</sub-title>
+    <desc lang="en">Un journaliste se retrouve catapulté au coeur du drame, un fusil pointé sur lui.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604050000 -0400" stop="20200604060000 -0400" channel="Canal D">
+    <title lang="en">Sur les traces d'un tueur en série</title>
+    <sub-title lang="en">La source</sub-title>
+    <desc lang="en">Le frère d'une des victimes reçoit l'appel d'un homme qui dit avoir des informations sur le meurtre de sa soeur. L'équipe se penche sur cette source et analyse les liens qu'elle établit entre différents meurtres.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604060000 -0400" stop="20200604070000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">Une médecin cherche à acquérir un hélicoptère médical Truamahawk. Tony sait où en trouver un, mais il se trouve au Panama, au coeur d'une zone dangereuse contrôlée par des cartels de drogue.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200604070000 -0400" stop="20200604080000 -0400" channel="Canal D">
+    <title lang="en">Les dossiers de la NASA</title>
+    <desc lang="en">Des astronomes trouvent une planète qui pourrait abriter une forme de vie près de la Terre. Un journaliste découvre l'existence d'un programme à cap Canaveral pour envoyer des espions dans l'espace.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604080000 -0400" stop="20200604090000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">À cause d'un castor qui menace sa réserve d'eau, Todd est forcé de prendre une pause. La tentative d'excavation de Parker se transforme en cauchemar. Tony a enfin réparé son équipement après un mois difficile.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604090000 -0400" stop="20200604093000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Les officiers suspectent un cuisinier malaisien de venir en Australie pour y travailler illégalement.(n)</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S2020 E4</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603050000 +0000" stop="20200603060000 +0000" channel="WWE">
-    <title lang="en">I am The Game</title>
-    <sub-title lang="en">WWE Untold</sub-title>
-    <desc lang="en">A pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. This is his untold story.At the dawn of the new millennium, a pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. He, along with Mick Foley and others, look back at the untold stories behind the rise of The Game.(n)</desc>
+  <programme start="20200604093000 -0400" stop="20200604100000 -0400" channel="Canal D">
+    <title lang="en">La guerre des transports</title>
+    <sub-title lang="en">Chasse au tigre en espace restreint</sub-title>
+    <desc lang="en">Il se peut que la plus récente mission de Jenn lui fasse perdre son amour des animaux, car elle doit transporter six énormes tigres du Bengale. Marc doit user de créativité pour livrer un chargement de statues représentant des figures mythologiques.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604100000 -0400" stop="20200604110000 -0400" channel="Canal D">
+    <title lang="en">Parker: Sa ruée vers l'or</title>
+    <desc lang="en">Parker et son équipe arrivent au terme de leur voyage épique en Papouasie-Nouvelle-Guinée. Ils poursuivent leur mission d'extraction d'or en compagnie d'un descendant du premier explorateur à s'être aventuré sur le territoire.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604110000 -0400" stop="20200604120000 -0400" channel="Canal D">
+    <title lang="en">Méchante météo</title>
+    <sub-title lang="en">Chaleur accablante</sub-title>
+    <desc lang="en">Cet épisode revient sur l'été meurtrier de 2018 où le Québec a enregistré un taux record de décès liés à la chaleur accablante.(n)</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S2020 E4</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603050000 +0000" stop="20200603060000 +0000" channel="WWE">
-    <title lang="en">I am The Game</title>
-    <sub-title lang="en">WWE Untold</sub-title>
-    <desc lang="en">A pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. This is his untold story.At the dawn of the new millennium, a pair of brutal bouts against Cactus Jack and a game-changing interview propelled Triple H to the top of WWE. He, along with Mick Foley and others, look back at the untold stories behind the rise of The Game.(n)</desc>
+  <programme start="20200604120000 -0400" stop="20200604130000 -0400" channel="Canal D">
+    <title lang="en">Air Jaws: le retour</title>
+    <desc lang="en">Les 'requins sauteurs' ont disparu de l'Afrique du Sud. Jeff et Chris se rendent donc en Nouvelle-Zélande à leur recherche.(n)</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604130000 -0400" stop="20200604140000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">Une médecin cherche à acquérir un hélicoptère médical Truamahawk. Tony sait où en trouver un, mais il se trouve au Panama, au coeur d'une zone dangereuse contrôlée par des cartels de drogue.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200604140000 -0400" stop="20200604150000 -0400" channel="Canal D">
+    <title lang="en">Les derniers secrets d'Houdini</title>
+    <sub-title lang="en">Enterré vivant</sub-title>
+    <desc lang="en">Des experts s'intéressent au tour du cercueil et se demandent si des forces obscures pourraient être à l'origine de la tragédie.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604150000 -0400" stop="20200604160000 -0400" channel="Canal D">
+    <title lang="en">Le choc des bolides</title>
+    <sub-title lang="en">Attention, casse-cou droit devant!</sub-title>
+    <desc lang="en">À Saint-Ferdinand, là où les bazous sautent dans les airs et se retrouvent le plus souvent le nez dans la poussière, David le mécano et Steve le 'bad boy' se livrent une lutte sans merci. Lequel des deux va remporter la victoire?(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604160000 -0400" stop="20200604170000 -0400" channel="Canal D">
+    <title lang="en">Le convoi de l'extrême</title>
+    <sub-title lang="en">Du sang neuf</sub-title>
+    <desc lang="en">Les intrépides camionneurs nordiques doivent encore relever plusieurs défis. Arte Burke fait équipe avec un nouveau venu, Mike Simmons, pour un voyage mouvementé.(n)</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="onscreen">S2020 E4</episode-num>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603060000 +0000" stop="20200603063000 +0000" channel="WWE">
-    <title lang="en">June 1, 2020</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
+  <programme start="20200604170000 -0400" stop="20200604180000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">À cause d'un castor qui menace sa réserve d'eau, Todd est forcé de prendre une pause. La tentative d'excavation de Parker se transforme en cauchemar. Tony a enfin réparé son équipement après un mois difficile.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603060000 +0000" stop="20200603063000 +0000" channel="WWE">
-    <title lang="en">June 1, 2020</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
-  </programme>
-  <programme start="20200603060000 +0000" stop="20200603063000 +0000" channel="WWE">
-    <title lang="en">June 1, 2020</title>
-    <sub-title lang="en">Raw Talk</sub-title>
-    <desc lang="en">Raw Talk immediately follows Raw-branded pay-per-views and features exclusive interviews with the biggest Raw Superstars.(n)</desc>
-    <category lang="en">Shoulder</category>
-    <episode-num system="onscreen">S2020 E22</episode-num>
-  </programme>
-  <programme start="20200603063000 +0000" stop="20200603070000 +0000" channel="WWE">
-    <title lang="en">Sting: The Lost Tape</title>
-    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+  <programme start="20200604180000 -0400" stop="20200604183000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Les douaniers interrogent un homme qui arrive du Vietnam au sujet des couvertures qu'il transporte.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603063000 +0000" stop="20200603070000 +0000" channel="WWE">
-    <title lang="en">Sting: The Lost Tape</title>
-    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+  <programme start="20200604183000 -0400" stop="20200604190000 -0400" channel="Canal D">
+    <title lang="en">Patrouille en direct: Policières</title>
+    <sub-title lang="en">Le chant libre</sub-title>
+    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200604190000 -0400" stop="20200604193000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'Église de Dave-ologie</sub-title>
+    <desc lang="en">Ivy se fraye un chemin vers des accessoires d'extérieur rétro. Dave se retrouve dans une évaluation inattendue tandis que le départ d'Emily ruine la journée d'un acheteur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604193000 -0400" stop="20200604200000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'Odyssée des noix</sub-title>
+    <desc lang="en">Adelanto voit revenir les Dotsons. Dave, de son côté, essaie de faire fonctionner ses moteurs. Pendant ce temps, Darrell tombe sur une étrange collection, et Rene finit par devenir fou.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604200000 -0400" stop="20200604210000 -0400" channel="Canal D">
+    <title lang="en">Amour fatal</title>
+    <sub-title lang="en">L'affaire Yancey</sub-title>
+    <desc lang="en">Linda et Derrick Yancey vivent le parfait mariage et travaillent tous deux pour les forces de l'ordre. Derrière leur belle maison, leur pelouse impeccable et leur couple idéal se cache néanmoins une histoire sordide.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
   </programme>
-  <programme start="20200603063000 +0000" stop="20200603070000 +0000" channel="WWE">
-    <title lang="en">Sting: The Lost Tape</title>
-    <desc lang="en">Featuring never-before-seen footage and interviews, cameras follow Sting backstage before his big match at WCW Slamboree 1995.(n)</desc>
+  <programme start="20200604210000 -0400" stop="20200604213000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'encan ou la poule?</sub-title>
+    <desc lang="en">Le nombre d'unités disponibles pour la vente de Rialto est impressionnant. Ivy et Mary parient sur le prix final de certaines d'entre elles. Aussi, Rene et Tatianna mettent la main sur un lot de trésors rétro.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604213000 -0400" stop="20200604220000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">Le vent du désert</sub-title>
+    <desc lang="en">Le vent souffle sur la ville de Desert Hot Springs, et les acheteurs ont du mal à rester debout. Rene et Gunther doivent épousseter leur unité. L'achat de Brandi et Jarrod s'avère payant, et Kenny améliore sa stratégie considérablement.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604220000 -0400" stop="20200604233000 -0400" channel="Canal D">
+    <title lang="en">Docu-D</title>
+    <sub-title lang="en">Le vrai Jacques Villeneuve</sub-title>
+    <desc lang="en">Jacques Villeneuve a une feuille de route ponctuée de succès et d'échecs. Que ce soit en course automobile ou en motoneige, il a rivalisé avec les meilleurs au monde. À 62 ans, il se prépare à vivre une saison de course mouvementée.(n)</desc>
     <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603070000 +0000" stop="20200603094000 +0000" channel="WWE">
-    <title lang="en">Stone Cold’s Best WrestleMania Matches</title>
-    <sub-title lang="en">The Best of WWE</sub-title>
-    <desc lang="en">Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania moments, from his legendary battles with The Rock to winning the WWE Title.Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania matches and moments, from his legendary battles with The Rock to kicking off \"The Austin Era\" by winning the WWE Championship for the first time.(n)</desc>
-    <category lang="en">Best of</category>
-    <episode-num system="onscreen">S2020 E11</episode-num>
+  <programme start="20200604233000 -0400" stop="20200605000000 -0400" channel="Canal D">
+    <title lang="en">Secrets des douanes</title>
+    <sub-title lang="en">Comme une odeur de triche</sub-title>
+    <desc lang="en">À l'aéroport de Mirabel, les douaniers reçoivent un avis de guet de la part de la police de Montréal. Un avion en provenance de la Jamaïque arrive à Mirabel ce même jour avec un jeune couple de paraplégiques à bord.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603070000 +0000" stop="20200603094000 +0000" channel="WWE">
-    <title lang="en">Stone Cold’s Best WrestleMania Matches</title>
-    <sub-title lang="en">The Best of WWE</sub-title>
-    <desc lang="en">Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania moments, from his legendary battles with The Rock to winning the WWE Title.Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania matches and moments, from his legendary battles with The Rock to kicking off \"The Austin Era\" by winning the WWE Championship for the first time.(n)</desc>
-    <category lang="en">Best of</category>
-    <episode-num system="onscreen">S2020 E11</episode-num>
+  <programme start="20200605000000 -0400" stop="20200605010000 -0400" channel="Canal D">
+    <title lang="en">Le choc des bolides</title>
+    <sub-title lang="en">Attention, casse-cou droit devant!</sub-title>
+    <desc lang="en">À Saint-Ferdinand, là où les bazous sautent dans les airs et se retrouvent le plus souvent le nez dans la poussière, David le mécano et Steve le 'bad boy' se livrent une lutte sans merci. Lequel des deux va remporter la victoire?(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
   </programme>
-  <programme start="20200603070000 +0000" stop="20200603094000 +0000" channel="WWE">
-    <title lang="en">Stone Cold’s Best WrestleMania Matches</title>
-    <sub-title lang="en">The Best of WWE</sub-title>
-    <desc lang="en">Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania moments, from his legendary battles with The Rock to winning the WWE Title.Celebrate \"Stone Cold\" Steve Austin's greatest WrestleMania matches and moments, from his legendary battles with The Rock to kicking off \"The Austin Era\" by winning the WWE Championship for the first time.(n)</desc>
-    <category lang="en">Best of</category>
-    <episode-num system="onscreen">S2020 E11</episode-num>
+  <programme start="20200605010000 -0400" stop="20200605020000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">À cause d'un castor qui menace sa réserve d'eau, Todd est forcé de prendre une pause. La tentative d'excavation de Parker se transforme en cauchemar. Tony a enfin réparé son équipement après un mois difficile.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603094000 +0000" stop="20200603100000 +0000" channel="WWE">
-    <title lang="en">Ricochet</title>
-    <sub-title lang="en">WWE Break It Down</sub-title>
-    <desc lang="en">Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.(n)</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2020 E4</episode-num>
+  <programme start="20200605020000 -0400" stop="20200605023000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Les douaniers interrogent un homme qui arrive du Vietnam au sujet des couvertures qu'il transporte.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603094000 +0000" stop="20200603100000 +0000" channel="WWE">
-    <title lang="en">Ricochet</title>
-    <sub-title lang="en">WWE Break It Down</sub-title>
-    <desc lang="en">Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.(n)</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2020 E4</episode-num>
+  <programme start="20200605023000 -0400" stop="20200605030000 -0400" channel="Canal D">
+    <title lang="en">La guerre des transports</title>
+    <sub-title lang="en">Robot disco à l'assaut d'un château</sub-title>
+    <desc lang="en">Après avoir remporté la commande pour transporter un immense robot crachant du feu dans un festival de musique, Chis devient soudainement nostalgique du temps où les chargements étaient plus faciles à gérer.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603094000 +0000" stop="20200603100000 +0000" channel="WWE">
-    <title lang="en">Ricochet</title>
-    <sub-title lang="en">WWE Break It Down</sub-title>
-    <desc lang="en">Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.Ricochet takes a look at the matches that defined his WWE career, including bouts against AJ Styles, Velveteen Dream and more.(n)</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2020 E4</episode-num>
+  <programme start="20200605030000 -0400" stop="20200605040000 -0400" channel="Canal D">
+    <title lang="en">Ingénierie du mal</title>
+    <sub-title lang="en">Contrebandiers futés</sub-title>
+    <desc lang="en">Les criminels doivent trouver les meilleures planques pour leurs biens illicites. Ces voyous ont transporté l'art de la dissimulation à un autre niveau.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603100000 +0000" stop="20200603124500 +0000" channel="WWE">
-    <title lang="en">Backlash 2016</title>
-    <sub-title lang="en">Backlash</sub-title>
-    <desc lang="en">AJ Styles challenges Dean Ambrose for the WWE World Title. Plus, the first SmackDown LIVE Tag Team and Women's Champions are crownIn the main event, Dean Ambrose puts the coveted WWE World Championship on the line against The Phenomenal AJ Styles. Plus, the finals of the SmackDown Tag Team Championship Tournament, a Six-Pack Challenge to crown the first SmackDown Women's Champion, and much more.(n)</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2016 E1</episode-num>
+  <programme start="20200605040000 -0400" stop="20200605050000 -0400" channel="Canal D">
+    <title lang="en">Les pires erreurs d'ingénierie</title>
+    <desc lang="en">Un gratte-ciel s'enfonce au centre-ville de San Francisco. Une construction peine à contenir les marées à Venise. Un pont époustouflant pourrait provoquer une catastrophe à Bilbao. Un village entier risque de disparaître sous terre en Allemagne.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603100000 +0000" stop="20200603124500 +0000" channel="WWE">
-    <title lang="en">Backlash 2016</title>
-    <sub-title lang="en">Backlash</sub-title>
-    <desc lang="en">AJ Styles challenges Dean Ambrose for the WWE World Title. Plus, the first SmackDown LIVE Tag Team and Women's Champions are crownIn the main event, Dean Ambrose puts the coveted WWE World Championship on the line against The Phenomenal AJ Styles. Plus, the finals of the SmackDown Tag Team Championship Tournament, a Six-Pack Challenge to crown the first SmackDown Women's Champion, and much more.(n)</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2016 E1</episode-num>
+  <programme start="20200605050000 -0400" stop="20200605060000 -0400" channel="Canal D">
+    <title lang="en">Paranormal sur le vif</title>
+    <sub-title lang="en">Le monstre de Montauk et plus</sub-title>
+    <desc lang="en">Une carcasse semblable à celle du monstre de Montauk, une mystérieuse créature ayant provoqué la controverse en 2008, est observée sur une plage.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603100000 +0000" stop="20200603124500 +0000" channel="WWE">
-    <title lang="en">Backlash 2016</title>
-    <sub-title lang="en">Backlash</sub-title>
-    <desc lang="en">AJ Styles challenges Dean Ambrose for the WWE World Title. Plus, the first SmackDown LIVE Tag Team and Women's Champions are crownIn the main event, Dean Ambrose puts the coveted WWE World Championship on the line against The Phenomenal AJ Styles. Plus, the finals of the SmackDown Tag Team Championship Tournament, a Six-Pack Challenge to crown the first SmackDown Women's Champion, and much more.(n)</desc>
-    <category lang="en">Event</category>
-    <episode-num system="onscreen">S2016 E1</episode-num>
+  <programme start="20200605060000 -0400" stop="20200605070000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">L'équipe ne dispose que de 48 heures pour évaluer, réparer et prendre possession d'un avion ayant servi au trafic de drogue se trouve à la frontière de deux pays d'Amérique du Sud.(n)</desc>
+    <category lang="en">Reality TV</category>
   </programme>
-  <programme start="20200603124500 +0000" stop="20200603204000 +0000" channel="WWE">
-    <title lang="en">AJ Styles</title>
-    <sub-title lang="en">WWE Break It Down</sub-title>
-    <desc lang="en">AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his rivalry with John Cena.AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his captivating rivalry with John Cena.(n)</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2020 E5</episode-num>
+  <programme start="20200605070000 -0400" stop="20200605080000 -0400" channel="Canal D">
+    <title lang="en">Ancient Mysteries</title>
+    <sub-title lang="en">L'étoile de Bethléem</sub-title>
+    <desc lang="en">Cet épisode examine près de 20 siècles de théories afin de découvrir la vérité derrière l'étoile qui aurait guidé les Mages vers l'enfant Jésus. Des études récentes suggèrent que la fameuse étoile était en fait la planète Jupiter.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
-  <programme start="20200603124500 +0000" stop="20200603204000 +0000" channel="WWE">
-    <title lang="en">AJ Styles</title>
-    <sub-title lang="en">WWE Break It Down</sub-title>
-    <desc lang="en">AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his rivalry with John Cena.AJ Styles shares stories behind his biggest WWE moments, including his surprise debut at Royal Rumble 2016 and his captivating rivalry with John Cena.(n)</desc>
-    <category lang="en">Talk Show</category>
-    <episode-num system="onscreen">S2020 E5</episode-num>
+  <programme start="20200605080000 -0400" stop="20200605090000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Todd découvre des pépites géantes au sommet d'une montagne. Parker et Rick doivent faire preuve d'ingéniosité pour réparer un convoyeur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605090000 -0400" stop="20200605093000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Un voyageur perd son calme lorsqu'il doit payer 100$ pour conserver les cinq paquets de cigarettes qui dépassent la limite permise.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605093000 -0400" stop="20200605100000 -0400" channel="Canal D">
+    <title lang="en">La guerre des transports</title>
+    <sub-title lang="en">Robot disco à l'assaut d'un château</sub-title>
+    <desc lang="en">Après avoir remporté la commande pour transporter un immense robot crachant du feu dans un festival de musique, Chis devient soudainement nostalgique du temps où les chargements étaient plus faciles à gérer.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605100000 -0400" stop="20200605110000 -0400" channel="Canal D">
+    <title lang="en">Millionnaire incognito</title>
+    <desc lang="en">Glenn a un nouveau plan audacieux pour développer l'entreprise et ainsi atteindre un million de dollars.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605110000 -0400" stop="20200605113000 -0400" channel="Canal D">
+    <title lang="en">Tour de Force</title>
+    <sub-title lang="en">Louis Cyr et Ben Côté</sub-title>
+    <desc lang="en">Louis Cyr a déjà réussi à soulever 251 kilos avec son majeur droit, et Ben Côté est parvenu à lever deux automobiles en les tenant par le pare-choc. Jean-François Caron et Jimmy Paquet tentent de recréer ces exploits légendaires.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605113000 -0400" stop="20200605120000 -0400" channel="Canal D">
+    <title lang="en">Éboueurs</title>
+    <sub-title lang="en">L'enfer de l'automne</sub-title>
+    <desc lang="en">C'est la saison de l'Halloween. Les éboueurs n'aiment pas ça: du haut de leur camion, ils voient mal les enfants dans les rues. Ça rappelle de douloureux souvenirs à Jocelyn.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605120000 -0400" stop="20200605130000 -0400" channel="Canal D">
+    <title lang="en">Asphalt Cowboys (v.f.)</title>
+    <sub-title lang="en">Le soleil de janvier</sub-title>
+    <desc lang="en">Andreas se rend dans le sud de l'Italie. Le camionneur a enfin décidé de reprendre le contrôle de son poids et suit un régime. Le périple de Monika jusqu'en Autriche est rempli d'obstacles.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605130000 -0400" stop="20200605140000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">L'équipe ne dispose que de 48 heures pour évaluer, réparer et prendre possession d'un avion ayant servi au trafic de drogue se trouve à la frontière de deux pays d'Amérique du Sud.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200605140000 -0400" stop="20200605150000 -0400" channel="Canal D">
+    <title lang="en">Nikola Tesla: le mystère du rayon de la mort</title>
+    <desc lang="en">Aron réussit les tests avec sa réplique du rayon de la mort, ce qui prouve que l'arme révolutionnaire a pu exister.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605150000 -0400" stop="20200605160000 -0400" channel="Canal D">
+    <title lang="en">Australia Zoo: le défi des Irwin</title>
+    <desc lang="en">Robert suit les pas de Steve en train de se disputer avec Utah, un cobra royal très venimeux de 12 pieds. Le Dr Amber visite Tandora pour s'occuper des koalas sauvages.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605160000 -0400" stop="20200605170000 -0400" channel="Canal D">
+    <title lang="en">Ingénierie du mal</title>
+    <sub-title lang="en">Contrebandiers futés</sub-title>
+    <desc lang="en">Les criminels doivent trouver les meilleures planques pour leurs biens illicites. Ces voyous ont transporté l'art de la dissimulation à un autre niveau.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605170000 -0400" stop="20200605180000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Todd découvre des pépites géantes au sommet d'une montagne. Parker et Rick doivent faire preuve d'ingéniosité pour réparer un convoyeur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605180000 -0400" stop="20200605183000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Les douaniers interrogent un voyageur thaïlandais au sujet de ses déplacements.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605183000 -0400" stop="20200605190000 -0400" channel="Canal D">
+    <title lang="en">Patrouille en direct: Policières</title>
+    <sub-title lang="en">Que de querelles!</sub-title>
+    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605190000 -0400" stop="20200605200000 -0400" channel="Canal D">
+    <title lang="en">Otages</title>
+    <sub-title lang="en">Richard Frolich</sub-title>
+    <desc lang="en">L'agent Frohlich est pris en joug par un suspect et son complice lors d'une chasse à l'homme dans l'est de Montréal. Dépouillé de son arme, il sert maintenant de bouclier humain pour ses bourreaux qui prennent la fuite à bord d'une voiture.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200605200000 -0400" stop="20200605210000 -0400" channel="Canal D">
+    <title lang="en">Sur les traces d'un tueur en série</title>
+    <sub-title lang="en">Les aveux</sub-title>
+    <desc lang="en">L'équipe analyse les similitudes entre les cas de Katherine Hawkes et de Diane Gaudreault, assassinées en 1977 et en 1979 à Montréal. En plus d'avoir été commis dans des circonstances similaires, un élément clé unit ces deux homicides : un appel anonyme.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605210000 -0400" stop="20200605213000 -0400" channel="Canal D">
+    <title lang="en">GTI: groupe tactique d'intervention</title>
+    <desc lang="en">Les candidats ont fini le camp de sélection. Après trois semaines, sept des candidats sélectionnés commencent leur formation, qui reste éliminatoire.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200605213000 -0400" stop="20200605220000 -0400" channel="Canal D">
+    <title lang="en">GTI: groupe tactique d'intervention</title>
+    <desc lang="en">Les candidats entament leur troisième semaine de formation sur les armes de périmètre, qu'ils manipulent pour la première fois. Aussi, le GTI fait une opération de validation.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200605220000 -0400" stop="20200605230000 -0400" channel="Canal D">
+    <title lang="en">Paranormal sur le vif</title>
+    <sub-title lang="en">Les fantômes de Gettysburg et plus encore</sub-title>
+    <desc lang="en">Un fantôme est observé sur le lieu de la bataille de Gettysburg.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605230000 -0400" stop="20200606003000 -0400" channel="Canal D">
+    <title lang="en">Billions (v.f.)</title>
+    <sub-title lang="en">Le rachat</sub-title>
+    <desc lang="en">Chuck et Wendy reçoivent un invité inattendu alors que Axe rencontre un investisseur potentiel excentrique. Pendant ce temps, Chuck entame une enquête risquée. Aussi, Axe et Lara concluent une nouvelle entente.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606003000 -0400" stop="20200606010000 -0400" channel="Canal D">
+    <title lang="en">La pêche maudite</title>
+    <sub-title lang="en">Les risques du métier</sub-title>
+    <desc lang="en">Le capitaine Jean-Pierre Plourde subit plusieurs mélanges de filets et évite une collision avec le Vieux. Le capitaine Steven Hughes pense avoir dépassé son quota quotidien. Il risque de recevoir une amende salée.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606010000 -0400" stop="20200606020000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Todd découvre des pépites géantes au sommet d'une montagne. Parker et Rick doivent faire preuve d'ingéniosité pour réparer un convoyeur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606020000 -0400" stop="20200606023000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Les douaniers interrogent un voyageur thaïlandais au sujet de ses déplacements.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606023000 -0400" stop="20200606030000 -0400" channel="Canal D">
+    <title lang="en">Éboueurs</title>
+    <sub-title lang="en">L'enfer de l'automne</sub-title>
+    <desc lang="en">C'est la saison de l'Halloween. Les éboueurs n'aiment pas ça: du haut de leur camion, ils voient mal les enfants dans les rues. Ça rappelle de douloureux souvenirs à Jocelyn.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606030000 -0400" stop="20200606033000 -0400" channel="Canal D">
+    <title lang="en">Tour de Force</title>
+    <sub-title lang="en">Louis Cyr et Ben Côté</sub-title>
+    <desc lang="en">Louis Cyr a déjà réussi à soulever 251 kilos avec son majeur droit, et Ben Côté est parvenu à lever deux automobiles en les tenant par le pare-choc. Jean-François Caron et Jimmy Paquet tentent de recréer ces exploits légendaires.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606033000 -0400" stop="20200606040000 -0400" channel="Canal D">
+    <title lang="en">Fous de bateaux</title>
+    <sub-title lang="en">Mon premier bateau</sub-title>
+    <desc lang="en">Deux plaisanciers achètent un imposant yacht de 1,5 million de dollars comme tout premier bateau. Après une semaine de formation, ils prennent les commandes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606040000 -0400" stop="20200606050000 -0400" channel="Canal D">
+    <title lang="en">Ingénierie du mal</title>
+    <sub-title lang="en">Contrebandiers futés</sub-title>
+    <desc lang="en">Les criminels doivent trouver les meilleures planques pour leurs biens illicites. Ces voyous ont transporté l'art de la dissimulation à un autre niveau.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606050000 -0400" stop="20200606060000 -0400" channel="Canal D">
+    <title lang="en">Parker: Sa ruée vers l'or</title>
+    <desc lang="en">Parker et son équipe arrivent au terme de leur voyage épique en Papouasie-Nouvelle-Guinée. Ils poursuivent leur mission d'extraction d'or en compagnie d'un descendant du premier explorateur à s'être aventuré sur le territoire.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606060000 -0400" stop="20200606070000 -0400" channel="Canal D">
+    <title lang="en">Méchante météo</title>
+    <sub-title lang="en">Chaleur accablante</sub-title>
+    <desc lang="en">Cet épisode revient sur l'été meurtrier de 2018 où le Québec a enregistré un taux record de décès liés à la chaleur accablante.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606070000 -0400" stop="20200606080000 -0400" channel="Canal D">
+    <title lang="en">Les derniers secrets d'Houdini</title>
+    <sub-title lang="en">Enterré vivant</sub-title>
+    <desc lang="en">Des experts s'intéressent au tour du cercueil et se demandent si des forces obscures pourraient être à l'origine de la tragédie.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606080000 -0400" stop="20200606083000 -0400" channel="Canal D">
+    <title lang="en">La pêche maudite</title>
+    <sub-title lang="en">Les risques du métier</sub-title>
+    <desc lang="en">Le capitaine Jean-Pierre Plourde subit plusieurs mélanges de filets et évite une collision avec le Vieux. Le capitaine Steven Hughes pense avoir dépassé son quota quotidien. Il risque de recevoir une amende salée.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606083000 -0400" stop="20200606090000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Un homme de la Nouvelle-Zélande, avec un passé douteux, est arrêté à la frontière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606090000 -0400" stop="20200606093000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Une famille utilise leurs trois enfants pour traverser de la drogue à la frontière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606093000 -0400" stop="20200606100000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Un homme de la Nouvelle-Zélande cache des informations. Les douaniers se demandent s'il s'agit d'un fugitif.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606100000 -0400" stop="20200606103000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Les douaniers interrogent un homme qui arrive du Vietnam au sujet des couvertures qu'il transporte.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606103000 -0400" stop="20200606110000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Les douaniers interrogent un voyageur thaïlandais au sujet de ses déplacements.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606110000 -0400" stop="20200606120000 -0400" channel="Canal D">
+    <title lang="en">Le convoi de l'extrême</title>
+    <sub-title lang="en">Du sang neuf</sub-title>
+    <desc lang="en">Les intrépides camionneurs nordiques doivent encore relever plusieurs défis. Arte Burke fait équipe avec un nouveau venu, Mike Simmons, pour un voyage mouvementé.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606120000 -0400" stop="20200606130000 -0400" channel="Canal D">
+    <title lang="en">Madame Lebrun</title>
+    <desc lang="en">C'est la St-Valentin et Germaine aimerait bien avoir une 'date', elle se met au régime.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606130000 -0400" stop="20200606140000 -0400" channel="Canal D">
+    <title lang="en">Paranormal sur le vif</title>
+    <sub-title lang="en">Les fantômes de Gettysburg et plus encore</sub-title>
+    <desc lang="en">Un fantôme est observé sur le lieu de la bataille de Gettysburg.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606140000 -0400" stop="20200606143000 -0400" channel="Canal D">
+    <title lang="en">Tour de Force</title>
+    <sub-title lang="en">Louis Cyr et Ben Côté</sub-title>
+    <desc lang="en">Louis Cyr a déjà réussi à soulever 251 kilos avec son majeur droit, et Ben Côté est parvenu à lever deux automobiles en les tenant par le pare-choc. Jean-François Caron et Jimmy Paquet tentent de recréer ces exploits légendaires.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606143000 -0400" stop="20200606150000 -0400" channel="Canal D">
+    <title lang="en">Éboueurs</title>
+    <sub-title lang="en">L'enfer de l'automne</sub-title>
+    <desc lang="en">C'est la saison de l'Halloween. Les éboueurs n'aiment pas ça: du haut de leur camion, ils voient mal les enfants dans les rues. Ça rappelle de douloureux souvenirs à Jocelyn.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606150000 -0400" stop="20200606153000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'Église de Dave-ologie</sub-title>
+    <desc lang="en">Ivy se fraye un chemin vers des accessoires d'extérieur rétro. Dave se retrouve dans une évaluation inattendue tandis que le départ d'Emily ruine la journée d'un acheteur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606153000 -0400" stop="20200606160000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'Odyssée des noix</sub-title>
+    <desc lang="en">Adelanto voit revenir les Dotsons. Dave, de son côté, essaie de faire fonctionner ses moteurs. Pendant ce temps, Darrell tombe sur une étrange collection, et Rene finit par devenir fou.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606160000 -0400" stop="20200606170000 -0400" channel="Canal D">
+    <title lang="en">Amour fatal</title>
+    <sub-title lang="en">L'affaire Yancey</sub-title>
+    <desc lang="en">Linda et Derrick Yancey vivent le parfait mariage et travaillent tous deux pour les forces de l'ordre. Derrière leur belle maison, leur pelouse impeccable et leur couple idéal se cache néanmoins une histoire sordide.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200606170000 -0400" stop="20200606173000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'encan ou la poule?</sub-title>
+    <desc lang="en">Le nombre d'unités disponibles pour la vente de Rialto est impressionnant. Ivy et Mary parient sur le prix final de certaines d'entre elles. Aussi, Rene et Tatianna mettent la main sur un lot de trésors rétro.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606173000 -0400" stop="20200606180000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">Le vent du désert</sub-title>
+    <desc lang="en">Le vent souffle sur la ville de Desert Hot Springs, et les acheteurs ont du mal à rester debout. Rene et Gunther doivent épousseter leur unité. L'achat de Brandi et Jarrod s'avère payant, et Kenny améliore sa stratégie considérablement.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606180000 -0400" stop="20200606190000 -0400" channel="Canal D">
+    <title lang="en">Le choc des bolides</title>
+    <sub-title lang="en">Attention, casse-cou droit devant!</sub-title>
+    <desc lang="en">À Saint-Ferdinand, là où les bazous sautent dans les airs et se retrouvent le plus souvent le nez dans la poussière, David le mécano et Steve le 'bad boy' se livrent une lutte sans merci. Lequel des deux va remporter la victoire?(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200606190000 -0400" stop="20200606200000 -0400" channel="Canal D">
+    <title lang="en">Légendes Urbaines</title>
+    <sub-title lang="en">En pays étranger</sub-title>
+    <desc lang="en">Le pays étranger, c'est le lieu de toutes nos angoisses, comme être attaqué dans sa chambre d'hôtel, être piégé par des terroristes, perdre son enfant à l'aéroport ou être pourchassé par un tueur en série sur une route déserte.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200606200000 -0400" stop="20200606203000 -0400" channel="Canal D">
+    <title lang="en">Tour de Force</title>
+    <sub-title lang="en">Louis Cyr et Ben Côté</sub-title>
+    <desc lang="en">Louis Cyr a déjà réussi à soulever 251 kilos avec son majeur droit, et Ben Côté est parvenu à lever deux automobiles en les tenant par le pare-choc. Jean-François Caron et Jimmy Paquet tentent de recréer ces exploits légendaires.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606203000 -0400" stop="20200606210000 -0400" channel="Canal D">
+    <title lang="en">Fous de bateaux</title>
+    <sub-title lang="en">Mon premier bateau</sub-title>
+    <desc lang="en">Deux plaisanciers achètent un imposant yacht de 1,5 million de dollars comme tout premier bateau. Après une semaine de formation, ils prennent les commandes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606210000 -0400" stop="20200606220000 -0400" channel="Canal D">
+    <title lang="en">Madame Lebrun</title>
+    <desc lang="en">Germaine attend toujours après sa nouvelle cuisine; Gaétan s'est chicané avec Patrice.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606220000 -0400" stop="20200606230000 -0400" channel="Canal D">
+    <title lang="en">Nikola Tesla: le mystère du rayon de la mort</title>
+    <desc lang="en">L'enquête sur la mort suspecte de Tesla continue, tout comme la recherche de documents manquants.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606230000 -0400" stop="20200607000000 -0400" channel="Canal D">
+    <title lang="en">Les derniers secrets d'Houdini</title>
+    <sub-title lang="en">Enterré vivant</sub-title>
+    <desc lang="en">Des experts s'intéressent au tour du cercueil et se demandent si des forces obscures pourraient être à l'origine de la tragédie.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607000000 -0400" stop="20200607010000 -0400" channel="Canal D">
+    <title lang="en">Sur les traces d'un tueur en série</title>
+    <sub-title lang="en">Les aveux</sub-title>
+    <desc lang="en">L'équipe analyse les similitudes entre les cas de Katherine Hawkes et de Diane Gaudreault, assassinées en 1977 et en 1979 à Montréal. En plus d'avoir été commis dans des circonstances similaires, un élément clé unit ces deux homicides : un appel anonyme.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607010000 -0400" stop="20200607020000 -0400" channel="Canal D">
+    <title lang="en">Otages</title>
+    <sub-title lang="en">Richard Frolich</sub-title>
+    <desc lang="en">L'agent Frohlich est pris en joug par un suspect et son complice lors d'une chasse à l'homme dans l'est de Montréal. Dépouillé de son arme, il sert maintenant de bouclier humain pour ses bourreaux qui prennent la fuite à bord d'une voiture.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200607020000 -0400" stop="20200607033000 -0400" channel="Canal D">
+    <title lang="en">Docu-D</title>
+    <sub-title lang="en">Le vrai Jacques Villeneuve</sub-title>
+    <desc lang="en">Jacques Villeneuve a une feuille de route ponctuée de succès et d'échecs. Que ce soit en course automobile ou en motoneige, il a rivalisé avec les meilleurs au monde. À 62 ans, il se prépare à vivre une saison de course mouvementée.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607033000 -0400" stop="20200607040000 -0400" channel="Canal D">
+    <title lang="en">Secrets des douanes</title>
+    <sub-title lang="en">Comme une odeur de triche</sub-title>
+    <desc lang="en">À l'aéroport de Mirabel, les douaniers reçoivent un avis de guet de la part de la police de Montréal. Un avion en provenance de la Jamaïque arrive à Mirabel ce même jour avec un jeune couple de paraplégiques à bord.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607040000 -0400" stop="20200607050000 -0400" channel="Canal D">
+    <title lang="en">Légendes Urbaines</title>
+    <sub-title lang="en">En pays étranger</sub-title>
+    <desc lang="en">Le pays étranger, c'est le lieu de toutes nos angoisses, comme être attaqué dans sa chambre d'hôtel, être piégé par des terroristes, perdre son enfant à l'aéroport ou être pourchassé par un tueur en série sur une route déserte.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200607050000 -0400" stop="20200607060000 -0400" channel="Canal D">
+    <title lang="en">Air Jaws: le retour</title>
+    <desc lang="en">Les 'requins sauteurs' ont disparu de l'Afrique du Sud. Jeff et Chris se rendent donc en Nouvelle-Zélande à leur recherche.(n)</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607060000 -0400" stop="20200607070000 -0400" channel="Canal D">
+    <title lang="en">Les dossiers de la NASA</title>
+    <desc lang="en">Des astronomes trouvent une planète qui pourrait abriter une forme de vie près de la Terre. Un journaliste découvre l'existence d'un programme à cap Canaveral pour envoyer des espions dans l'espace.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607070000 -0400" stop="20200607073000 -0400" channel="Canal D">
+    <title lang="en">GTI: groupe tactique d'intervention</title>
+    <desc lang="en">Les candidats ont fini le camp de sélection. Après trois semaines, sept des candidats sélectionnés commencent leur formation, qui reste éliminatoire.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200607073000 -0400" stop="20200607080000 -0400" channel="Canal D">
+    <title lang="en">GTI: groupe tactique d'intervention</title>
+    <desc lang="en">Les candidats entament leur troisième semaine de formation sur les armes de périmètre, qu'ils manipulent pour la première fois. Aussi, le GTI fait une opération de validation.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200607080000 -0400" stop="20200607083000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'Église de Dave-ologie</sub-title>
+    <desc lang="en">Ivy se fraye un chemin vers des accessoires d'extérieur rétro. Dave se retrouve dans une évaluation inattendue tandis que le départ d'Emily ruine la journée d'un acheteur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607083000 -0400" stop="20200607090000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'Odyssée des noix</sub-title>
+    <desc lang="en">Adelanto voit revenir les Dotsons. Dave, de son côté, essaie de faire fonctionner ses moteurs. Pendant ce temps, Darrell tombe sur une étrange collection, et Rene finit par devenir fou.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607090000 -0400" stop="20200607100000 -0400" channel="Canal D">
+    <title lang="en">Amour fatal</title>
+    <sub-title lang="en">L'affaire Yancey</sub-title>
+    <desc lang="en">Linda et Derrick Yancey vivent le parfait mariage et travaillent tous deux pour les forces de l'ordre. Derrière leur belle maison, leur pelouse impeccable et leur couple idéal se cache néanmoins une histoire sordide.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200607100000 -0400" stop="20200607103000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'encan ou la poule?</sub-title>
+    <desc lang="en">Le nombre d'unités disponibles pour la vente de Rialto est impressionnant. Ivy et Mary parient sur le prix final de certaines d'entre elles. Aussi, Rene et Tatianna mettent la main sur un lot de trésors rétro.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607103000 -0400" stop="20200607110000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">Le vent du désert</sub-title>
+    <desc lang="en">Le vent souffle sur la ville de Desert Hot Springs, et les acheteurs ont du mal à rester debout. Rene et Gunther doivent épousseter leur unité. L'achat de Brandi et Jarrod s'avère payant, et Kenny améliore sa stratégie considérablement.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607110000 -0400" stop="20200607113000 -0400" channel="Canal D">
+    <title lang="en">La guerre des transports</title>
+    <sub-title lang="en">Chasse au tigre en espace restreint</sub-title>
+    <desc lang="en">Il se peut que la plus récente mission de Jenn lui fasse perdre son amour des animaux, car elle doit transporter six énormes tigres du Bengale. Marc doit user de créativité pour livrer un chargement de statues représentant des figures mythologiques.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607113000 -0400" stop="20200607120000 -0400" channel="Canal D">
+    <title lang="en">La guerre des transports</title>
+    <sub-title lang="en">Robot disco à l'assaut d'un château</sub-title>
+    <desc lang="en">Après avoir remporté la commande pour transporter un immense robot crachant du feu dans un festival de musique, Chis devient soudainement nostalgique du temps où les chargements étaient plus faciles à gérer.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607120000 -0400" stop="20200607130000 -0400" channel="Canal D">
+    <title lang="en">Madame Lebrun</title>
+    <desc lang="en">Germaine attend toujours après sa nouvelle cuisine; Gaétan s'est chicané avec Patrice.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607130000 -0400" stop="20200607140000 -0400" channel="Canal D">
+    <title lang="en">Le choc des bolides</title>
+    <sub-title lang="en">Attention, casse-cou droit devant!</sub-title>
+    <desc lang="en">À Saint-Ferdinand, là où les bazous sautent dans les airs et se retrouvent le plus souvent le nez dans la poussière, David le mécano et Steve le 'bad boy' se livrent une lutte sans merci. Lequel des deux va remporter la victoire?(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200607140000 -0400" stop="20200607150000 -0400" channel="Canal D">
+    <title lang="en">Parker: Sa ruée vers l'or</title>
+    <desc lang="en">Parker et son équipe arrivent au terme de leur voyage épique en Papouasie-Nouvelle-Guinée. Ils poursuivent leur mission d'extraction d'or en compagnie d'un descendant du premier explorateur à s'être aventuré sur le territoire.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607150000 -0400" stop="20200607160000 -0400" channel="Canal D">
+    <title lang="en">Méchante météo</title>
+    <sub-title lang="en">Chaleur accablante</sub-title>
+    <desc lang="en">Cet épisode revient sur l'été meurtrier de 2018 où le Québec a enregistré un taux record de décès liés à la chaleur accablante.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607160000 -0400" stop="20200607170000 -0400" channel="Canal D">
+    <title lang="en">Millionnaire incognito</title>
+    <desc lang="en">Glenn a un nouveau plan audacieux pour développer l'entreprise et ainsi atteindre un million de dollars.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607170000 -0400" stop="20200607180000 -0400" channel="Canal D">
+    <title lang="en">Australia Zoo: le défi des Irwin</title>
+    <desc lang="en">Robert suit les pas de Steve en train de se disputer avec Utah, un cobra royal très venimeux de 12 pieds. Le Dr Amber visite Tandora pour s'occuper des koalas sauvages.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607180000 -0400" stop="20200607190000 -0400" channel="Canal D">
+    <title lang="en">Best of Sharks</title>
+    <desc lang="en">Retour sur les découvertes scientifiques récentes sur les requins.(n)</desc>
+    <category lang="en">Animals</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607190000 -0400" stop="20200607193000 -0400" channel="Canal D">
+    <title lang="en">GTI: groupe tactique d'intervention</title>
+    <desc lang="en">Les candidats ont fini le camp de sélection. Après trois semaines, sept des candidats sélectionnés commencent leur formation, qui reste éliminatoire.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200607193000 -0400" stop="20200607200000 -0400" channel="Canal D">
+    <title lang="en">GTI: groupe tactique d'intervention</title>
+    <desc lang="en">Les candidats entament leur troisième semaine de formation sur les armes de périmètre, qu'ils manipulent pour la première fois. Aussi, le GTI fait une opération de validation.(n)</desc>
+    <category lang="en">Docu-Series</category>
+  </programme>
+  <programme start="20200607200000 -0400" stop="20200607213000 -0400" channel="Canal D">
+    <title lang="en">Docu-D</title>
+    <sub-title lang="en">Le vrai Jacques Villeneuve</sub-title>
+    <desc lang="en">Jacques Villeneuve a une feuille de route ponctuée de succès et d'échecs. Que ce soit en course automobile ou en motoneige, il a rivalisé avec les meilleurs au monde. À 62 ans, il se prépare à vivre une saison de course mouvementée.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607213000 -0400" stop="20200607220000 -0400" channel="Canal D">
+    <title lang="en">Secrets des douanes</title>
+    <sub-title lang="en">Comme une odeur de triche</sub-title>
+    <desc lang="en">À l'aéroport de Mirabel, les douaniers reçoivent un avis de guet de la part de la police de Montréal. Un avion en provenance de la Jamaïque arrive à Mirabel ce même jour avec un jeune couple de paraplégiques à bord.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607220000 -0400" stop="20200607230000 -0400" channel="Canal D">
+    <title lang="en">Les pires erreurs d'ingénierie</title>
+    <desc lang="en">Un gratte-ciel s'enfonce au centre-ville de San Francisco. Une construction peine à contenir les marées à Venise. Un pont époustouflant pourrait provoquer une catastrophe à Bilbao. Un village entier risque de disparaître sous terre en Allemagne.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607230000 -0400" stop="20200608000000 -0400" channel="Canal D">
+    <title lang="en">Les dossiers de la NASA</title>
+    <desc lang="en">Des astronomes trouvent une planète qui pourrait abriter une forme de vie près de la Terre. Un journaliste découvre l'existence d'un programme à cap Canaveral pour envoyer des espions dans l'espace.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
 </tv>

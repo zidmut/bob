@@ -20,281 +20,11 @@
     <icon src="http://cdn.tvpassport.com/image/station/240x135/canalvie.png" />
     <url>http://www.tvpassport.com</url>
   </channel>
-  <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Addik TV">
-    <title lang="en">Les enquêtes de Murdoch</title>
-    <sub-title lang="en">Le concours de frappe</sub-title>
-    <desc lang="en">Un homme meurt électrocuté lors d'un concours de dactylographie auquel participent Crabtree et la journaliste Louise Cherry. L'enquête de Murdoch l'amène à croire que la véritable cible du tueur était en fait une toute autre personne.(n)</desc>
-    <credits>
-      <actor>Yannick Bisson</actor>
-      <actor>Jonny Harris</actor>
-      <actor>Thomas Craig</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601070000 -0400" stop="20200601080000 -0400" channel="Addik TV">
-    <title lang="en">DC: Les légendes de demain</title>
-    <sub-title lang="en">Tous les coups sont permis</sub-title>
-    <desc lang="en">Rip veut affaiblir Vandal Savage en le privant de ses actifs financiers. Il infiltre la banque de Savage avec Sara, mais ils se font démasquer. Le professeur Stein guide Ray dans une dangereuse mission.(n)</desc>
-    <credits>
-      <actor>Victor Garber</actor>
-      <actor>Brandon Routh</actor>
-      <actor>Caity Lotz</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601080000 -0400" stop="20200601090000 -0400" channel="Addik TV">
-    <title lang="en">Il était une fois</title>
-    <sub-title lang="en">La voix de la liberté</sub-title>
-    <desc lang="en">Crochet se sert de son passé complexe avec Ursula pour découvrir ce qu'elle sait sur les intentions de Gold. Gold et la Reine des ténèbres torturent August pour obtenir de l'information sur l'Auteur.(n)</desc>
-    <credits>
-      <actor>Ginnifer Goodwin</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Lana Parrilla</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601090000 -0400" stop="20200601100000 -0400" channel="Addik TV">
-    <title lang="en">Blindspot: Mémoire tatouée</title>
-    <sub-title lang="en">Les bombes humaines</sub-title>
-    <desc lang="en">L'équipe mène une course contre la montre pour empêcher un attentat terroriste. Elle est aidée par la petite amie journaliste de Reade, qui enquête justement sur un groupe de réfugiés dont se sert le terroriste pour commettre ses crimes.(n)</desc>
-    <credits>
-      <actor>Sullivan Stapleton</actor>
-      <actor>Jaimie Alexander</actor>
-      <actor>Rob Brown</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601100000 -0400" stop="20200601110000 -0400" channel="Addik TV">
-    <title lang="en">Esprits criminels</title>
-    <sub-title lang="en">Un fils pas comme les autres</sub-title>
-    <desc lang="en">Une mère fournit de précieuses informations à l'équipe du BAU. Celle-ci enquête sur un suspect appelé le Bone Crusher qui prend plaisir à briser les os de jeunes femmes. Reid s'adapte à de nouvelles conditions de vie en prison.(n)</desc>
-    <credits>
-      <actor>Joe Mantegna</actor>
-      <actor>Matthew Gray Gubler</actor>
-      <actor>Kirsten Vangsness</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200601110000 -0400" stop="20200601120000 -0400" channel="Addik TV">
-    <title lang="en">Les enquêtes de Murdoch</title>
-    <sub-title lang="en">Le concours de frappe</sub-title>
-    <desc lang="en">Un homme meurt électrocuté lors d'un concours de dactylographie auquel participent Crabtree et la journaliste Louise Cherry. L'enquête de Murdoch l'amène à croire que la véritable cible du tueur était en fait une toute autre personne.(n)</desc>
-    <credits>
-      <actor>Yannick Bisson</actor>
-      <actor>Jonny Harris</actor>
-      <actor>Thomas Craig</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601120000 -0400" stop="20200601130000 -0400" channel="Addik TV">
-    <title lang="en">Shooter: Tireur d'élite</title>
-    <sub-title lang="en">Cul-de-sac</sub-title>
-    <desc lang="en">Bob Lee et Isaac apprennent que le meilleur assassin au monde est aux États-Unis. Des retours en arrière sur une mission en Afghanistan révèlent l'identité de l'assassin: Solotov. Nadine arrive au Texas avec des soupçons sur un complot.(n)</desc>
-    <credits>
-      <actor>Ryan Phillippe</actor>
-      <actor>Omar Epps</actor>
-      <actor>Cynthia Addai-Robinson</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601130000 -0400" stop="20200601140000 -0400" channel="Addik TV">
-    <title lang="en">L'enlèvement</title>
-    <sub-title lang="en">Le prix de la vérité</sub-title>
-    <desc lang="en">Hart doit trouver un moyen de contrecarrer les plans d'un ex-journaliste exilé. Celui-ci cherche à révéler les noms d'agents du gouvernement actifs à l'étranger, ce qui pourrait causer la mort de nombreux innocents.(n)</desc>
-    <credits>
-      <actor>Clive Standen</actor>
-      <actor>Jennifer Beals</actor>
-      <actor>Brooklyn Sudano</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601140000 -0400" stop="20200601150000 -0400" channel="Addik TV">
-    <title lang="en">Esprits criminels</title>
-    <sub-title lang="en">Terreur nocturne</sub-title>
-    <desc lang="en">Le BAU soupçonne deux tueurs en série d'être actifs en même temps. Les victimes retrouvées dans la petite ville de Burlington montrent deux modes opératoires distincts. En prison, la situation de Reid devient critique.(n)</desc>
-    <credits>
-      <actor>Joe Mantegna</actor>
-      <actor>Matthew Gray Gubler</actor>
-      <actor>Kirsten Vangsness</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200601150000 -0400" stop="20200601160000 -0400" channel="Addik TV">
-    <title lang="en">Les enquêtes de Murdoch</title>
-    <sub-title lang="en">Le Livre assassin</sub-title>
-    <desc lang="en">La publication du livre de méthodologie écrit par Murdoch et la Dre Ogden est assombrie par une série de meurtres commis par un mystérieux imitateur ayant décidé de reproduire les homicides décrits dans l'ouvrage.(n)</desc>
-    <credits>
-      <actor>Yannick Bisson</actor>
-      <actor>Jonny Harris</actor>
-      <actor>Thomas Craig</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601160000 -0400" stop="20200601170000 -0400" channel="Addik TV">
-    <title lang="en">Il était une fois</title>
-    <sub-title lang="en">La voix de la liberté</sub-title>
-    <desc lang="en">Crochet se sert de son passé complexe avec Ursula pour découvrir ce qu'elle sait sur les intentions de Gold. Gold et la Reine des ténèbres torturent August pour obtenir de l'information sur l'Auteur.(n)</desc>
-    <credits>
-      <actor>Ginnifer Goodwin</actor>
-      <actor>Jennifer Morrison</actor>
-      <actor>Lana Parrilla</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601170000 -0400" stop="20200601180000 -0400" channel="Addik TV">
-    <title lang="en">DC: Les légendes de demain</title>
-    <sub-title lang="en">Tous les coups sont permis</sub-title>
-    <desc lang="en">Rip veut affaiblir Vandal Savage en le privant de ses actifs financiers. Il infiltre la banque de Savage avec Sara, mais ils se font démasquer. Le professeur Stein guide Ray dans une dangereuse mission.(n)</desc>
-    <credits>
-      <actor>Victor Garber</actor>
-      <actor>Brandon Routh</actor>
-      <actor>Caity Lotz</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601180000 -0400" stop="20200601200000 -0400" channel="Addik TV">
-    <title lang="en">Cinéma</title>
-    <sub-title lang="en">Incompatibles</sub-title>
-    <desc lang="en">Deux flics mal assortis font équipe afin de résoudre une affaire de meurtre.(n)</desc>
-    <credits>
-      <director>David Charhon</director>
-      <actor>Omar Sy</actor>
-      <actor>Laurent Lafitte</actor>
-      <actor>Sabrina Ouazani</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Action</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20200601200000 -0400" stop="20200601210000 -0400" channel="Addik TV">
-    <title lang="en">Killing Eve: la série</title>
-    <sub-title lang="en">À la vie, à la mort</sub-title>
-    <desc lang="en">La mission d'Eve est dangereusement compromise. Eve doit prendre une décision après avoir été informée par Carolyn de sa situation au sein du gouvernement britannique. Villanelle fait tout en son pouvoir pour parvenir à ses fins.(n)</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601210000 -0400" stop="20200601220000 -0400" channel="Addik TV">
-    <title lang="en">Avocats de la rue</title>
-    <sub-title lang="en">Retour au bercail</sub-title>
-    <desc lang="en">Olivia et Mina se rendent à Montréal, où elles rencontrent un visage familier. Restés à Toronto, Lilly et Adam recherchent un nouveau témoin expert. Olivia traverse une crise personnelle.(n)</desc>
-    <credits>
-      <actor>Cynthia Dale</actor>
-      <actor>Cara Ricketts</actor>
-      <actor>Steve Lund</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601220000 -0400" stop="20200601230000 -0400" channel="Addik TV">
-    <title lang="en">La pécheresse</title>
-    <sub-title lang="en">L'éteau</sub-title>
-    <desc lang="en">Julian est arrêté et envoyé derrière les barreaux en attendant son procès. En fouillant dans le passé de Marin, Heather tombe sur une révélation explosive. Avec Harry, elle va interroger le Dr Poole, qui s'est occupé des naissances à Mooswood.(n)</desc>
-    <credits>
-      <director>Antonio Campos</director>
-      <actor>Bill Pullman</actor>
-      <actor>Elisha Heing</actor>
-      <actor>Carrie Coon</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200601230000 -0400" stop="20200602000000 -0400" channel="Addik TV">
-    <title lang="en">Histoire d'horreur</title>
-    <sub-title lang="en">L'assassin est parmis nous</sub-title>
-    <desc lang="en">Ally emmène Meadow voir le Dr Rudy pour qu'elle confirme son histoire sur la secte. Kai n'apprécie pas d'avoir une opposante politique et prend les moyens qui s'imposent. Le lendemain, une fusillade éclate lors d'un rassemblement politique de Kai.(n)</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200602000000 -0400" stop="20200602010000 -0400" channel="Addik TV">
-    <title lang="en">The Walking Dead (v.f.)</title>
-    <sub-title lang="en">Le doigt sur la détente</sub-title>
-    <desc lang="en">Piégés, Rick, Hershel et Glenn doivent se battre pour survivre. Ils affrontent de nouveaux ennemis, certains morts, d'autres vivants. Shane trouve Lori en danger sur la route et se fait un devoir de la ramener en sécurité à la ferme.(n)</desc>
-    <credits>
-      <actor>Andrew Lincoln</actor>
-      <actor>Jon Bernthal</actor>
-      <actor>Sarah Wayne Callies</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200602010000 -0400" stop="20200602020000 -0400" channel="Addik TV">
-    <title lang="en">Nation Z</title>
-    <sub-title lang="en">En quête de la main rouge</sub-title>
-    <desc lang="en">Warren et ses compagnons inspectent Murphytown. Ils réalisent qu'ils auront besoin d'une plus grande armée pour en extraire Murphy.(n)</desc>
-    <credits>
-      <actor>Kellita Smith</actor>
-      <actor>D.J. Qualls</actor>
-      <actor>Keith Allan</actor>
-    </credits>
-    <category lang="en">Sci-Fi</category>
-    <rating system="US">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme start="20200602020000 -0400" stop="20200602030000 -0400" channel="Addik TV">
-    <title lang="en">Wynonna Earp</title>
-    <sub-title lang="en">Naissance et résurrection</sub-title>
-    <desc lang="en">L'équipe fait face aux attaques des veuves, de l'Ordre, de Bobo et des revenants. Elle doit à tout prix les repousser afin de permettre à Wynonna de donner naissance à son enfant.(n)</desc>
-    <credits>
-      <actor>Melanie Scrofano</actor>
-      <actor>Tim Rozon</actor>
-      <actor>Shamier Anderson</actor>
-    </credits>
-    <category lang="en">Sci-Fi</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200602030000 -0400" stop="20200602040000 -0400" channel="Addik TV">
-    <title lang="en">Les enquêtes de Murdoch</title>
-    <sub-title lang="en">Le Livre assassin</sub-title>
-    <desc lang="en">La publication du livre de méthodologie écrit par Murdoch et la Dre Ogden est assombrie par une série de meurtres commis par un mystérieux imitateur ayant décidé de reproduire les homicides décrits dans l'ouvrage.(n)</desc>
-    <credits>
-      <actor>Yannick Bisson</actor>
-      <actor>Jonny Harris</actor>
-      <actor>Thomas Craig</actor>
-    </credits>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20200602040000 -0400" stop="20200602043000 -0400" channel="Addik TV">
-    <title lang="en">Mort en service</title>
-    <sub-title lang="en">Vincent Roy: Route 139</sub-title>
-    <desc lang="en">La mort du policier Vincent Roy amène à l'adoption de la loi sur le corridor de sécurité.(n)</desc>
-    <category lang="en">Documentary</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200602043000 -0400" stop="20200602050000 -0400" channel="Addik TV">
-    <title lang="en">Mort en service</title>
-    <sub-title lang="en">François Pichette: L'appel</sub-title>
-    <desc lang="en">Le 4 octobre 1999, une série d'incidents malheureux changent le cours des choses pour l'ambulancier François Pichette.(n)</desc>
-    <category lang="en">Documentary</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200602050000 -0400" stop="20200602060000 -0400" channel="Addik TV">
-    <title lang="en">Wynonna Earp</title>
-    <sub-title lang="en">Naissance et résurrection</sub-title>
-    <desc lang="en">L'équipe fait face aux attaques des veuves, de l'Ordre, de Bobo et des revenants. Elle doit à tout prix les repousser afin de permettre à Wynonna de donner naissance à son enfant.(n)</desc>
-    <credits>
-      <actor>Melanie Scrofano</actor>
-      <actor>Tim Rozon</actor>
-      <actor>Shamier Anderson</actor>
-    </credits>
-    <category lang="en">Sci-Fi</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
+  <channel id="LCN">
+    <display-name lang="en">LCN</display-name>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/lcn.png" />
+    <url>http://www.tvpassport.com</url>
+  </channel>
   <programme start="20200602060000 -0400" stop="20200602070000 -0400" channel="Addik TV">
     <title lang="en">Les enquêtes de Murdoch</title>
     <sub-title lang="en">Le Livre assassin</sub-title>
@@ -1820,246 +1550,270 @@
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Canal D">
-    <title lang="en">Pirates Inc.</title>
-    <desc lang="en">Tony reçoit l'appel d'un propriétaire d'avion qui est dans le pétrin. Celui qui pilotait son avion s'est retrouvé en prison au Bélize.(n)</desc>
-    <category lang="en">Reality TV</category>
+  <programme start="20200608000000 -0400" stop="20200608010000 -0400" channel="Addik TV">
+    <title lang="en">Histoire d'horreur</title>
+    <sub-title lang="en">L'assassin est parmis nous</sub-title>
+    <desc lang="en">Ally emmène Meadow voir le Dr Rudy pour qu'elle confirme son histoire sur la secte. Kai n'apprécie pas d'avoir une opposante politique et prend les moyens qui s'imposent. Le lendemain, une fusillade éclate lors d'un rassemblement politique de Kai.(n)</desc>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20200601070000 -0400" stop="20200601080000 -0400" channel="Canal D">
-    <title lang="en">Sur les traces d'un tueur en série</title>
-    <sub-title lang="en">La source</sub-title>
-    <desc lang="en">Le frère d'une des victimes reçoit l'appel d'un homme qui dit avoir des informations sur le meurtre de sa soeur. L'équipe se penche sur cette source et analyse les liens qu'elle établit entre différents meurtres.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601080000 -0400" stop="20200601090000 -0400" channel="Canal D">
-    <title lang="en">Alaska: La ruée vers l'or</title>
-    <desc lang="en">Todd doit faire preuve d'humilité pour prier son équipe de revenir travailler avec lui. Une des excavatrices de Parker s'enlise dans un marécage. Tony Beets donne de nouvelles responsabilités à sa fille Monica.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601090000 -0400" stop="20200601093000 -0400" channel="Canal D">
-    <title lang="en">Douanes sous haute surveillance</title>
-    <desc lang="en">Un passager flâne dans les corridors de l'immigration après l'arrivée d'un vol de Toronto et capte l'attention des douaniers.(n)</desc>
-    <category lang="en">Documentary</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601093000 -0400" stop="20200601100000 -0400" channel="Canal D">
-    <title lang="en">Patrouille en direct: Policières</title>
-    <sub-title lang="en">Les pires appels</sub-title>
-    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200601100000 -0400" stop="20200601110000 -0400" channel="Canal D">
-    <title lang="en">Ancient Mysteries</title>
-    <sub-title lang="en">Destruction</sub-title>
-    <desc lang="en">Sodom et Gomorrhe est l'histoire de deux villes anéanties par une pluie de feu et de souffre. De nouvelles découvertes pourraient mettre au jour les secrets de l'un des plus grands mystères bibliques.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601110000 -0400" stop="20200601120000 -0400" channel="Canal D">
-    <title lang="en">Paranormal sur le vif</title>
-    <sub-title lang="en">Le monstre de Montauk et plus</sub-title>
-    <desc lang="en">Une carcasse semblable à celle du monstre de Montauk, une mystérieuse créature ayant provoqué la controverse en 2008, est observée sur une plage.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601120000 -0400" stop="20200601123000 -0400" channel="Canal D">
-    <title lang="en">La guerre des enchères</title>
-    <sub-title lang="en">La guerre au laser</sub-title>
-    <desc lang="en">Mary parvient enfin à trouver un petit objet antique à El Monte. Ivy dévoile des plaisirs familiaux vieux de plusieurs décennies, tandis que Darrell revisite un passe-temps d'enfance.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601123000 -0400" stop="20200601130000 -0400" channel="Canal D">
-    <title lang="en">La guerre des enchères</title>
-    <sub-title lang="en">Poupées et cocktails</sub-title>
-    <desc lang="en">Jarrod trouve l'unité de fête dont il a toujours rêvé. Rene découvre une nouvelle opportunité d'affaires mobile, et les chaussures d'Ivy font grande impression.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601130000 -0400" stop="20200601140000 -0400" channel="Canal D">
-    <title lang="en">Pirates Inc.</title>
-    <desc lang="en">Tony reçoit l'appel d'un propriétaire d'avion qui est dans le pétrin. Celui qui pilotait son avion s'est retrouvé en prison au Bélize.(n)</desc>
-    <category lang="en">Reality TV</category>
-  </programme>
-  <programme start="20200601140000 -0400" stop="20200601150000 -0400" channel="Canal D">
-    <title lang="en">Légendes Urbaines</title>
-    <sub-title lang="en">Arnaques</sub-title>
-    <desc lang="en">Il faut du génie pour imaginer des arnaques toujours plus astucieuses les unes que les autres.(n)</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20200608010000 -0400" stop="20200608030000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Sniper 5: L'héritage</sub-title>
+    <desc lang="en">Un sergent de l'armée américaine réalise qu'on l'a utilisé comme appât pour une capture.(n)</desc>
+    <credits>
+      <director>Don Michael Paul</director>
+      <actor>Doug Allen</actor>
+      <actor>Asen Asenov</actor>
+      <actor>Tom Berenger</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
     <rating system="US">
       <value>TV14</value>
     </rating>
   </programme>
-  <programme start="20200601150000 -0400" stop="20200601160000 -0400" channel="Canal D">
-    <title lang="en">Parker: Sa ruée vers l'or</title>
-    <desc lang="en">Installés dans le village de Kuta, Parker, Karla, Sam et Fred entreprennent leurs recherches à la mine de Mick Leahy.(n)</desc>
+  <programme start="20200608030000 -0400" stop="20200608033000 -0400" channel="Addik TV">
+    <title lang="en">Enquêteurs</title>
+    <sub-title lang="en">Le vrai du faux</sub-title>
+    <desc lang="en">L'enquêteur Alain Lacoursière devra confirmer qui est le réel propriétaire d'un tableau de la Renaissance valant 16 millions de dollars et ayant causé le malheur de bien des spéculateurs.(n)</desc>
     <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
   </programme>
-  <programme start="20200601160000 -0400" stop="20200601170000 -0400" channel="Canal D">
-    <title lang="en">Méchante météo</title>
-    <sub-title lang="en">Tornades meurtrières</sub-title>
-    <desc lang="en">Cet épisode fait revivre les terribles tornades qui ont ravagé Gatineau en 2018, les plus destructrices de l'histoire du Québec.(n)</desc>
-    <category lang="en">Documentary</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601170000 -0400" stop="20200601180000 -0400" channel="Canal D">
-    <title lang="en">Alaska: La ruée vers l'or</title>
-    <desc lang="en">Todd doit faire preuve d'humilité pour prier son équipe de revenir travailler avec lui. Une des excavatrices de Parker s'enlise dans un marécage. Tony Beets donne de nouvelles responsabilités à sa fille Monica.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601180000 -0400" stop="20200601183000 -0400" channel="Canal D">
-    <title lang="en">Douanes sous haute surveillance</title>
-    <desc lang="en">Un homme de la Nouvelle-Zélande, avec un passé douteux, est arrêté à la frontière.(n)</desc>
-    <category lang="en">Documentary</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601183000 -0400" stop="20200601190000 -0400" channel="Canal D">
-    <title lang="en">La guerre des transports</title>
-    <sub-title lang="en">Chasse au tigre en espace restreint</sub-title>
-    <desc lang="en">Il se peut que la plus récente mission de Jenn lui fasse perdre son amour des animaux, car elle doit transporter six énormes tigres du Bengale. Marc doit user de créativité pour livrer un chargement de statues représentant des figures mythologiques.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601190000 -0400" stop="20200601200000 -0400" channel="Canal D">
-    <title lang="en">Australia Zoo: le défi des Irwin</title>
-    <desc lang="en">Robert suit les pas de Steve en train de se disputer avec Utah, un cobra royal très venimeux de 12 pieds. Le Dr Amber visite Tandora pour s'occuper des koalas sauvages.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601200000 -0400" stop="20200601210000 -0400" channel="Canal D">
-    <title lang="en">Les derniers secrets d'Houdini</title>
-    <sub-title lang="en">Enterré vivant</sub-title>
-    <desc lang="en">Des experts s'intéressent au tour du cercueil et se demandent si des forces obscures pourraient être à l'origine de la tragédie.(n)</desc>
+  <programme start="20200608033000 -0400" stop="20200608040000 -0400" channel="Addik TV">
+    <title lang="en">Enquêteurs</title>
+    <sub-title lang="en">De précieuses secondes</sub-title>
+    <desc lang="en">Le négociateur Arold Bernatchez est dépêché d'urgence à Cap-Santé, où un homme armé tient plusieurs personnes en otage dans une maison, dont un enfant.(n)</desc>
     <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
   </programme>
-  <programme start="20200601210000 -0400" stop="20200601220000 -0400" channel="Canal D">
-    <title lang="en">Les pires erreurs d'ingénierie</title>
-    <desc lang="en">Un gratte-ciel s'enfonce au centre-ville de San Francisco. Une construction peine à contenir les marées à Venise. Un pont époustouflant pourrait provoquer une catastrophe à Bilbao. Un village entier risque de disparaître sous terre en Allemagne.(n)</desc>
-    <category lang="en">Documentary</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
+  <programme start="20200608040000 -0400" stop="20200608050000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Un fin limier</sub-title>
+    <desc lang="en">Murdoch enquête sur la mort d'un chien de concours. Il se découvre alors des sentiments inconnus pour les compagnons canins.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
+    <category lang="en">Drama</category>
   </programme>
-  <programme start="20200601220000 -0400" stop="20200601230000 -0400" channel="Canal D">
-    <title lang="en">Les dossiers de la NASA</title>
-    <desc lang="en">Des astronomes trouvent une planète qui pourrait abriter une forme de vie près de la Terre. Un journaliste découvre l'existence d'un programme à cap Canaveral pour envoyer des espions dans l'espace.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601230000 -0400" stop="20200602000000 -0400" channel="Canal D">
-    <title lang="en">Parker: Sa ruée vers l'or</title>
-    <desc lang="en">Installés dans le village de Kuta, Parker, Karla, Sam et Fred entreprennent leurs recherches à la mine de Mick Leahy.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602000000 -0400" stop="20200602003000 -0400" channel="Canal D">
-    <title lang="en">La guerre des enchères</title>
-    <sub-title lang="en">La guerre au laser</sub-title>
-    <desc lang="en">Mary parvient enfin à trouver un petit objet antique à El Monte. Ivy dévoile des plaisirs familiaux vieux de plusieurs décennies, tandis que Darrell revisite un passe-temps d'enfance.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602003000 -0400" stop="20200602010000 -0400" channel="Canal D">
-    <title lang="en">La guerre des enchères</title>
-    <sub-title lang="en">Poupées et cocktails</sub-title>
-    <desc lang="en">Jarrod trouve l'unité de fête dont il a toujours rêvé. Rene découvre une nouvelle opportunité d'affaires mobile, et les chaussures d'Ivy font grande impression.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602010000 -0400" stop="20200602020000 -0400" channel="Canal D">
-    <title lang="en">Alaska: La ruée vers l'or</title>
-    <desc lang="en">Todd doit faire preuve d'humilité pour prier son équipe de revenir travailler avec lui. Une des excavatrices de Parker s'enlise dans un marécage. Tony Beets donne de nouvelles responsabilités à sa fille Monica.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602020000 -0400" stop="20200602023000 -0400" channel="Canal D">
-    <title lang="en">Douanes sous haute surveillance</title>
-    <desc lang="en">Un homme de la Nouvelle-Zélande, avec un passé douteux, est arrêté à la frontière.(n)</desc>
-    <category lang="en">Documentary</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602023000 -0400" stop="20200602030000 -0400" channel="Canal D">
-    <title lang="en">La pêche maudite</title>
-    <sub-title lang="en">Les risques du métier</sub-title>
-    <desc lang="en">Le capitaine Jean-Pierre Plourde subit plusieurs mélanges de filets et évite une collision avec le Vieux. Le capitaine Steven Hughes pense avoir dépassé son quota quotidien. Il risque de recevoir une amende salée.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602030000 -0400" stop="20200602040000 -0400" channel="Canal D">
-    <title lang="en">Air Jaws: le retour</title>
-    <desc lang="en">Les 'requins sauteurs' ont disparu de l'Afrique du Sud. Jeff et Chris se rendent donc en Nouvelle-Zélande à leur recherche.(n)</desc>
-    <category lang="en">Animals</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602040000 -0400" stop="20200602053000 -0400" channel="Canal D">
-    <title lang="en">Billions (v.f.)</title>
-    <sub-title lang="en">Mise en train</sub-title>
-    <desc lang="en">Axe pose un geste audacieux. Taylor est irrité par les récentes décisions d'Axe. Chuck recrute de nouveaux alliés pour mettre en forme son plan d'attaque. Une nouvelle opportunité professionnelle se présente à Connerty.(n)</desc>
+  <programme start="20200608050000 -0400" stop="20200608060000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Retrouvailles inespérées</sub-title>
+    <desc lang="en">Un homme se présente et affirme être un garçon ayant été enlevé 20 ans plus tôt. Murdoch mène l'enquête pour confirmer son identité, car celui-ci serait aujourd'hui un riche héritier.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Jonny Harris</actor>
+      <actor>Thomas Craig</actor>
+    </credits>
     <category lang="en">Drama</category>
     <rating system="US">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20200602053000 -0400" stop="20200602060000 -0400" channel="Canal D">
-    <title lang="en">Fous de bateaux</title>
-    <sub-title lang="en">Des vacances à l'eau</sub-title>
-    <desc lang="en">L'expression 'des vacances à l'eau' prend tout son sens lors de la saison de navigation de plaisance. Si certains préfèrent un été semblable à un long fleuve tranquille, d'autres remplissent leur horaire de partys aux écluses de Sainte-Anne-de-Bellevue.(n)</desc>
-    <category lang="en">Docu-Series</category>
+  <programme start="20200608060000 -0400" stop="20200608070000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Les dessous de la petite reine</sub-title>
+    <desc lang="en">Pendant une course de vélo, un des coureurs meurt. Pour Murdoch, tout porte à croire qu'il a été tué en ingérant une mystérieuse boisson énergisante.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Hélène Joy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608070000 -0400" stop="20200608080000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">Apparence trompeuse</sub-title>
+    <desc lang="en">Les légendes retrouvent Savage dans une petite ville de l'Oregon des années 1950 où une série de meurtres a eu lieu. Le professeur Stein et Sara infiltrent l'hôpital psychiatrique où Savage travaille comme docteur afin de découvrir ses intentions.(n)</desc>
+    <credits>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608080000 -0400" stop="20200608090000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">Des héros et des méchants</sub-title>
+    <desc lang="en">Emma retourne à Storybrooke pour réunir Lily avec Maléfique. Regina et Robin continuent à faire face aux implications qu'entraîne la grossesse de Zelena. L'état de santé de Gold se détériore, et Isaac se cherche un nouvel allié.(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608090000 -0400" stop="20200608100000 -0400" channel="Addik TV">
+    <title lang="en">Blindspot: Mémoire tatouée</title>
+    <sub-title lang="en">La mise à l'épreuve</sub-title>
+    <desc lang="en">L'équipe se demande si elle doit faire confiance à un détenu. Ce dernier l'avertit qu'une attaque aura lieu sur New York. Zapata est prise entre le FBI et la CIA. Roman et Crawford sont en désaccord sur la façon de gérer une situation explosive.(n)</desc>
+    <credits>
+      <actor>Sullivan Stapleton</actor>
+      <actor>Jaimie Alexander</actor>
+      <actor>Rob Brown</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608100000 -0400" stop="20200608110000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Enfin libre</sub-title>
+    <desc lang="en">Reid craint que sa mère ait été enlevée. Il demande au BAU de mener l'enquête pendant qu'il est détenu en prison.(n)</desc>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200608110000 -0400" stop="20200608120000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Les dessous de la petite reine</sub-title>
+    <desc lang="en">Pendant une course de vélo, un des coureurs meurt. Pour Murdoch, tout porte à croire qu'il a été tué en ingérant une mystérieuse boisson énergisante.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Hélène Joy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608120000 -0400" stop="20200608130000 -0400" channel="Addik TV">
+    <title lang="en">Shooter: Tireur d'élite</title>
+    <sub-title lang="en">Chemin de traverse</sub-title>
+    <desc lang="en">Bob Lee Swagger est enlevé par Solotov, le plus grand assassin du monde. Une information surprenante concernant le père de Bob Lee fait surface.(n)</desc>
+    <credits>
+      <actor>Ryan Phillippe</actor>
+      <actor>Omar Epps</actor>
+      <actor>Cynthia Addai-Robinson</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608130000 -0400" stop="20200608140000 -0400" channel="Addik TV">
+    <title lang="en">L'enlèvement</title>
+    <sub-title lang="en">Seconde chance</sub-title>
+    <desc lang="en">Bryan doit protéger son cousin, qui est devenu la cible d'une organisation criminelle. Quelqu'un se met à faire chanter Kilroy.(n)</desc>
+    <credits>
+      <actor>Clive Standen</actor>
+      <actor>Jennifer Beals</actor>
+      <actor>Brooklyn Sudano</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608140000 -0400" stop="20200608150000 -0400" channel="Addik TV">
+    <title lang="en">Esprits criminels</title>
+    <sub-title lang="en">Jeu de dupes</sub-title>
+    <desc lang="en">Coincé dans une situation impossible, Reid doit faire face à un vieil ennemi. Derek Morgan apporte à l'équipe un indice qui pourrait mener à l'arrestation de M. Griffe, le tueur en série qui s'est évadé et qui tourmente l'équipe depuis.Guests: Shemar Moore..(n)</desc>
+    <credits>
+      <director>Glenn Kershaw</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Kirsten Vangsness</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200608150000 -0400" stop="20200608160000 -0400" channel="Addik TV">
+    <title lang="en">Les enquêtes de Murdoch</title>
+    <sub-title lang="en">Les aventures cinématographiques de l'inspecteur M</sub-title>
+    <desc lang="en">Aux côtés de l'inventeur James Pendrick, Murdoch est plongé dans le monde de la réalisation de films, et soupçonne Thomas Edison.(n)</desc>
+    <credits>
+      <actor>Yannick Bisson</actor>
+      <actor>Thomas Craig</actor>
+      <actor>Hélène Joy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608160000 -0400" stop="20200608170000 -0400" channel="Addik TV">
+    <title lang="en">Il était une fois</title>
+    <sub-title lang="en">Des héros et des méchants</sub-title>
+    <desc lang="en">Emma retourne à Storybrooke pour réunir Lily avec Maléfique. Regina et Robin continuent à faire face aux implications qu'entraîne la grossesse de Zelena. L'état de santé de Gold se détériore, et Isaac se cherche un nouvel allié.(n)</desc>
+    <credits>
+      <actor>Ginnifer Goodwin</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>Lana Parrilla</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608170000 -0400" stop="20200608180000 -0400" channel="Addik TV">
+    <title lang="en">DC: Les légendes de demain</title>
+    <sub-title lang="en">Apparence trompeuse</sub-title>
+    <desc lang="en">Les légendes retrouvent Savage dans une petite ville de l'Oregon des années 1950 où une série de meurtres a eu lieu. Le professeur Stein et Sara infiltrent l'hôpital psychiatrique où Savage travaille comme docteur afin de découvrir ses intentions.(n)</desc>
+    <credits>
+      <actor>Victor Garber</actor>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608180000 -0400" stop="20200608200000 -0400" channel="Addik TV">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">La doublure du diable</sub-title>
+    <desc lang="en">La vie d'Uday Hussein à travers les yeux d'un soldat forcé à devenir sa doublure.(n)</desc>
+    <credits>
+      <director>Lee Tamahori</director>
+      <actor>Dominic Cooper</actor>
+      <actor>Ludivine Sagnier</actor>
+      <actor>Raad Rawi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Biography</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+    <star-rating system="US">
+      <value>2</value>
+    </star-rating>
+  </programme>
+  <programme start="20200608200000 -0400" stop="20200608210000 -0400" channel="Addik TV">
+    <title lang="en">Flash</title>
+    <sub-title lang="en">L'héritage de Flash</sub-title>
+    <desc lang="en">Après avoir vaincu Clifford DeVoe, Barry et son équipe découvrent l'existence de Nora. Il s'agit de la fille de Barry et Iris venue du futur! Son arrivée a toutefois perturbé la ligne du temps et fait apparaître un redoutable tueur de méta-humains.(n)</desc>
+    <credits>
+      <actor>Grant Gustin</actor>
+      <actor>Jesse L. Martin</actor>
+      <actor>Tom Cavanaugh</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200608210000 -0400" stop="20200608220000 -0400" channel="Addik TV">
+    <title lang="en">Avocats de la rue</title>
+    <sub-title lang="en">Fissures</sub-title>
+    <desc lang="en">Un juge décède subitement. Leon choisit ce moment trouble pour débarquer. L'affaire du recours collectif passe à l'étape du procès.(n)</desc>
+    <credits>
+      <actor>Cynthia Dale</actor>
+      <actor>Cara Ricketts</actor>
+      <actor>Steve Lund</actor>
+    </credits>
+    <category lang="en">Drama</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
+  </programme>
+  <programme start="20200608220000 -0400" stop="20200608230000 -0400" channel="Addik TV">
+    <title lang="en">La pécheresse</title>
+    <sub-title lang="en">Rite de sang</sub-title>
+    <desc lang="en">Heather et Harry vont questionner une femme, placée en institution. Elle est le seul lien qu'ils ont entre le Dr Poole et Mooswood. Jack, le père d'Heather, se souvient d'un tatouage de labyrinthe sur Marin. Harry accepte une invitation de Vera.(n)</desc>
+    <credits>
+      <director>Antonio Campos</director>
+      <actor>Bill Pullman</actor>
+      <actor>Elisha Heing</actor>
+      <actor>Carrie Coon</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608230000 -0400" stop="20200609000000 -0400" channel="Addik TV">
+    <title lang="en">Histoire d'horreur</title>
+    <sub-title lang="en">Andy Warhol contre le SCUM</sub-title>
+    <desc lang="en">Kai remporte ses élections et s'emploie à consolider son pouvoir. Ally est internée dans un hôpital psychiatrique. Une femme mystérieuse raconte à Beverly, Winter et Ivy l'histoire de Valerie Solanas, en plus de les mettre en garde contre Kai.(n)</desc>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20200602060000 -0400" stop="20200602070000 -0400" channel="Canal D">
     <title lang="en">Pirates Inc.</title>
@@ -3490,273 +3244,238 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Z Tele">
-    <title lang="en">Diesel Brothers (v.f.)</title>
-    <desc lang="en">L'équipe travaille contre la montre pour bâtir une réplique d'un Ford Bronco à partir d'un F350 et d'un Ford Excursion. Heavy D ajoute sa touche spéciale et permet à la construction de défier les lois de la physique.(n)</desc>
-    <category lang="en">Reality TV</category>
-  </programme>
-  <programme start="20200601070000 -0400" stop="20200601073000 -0400" channel="Z Tele">
-    <title lang="en">Remorquage à South Beach</title>
-    <sub-title lang="en">Les mensonges de Wanda</sub-title>
-    <desc lang="en">Bernice donne une leçon de remorquage au petit nouveau chez Tremont, Davy. L'étrange voiture neuve de Kosgrove attire un peu trop l'attention. Eddie est de retour et il réalise que les temps sont durs chez Tremont. Jerome se méfie de Wanda.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200601073000 -0400" stop="20200601080000 -0400" channel="Z Tele">
-    <title lang="en">Comédie sur mesure</title>
-    <sub-title lang="en">Les Grandes Crues</sub-title>
-    <desc lang="en">Les Grandes Crues débarquent à St-Joseph-de-Coleraine pour y présenter un numéro d'humour écrit sur mesure. Pour s'inspirer, Ève Côté et Marie-Lyne Joncas rencontrent des gens du coin et participent à diverses activités.Guests: Les Grandes Crues..(n)</desc>
-    <category lang="en">Comedy</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601080000 -0400" stop="20200601090000 -0400" channel="Z Tele">
-    <title lang="en">The Amazing Race Canada (v.f.)</title>
-    <sub-title lang="en">Jouer au chat et à la souris</sub-title>
-    <desc lang="en">La course se poursuit à travers Shanghai, en Chine, et puis à Bangkok, en Thaïlande, où lors d'un détour, des participants luttent pour s'en sortir.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601090000 -0400" stop="20200601100000 -0400" channel="Z Tele">
-    <title lang="en">Les stupéfiants</title>
-    <sub-title lang="en">L'homme contre l'automobile/ L'évasion électrisante</sub-title>
-    <desc lang="en">Les Stupéfiants s'intéressent aux accidents de voiture. Ils vérifient si un piéton peut éviter un impact grâce à un saut et s'il est possible de se sortir d'une voiture emmêlée dans des fils électriques.(n)</desc>
-    <category lang="en">Science</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601100000 -0400" stop="20200601110000 -0400" channel="Z Tele">
-    <title lang="en">Expédition extrême</title>
-    <sub-title lang="en">Mario Jean</sub-title>
-    <desc lang="en">Mario Jean se hasarde dans une situation critique de survie avec Francis Bouillon et le coach de survie Frédéric Dion.Guests: Mario Jean..(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601110000 -0400" stop="20200601120000 -0400" channel="Z Tele">
-    <title lang="en">Le tour du monde de l'incroyable</title>
-    <sub-title lang="en">Le clou du spectacle</sub-title>
-    <desc lang="en">Les Maîtres de la foudre canalisent l'électricité; le Maître des dominos Lily Hevish remercie ses adeptes; Michael Gump est un homme aux multiples visages et April Choi maîtrise l'art du fouet.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601120000 -0400" stop="20200601123000 -0400" channel="Z Tele">
-    <title lang="en">Routiers déchaînés</title>
-    <sub-title lang="en">Carnage de mi-saison</sub-title>
-    <desc lang="en">À la moitié de la saison, l'équipe Lucky 13 se trouve au bas du palmarès. Ashley, de son côté, est à une place du podium. Ronnie Singer, le meneur au classement, a un accident et cause le chaos sur la piste.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601123000 -0400" stop="20200601130000 -0400" channel="Z Tele">
-    <title lang="en">Comédie sur mesure</title>
-    <sub-title lang="en">Les Grandes Crues</sub-title>
-    <desc lang="en">Les Grandes Crues débarquent à St-Joseph-de-Coleraine pour y présenter un numéro d'humour écrit sur mesure. Pour s'inspirer, Ève Côté et Marie-Lyne Joncas rencontrent des gens du coin et participent à diverses activités.Guests: Les Grandes Crues..(n)</desc>
-    <category lang="en">Comedy</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601130000 -0400" stop="20200601140000 -0400" channel="Z Tele">
-    <title lang="en">Diesel Brothers (v.f.)</title>
-    <desc lang="en">L'équipe travaille contre la montre pour bâtir une réplique d'un Ford Bronco à partir d'un F350 et d'un Ford Excursion. Heavy D ajoute sa touche spéciale et permet à la construction de défier les lois de la physique.(n)</desc>
-    <category lang="en">Reality TV</category>
-  </programme>
-  <programme start="20200601140000 -0400" stop="20200601150000 -0400" channel="Z Tele">
-    <title lang="en">Seuls et tout nus XL</title>
-    <desc lang="en">Après le départ de Russel, les survivalistes restants se regroupent pour amorcer une expédition de deux jours. Ils risquent de rencontrer des anguilles électriques, des anacondas et des caïmans. Dernier épisode de la saison.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme start="20200601150000 -0400" stop="20200601160000 -0400" channel="Z Tele">
-    <title lang="en">Les Brown: génération Alaska</title>
-    <sub-title lang="en">Retour dans la nature</sub-title>
-    <desc lang="en">Les Brown sont plus déterminés que jamais à atteindre leur nouvelle terre. Après avoir échappé au désastre sur les flots, la famille demande l'aide d'un vieil ami.(n)</desc>
-    <category lang="en">Reality TV</category>
-  </programme>
-  <programme start="20200601160000 -0400" stop="20200601170000 -0400" channel="Z Tele">
-    <title lang="en">Les stupéfiants</title>
-    <sub-title lang="en">L'homme contre l'automobile/ L'évasion électrisante</sub-title>
-    <desc lang="en">Les Stupéfiants s'intéressent aux accidents de voiture. Ils vérifient si un piéton peut éviter un impact grâce à un saut et s'il est possible de se sortir d'une voiture emmêlée dans des fils électriques.(n)</desc>
-    <category lang="en">Science</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601170000 -0400" stop="20200601180000 -0400" channel="Z Tele">
-    <title lang="en">The Amazing Race Canada (v.f.)</title>
-    <sub-title lang="en">Jouer au chat et à la souris</sub-title>
-    <desc lang="en">La course se poursuit à travers Shanghai, en Chine, et puis à Bangkok, en Thaïlande, où lors d'un détour, des participants luttent pour s'en sortir.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601180000 -0400" stop="20200601190000 -0400" channel="Z Tele">
-    <title lang="en">Expédition extrême</title>
-    <sub-title lang="en">Mario Jean</sub-title>
-    <desc lang="en">Mario Jean se hasarde dans une situation critique de survie avec Francis Bouillon et le coach de survie Frédéric Dion.Guests: Mario Jean..(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601190000 -0400" stop="20200601193000 -0400" channel="Z Tele">
-    <title lang="en">Le Roy des toilettes</title>
-    <sub-title lang="en">Le Tour</sub-title>
-    <desc lang="en">Premier gros test de la saison pour l'équipe, le Tour de l'Île de Montréal.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601193000 -0400" stop="20200601200000 -0400" channel="Z Tele">
-    <title lang="en">Routiers déchaînés</title>
-    <sub-title lang="en">Citrouille bredouille</sub-title>
-    <desc lang="en">Pour beaucoup de conducteurs, la ville de Barraute, au Québec, marque la fin de la saison de course. Jug Boulanger tente de mettre la main sur au moins un trophée cette année.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601200000 -0400" stop="20200601210000 -0400" channel="Z Tele">
-    <title lang="en">Top Gear</title>
-    <sub-title lang="en">Cuba libre</sub-title>
-    <desc lang="en">Chris et Rory se rendent à Cuba avec une Maserati Biturbo et une Chevrolet Camaro. Ils traversent le pays de la baie des Cochons jusqu'à La Havane et en profitent pour faire quelques courses contre des locaux.(n)</desc>
-    <category lang="en">Automotive</category>
-  </programme>
-  <programme start="20200601210000 -0400" stop="20200601213000 -0400" channel="Z Tele">
-    <title lang="en">Au volant d'une belle cubaine</title>
-    <sub-title lang="en">Une décapotable fait maison</sub-title>
-    <desc lang="en">Partant à la recherche des décapotables les plus originales de l'île, José et Gildor suivent les traces d'une Ford Edsel dont le toit rigide a été modifié pour se glisser à l'intérieur de la valise arrière.(n)</desc>
-    <category lang="en">Automotive</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601213000 -0400" stop="20200601220000 -0400" channel="Z Tele">
-    <title lang="en">Les génies de la vitesse</title>
-    <sub-title lang="en">Dodge Charger vs Porsche</sub-title>
-    <desc lang="en">Danny Pruneau adore les voitures américaines. Ce carrossier de 24 ans, fondateur du regroupement d'amateurs de voitures modifiées 'Ride Union', amène sur la piste une Dodge Charger SRT8 capable de développer 400 chevaux-vapeur aux roues.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601220000 -0400" stop="20200601230000 -0400" channel="Z Tele">
-    <title lang="en">The Gifted (v.f.)</title>
-    <sub-title lang="en">Malheureux présages</sub-title>
-    <desc lang="en">Reeva se prépare à mettre en marche son plan pour le Cercle, mais tous ne sont pas d'accord avec celui-ci.(n)</desc>
-    <credits>
-      <actor>Grace Byers</actor>
-      <actor>Amy Acker</actor>
-      <actor>Percy Hynes</actor>
-    </credits>
-    <category lang="en">Sci-Fi</category>
-  </programme>
-  <programme start="20200601230000 -0400" stop="20200602000000 -0400" channel="Z Tele">
-    <title lang="en">Grimm</title>
-    <sub-title lang="en">Monde parallèle</sub-title>
-    <desc lang="en">Eve décide d'affronter la force sombre croisée dans un miroir et elle se retrouve en territoire inconnu. Nick tente de la rejoindre.(n)</desc>
+  <programme start="20200608000000 -0400" stop="20200608013000 -0400" channel="Canal D">
+    <title lang="en">Billions (v.f.)</title>
+    <sub-title lang="en">Le rachat</sub-title>
+    <desc lang="en">Chuck et Wendy reçoivent un invité inattendu alors que Axe rencontre un investisseur potentiel excentrique. Pendant ce temps, Chuck entame une enquête risquée. Aussi, Axe et Lara concluent une nouvelle entente.(n)</desc>
     <category lang="en">Drama</category>
     <rating system="US">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20200602000000 -0400" stop="20200602003000 -0400" channel="Z Tele">
-    <title lang="en">South Park</title>
-    <sub-title lang="en">Le Retour de la communauté de l'anneau des deux tours</sub-title>
-    <desc lang="en">Les gars partent en mission: retourner le film 'Le Seigneur des anneaux' au club vidéo.(n)</desc>
-    <credits>
-      <actor>Trey Parker</actor>
-      <actor>Matt Stone</actor>
-    </credits>
-    <category lang="en">Animated</category>
+  <programme start="20200608013000 -0400" stop="20200608020000 -0400" channel="Canal D">
+    <title lang="en">Patrouille en direct: Policières</title>
+    <sub-title lang="en">Facultés affaiblies</sub-title>
+    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
+    <category lang="en">Docu-Series</category>
     <rating system="US">
-      <value>TVMA</value>
+      <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20200602003000 -0400" stop="20200602010000 -0400" channel="Z Tele">
-    <title lang="en">Les génies de la vitesse</title>
-    <sub-title lang="en">Dodge Charger vs Porsche</sub-title>
-    <desc lang="en">Danny Pruneau adore les voitures américaines. Ce carrossier de 24 ans, fondateur du regroupement d'amateurs de voitures modifiées 'Ride Union', amène sur la piste une Dodge Charger SRT8 capable de développer 400 chevaux-vapeur aux roues.(n)</desc>
+  <programme start="20200608020000 -0400" stop="20200608023000 -0400" channel="Canal D">
+    <title lang="en">Patrouille en direct: Policières</title>
+    <sub-title lang="en">Le chant libre</sub-title>
+    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200608023000 -0400" stop="20200608030000 -0400" channel="Canal D">
+    <title lang="en">Patrouille en direct: Policières</title>
+    <sub-title lang="en">Que de querelles!</sub-title>
+    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200608030000 -0400" stop="20200608040000 -0400" channel="Canal D">
+    <title lang="en">Asphalt Cowboys (v.f.)</title>
+    <sub-title lang="en">Le soleil de janvier</sub-title>
+    <desc lang="en">Andreas se rend dans le sud de l'Italie. Le camionneur a enfin décidé de reprendre le contrôle de son poids et suit un régime. Le périple de Monika jusqu'en Autriche est rempli d'obstacles.(n)</desc>
     <category lang="en">Docu-Series</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200602010000 -0400" stop="20200602013000 -0400" channel="Z Tele">
-    <title lang="en">Direct dans l'net</title>
-    <desc lang="en">Le trio présente des casse-cous sur roulettes et une maquilleuse qui fait compétition à Pinocchio.(n)</desc>
-    <category lang="en">Comedy</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602013000 -0400" stop="20200602020000 -0400" channel="Z Tele">
-    <title lang="en">Comédie sur mesure</title>
-    <sub-title lang="en">Les Grandes Crues</sub-title>
-    <desc lang="en">Les Grandes Crues débarquent à St-Joseph-de-Coleraine pour y présenter un numéro d'humour écrit sur mesure. Pour s'inspirer, Ève Côté et Marie-Lyne Joncas rencontrent des gens du coin et participent à diverses activités.Guests: Les Grandes Crues..(n)</desc>
-    <category lang="en">Comedy</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602020000 -0400" stop="20200602023000 -0400" channel="Z Tele">
-    <title lang="en">Remorquage à South Beach</title>
-    <sub-title lang="en">Les mensonges de Wanda</sub-title>
-    <desc lang="en">Bernice donne une leçon de remorquage au petit nouveau chez Tremont, Davy. L'étrange voiture neuve de Kosgrove attire un peu trop l'attention. Eddie est de retour et il réalise que les temps sont durs chez Tremont. Jerome se méfie de Wanda.(n)</desc>
-    <category lang="en">Reality TV</category>
+  <programme start="20200608040000 -0400" stop="20200608050000 -0400" channel="Canal D">
+    <title lang="en">Le choc des bolides</title>
+    <sub-title lang="en">Attention, casse-cou droit devant!</sub-title>
+    <desc lang="en">À Saint-Ferdinand, là où les bazous sautent dans les airs et se retrouvent le plus souvent le nez dans la poussière, David le mécano et Steve le 'bad boy' se livrent une lutte sans merci. Lequel des deux va remporter la victoire?(n)</desc>
+    <category lang="en">Docu-Series</category>
     <rating system="US">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20200602023000 -0400" stop="20200602030000 -0400" channel="Z Tele">
-    <title lang="en">Coups de cochon</title>
-    <sub-title lang="en">Martin Vachon piège Frank Grenier</sub-title>
-    <desc lang="en">Matthieu et Michelle remplacent la massothérapeute de Guillaume. Guillaume et Martin Vachon font vivre un spectacle d'humour humiliant à l'humoriste Frank Grenier.Guests: Martin Vachon, Frank Grenier..(n)</desc>
-    <category lang="en">Comedy</category>
+  <programme start="20200608050000 -0400" stop="20200608060000 -0400" channel="Canal D">
+    <title lang="en">Nikola Tesla: le mystère du rayon de la mort</title>
+    <desc lang="en">L'enquête sur la mort suspecte de Tesla continue, tout comme la recherche de documents manquants.(n)</desc>
+    <category lang="en">Documentary</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200602030000 -0400" stop="20200602040000 -0400" channel="Z Tele">
-    <title lang="en">The Amazing Race Canada (v.f.)</title>
-    <sub-title lang="en">Jouer au chat et à la souris</sub-title>
-    <desc lang="en">La course se poursuit à travers Shanghai, en Chine, et puis à Bangkok, en Thaïlande, où lors d'un détour, des participants luttent pour s'en sortir.(n)</desc>
+  <programme start="20200608060000 -0400" stop="20200608070000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">Tony et son équipe se rendent à Daytona pour commanditer une voiture qui doit prendre part à une course. Aussi, ils tentent d'acheter un Hummer H1 à un groupe de fermiers locaux.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200608070000 -0400" stop="20200608080000 -0400" channel="Canal D">
+    <title lang="en">Sur les traces d'un tueur en série</title>
+    <sub-title lang="en">Les aveux</sub-title>
+    <desc lang="en">L'équipe analyse les similitudes entre les cas de Katherine Hawkes et de Diane Gaudreault, assassinées en 1977 et en 1979 à Montréal. En plus d'avoir été commis dans des circonstances similaires, un élément clé unit ces deux homicides : un appel anonyme.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608080000 -0400" stop="20200608090000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Pour se rendre jusqu'à son or, Todd est contraint d'utiliser de la dynamite afin de faire exploser d'énormes roches. Parker doit réussir à extraire son or malgré une inondation. Tony navigue avec son immense barge sur la glaciale rivière Yukon.(n)</desc>
     <category lang="en">Reality TV</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200602040000 -0400" stop="20200602050000 -0400" channel="Z Tele">
-    <title lang="en">Grimm</title>
-    <sub-title lang="en">Le destructeur arrive..</sub-title>
-    <desc lang="en">La prophétie dévoilée est sur le point de se réaliser quand une force obscure arrive à Portland, le regard tourné vers Diana.(n)</desc>
-    <category lang="en">Drama</category>
+  <programme start="20200608090000 -0400" stop="20200608093000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Un homme de la Nouvelle-Zélande, avec un passé douteux, est arrêté à la frontière.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608093000 -0400" stop="20200608100000 -0400" channel="Canal D">
+    <title lang="en">Patrouille en direct: Policières</title>
+    <sub-title lang="en">Facultés affaiblies</sub-title>
+    <desc lang="en">Donne un accès inédit à de véritables interventions policières menées par des femmes.(n)</desc>
+    <category lang="en">Docu-Series</category>
     <rating system="US">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme start="20200602050000 -0400" stop="20200602060000 -0400" channel="Z Tele">
-    <title lang="en">Seuls et tout nus</title>
-    <sub-title lang="en">Le danger rôde tout près (Floride)</sub-title>
-    <desc lang="en">Une mère monoparentale qui déteste les araignées et un homme qui a des tarentules comme animaux de compagnie sont abandonnés dans une forêt du comté de Seminole en Floride.(n)</desc>
+  <programme start="20200608100000 -0400" stop="20200608110000 -0400" channel="Canal D">
+    <title lang="en">Ancient Mysteries</title>
+    <sub-title lang="en">L'étoile de Bethléem</sub-title>
+    <desc lang="en">Cet épisode examine près de 20 siècles de théories afin de découvrir la vérité derrière l'étoile qui aurait guidé les Mages vers l'enfant Jésus. Des études récentes suggèrent que la fameuse étoile était en fait la planète Jupiter.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608110000 -0400" stop="20200608120000 -0400" channel="Canal D">
+    <title lang="en">Paranormal sur le vif</title>
+    <sub-title lang="en">Les fantômes de Gettysburg et plus encore</sub-title>
+    <desc lang="en">Un fantôme est observé sur le lieu de la bataille de Gettysburg.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608120000 -0400" stop="20200608123000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'Église de Dave-ologie</sub-title>
+    <desc lang="en">Ivy se fraye un chemin vers des accessoires d'extérieur rétro. Dave se retrouve dans une évaluation inattendue tandis que le départ d'Emily ruine la journée d'un acheteur.(n)</desc>
     <category lang="en">Reality TV</category>
     <rating system="US">
-      <value>TVPG</value>
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608123000 -0400" stop="20200608130000 -0400" channel="Canal D">
+    <title lang="en">La guerre des enchères</title>
+    <sub-title lang="en">L'Odyssée des noix</sub-title>
+    <desc lang="en">Adelanto voit revenir les Dotsons. Dave, de son côté, essaie de faire fonctionner ses moteurs. Pendant ce temps, Darrell tombe sur une étrange collection, et Rene finit par devenir fou.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608130000 -0400" stop="20200608140000 -0400" channel="Canal D">
+    <title lang="en">Pirates Inc.</title>
+    <desc lang="en">Tony et son équipe se rendent à Daytona pour commanditer une voiture qui doit prendre part à une course. Aussi, ils tentent d'acheter un Hummer H1 à un groupe de fermiers locaux.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200608140000 -0400" stop="20200608150000 -0400" channel="Canal D">
+    <title lang="en">Légendes Urbaines</title>
+    <sub-title lang="en">En pays étranger</sub-title>
+    <desc lang="en">Le pays étranger, c'est le lieu de toutes nos angoisses, comme être attaqué dans sa chambre d'hôtel, être piégé par des terroristes, perdre son enfant à l'aéroport ou être pourchassé par un tueur en série sur une route déserte.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme start="20200608150000 -0400" stop="20200608160000 -0400" channel="Canal D">
+    <title lang="en">Parker: Sa ruée vers l'or</title>
+    <desc lang="en">Parker et son équipe arrivent au terme de leur voyage épique en Papouasie-Nouvelle-Guinée. Ils poursuivent leur mission d'extraction d'or en compagnie d'un descendant du premier explorateur à s'être aventuré sur le territoire.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608160000 -0400" stop="20200608170000 -0400" channel="Canal D">
+    <title lang="en">Méchante météo</title>
+    <sub-title lang="en">Chaleur accablante</sub-title>
+    <desc lang="en">Cet épisode revient sur l'été meurtrier de 2018 où le Québec a enregistré un taux record de décès liés à la chaleur accablante.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608170000 -0400" stop="20200608180000 -0400" channel="Canal D">
+    <title lang="en">Alaska: La ruée vers l'or</title>
+    <desc lang="en">Pour se rendre jusqu'à son or, Todd est contraint d'utiliser de la dynamite afin de faire exploser d'énormes roches. Parker doit réussir à extraire son or malgré une inondation. Tony navigue avec son immense barge sur la glaciale rivière Yukon.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608180000 -0400" stop="20200608183000 -0400" channel="Canal D">
+    <title lang="en">Douanes sous haute surveillance</title>
+    <desc lang="en">Les agents détectent des articles interdits dans les bagages d'un homme du Soudan.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608183000 -0400" stop="20200608190000 -0400" channel="Canal D">
+    <title lang="en">La guerre des transports</title>
+    <sub-title lang="en">Le transport contre-attaque</sub-title>
+    <desc lang="en">Dusty renoue avec son côté geek après avoir conclu une entente pour transporter une collection d'objets de Star Wars, ainsi qu'une immense statue de Kung Fu Panda.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608190000 -0400" stop="20200608200000 -0400" channel="Canal D">
+    <title lang="en">Australia Zoo: le défi des Irwin</title>
+    <desc lang="en">Les tortues serpentines alligator du zoo d'Australie ont besoin d'un bilan de santé et c'est le travail de Robert de se protéger de leurs morsures féroces. Terri et Bindi accueillent sept nouveaux lémuriens des États-Unis.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608200000 -0400" stop="20200608210000 -0400" channel="Canal D">
+    <title lang="en">Projet impossible</title>
+    <sub-title lang="en">Super structures</sub-title>
+    <desc lang="en">Cet épisode présente la structure de confinement nucléaire à Tchernobyl, le stade Mercedes-Benz à Atlanta, le pont de Bayonne à New York et le gratte-ciel Wilshire Grand Center à Los Angeles.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608210000 -0400" stop="20200608220000 -0400" channel="Canal D">
+    <title lang="en">Les pires erreurs d'ingénierie</title>
+    <desc lang="en">Un pont ferroviaire s'écroule en Pennsylvanie. Une haute cathédrale fait face à une catastrophe que seule l'ingénierie pourra empêcher. Des ingénieurs essaient que les Grands Lacs restent grandioses à Chicago.(n)</desc>
+    <category lang="en">Documentary</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608220000 -0400" stop="20200608230000 -0400" channel="Canal D">
+    <title lang="en">Les dossiers de la NASA</title>
+    <desc lang="en">Deux astronautes doivent se battre pour leur survie quand leur capsule tombe par accident dans un lac gelé. Des scientifiques de la Nasa découvrent un secret nazi vieux de plus de 80 ans.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608230000 -0400" stop="20200609000000 -0400" channel="Canal D">
+    <title lang="en">Parker: Sa ruée vers l'or</title>
+    <desc lang="en">Parker et son équipe arrivent au terme de leur voyage épique en Papouasie-Nouvelle-Guinée. Ils poursuivent leur mission d'extraction d'or en compagnie d'un descendant du premier explorateur à s'être aventuré sur le territoire.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
     </rating>
   </programme>
   <programme start="20200602060000 -0400" stop="20200602070000 -0400" channel="Z Tele">
@@ -5379,310 +5098,293 @@
       <value>TVMA</value>
     </rating>
   </programme>
-  <programme start="20200601060000 -0400" stop="20200601070000 -0400" channel="Canal Vie">
-    <title lang="en">Vendre ou rénover au Québec</title>
-    <sub-title lang="en">Un condo, trois enfants</sub-title>
-    <desc lang="en">Des propriétaires doivent décider entre rénover ou trouver une nouvelle maison.(n)</desc>
-    <category lang="en">Home</category>
+  <programme start="20200608000000 -0400" stop="20200608003000 -0400" channel="Z Tele">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">Le camp de la mort de tolérance</sub-title>
+    <desc lang="en">M. Garrison essaie désespérément de se faire virer de son nouveau poste de professeur.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200608003000 -0400" stop="20200608010000 -0400" channel="Z Tele">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">Le plus gros Connard de l'univers</sub-title>
+    <desc lang="en">Cartman cherche à exorciser l'âme de Kenny qui a envahi son corps.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200608010000 -0400" stop="20200608013000 -0400" channel="Z Tele">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">Mon futur moi et moi</sub-title>
+    <desc lang="en">Stan doit se rendre à l'évidence qu'il deviendra un minable plus tard dans la vie.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200608013000 -0400" stop="20200608020000 -0400" channel="Z Tele">
+    <title lang="en">South Park</title>
+    <sub-title lang="en">La chute du traîneau rouge</sub-title>
+    <desc lang="en">Pour se repentir et recevoir des cadeaux de Noël, Cartman doit faire une bonne action.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+    </credits>
+    <category lang="en">Animated</category>
+    <category lang="en">Christmas</category>
+    <rating system="US">
+      <value>TVMA</value>
+    </rating>
+  </programme>
+  <programme start="20200608020000 -0400" stop="20200608023000 -0400" channel="Z Tele">
+    <title lang="en">Au volant d'une belle cubaine</title>
+    <sub-title lang="en">Une décapotable fait maison</sub-title>
+    <desc lang="en">Partant à la recherche des décapotables les plus originales de l'île, José et Gildor suivent les traces d'une Ford Edsel dont le toit rigide a été modifié pour se glisser à l'intérieur de la valise arrière.(n)</desc>
+    <category lang="en">Automotive</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200601070000 -0400" stop="20200601080000 -0400" channel="Canal Vie">
-    <title lang="en">Rénos au bord de l'eau</title>
-    <sub-title lang="en">Ambiance nautique au lac Smith</sub-title>
-    <desc lang="en">Un couple désire faire l'acquisition d'une maison de vacances près du lac Smith en Alabama. Ils doivent choisir entre trois propriétés qui demandent toutes des rénovations et sélectionner celle qui correspond le plus à leur budget.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601080000 -0400" stop="20200601090000 -0400" channel="Canal Vie">
-    <title lang="en">Mini-maisons sur mesure</title>
-    <sub-title lang="en">21 m2 pour voyager et travailler</sub-title>
-    <desc lang="en">Allen et Alexa sont de jeunes mariés qui cherchent à donner de l'expansion à leur magazine en ligne en déménagement dans une minimaison. Ils souhaitent un espace qui combine leurs intérêts.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601090000 -0400" stop="20200601100000 -0400" channel="Canal Vie">
-    <title lang="en">Maman médium</title>
-    <sub-title lang="en">La chasse aux fantômes</sub-title>
-    <desc lang="en">La famille se rend au chalet pour de courtes vacances, mais Jennie doit tout de même travailler.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601100000 -0400" stop="20200601110000 -0400" channel="Canal Vie">
-    <title lang="en">La vie avec des quintuplées</title>
-    <sub-title lang="en">Les quintuplées prennent d'assaut Manhattan</sub-title>
-    <desc lang="en">L'équipe d'une émission de télévision invite les Busby à participer à un tournage en direct à New York, et toute la famille se rend à la Grosse Pomme.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601110000 -0400" stop="20200601120000 -0400" channel="Canal Vie">
-    <title lang="en">Maintenant ou jamais</title>
-    <sub-title lang="en">Grandir</sub-title>
-    <desc lang="en">Forte des rencontres qu'elle a faites jusqu'à maintenant, Chantal met en place son nouveau mode de vie.(n)</desc>
+  <programme start="20200608023000 -0400" stop="20200608030000 -0400" channel="Z Tele">
+    <title lang="en">Routiers déchaînés</title>
+    <sub-title lang="en">Citrouille bredouille</sub-title>
+    <desc lang="en">Pour beaucoup de conducteurs, la ville de Barraute, au Québec, marque la fin de la saison de course. Jug Boulanger tente de mettre la main sur au moins un trophée cette année.(n)</desc>
     <category lang="en">Docu-Series</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200601120000 -0400" stop="20200601123000 -0400" channel="Canal Vie">
-    <title lang="en">Faites-nous la cour</title>
-    <sub-title lang="en">L'atelier d'art</sub-title>
-    <desc lang="en">Christine et Olivier ont une cour qui manque de verdure. La moitié du terrain est en béton et leur grand garage blanc se trouve en plein milieu.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601123000 -0400" stop="20200601130000 -0400" channel="Canal Vie">
-    <title lang="en">Des idées de grandeur dans ma cour</title>
-    <sub-title lang="en">La cuisine extérieure de Marie-Michèle et Philippe</sub-title>
-    <desc lang="en">Marie-Michèle et Philippe adorent recevoir, mais leur petite terrasse de bois n'est pas du tout adaptée pour le faire.(n)</desc>
-    <category lang="en">Garden</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601130000 -0400" stop="20200601133000 -0400" channel="Canal Vie">
-    <title lang="en">Bye-Bye Maison</title>
-    <sub-title lang="en">On dit adieu au papier peint à Le Gardeur</sub-title>
-    <desc lang="en">De passage à Le Gardeur, Brigitte et Enock s'attaquent à une propriété qui n'a jamais eu de visiteurs en deux ans!(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601133000 -0400" stop="20200601140000 -0400" channel="Canal Vie">
-    <title lang="en">Bye-Bye Maison</title>
-    <sub-title lang="en">Un condo rose fuchsia à Saint-Laurent</sub-title>
-    <desc lang="en">De passage à Saint-Laurent, Brigitte et Enock aident Denis qui souhaite vendre son condo depuis plus de deux ans! Dès l'entrée, le rose fuchsia saute aux yeux. Naturellement, grâce à la magie de la couleur la pièce change du tout au tout.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601140000 -0400" stop="20200601143000 -0400" channel="Canal Vie">
-    <title lang="en">Bye-Bye Maison</title>
-    <sub-title lang="en">Quand une banquette occupe trop de place à Montréal-Nord</sub-title>
-    <desc lang="en">Pour des raisons de santé, Nathalie et son conjoint ont dû mettre leur maison de Montréal-Nord en vente.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601143000 -0400" stop="20200601150000 -0400" channel="Canal Vie">
-    <title lang="en">Bye-Bye Maison</title>
-    <sub-title lang="en">Une nouvelle céramique bien méritée dans une cuisine de Blainville</sub-title>
-    <desc lang="en">À Blainville, Richard, un pilote d'hélicoptère, désire vendre sa maison pour s'établir à Terre-Neuve afin de retrouver l'amour de sa vie.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601150000 -0400" stop="20200601153000 -0400" channel="Canal Vie">
-    <title lang="en">Mini-maisons au paradis</title>
-    <sub-title lang="en">Un fourgon au coeur d'un vignoble</sub-title>
-    <desc lang="en">Un couple de travailleurs vinicoles qui veut en finir avec la location transforme un camion à pain rétro en maison miniature nichée au coeur de la route des vins californienne.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601153000 -0400" stop="20200601160000 -0400" channel="Canal Vie">
-    <title lang="en">J'ai raté mes rénos!</title>
-    <sub-title lang="en">La salle de lavage vibrante de Patsy</sub-title>
-    <desc lang="en">Monoparentale depuis peu, Patsy a tant bien que mal entrepris de rénover sa salle de lavage. Après plusieurs échecs, elle s'est rapidement découragée.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601160000 -0400" stop="20200601170000 -0400" channel="Canal Vie">
-    <title lang="en">Animaux VIP</title>
-    <sub-title lang="en">Appartement pour animal</sub-title>
-    <desc lang="en">Antonio Ballatore rénove un condo exigu logeant deux chats et un chien. L'équipe démolit les murs de la cuisine.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601170000 -0400" stop="20200601180000 -0400" channel="Canal Vie">
-    <title lang="en">Mariage à l'aveugle</title>
-    <sub-title lang="en">La grande décision: Partie 2</sub-title>
-    <desc lang="en">Ce sont les experts qui ont formé ces couples et c'est maintenant aux couples de décider s'ils veulent rester mariés ou s'ils demandent le divorce.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601180000 -0400" stop="20200601190000 -0400" channel="Canal Vie">
-    <title lang="en">La vie avec des quintuplées</title>
-    <sub-title lang="en">Les quintuplées prennent d'assaut Manhattan</sub-title>
-    <desc lang="en">L'équipe d'une émission de télévision invite les Busby à participer à un tournage en direct à New York, et toute la famille se rend à la Grosse Pomme.(n)</desc>
-    <category lang="en">Reality TV</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601190000 -0400" stop="20200601193000 -0400" channel="Canal Vie">
-    <title lang="en">Bienvenue chez les cheaps</title>
-    <sub-title lang="en">Changeons le monde</sub-title>
-    <desc lang="en">Lany fait son épicerie. Comme il a trouvé trop de nourriture, il préfère partager et faire profiter les gens de ses trouvailles. Michèle fait son bouillon de dinde.(n)</desc>
-    <category lang="en">Docu-Series</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200601193000 -0400" stop="20200601200000 -0400" channel="Canal Vie">
-    <title lang="en">Conseils d'amis</title>
-    <sub-title lang="en">Sylvie, Sophie, Tammy, Antoine, Geneviève et Ève</sub-title>
-    <desc lang="en">Sylvie Léonard et Sophie Cadieux, Geneviève Schmidt et Eve Landry, Antoine Vézina et Tammy Verge répondent aux questions les plus étonnantes du public.Guests: Sylvie Léonard, Sophie Cadieux, Geneviève Schmidt, Eve Landry, Antoine Vézina, Tammy Verge..(n)</desc>
+  <programme start="20200608030000 -0400" stop="20200608033000 -0400" channel="Z Tele">
+    <title lang="en">Direct dans l'net</title>
+    <desc lang="en">Le trio présente des casse-cous sur roulettes et une maquilleuse qui fait compétition à Pinocchio.(n)</desc>
     <category lang="en">Comedy</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200601200000 -0400" stop="20200601203000 -0400" channel="Canal Vie">
-    <title lang="en">Nombreux et heureux en vacances</title>
-    <sub-title lang="en">En attendant la cigogne chez les Beausoleil-Williamson</sub-title>
-    <desc lang="en">L'été, les Beausoleil-Williamson profitent de la belle saison. Baignade dans la piscine des grands-parents, journée à cuisiner et jardiner; ils ne manquent pas d'activités!(n)</desc>
+  <programme start="20200608033000 -0400" stop="20200608040000 -0400" channel="Z Tele">
+    <title lang="en">Tosh.0</title>
+    <sub-title lang="en">Bras de fer</sub-title>
+    <desc lang="en">Tosh nous présente Pip, championne de bras de fer, et James, qui a fait le tour du web avec une vidéo vantant les qualités de la tarte aux patates douces de Patti Labelle.(n)</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20200608040000 -0400" stop="20200608050000 -0400" channel="Z Tele">
+    <title lang="en">Sleepy Hollow</title>
+    <sub-title lang="en">Le sort</sub-title>
+    <desc lang="en">La sécurité des hautes autorités de Washington est mise en péril lorsque le plus redoutable ennemi d'Ichabod arrive en ville. Les connaissances approfondies de Jake concernant les tunnels deviennent un atout important.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200608050000 -0400" stop="20200608060000 -0400" channel="Z Tele">
+    <title lang="en">Seuls et tout nus</title>
+    <sub-title lang="en">Querelles intestines (Nicaragua)</sub-title>
+    <desc lang="en">Un père survivaliste autodidacte et une ceinture noire impulsive affrontent les fonds de lac arides du Nicaragua.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200608060000 -0400" stop="20200608070000 -0400" channel="Z Tele">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">L'équipe reconstruit entièrement le Super Six pour un client. Diesel Dave laisse de côté sa famille pour s'attaquer à un projet.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200608070000 -0400" stop="20200608073000 -0400" channel="Z Tele">
+    <title lang="en">Remorquage à South Beach</title>
+    <sub-title lang="en">La revanche de Perez</sub-title>
+    <desc lang="en">Perez dépose une plainte contre Tremont, ce qui provoque une inspection-surprise, effectuée par un ennemi juré de Kosgrove.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200608073000 -0400" stop="20200608080000 -0400" channel="Z Tele">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Stéphane Fallu</sub-title>
+    <desc lang="en">Au menu: ski avec une Olympienne, kayak de mer hivernal, un brin de motoneige et une descente en luge de 7,5 kilomètres.(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608080000 -0400" stop="20200608090000 -0400" channel="Z Tele">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Ils vont ramper sur toi!</sub-title>
+    <desc lang="en">Les équipes débarquent à Sault-Sainte-Marie, en Ontario, où certains luttent pour sauter à travers des cercles.(n)</desc>
     <category lang="en">Reality TV</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200601203000 -0400" stop="20200601210000 -0400" channel="Canal Vie">
-    <title lang="en">Ma petite vie</title>
-    <sub-title lang="en">Embrasser sa condition</sub-title>
-    <desc lang="en">Les personnes de petite taille s'imposent dans leurs accomplissements pour constater qu'il n'y a rien d'impossible.(n)</desc>
+  <programme start="20200608090000 -0400" stop="20200608100000 -0400" channel="Z Tele">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">Purificateur d'air et chiens mouillés</sub-title>
+    <desc lang="en">Les jeunes Stupéfiants vérifient si une étincelle peut faire exploser une voiture aspergée de désodorisant en aérosol.(n)</desc>
+    <category lang="en">Science</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608100000 -0400" stop="20200608110000 -0400" channel="Z Tele">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Patrice Robitaille</sub-title>
+    <desc lang="en">Patrice Robitaille a accepté d'entreprendre une expédition risquée au nord du 51e parallèle, comme Jacynthe Migneault et son conjoint René Rivard, ce couple qui a survécu pendant cinq jours dans cette région inhabitée.Guests: Patrice Robitaille..(n)</desc>
     <category lang="en">Reality TV</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200601210000 -0400" stop="20200601220000 -0400" channel="Canal Vie">
-    <title lang="en">Le pro des pieds</title>
-    <sub-title lang="en">La reine des verrues</sub-title>
-    <desc lang="en">Le Pro des pieds vient en aide à deux frères excentriques aux prises avec des callosités et des ongles incarnés. Il traite également la verrue d'un batteur qui est incapable de jouer de son instrument en raison de la douleur.(n)</desc>
+  <programme start="20200608110000 -0400" stop="20200608120000 -0400" channel="Z Tele">
+    <title lang="en">Le tour du monde de l'incroyable</title>
+    <sub-title lang="en">Mondes invisibles</sub-title>
+    <desc lang="en">Un photographe new-yorkais escalade des gratte-ciels pour capturer une vue plongeante de la ville et des cascadeurs de la Louisiane utilisent des explosifs pour créer des illusions.(n)</desc>
     <category lang="en">Reality TV</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200601220000 -0400" stop="20200601223000 -0400" channel="Canal Vie">
-    <title lang="en">Notre premier flip</title>
-    <sub-title lang="en">Fatigue, calculs et environnement</sub-title>
-    <desc lang="en">La fatigue se fait sentir, et Cédrik manque de temps. Heureusement, plusieurs des problèmes du début du chantier semblent enfin se régler, mais un dégât d'eau retarde les travaux. L'équipe se questionne aussi sur la place de l'écologie dans un flip.(n)</desc>
-    <category lang="en">Home</category>
+  <programme start="20200608120000 -0400" stop="20200608123000 -0400" channel="Z Tele">
+    <title lang="en">Routiers déchaînés</title>
+    <sub-title lang="en">Citrouille bredouille</sub-title>
+    <desc lang="en">Pour beaucoup de conducteurs, la ville de Barraute, au Québec, marque la fin de la saison de course. Jug Boulanger tente de mettre la main sur au moins un trophée cette année.(n)</desc>
+    <category lang="en">Docu-Series</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200601223000 -0400" stop="20200601230000 -0400" channel="Canal Vie">
-    <title lang="en">Notre premier flip</title>
-    <sub-title lang="en">L'importance de la communication</sub-title>
-    <desc lang="en">La communication dans le couple est primordiale au succès d'une entreprise comme un flip. Il ne faut pas oublier l'essentiel: le bonheur de faire un projet à deux.(n)</desc>
-    <category lang="en">Home</category>
+  <programme start="20200608123000 -0400" stop="20200608130000 -0400" channel="Z Tele">
+    <title lang="en">Comédie sur mesure</title>
+    <sub-title lang="en">Stéphane Fallu</sub-title>
+    <desc lang="en">Au menu: ski avec une Olympienne, kayak de mer hivernal, un brin de motoneige et une descente en luge de 7,5 kilomètres.(n)</desc>
+    <category lang="en">Comedy</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200601230000 -0400" stop="20200602000000 -0400" channel="Canal Vie">
-    <title lang="en">Mini-maisons sur mesure</title>
-    <sub-title lang="en">21 m2 pour voyager et travailler</sub-title>
-    <desc lang="en">Allen et Alexa sont de jeunes mariés qui cherchent à donner de l'expansion à leur magazine en ligne en déménagement dans une minimaison. Ils souhaitent un espace qui combine leurs intérêts.(n)</desc>
-    <category lang="en">Home</category>
+  <programme start="20200608130000 -0400" stop="20200608140000 -0400" channel="Z Tele">
+    <title lang="en">Diesel Brothers (v.f.)</title>
+    <desc lang="en">L'équipe reconstruit entièrement le Super Six pour un client. Diesel Dave laisse de côté sa famille pour s'attaquer à un projet.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200608140000 -0400" stop="20200608150000 -0400" channel="Z Tele">
+    <title lang="en">Seuls et tout nus</title>
+    <sub-title lang="en">Querelles intestines (Nicaragua)</sub-title>
+    <desc lang="en">Un père survivaliste autodidacte et une ceinture noire impulsive affrontent les fonds de lac arides du Nicaragua.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20200608150000 -0400" stop="20200608160000 -0400" channel="Z Tele">
+    <title lang="en">Les Brown: génération Alaska</title>
+    <sub-title lang="en">Birdy, prends ton arme</sub-title>
+    <desc lang="en">Comme la nourriture commence à se faire rare, les Brown doivent quitter leur terre pour s'adonner à la chasse. Avant de partir, Birdy donne quelques conseils à Gabe.(n)</desc>
+    <category lang="en">Reality TV</category>
+  </programme>
+  <programme start="20200608160000 -0400" stop="20200608170000 -0400" channel="Z Tele">
+    <title lang="en">Les Stupéfiants: nouvelle génération</title>
+    <sub-title lang="en">Purificateur d'air et chiens mouillés</sub-title>
+    <desc lang="en">Les jeunes Stupéfiants vérifient si une étincelle peut faire exploser une voiture aspergée de désodorisant en aérosol.(n)</desc>
+    <category lang="en">Science</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200602000000 -0400" stop="20200602003000 -0400" channel="Canal Vie">
-    <title lang="en">Design V.I.P.</title>
-    <sub-title lang="en">La salle de bain d'André Ducharme</sub-title>
-    <desc lang="en">André Ducharme désire rénover sa salle de bain depuis des années! Marie-Christine va lui proposer une transformation de taille pour actualiser celle-ci.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602003000 -0400" stop="20200602010000 -0400" channel="Canal Vie">
-    <title lang="en">Design V.I.P.</title>
-    <sub-title lang="en">La salle télé de Brigitte Boisjoli</sub-title>
-    <desc lang="en">Brigitte Boisjoli vient d'acquérir une nouvelle maison et elle veut ajouter de la chaleur et du caractère à sa salle de télévision.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602010000 -0400" stop="20200602013000 -0400" channel="Canal Vie">
-    <title lang="en">Design V.I.P.</title>
-    <sub-title lang="en">La chambre à coucher de Jason Roy Léveillée</sub-title>
-    <desc lang="en">Jason Roy Léveillée demande à Marie-Christine Lavoie de l'aide pour optimiser l'espace de sa chambre principale. La designer répond aux besoins de Jason tout en actualisant le décor de la pièce avec un style moderne, et en y ajoutant une touche exotique.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602013000 -0400" stop="20200602020000 -0400" channel="Canal Vie">
-    <title lang="en">Design V.I.P.</title>
-    <sub-title lang="en">Le salon/ salle a manger de Mylène St-Sauveur</sub-title>
-    <desc lang="en">Marie-Christine Lavoie transforme la pièce contenant le salon et la salle à manger chez Mylène St-Sauveur.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602020000 -0400" stop="20200602023000 -0400" channel="Canal Vie">
-    <title lang="en">Mini-maisons au paradis</title>
-    <sub-title lang="en">Un fourgon au coeur d'un vignoble</sub-title>
-    <desc lang="en">Un couple de travailleurs vinicoles qui veut en finir avec la location transforme un camion à pain rétro en maison miniature nichée au coeur de la route des vins californienne.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602023000 -0400" stop="20200602030000 -0400" channel="Canal Vie">
-    <title lang="en">J'ai raté mes rénos!</title>
-    <sub-title lang="en">La salle de lavage vibrante de Patsy</sub-title>
-    <desc lang="en">Monoparentale depuis peu, Patsy a tant bien que mal entrepris de rénover sa salle de lavage. Après plusieurs échecs, elle s'est rapidement découragée.(n)</desc>
-    <category lang="en">Home</category>
-    <rating system="US">
-      <value>TVG</value>
-    </rating>
-  </programme>
-  <programme start="20200602030000 -0400" stop="20200602040000 -0400" channel="Canal Vie">
-    <title lang="en">La vie avec des quintuplées</title>
-    <sub-title lang="en">Les quintuplées prennent d'assaut Manhattan</sub-title>
-    <desc lang="en">L'équipe d'une émission de télévision invite les Busby à participer à un tournage en direct à New York, et toute la famille se rend à la Grosse Pomme.(n)</desc>
+  <programme start="20200608170000 -0400" stop="20200608180000 -0400" channel="Z Tele">
+    <title lang="en">The Amazing Race Canada (v.f.)</title>
+    <sub-title lang="en">Ils vont ramper sur toi!</sub-title>
+    <desc lang="en">Les équipes débarquent à Sault-Sainte-Marie, en Ontario, où certains luttent pour sauter à travers des cercles.(n)</desc>
     <category lang="en">Reality TV</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200602040000 -0400" stop="20200602050000 -0400" channel="Canal Vie">
-    <title lang="en">Animaux VIP</title>
-    <sub-title lang="en">Appartement pour animal</sub-title>
-    <desc lang="en">Antonio Ballatore rénove un condo exigu logeant deux chats et un chien. L'équipe démolit les murs de la cuisine.(n)</desc>
-    <category lang="en">Home</category>
+  <programme start="20200608180000 -0400" stop="20200608190000 -0400" channel="Z Tele">
+    <title lang="en">Expédition extrême</title>
+    <sub-title lang="en">Patrice Robitaille</sub-title>
+    <desc lang="en">Patrice Robitaille a accepté d'entreprendre une expédition risquée au nord du 51e parallèle, comme Jacynthe Migneault et son conjoint René Rivard, ce couple qui a survécu pendant cinq jours dans cette région inhabitée.Guests: Patrice Robitaille..(n)</desc>
+    <category lang="en">Reality TV</category>
     <rating system="US">
       <value>TVG</value>
     </rating>
   </programme>
-  <programme start="20200602050000 -0400" stop="20200602060000 -0400" channel="Canal Vie">
-    <title lang="en">Mariage à l'aveugle</title>
-    <sub-title lang="en">Retrouvailles: Six mois plus tard</sub-title>
-    <desc lang="en">Six mois se sont écoulés depuis ce jour où six participants se sont mariés à l'aveugle. Les trois couples rencontrent le docteur Schwarts pour discuter de leur expérience et révéler où ils en sont dans leurs relations, depuis leur dernière rencontre.(n)</desc>
-    <category lang="en">Reality TV</category>
+  <programme start="20200608190000 -0400" stop="20200608193000 -0400" channel="Z Tele">
+    <title lang="en">Le Roy des toilettes</title>
+    <sub-title lang="en">Le flambeau</sub-title>
+    <desc lang="en">Roy travaille comme un fou et sa femme le kidnappe pour une semaine de repos en Floride.(n)</desc>
+    <category lang="en">Docu-Series</category>
     <rating system="US">
       <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608193000 -0400" stop="20200608200000 -0400" channel="Z Tele">
+    <title lang="en">Routiers déchaînés</title>
+    <sub-title lang="en">À fond ou pas du tout</sub-title>
+    <desc lang="en">Lorsque le plus gros rival de l'équipe Lucky 13 ne prend pas part à une compétition, ses membres en profitent pour se hisser au sommet du classement.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608200000 -0400" stop="20200608210000 -0400" channel="Z Tele">
+    <title lang="en">Top Gear</title>
+    <sub-title lang="en">Le superyacht</sub-title>
+    <desc lang="en">Matt conduit un véhicule de secours ukrainien à huit roues, et Rory transforme une voiture horrible en luxueux yacht. Aussi, Chris essaie la nouvelle Porsche Cayman et Jay Kay, le chanteur de Jamiroquai, se mesure à la piste de test.(n)</desc>
+    <category lang="en">Automotive</category>
+  </programme>
+  <programme start="20200608210000 -0400" stop="20200608213000 -0400" channel="Z Tele">
+    <title lang="en">Au volant d'une belle cubaine</title>
+    <sub-title lang="en">La plus belle Anglaise de Cuba</sub-title>
+    <desc lang="en">José Gaudet sillonne les routes cubaines à la recherche de la voiture de ses rêves.(n)</desc>
+    <category lang="en">Automotive</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608213000 -0400" stop="20200608220000 -0400" channel="Z Tele">
+    <title lang="en">Les génies de la vitesse</title>
+    <sub-title lang="en">Honda S2000 vs  Mercedes</sub-title>
+    <desc lang="en">Guillaume André est un wiz de technologie verte. Il se spécialise dans l'électrification de modèle à combustion. Son joyau: une Honda S2000, convertie en voiture électrique, dont la puissance dépasse les 630 chevaux-vapeur.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608220000 -0400" stop="20200608230000 -0400" channel="Z Tele">
+    <title lang="en">Animal Kingdom</title>
+    <sub-title lang="en">Janine</sub-title>
+    <desc lang="en">Baz s'accroche à la vie alors que Cody et les garçons doivent déterminer quelle sera leur prochaine action. Smurf reçoit des nouvelles surprenantes en prison.(n)</desc>
+    <credits>
+      <actor>Ellen Barkin</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Shawn Hatosy</actor>
+    </credits>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20200608230000 -0400" stop="20200609000000 -0400" channel="Z Tele">
+    <title lang="en">Sleepy Hollow</title>
+    <sub-title lang="en">Le sort</sub-title>
+    <desc lang="en">La sécurité des hautes autorités de Washington est mise en péril lorsque le plus redoutable ennemi d'Ichabod arrive en ville. Les connaissances approfondies de Jake concernant les tunnels deviennent un atout important.(n)</desc>
+    <category lang="en">Drama</category>
+    <rating system="US">
+      <value>TVPG</value>
     </rating>
   </programme>
   <programme start="20200602060000 -0400" stop="20200602070000 -0400" channel="Canal Vie">
@@ -7390,6 +7092,1744 @@
     <title lang="en">Ma villa au soleil</title>
     <desc lang="en">Holly, Jason et leur fils, Bodhi, quittent leur vie mouvementée à San Francisco pour l'Espagne afin de profiter d'un quotidien plus tranquille. Ils espèrent trouver une maison près d'une bonne école et avec une piscine.(n)</desc>
     <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608000000 -0400" stop="20200608010000 -0400" channel="Canal Vie">
+    <title lang="en">Réno par le haut</title>
+    <sub-title lang="en">De maison qui s'affaisse à maison de rêve</sub-title>
+    <desc lang="en">Keith paie le gros prix pour une maison sur un coin de rue, mais les problèmes arrivent vite quand il découvre qu'il y a un affaissement de terrain sous une des chambres. Il parvient à créer une aire ouverte au premier avec un étonnant foyer.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608010000 -0400" stop="20200608013000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur</title>
+    <sub-title lang="en">L'entrée 'mud room' et bureau d'Annie et Pierre-Marc</sub-title>
+    <desc lang="en">L'équipe a pour mandat de faciliter la vie d'une famille de sportifs!(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608013000 -0400" stop="20200608020000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur</title>
+    <sub-title lang="en">La salle de jeux pour jeunes adultes de Caroline</sub-title>
+    <desc lang="en">Caroline aimerait dédier une pièce complète de la maison pour ses trois jeunes hommes de 19 ans.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608020000 -0400" stop="20200608030000 -0400" channel="Canal Vie">
+    <title lang="en">Le pro des pieds</title>
+    <sub-title lang="en">La reine des verrues</sub-title>
+    <desc lang="en">Le Pro des pieds vient en aide à deux frères excentriques aux prises avec des callosités et des ongles incarnés. Il traite également la verrue d'un batteur qui est incapable de jouer de son instrument en raison de la douleur.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608030000 -0400" stop="20200608033000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">La mariée Margo a du mal à obtenir l'approbation de sa soeur jumelle pour les robes qu'elle essaie. Brenda veut que ses quatre soeurs soient d'accord avec son choix vestimentaire.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608033000 -0400" stop="20200608040000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai dit oui à la robe</title>
+    <desc lang="en">Sharde rêve d'une robe colorée pour convenir à son mariage de licorne arc-en-ciel, mais sa mère n'approuve pas du tout. La mariée Spencer veut une robe très avant-gardiste et dramatique pour son grand jour.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608040000 -0400" stop="20200608043000 -0400" channel="Canal Vie">
+    <title lang="en">SPCA en action</title>
+    <sub-title lang="en">Le bon environnement</sub-title>
+    <desc lang="en">L'agente Dupuis inspecte un élevage de lapins, tâchant de convaincre les propriétaires d'effectuer les améliorations nécessaires à leurs installations plutôt que d'envoyer les pauvres bêtes à l'abattoir.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608043000 -0400" stop="20200608050000 -0400" channel="Canal Vie">
+    <title lang="en">Un safari près de chez nous</title>
+    <sub-title lang="en">L'ouverture de la haute saison</sub-title>
+    <desc lang="en">Au Parc Safari, l'arrivée de l'été est synonyme de haute saison. La foule est nombreuse à franchir les portes pour rencontrer les différents animaux.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608050000 -0400" stop="20200608060000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">Nouveaux mariés</sub-title>
+    <desc lang="en">Les braves nouveaux mariés s'apprêtent à passer du temps seuls ensemble pour la première fois, lors de leur nuit de noces. Les couples espèrent vivre une nuit de passion.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608060000 -0400" stop="20200608070000 -0400" channel="Canal Vie">
+    <title lang="en">Vendre ou rénover au Québec</title>
+    <sub-title lang="en">À chacun ses solutions!</sub-title>
+    <desc lang="en">La maison d'un couple révèle bien des travers. Maxime tente de les corriger avec des solutions de son cru, mais Catherine ne voit que la liste de rénovations s'allonger.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608070000 -0400" stop="20200608080000 -0400" channel="Canal Vie">
+    <title lang="en">Rénos au bord de l'eau</title>
+    <sub-title lang="en">Le gîte au bord du lac</sub-title>
+    <desc lang="en">Amber et Jon cherchent une maison de vacances pour s'évader proche de leur domicile. Ils trouvent l'endroit parfait, mais la propriété est en piètre condition.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608080000 -0400" stop="20200608090000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">Voyage vers 43 m2</sub-title>
+    <desc lang="en">Brock et Nicole ont vécu quelques difficultés pour vivre dans une minimaison, mais ils sont finalement prêts à déménager. Par contre, ils craignent encore qu'ils n'auront pas assez d'espace pour répondre à leurs besoins.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608090000 -0400" stop="20200608100000 -0400" channel="Canal Vie">
+    <title lang="en">Maman médium</title>
+    <sub-title lang="en">Des souvenirs qui s'effacent</sub-title>
+    <desc lang="en">Jennie fait une lecture pour une famille ayant récemment perdu un proche. Une mère et sa fille espèrent que Jennie pourra les mettre en contact avec leur mari et père.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608100000 -0400" stop="20200608110000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Anniversaires multiples</sub-title>
+    <desc lang="en">Les Busby organisent une fête d'anniversaire commune pour toutes leurs filles, mais Blayke veut sa propre fête. Ils doivent trouver une idée pour qu'elle se sente spéciale. Adam révèle un grand secret à Danielle.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608110000 -0400" stop="20200608120000 -0400" channel="Canal Vie">
+    <title lang="en">Maintenant ou jamais</title>
+    <sub-title lang="en">Vivre</sub-title>
+    <desc lang="en">Chantal arrive à la fin de son parcours et l'heure est aux bilans. Elle commence par un retour chez la neuropsychologue.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608120000 -0400" stop="20200608123000 -0400" channel="Canal Vie">
+    <title lang="en">Faites-nous la cour</title>
+    <sub-title lang="en">La maison centenaire</sub-title>
+    <desc lang="en">Sophie et Thierry ont un grand arbre centenaire en plein milieu de la cour qui complique l'aménagement et leur porte patio donne directement sur la terre.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608123000 -0400" stop="20200608130000 -0400" channel="Canal Vie">
+    <title lang="en">Des idées de grandeur dans ma cour</title>
+    <sub-title lang="en">La cour pour jammer de Nathalie, Pierre et les enfants</sub-title>
+    <desc lang="en">Nathalie, Pierre et leurs trois enfants rêvent de pouvoir enfin profiter de leur cour. Cependant, les deux immenses pommiers compliquent l'aménagement de l'espace en laissant tomber des centaines de pommes sur leur tête.(n)</desc>
+    <category lang="en">Garden</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608130000 -0400" stop="20200608133000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Besoin de stylisme à Rosemère</sub-title>
+    <desc lang="en">L'équipe donne un coup de main à Julie qui peine à vendre sa maison depuis plus d'un an et demi. Cette grande maison de style canadienne semble vide et inhabitée.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608133000 -0400" stop="20200608140000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Vent de fraîcheur à L'Assomption</sub-title>
+    <desc lang="en">Louis fait appel à l'équipe afin de lui donner un coup de pouce pour vendre son bungalow de L'Assomption qui tarde à trouver preneur. Le salon sombre et terne est actualisé grâce à de petites interventions astucieuses et efficaces.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608140000 -0400" stop="20200608143000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Un sous-sol fraîchement rénové à Candiac</sub-title>
+    <desc lang="en">À Candiac, Lisa veut vendre sa propriété depuis plus d'un an afin d'aller s'établir dans l'Ouest canadien auprès de sa famille.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608143000 -0400" stop="20200608150000 -0400" channel="Canal Vie">
+    <title lang="en">Bye-Bye Maison</title>
+    <sub-title lang="en">Un condo qui doit se démarquer à Charlemagne</sub-title>
+    <desc lang="en">Brigitte et Enock vont à Charlemagne pour aider Jessica à vendre son condo qui est sur le marché depuis plus d'un an et demi.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608150000 -0400" stop="20200608153000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons au paradis</title>
+    <sub-title lang="en">Une mini-oasis au Texas</sub-title>
+    <desc lang="en">Une famille souhaite construire sa propre maison miniature de style boho-chic dans la campagne texane. Des portes coulissantes maximisent l'espace dans la chambre et le salon tandis que la cuisine comporte de grandes fenêtres s'ouvrant sur une terrasse.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608153000 -0400" stop="20200608160000 -0400" channel="Canal Vie">
+    <title lang="en">J'ai raté mes rénos!</title>
+    <sub-title lang="en">La cuisine rustique d'Éric</sub-title>
+    <desc lang="en">Éric décide de faire son baptême de rénovations dans la cuisine de sa nouvelle maison. Malheureusement, son manque d'expérience est visible un peu partout dans la pièce.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608160000 -0400" stop="20200608170000 -0400" channel="Canal Vie">
+    <title lang="en">Animaux VIP</title>
+    <sub-title lang="en">Jardin de rêve</sub-title>
+    <desc lang="en">Antonio et son équipe transforment une cour présentant un risque pour la santé en un paradis pour chien comprenant un abreuvoir et des plantes médicinales.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608170000 -0400" stop="20200608180000 -0400" channel="Canal Vie">
+    <title lang="en">Mariage à l'aveugle</title>
+    <sub-title lang="en">Nouveaux mariés</sub-title>
+    <desc lang="en">Les braves nouveaux mariés s'apprêtent à passer du temps seuls ensemble pour la première fois, lors de leur nuit de noces. Les couples espèrent vivre une nuit de passion.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608180000 -0400" stop="20200608190000 -0400" channel="Canal Vie">
+    <title lang="en">La vie avec des quintuplées</title>
+    <sub-title lang="en">Anniversaires multiples</sub-title>
+    <desc lang="en">Les Busby organisent une fête d'anniversaire commune pour toutes leurs filles, mais Blayke veut sa propre fête. Ils doivent trouver une idée pour qu'elle se sente spéciale. Adam révèle un grand secret à Danielle.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608190000 -0400" stop="20200608193000 -0400" channel="Canal Vie">
+    <title lang="en">Bienvenue chez les cheaps</title>
+    <sub-title lang="en">L'appétit vient en économisant</sub-title>
+    <desc lang="en">Lany va déposer de la nourriture dans un frigo communautaire. Michèle fait son épicerie trimestrielle. Majyrel sauve la planète, un petit geste à la fois. Caroline se rend à l'épicerie avec son cartable et ses coupons.(n)</desc>
+    <category lang="en">Docu-Series</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608193000 -0400" stop="20200608200000 -0400" channel="Canal Vie">
+    <title lang="en">Conseils d'amis</title>
+    <sub-title lang="en">Rosalie V., Pierre-Yves D., PY L., Karine, Fabien et Patrice</sub-title>
+    <desc lang="en">Rosalie Vaillancourt et Pierre-Yves Roy-Desmarais, Pierre-Yves Lord et Karine Gonthier-Hyndman, et Fabien Cloutier et Patrice Robitaille répondent avec plus ou moins de sérieux aux questions du public.Guests: Rosalie Vaillancourt, Pierre-Yves Roy-Desmarais, Pierre-Yves Lord, Karine Gonthier-Hyndman, Fabien Cloutier, Patrice Robitaille..(n)</desc>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608200000 -0400" stop="20200608203000 -0400" channel="Canal Vie">
+    <title lang="en">Nombreux et heureux en vacances</title>
+    <sub-title lang="en">Un voyage historique chez les Beausoleil-Williamson</sub-title>
+    <desc lang="en">Les Beausoleil-Williamson se préparent pour un voyage historique dans la ville de Québec. Comme c'est le dernier voyage avant l'arrivée du onzième bébé, ils comptent bien en profiter. Au retour, une longue liste de choses à faire les attend.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608203000 -0400" stop="20200608210000 -0400" channel="Canal Vie">
+    <title lang="en">Ma petite vie</title>
+    <sub-title lang="en">Embrasser sa condition</sub-title>
+    <desc lang="en">Les personnes de petite taille s'imposent dans leurs accomplissements pour constater qu'il n'y a rien d'impossible.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608210000 -0400" stop="20200608220000 -0400" channel="Canal Vie">
+    <title lang="en">Le pro des pieds</title>
+    <sub-title lang="en">L'orteil qui se ronge l'ongle</sub-title>
+    <desc lang="en">Une danseuse consulte le docteur pour un problème d'ongles incarnés. Aussi, un traitement drastique est nécessaire à un patient aux prises avec des champignons sur les orteils.(n)</desc>
+    <category lang="en">Reality TV</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608220000 -0400" stop="20200608223000 -0400" channel="Canal Vie">
+    <title lang="en">Notre premier flip</title>
+    <sub-title lang="en">Incertitude et touches finales</sub-title>
+    <desc lang="en">Ce sont les derniers moments avant la mise en vente. L'inquiétude de ne pas avoir tout fait comme il le fallait est à son comble. Les proches donnent un coup de main pour le 'home staging' et l'aménagement paysager.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608223000 -0400" stop="20200608230000 -0400" channel="Canal Vie">
+    <title lang="en">Notre premier flip</title>
+    <sub-title lang="en">Conclusion: le flip est-il rentable?</sub-title>
+    <desc lang="en">C'est l'ultime étape. Les visites libres s'organisent. Le couple se remémore tous les stades du flip, qui a duré 10 mois. Ingrid et Cédrik sont inquiets et se demandent s'ils vont arriver à vendre les condos et à faire du profit.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608230000 -0400" stop="20200609000000 -0400" channel="Canal Vie">
+    <title lang="en">Mini-maisons sur mesure</title>
+    <sub-title lang="en">Voyage vers 43 m2</sub-title>
+    <desc lang="en">Brock et Nicole ont vécu quelques difficultés pour vivre dans une minimaison, mais ils sont finalement prêts à déménager. Par contre, ils craignent encore qu'ils n'auront pas assez d'espace pour répondre à leurs besoins.(n)</desc>
+    <category lang="en">Home</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602060000 -0400" stop="20200602100000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin</title>
+    <desc lang="en">Le seul rendez-vous matinal complètement axé sur les nouvelles de l'heure.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602100000 -0400" stop="20200602115800 -0400" channel="LCN">
+    <title lang="en">Mario Dumont</title>
+    <desc lang="en">Pour approfondir l'actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc. Pour des entrevues avec les acteurs de l'actualité et les nouvelles de la matinée.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602115800 -0400" stop="20200602133000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602133000 -0400" stop="20200602165800 -0400" channel="LCN">
+    <title lang="en">100% nouvelles</title>
+    <desc lang="en">Paul Larocque et Julie Marcoux suivent en direct les nouvelles des quatre coins du Quebec.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602165800 -0400" stop="20200602175900 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602175900 -0400" stop="20200602183000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602183000 -0400" stop="20200602190000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602190000 -0400" stop="20200602200000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602200000 -0400" stop="20200602203000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602203000 -0400" stop="20200602210000 -0400" channel="LCN">
+    <title lang="en">100% nouvelles</title>
+    <desc lang="en">Paul Larocque et Julie Marcoux suivent en direct les nouvelles des quatre coins du Quebec.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602210000 -0400" stop="20200602213000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602213000 -0400" stop="20200602220000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200602220000 -0400" stop="20200602223500 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602223500 -0400" stop="20200602230000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602230000 -0400" stop="20200602233000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200602233000 -0400" stop="20200603000000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603000000 -0400" stop="20200603003000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603003000 -0400" stop="20200603010000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603010000 -0400" stop="20200603013000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603013000 -0400" stop="20200603020000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603020000 -0400" stop="20200603023000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603023000 -0400" stop="20200603030000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603030000 -0400" stop="20200603033000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603033000 -0400" stop="20200603040000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603040000 -0400" stop="20200603043000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603043000 -0400" stop="20200603050000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603050000 -0400" stop="20200603053000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603053000 -0400" stop="20200603060000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin 5h30</title>
+    <desc lang="en">En compagnie de Jean-François Guérin et de Cindy Royer, débutez votre journée en étant bien informé avec l'actualité, la météo, la circulation et les sports.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603060000 -0400" stop="20200603100000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin</title>
+    <desc lang="en">Le seul rendez-vous matinal complètement axé sur les nouvelles de l'heure.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603100000 -0400" stop="20200603115800 -0400" channel="LCN">
+    <title lang="en">Mario Dumont</title>
+    <desc lang="en">Pour approfondir l'actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc. Pour des entrevues avec les acteurs de l'actualité et les nouvelles de la matinée.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603115800 -0400" stop="20200603133000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603133000 -0400" stop="20200603165800 -0400" channel="LCN">
+    <title lang="en">100% nouvelles</title>
+    <desc lang="en">Paul Larocque et Julie Marcoux suivent en direct les nouvelles des quatre coins du Quebec.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603165800 -0400" stop="20200603175900 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603175900 -0400" stop="20200603183000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603183000 -0400" stop="20200603190000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603190000 -0400" stop="20200603200000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603200000 -0400" stop="20200603203000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603203000 -0400" stop="20200603210000 -0400" channel="LCN">
+    <title lang="en">100% nouvelles</title>
+    <desc lang="en">Paul Larocque et Julie Marcoux suivent en direct les nouvelles des quatre coins du Quebec.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603210000 -0400" stop="20200603213000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603213000 -0400" stop="20200603220000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200603220000 -0400" stop="20200603223500 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603223500 -0400" stop="20200603230000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603230000 -0400" stop="20200603233000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200603233000 -0400" stop="20200604000000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604000000 -0400" stop="20200604003000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604003000 -0400" stop="20200604010000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604010000 -0400" stop="20200604013000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604013000 -0400" stop="20200604020000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604020000 -0400" stop="20200604023000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604023000 -0400" stop="20200604030000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604030000 -0400" stop="20200604033000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604033000 -0400" stop="20200604040000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604040000 -0400" stop="20200604043000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604043000 -0400" stop="20200604050000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604050000 -0400" stop="20200604053000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604053000 -0400" stop="20200604060000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin 5h30</title>
+    <desc lang="en">En compagnie de Jean-François Guérin et de Cindy Royer, débutez votre journée en étant bien informé avec l'actualité, la météo, la circulation et les sports.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604060000 -0400" stop="20200604100000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin</title>
+    <desc lang="en">Le seul rendez-vous matinal complètement axé sur les nouvelles de l'heure.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604100000 -0400" stop="20200604115800 -0400" channel="LCN">
+    <title lang="en">Mario Dumont</title>
+    <desc lang="en">Pour approfondir l'actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc. Pour des entrevues avec les acteurs de l'actualité et les nouvelles de la matinée.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604115800 -0400" stop="20200604133000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604133000 -0400" stop="20200604165800 -0400" channel="LCN">
+    <title lang="en">100% nouvelles</title>
+    <desc lang="en">Paul Larocque et Julie Marcoux suivent en direct les nouvelles des quatre coins du Quebec.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604165800 -0400" stop="20200604175900 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604175900 -0400" stop="20200604183000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604183000 -0400" stop="20200604190000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604190000 -0400" stop="20200604200000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604200000 -0400" stop="20200604203000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604203000 -0400" stop="20200604210000 -0400" channel="LCN">
+    <title lang="en">100% nouvelles</title>
+    <desc lang="en">Paul Larocque et Julie Marcoux suivent en direct les nouvelles des quatre coins du Quebec.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604210000 -0400" stop="20200604213000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604213000 -0400" stop="20200604220000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200604220000 -0400" stop="20200604223500 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604223500 -0400" stop="20200604230000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604230000 -0400" stop="20200604233000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200604233000 -0400" stop="20200605000000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605000000 -0400" stop="20200605003000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605003000 -0400" stop="20200605010000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605010000 -0400" stop="20200605013000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605013000 -0400" stop="20200605020000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605020000 -0400" stop="20200605023000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605023000 -0400" stop="20200605030000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605030000 -0400" stop="20200605033000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605033000 -0400" stop="20200605040000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605040000 -0400" stop="20200605043000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605043000 -0400" stop="20200605050000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605050000 -0400" stop="20200605053000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605053000 -0400" stop="20200605060000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin 5h30</title>
+    <desc lang="en">En compagnie de Jean-François Guérin et de Cindy Royer, débutez votre journée en étant bien informé avec l'actualité, la météo, la circulation et les sports.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605060000 -0400" stop="20200605100000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin</title>
+    <desc lang="en">Le seul rendez-vous matinal complètement axé sur les nouvelles de l'heure.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605100000 -0400" stop="20200605115800 -0400" channel="LCN">
+    <title lang="en">Mario Dumont</title>
+    <desc lang="en">Pour approfondir l'actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc. Pour des entrevues avec les acteurs de l'actualité et les nouvelles de la matinée.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605115800 -0400" stop="20200605133000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605133000 -0400" stop="20200605165800 -0400" channel="LCN">
+    <title lang="en">100% nouvelles</title>
+    <desc lang="en">Paul Larocque et Julie Marcoux suivent en direct les nouvelles des quatre coins du Quebec.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605165800 -0400" stop="20200605175900 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605175900 -0400" stop="20200605183000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605183000 -0400" stop="20200605190000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605190000 -0400" stop="20200605200000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605200000 -0400" stop="20200605203000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605203000 -0400" stop="20200605210000 -0400" channel="LCN">
+    <title lang="en">100% nouvelles</title>
+    <desc lang="en">Paul Larocque et Julie Marcoux suivent en direct les nouvelles des quatre coins du Quebec.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605210000 -0400" stop="20200605213000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605213000 -0400" stop="20200605220000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200605220000 -0400" stop="20200605223500 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605223500 -0400" stop="20200605230000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605230000 -0400" stop="20200605233000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200605233000 -0400" stop="20200606000000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606000000 -0400" stop="20200606003000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606003000 -0400" stop="20200606010000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606010000 -0400" stop="20200606013000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606013000 -0400" stop="20200606020000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606020000 -0400" stop="20200606023000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606023000 -0400" stop="20200606030000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606030000 -0400" stop="20200606033000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606033000 -0400" stop="20200606040000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606040000 -0400" stop="20200606043000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606043000 -0400" stop="20200606050000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606050000 -0400" stop="20200606053000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606053000 -0400" stop="20200606060000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606060000 -0400" stop="20200606100000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin week-end</title>
+    <desc lang="en">Le seul rendez-vous matinal complètement axé sur les nouvelles de l'heure.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606100000 -0400" stop="20200606103000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606103000 -0400" stop="20200606110000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606110000 -0400" stop="20200606113000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">L'actualité régionale, nationale et internationale.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606113000 -0400" stop="20200606120000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606120000 -0400" stop="20200606123000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606123000 -0400" stop="20200606130000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606130000 -0400" stop="20200606133000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606133000 -0400" stop="20200606140000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606140000 -0400" stop="20200606143000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606143000 -0400" stop="20200606150000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606150000 -0400" stop="20200606153000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606153000 -0400" stop="20200606160000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606160000 -0400" stop="20200606163000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606163000 -0400" stop="20200606170000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606170000 -0400" stop="20200606173000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606173000 -0400" stop="20200606180000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606180000 -0400" stop="20200606183000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606183000 -0400" stop="20200606190000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606190000 -0400" stop="20200606193000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606193000 -0400" stop="20200606200000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606200000 -0400" stop="20200606203000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606203000 -0400" stop="20200606210000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606210000 -0400" stop="20200606213000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606213000 -0400" stop="20200606220000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200606220000 -0400" stop="20200606223000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606223000 -0400" stop="20200606230000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606230000 -0400" stop="20200606233000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200606233000 -0400" stop="20200607000000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607000000 -0400" stop="20200607003000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607003000 -0400" stop="20200607010000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607010000 -0400" stop="20200607013000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607013000 -0400" stop="20200607020000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607020000 -0400" stop="20200607023000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607023000 -0400" stop="20200607030000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607030000 -0400" stop="20200607033000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607033000 -0400" stop="20200607040000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607040000 -0400" stop="20200607043000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607043000 -0400" stop="20200607050000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607050000 -0400" stop="20200607053000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607053000 -0400" stop="20200607060000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607060000 -0400" stop="20200607100000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin week-end</title>
+    <desc lang="en">Le seul rendez-vous matinal complètement axé sur les nouvelles de l'heure.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607100000 -0400" stop="20200607103000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607103000 -0400" stop="20200607110000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607110000 -0400" stop="20200607113000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">L'actualité régionale, nationale et internationale.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607113000 -0400" stop="20200607120000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607120000 -0400" stop="20200607123000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607123000 -0400" stop="20200607130000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607130000 -0400" stop="20200607133000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607133000 -0400" stop="20200607140000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607140000 -0400" stop="20200607143000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607143000 -0400" stop="20200607150000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607150000 -0400" stop="20200607153000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607153000 -0400" stop="20200607160000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607160000 -0400" stop="20200607163000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607163000 -0400" stop="20200607170000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607170000 -0400" stop="20200607173000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607173000 -0400" stop="20200607180000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607180000 -0400" stop="20200607183000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607183000 -0400" stop="20200607190000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607190000 -0400" stop="20200607193000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607193000 -0400" stop="20200607200000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607200000 -0400" stop="20200607203000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607203000 -0400" stop="20200607210000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607210000 -0400" stop="20200607213000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607213000 -0400" stop="20200607220000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200607220000 -0400" stop="20200607223000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607223000 -0400" stop="20200607230000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607230000 -0400" stop="20200607233000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200607233000 -0400" stop="20200608000000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608000000 -0400" stop="20200608003000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608003000 -0400" stop="20200608010000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608010000 -0400" stop="20200608013000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608013000 -0400" stop="20200608020000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608020000 -0400" stop="20200608023000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608023000 -0400" stop="20200608030000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608030000 -0400" stop="20200608033000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608033000 -0400" stop="20200608040000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608040000 -0400" stop="20200608043000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608043000 -0400" stop="20200608050000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608050000 -0400" stop="20200608053000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608053000 -0400" stop="20200608060000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin 5h30</title>
+    <desc lang="en">En compagnie de Jean-François Guérin et de Cindy Royer, débutez votre journée en étant bien informé avec l'actualité, la météo, la circulation et les sports.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200608060000 -0400" stop="20200608100000 -0400" channel="LCN">
+    <title lang="en">Le Québec matin</title>
+    <desc lang="en">Le seul rendez-vous matinal complètement axé sur les nouvelles de l'heure.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608100000 -0400" stop="20200608120000 -0400" channel="LCN">
+    <title lang="en">Mario Dumont</title>
+    <desc lang="en">Pour approfondir l'actualité, comprendre ce qui se passe dans tous les secteurs de la société: politique, santé, économie, éducation, etc. Pour des entrevues avec les acteurs de l'actualité et les nouvelles de la matinée.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200608120000 -0400" stop="20200608133000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608133000 -0400" stop="20200608165800 -0400" channel="LCN">
+    <title lang="en">100% nouvelles</title>
+    <desc lang="en">Paul Larocque et Julie Marcoux suivent en direct les nouvelles des quatre coins du Quebec.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200608165800 -0400" stop="20200608175900 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608175900 -0400" stop="20200608183000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608183000 -0400" stop="20200608190000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608190000 -0400" stop="20200608200000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200608200000 -0400" stop="20200608203000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200608203000 -0400" stop="20200608210000 -0400" channel="LCN">
+    <title lang="en">100% nouvelles</title>
+    <desc lang="en">Paul Larocque et Julie Marcoux suivent en direct les nouvelles des quatre coins du Quebec.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200608210000 -0400" stop="20200608213000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200608213000 -0400" stop="20200608220000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200608220000 -0400" stop="20200608223000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608223000 -0400" stop="20200608230000 -0400" channel="LCN">
+    <title lang="en">LCN maintenant</title>
+    <desc lang="en">Émission d'information animée par Julie Marcoux.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200608230000 -0400" stop="20200608233000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme start="20200608233000 -0400" stop="20200609000000 -0400" channel="LCN">
+    <title lang="en">TVA nouvelles</title>
+    <desc lang="en">Le bulletin des informations marquantes de la journée.(n)</desc>
+    <category lang="en">News</category>
     <rating system="US">
       <value>TVG</value>
     </rating>

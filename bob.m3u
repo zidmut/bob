@@ -8,3 +8,6 @@ http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27117&checkedby:ipt
 
 #EXTINF:-1 tvg-ID="Z Tele" tvg-name="Z Tele" tvg-logo="https://s3.amazonaws.com/ok2logo/ztele.png" group-title="1 - Quebec",Z Tele
 http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27117&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Canal Vie" tvg-name="Canal Vie" tvg-logo="https://s3.amazonaws.com/ok2logo/canalvie.png" group-title="1 - Quebec",Canal Vie
+http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/50248?checkedby:iptvcat.com

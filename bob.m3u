@@ -18,7 +18,7 @@ http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/50248
 #EXTINF:-1 tvg-id="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS+LOGO.jpg" group-title="2 - Sports",RDS
 http://s16tv.co:80/121212/121212/71130?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="RDS2" tvg-name="RDS2" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS.jpg" group-title=2 - Sports",RDS2
+#EXTINF:-1 tvg-id="RDS 2" tvg-name="RDS 2" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS.jpg" group-title=2 - Sports",RDS 2
 http://loginto.live:80/EPJY3St56/K6s2ruk8O0/13870?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="RDS-INFO" tvg-name="RDS-INFO" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS+INFO+LOGO.jpg" group-title="2 - Sports",RDS Info

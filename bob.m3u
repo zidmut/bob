@@ -31,12 +31,13 @@ http://disfruta.net:80/live/user23/user23/3133.m3u8?checkedby:iptvcat.com
 http://disfruta.net:80/user23/user23/3154?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-name="TSN 2" tvg-id="TSN 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn2.png" group-title="2 - Sports",TSN 2
-
+http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/601.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-name="TSN 3" tvg-id="TSN 3" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn3.png" group-title="2 - Sports",TSN 3
-
+http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/602.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-name="TSN 4" tvg-id="TSN 4" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn4.png" group-title="2 - Sports",TSN 4
-
+http://disfruta.net:80/user23/user23/3159?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-name="TSN 5" tvg-id="TSN 5" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn5.png" group-title="2 - Sports",TSN 5
+http://disfruta.net:80/live/user23/user23/3161.m3u8?checkedby:iptvcat.com

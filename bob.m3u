@@ -15,11 +15,28 @@ http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/50248?checkedby:iptvc
 #EXTINF:-1 tvg-id="LCN" tvg-name="LCN" tvg-logo="https://s3.amazonaws.com/ok2logo/LCN.gif" group-title="1 - Quebec",LCN
 http://tvone.millenium-ott.com:25443/2K4GntTQku/LKc87MQSVW/50248
 
-#EXTINF:-1 tvg-id="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS+LOGO.jpg" group-title="2 - Sports",RDS
+#EXTINF:-1 tvg-name="RDI" tvg-id="RDI" tvg-logo="https://s3.amazonaws.com/ok2logo/rdi.png" group-title="1 - Quebec",RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="RDS" tvg-name="RDS" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="2 - Sports",RDS
 http://disfruta.net:80/live/user23/user23/3131.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="RDS 2" tvg-name="RDS 2" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS.jpg" group-title=2 - Sports",RDS 2
+#EXTINF:-1 tvg-id="RDS 2" tvg-name="RDS 2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title=2 - Sports",RDS 2
 http://disfruta.net:80/live/user23/user23/3132.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="RDS-INFO" tvg-name="RDS-INFO" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS+INFO+LOGO.jpg" group-title="2 - Sports",RDS Info
 http://disfruta.net:80/live/user23/user23/3133.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name="TSN 1" tvg-id="TSN 1" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn1.png" group-title="2 - Sports",TSN 1
+http://disfruta.net:80/user23/user23/3154?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-name="TSN 2" tvg-id="TSN 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn2.png" group-title="2 - Sports",TSN 2
+
+
+#EXTINF:-1 tvg-name="TSN 3" tvg-id="TSN 3" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn3.png" group-title="2 - Sports",TSN 3
+
+
+#EXTINF:-1 tvg-name="TSN 4" tvg-id="TSN 4" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn4.png" group-title="2 - Sports",TSN 4
+
+
+#EXTINF:-1 tvg-name="TSN 5" tvg-id="TSN 5" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn5.png" group-title="2 - Sports",TSN 5

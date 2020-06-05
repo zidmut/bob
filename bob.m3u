@@ -30,7 +30,7 @@ http://disfruta.net:80/live/user23/user23/3133.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-ID="TVA Sports" tvg-name="TVA Sports" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="FRENCH",TVA Sports
 http://ok2.se/live/singh.gurkarnsingh@gmail.com/xutasefb/2406.ts
 
-#EXTINF:-1 tvg-ID="TVA 2" tvg-name="TVA 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="FRENCH",TVA 2
+#EXTINF:-1 tvg-ID="TVA Sports 2" tvg-name="TVA Sports 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="FRENCH",TVA Sports 2
 http://ok2.se/live/singh.gurkarnsingh@gmail.com/xutasefb/2406.ts
 
 #EXTINF:-1 tvg-name="TSN 1" tvg-id="TSN 1" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn1.png" group-title="2 - Sports",TSN 1
@@ -48,8 +48,12 @@ http://disfruta.net:80/user23/user23/3159?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="TSN 5" tvg-id="TSN 5" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn5.png" group-title="2 - Sports",TSN 5
 http://disfruta.net:80/live/user23/user23/3161.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-name="Sportsnet 360" tvg-id="Sportsnet 360 HD" tvg-logo="https://s3.amazonaws.com/ok2logo/sportsnet360.png" group-title="2 - Sports",Sportsnet 360
+#EXTINF:-1 tvg-name="Sportsnet 360" tvg-id="Sportsnet 360" tvg-logo="https://s3.amazonaws.com/ok2logo/sportsnet360.png" group-title="2 - Sports",Sportsnet 360
 http://loginto.live:80/EPJY3St56/K6s2ruk8O0/594?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-id="Sportsnet Ontario" tvg-logo="https://s3.amazonaws.com/ok2logo/sportsnetont.png" group-title="2 - Sports",Sportsnet Ontario
 http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/4830.m3u8?checkedby:iptvcat.com
+
+EXTINF:-1 tvg-name="AMC" tvg-id="AMC" tvg-logo="https://s3.amazonaws.com/ok2logo/amc.png" group-title="ENGLISH",AMC
+http://loginto.live:80/live/fWRHV5JyW/u142XknY8x/13346.m3u8?checkedby:iptvcat.com
+

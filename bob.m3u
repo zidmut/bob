@@ -24,8 +24,14 @@ http://disfruta.net:80/live/user23/user23/3131.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="RDS 2" tvg-name="RDS 2" tvg-logo="https://s3.amazonaws.com/ok2logo/rds2.png" group-title=2 - Sports",RDS 2
 http://disfruta.net:80/live/user23/user23/3132.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="RDS-INFO" tvg-name="RDS-INFO" tvg-logo="https://s3.amazonaws.com/ok2logo/RDS+INFO+LOGO.jpg" group-title="2 - Sports",RDS Info
+#EXTINF:-1 tvg-id="RDS-INFO" tvg-name="RDS-INFO" tvg-logo="https://s3.amazonaws.com/ok2logo/rds.png" group-title="2 - Sports",RDS Info
 http://disfruta.net:80/live/user23/user23/3133.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-ID="TVA 1" tvg-name="TVA 1" tvg-logo="https://s3.amazonaws.com/ok2logo/tva1.png" group-title="FRENCH",TVA 1
+http://ok2.se/live/singh.gurkarnsingh@gmail.com/xutasefb/2406.ts
+
+#EXTINF:-1 tvg-ID="TVA 2" tvg-name="TVA 2" tvg-logo="https://s3.amazonaws.com/ok2logo/tva2.png" group-title="FRENCH",TVA 2
+http://ok2.se/live/singh.gurkarnsingh@gmail.com/xutasefb/2406.ts
 
 #EXTINF:-1 tvg-name="TSN 1" tvg-id="TSN 1" tvg-logo="https://s3.amazonaws.com/ok2logo/tsn1.png" group-title="2 - Sports",TSN 1
 http://disfruta.net:80/user23/user23/3154?checkedby:iptvcat.com

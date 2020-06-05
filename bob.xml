@@ -32,7 +32,8 @@
   </channel>
   <channel id="TVA Sports 2">
     <display-name lang="en">TVA Sports 2</display-name>
-    <url>http://www.tvhebdo.com</url>
+    <icon src="http://cdn.tvpassport.com/image/station/240x135/tvasports.png" />
+    <url>http://www.tvpassport.com</url>
   </channel>
   <channel id="RDS">
     <display-name lang="en">RDS</display-name>
@@ -9800,897 +9801,962 @@
     <category lang="en">Sports</category>
     <category lang="en">Miscellaneous</category>
   </programme>
+  <programme start="20200604060000 -0400" stop="20200604070000 -0400" channel="TVA Sports 2">
+    <title lang="en">JiC</title>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200604070000 -0400" stop="20200604080000 -0400" channel="TVA Sports 2">
+    <title lang="en">Dave Morissette en direct</title>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200604080000 -0400" stop="20200604083000 -0400" channel="TVA Sports 2">
+    <title lang="en">Femmes de sport</title>
+    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200604083000 -0400" stop="20200604090000 -0400" channel="TVA Sports 2">
+    <title lang="en">WTA: mon histoire</title>
+    <desc lang="en">WTA: mon histoire.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200604090000 -0400" stop="20200604120000 -0400" channel="TVA Sports 2">
+    <title lang="en">Les meilleurs moments</title>
+    <sub-title lang="en">Rafael Nadal c. Denis Shapovalov, 10 août 2017</sub-title>
+    <desc lang="en">Les meilleurs moments.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200604120000 -0400" stop="20200604123000 -0400" channel="TVA Sports 2">
+    <title lang="en">Wild surf</title>
+    <desc lang="en">Un tour d'horizon de ce qui fait fureur dans le monde du surf.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+  </programme>
+  <programme start="20200604123000 -0400" stop="20200604130000 -0400" channel="TVA Sports 2">
+    <title lang="en">Point culminant</title>
+    <desc lang="en">Un portrait intime d'un athlète quelques jours avant qu'il ne réalise son exploit.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+  </programme>
+  <programme start="20200604130000 -0400" stop="20200604133000 -0400" channel="TVA Sports 2">
+    <title lang="en">Alexis le randonneur</title>
+    <desc lang="en">Alexis le randonneur nous fait découvrir un secret bien gardé de la Mauricie, le sentier du mont Otis et son superbe panorama à 180 degrés sur la rivière Batiscan et les collines vertes qui l'entourent.(n)</desc>
+    <category lang="en">Travel</category>
+  </programme>
+  <programme start="20200604133000 -0400" stop="20200604140000 -0400" channel="TVA Sports 2">
+    <title lang="en">ABC de...</title>
+    <desc lang="en">ABC de...(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200604140000 -0400" stop="20200604143000 -0400" channel="TVA Sports 2">
+    <title lang="en">Red Bull Cliff Diving: les plus grandes rivalités</title>
+    <desc lang="en">Rivalries in cliff diving.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+  </programme>
+  <programme start="20200604143000 -0400" stop="20200604170000 -0400" channel="TVA Sports 2">
+    <title lang="en">Dans le ring</title>
+    <sub-title lang="en">Ulysse vs. Claggett</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200604170000 -0400" stop="20200604180000 -0400" channel="TVA Sports 2">
+    <title lang="en">JiC</title>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200604180000 -0400" stop="20200604190000 -0400" channel="TVA Sports 2">
+    <title lang="en">JiC</title>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200604190000 -0400" stop="20200604223000 -0400" channel="TVA Sports 2">
+    <title lang="en">Les meilleurs moments</title>
+    <sub-title lang="en">Coupe Vanier 2016: Rouge et Or de Laval c. Dinos de Calgary</sub-title>
+    <desc lang="en">Les meilleurs moments.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200604223000 -0400" stop="20200604233000 -0400" channel="TVA Sports 2">
+    <title lang="en">Dave Morissette en direct</title>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
   <programme start="20200604233000 -0400" stop="20200605003000 -0400" channel="TVA Sports 2">
-    <title lang="en">Lutte WWE Raw</title>
-    <sub-title lang="en">Épisode 1410</sub-title>
+    <title lang="en">RAW</title>
     <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
   </programme>
   <programme start="20200605003000 -0400" stop="20200605040000 -0400" channel="TVA Sports 2">
     <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Rouge et Or Laval c. Dinos Calgary</sub-title>
-    <desc lang="en">Coupe Vanier 2016 - Rouge et Or Laval c. Dinos Calgary.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Coupe Vanier 2016: Rouge et Or de Laval c. Dinos de Calgary</sub-title>
+    <desc lang="en">Les meilleurs moments.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200605040000 -0400" stop="20200605050000 -0400" channel="TVA Sports 2">
     <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
   </programme>
   <programme start="20200605050000 -0400" stop="20200605053000 -0400" channel="TVA Sports 2">
     <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Athlétisme</sub-title>
-    <desc lang="en">Athlétisme.(n)</desc>
-    <category lang="en">Sport</category>
+    <desc lang="en">Les icônes du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200605053000 -0400" stop="20200605060000 -0400" channel="TVA Sports 2">
     <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 112</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
   </programme>
   <programme start="20200605060000 -0400" stop="20200605070000 -0400" channel="TVA Sports 2">
     <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200605070000 -0400" stop="20200605080000 -0400" channel="TVA Sports 2">
     <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
   </programme>
   <programme start="20200605080000 -0400" stop="20200605113000 -0400" channel="TVA Sports 2">
     <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Rouge et Or Laval c. Dinos Calgary</sub-title>
-    <desc lang="en">Coupe Vanier 2016 - Rouge et Or Laval c. Dinos Calgary.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Coupe Vanier 2016: Rouge et Or de Laval c. Dinos de Calgary</sub-title>
+    <desc lang="en">Les meilleurs moments.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200605113000 -0400" stop="20200605120000 -0400" channel="TVA Sports 2">
     <title lang="en">Roadfish</title>
-    <sub-title lang="en">Épisode 307</sub-title>
-    <desc lang="en">L'animateur Daniel Gagné et son équipe parcourent les flots vers des escapades de pêche HD.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <desc lang="en">Daniel Gagné et son équipe  parcourent les flots vers des escapades de pêche.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
   </programme>
   <programme start="20200605120000 -0400" stop="20200605123000 -0400" channel="TVA Sports 2">
     <title lang="en">Expédition faune</title>
-    <sub-title lang="en">Épisode 602</sub-title>
-    <desc lang="en">Emma , 12 ans, fait sa première chasse à l'ours en compagnie de son père Marc à la pourvoirie Lac Brûlé.(n)</desc>
-    <date>2005</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">5.1.</episode-num>
+    <desc lang="en">La pêche, la chasse, ses plaisirs et destinations qui amènent à découvrir des lieux et des passions.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hunting</category>
   </programme>
   <programme start="20200605123000 -0400" stop="20200605130000 -0400" channel="TVA Sports 2">
-    <title lang="en">QVO (Québec à vol d'oiseau)</title>
-    <sub-title lang="en">Pêche du saumon de l'atlantique</sub-title>
+    <title lang="en">Québec à vol d'oiseau</title>
+    <sub-title lang="en">Pêche du saumon de l'atlantique dans la prestigieuse rivière Corneille</sub-title>
     <desc lang="en">Charles Huot de la pourvoirie Rivière Corneille invite notre animateur José Boily pour une pêche au saumon à la mouche sur la Côte-Nord.(n)</desc>
-    <date>2010</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">4.9.</episode-num>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200605130000 -0400" stop="20200605133000 -0400" channel="TVA Sports 2">
-    <title lang="en">Golf mag</title>
+    <title lang="en">Golf Mag</title>
     <sub-title lang="en">Club de golf East Angus</sub-title>
-    <desc lang="en">Le club de golf East Angus. Ce beau parcours de la région de Magog-Sherbrooke en Estrie gagne à être connu. On y joue le trou signature avec Yves Mandeville, professionnel de l'endroit. Jérôme nous parle d'initier les jeunes au golf.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.6.</episode-num>
+    <desc lang="en">Ce beau parcours de la région de Magog-Sherbrooke en Estrie gagne à être connu. On y joue le trou signature avec Yves Mandeville, professionnel de l'endroit.  Jérôme nous parle d'initier les jeunes au golf.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
   </programme>
   <programme start="20200605133000 -0400" stop="20200605140000 -0400" channel="TVA Sports 2">
     <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
+    <desc lang="en">Les dernières nouvelles de la MLS incluant des entrevues exclusives et l'analyse de nos experts.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20200605140000 -0400" stop="20200605143000 -0400" channel="TVA Sports 2">
     <title lang="en">Les icônes du sport</title>
     <sub-title lang="en">Tennis</sub-title>
-    <desc lang="en">Tennis.(n)</desc>
-    <category lang="en">Sport</category>
+    <desc lang="en">Les icônes du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200605143000 -0400" stop="20200605170000 -0400" channel="TVA Sports 2">
     <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Francesco Cotroni c. Steve Lantagne</sub-title>
-    <desc lang="en">Les animateurs Jean-Charles Lajoie et Michel Bilodeau commentent des combats de boxe fort enlevants à voir ou à revoir. Cet épisode: Francesco Cotroni c. Steve Lantagne.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Cotroni c. Lantagne</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
   </programme>
   <programme start="20200605170000 -0400" stop="20200605180000 -0400" channel="TVA Sports 2">
     <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200605180000 -0400" stop="20200605190000 -0400" channel="TVA Sports 2">
     <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200605190000 -0400" stop="20200605210000 -0400" channel="TVA Sports 2">
-    <title lang="en">Euro</title>
-    <sub-title lang="en">Espagne c. Allemagne</sub-title>
-    <desc lang="en">Le 29 juin 2008, finale du championnat d'Europe 2008. Du stade Ernst-Happel de Vienne, en Autriche, Espagne contre Allemagne.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <title lang="en">Spain vs. Germany</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20200605210000 -0400" stop="20200605220000 -0400" channel="TVA Sports 2">
     <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20200605220000 -0400" stop="20200606003000 -0400" channel="TVA Sports 2">
-    <title lang="en">Lutte WWE Raw</title>
-    <sub-title lang="en">Épisode 1410</sub-title>
+  <programme start="20200605220000 -0400" stop="20200605230000 -0400" channel="TVA Sports 2">
+    <title lang="en">RAW</title>
     <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
   </programme>
-  <programme start="20200606003000 -0400" stop="20200606040000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Rouge et Or Laval c. Dinos Calgary</sub-title>
-    <desc lang="en">Coupe Vanier 2016 - Rouge et Or Laval c. Dinos Calgary.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+  <programme start="20200605230000 -0400" stop="20200606010000 -0400" channel="TVA Sports 2">
+    <title lang="en">Dans le ring</title>
+    <sub-title lang="en">Jean Pascal c. Sergey Kovalev</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200606010000 -0400" stop="20200606013000 -0400" channel="TVA Sports 2">
+    <title lang="en">Red Bull Cliff Diving: les plus grandes rivalités</title>
+    <desc lang="en">Rivalries in cliff diving.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
+  </programme>
+  <programme start="20200606013000 -0400" stop="20200606020000 -0400" channel="TVA Sports 2">
+    <title lang="en">Hommage</title>
+    <desc lang="en">Hommage aux athlètes qui ont élevé leur niveau de jeu.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200606020000 -0400" stop="20200606040000 -0400" channel="TVA Sports 2">
+    <title lang="en">Spain vs. Germany</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20200606040000 -0400" stop="20200606050000 -0400" channel="TVA Sports 2">
     <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
   </programme>
   <programme start="20200606050000 -0400" stop="20200606053000 -0400" channel="TVA Sports 2">
     <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Athlétisme</sub-title>
-    <desc lang="en">Athlétisme.(n)</desc>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Spécial Champions du monde</sub-title>
+    <desc lang="en">Les icônes du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200606053000 -0400" stop="20200606060000 -0400" channel="TVA Sports 2">
     <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 112</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
   </programme>
   <programme start="20200606060000 -0400" stop="20200606070000 -0400" channel="TVA Sports 2">
     <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200606070000 -0400" stop="20200606080000 -0400" channel="TVA Sports 2">
     <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20200606080000 -0400" stop="20200606113000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">Rouge et Or Laval c. Dinos Calgary</sub-title>
-    <desc lang="en">Coupe Vanier 2016 - Rouge et Or Laval c. Dinos Calgary.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+  <programme start="20200606080000 -0400" stop="20200606083000 -0400" channel="TVA Sports 2">
+    <title lang="en">Alexis le randonneur</title>
+    <desc lang="en">Alexis le randonneur nous transporte dans la région du Saguenay dans le Parc national du fjord du Saguenay.(n)</desc>
+    <category lang="en">Travel</category>
   </programme>
-  <programme start="20200606113000 -0400" stop="20200606120000 -0400" channel="TVA Sports 2">
+  <programme start="20200606083000 -0400" stop="20200606090000 -0400" channel="TVA Sports 2">
+    <title lang="en">Canada in the Rough</title>
+    <desc lang="en">Des expériences de chasses extraordinaires pour éduquer, informer et divertir.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
+  </programme>
+  <programme start="20200606090000 -0400" stop="20200606093000 -0400" channel="TVA Sports 2">
     <title lang="en">Roadfish</title>
-    <sub-title lang="en">Épisode 307</sub-title>
-    <desc lang="en">L'animateur Daniel Gagné et son équipe parcourent les flots vers des escapades de pêche HD.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.6.</episode-num>
+    <desc lang="en">Daniel Gagné et son équipe  parcourent les flots vers des escapades de pêche.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
   </programme>
-  <programme start="20200606120000 -0400" stop="20200606123000 -0400" channel="TVA Sports 2">
+  <programme start="20200606093000 -0400" stop="20200606100000 -0400" channel="TVA Sports 2">
     <title lang="en">Expédition faune</title>
-    <sub-title lang="en">Épisode 602</sub-title>
-    <desc lang="en">Emma , 12 ans, fait sa première chasse à l'ours en compagnie de son père Marc à la pourvoirie Lac Brûlé.(n)</desc>
-    <date>2005</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">5.1.</episode-num>
+    <desc lang="en">La pêche, la chasse, ses plaisirs et destinations qui amènent à découvrir des lieux et des passions.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hunting</category>
   </programme>
-  <programme start="20200606123000 -0400" stop="20200606130000 -0400" channel="TVA Sports 2">
-    <title lang="en">QVO (Québec à vol d'oiseau)</title>
-    <sub-title lang="en">Pêche du saumon de l'atlantique</sub-title>
-    <desc lang="en">Charles Huot de la pourvoirie Rivière Corneille invite notre animateur José Boily pour une pêche au saumon à la mouche sur la Côte-Nord.(n)</desc>
-    <date>2010</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">4.9.</episode-num>
+  <programme start="20200606100000 -0400" stop="20200606110000 -0400" channel="TVA Sports 2">
+    <title lang="en">RAW</title>
+    <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
   </programme>
-  <programme start="20200606130000 -0400" stop="20200606133000 -0400" channel="TVA Sports 2">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">Club de golf East Angus</sub-title>
-    <desc lang="en">Le club de golf East Angus. Ce beau parcours de la région de Magog-Sherbrooke en Estrie gagne à être connu. On y joue le trou signature avec Yves Mandeville, professionnel de l'endroit. Jérôme nous parle d'initier les jeunes au golf.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.6.</episode-num>
+  <programme start="20200606110000 -0400" stop="20200606113000 -0400" channel="TVA Sports 2">
+    <title lang="en">Hommage</title>
+    <desc lang="en">Hommage aux athlètes qui ont élevé leur niveau de jeu.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200606133000 -0400" stop="20200606140000 -0400" channel="TVA Sports 2">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">mai</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
+  <programme start="20200606113000 -0400" stop="20200606133000 -0400" channel="TVA Sports 2">
+    <title lang="en">Spain vs. Germany</title>
+    <desc lang="en">Finale.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200606140000 -0400" stop="20200606143000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Tennis</sub-title>
-    <desc lang="en">Tennis.(n)</desc>
-    <category lang="en">Sport</category>
+  <programme start="20200606133000 -0400" stop="20200606150000 -0400" channel="TVA Sports 2">
+    <title lang="en">Hockey 24</title>
+    <desc lang="en">Des histoires inspirantes de partout au pays qui démontre l'impact du sport sur notre vie de tous les jours.(n)</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20200606143000 -0400" stop="20200606170000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Francesco Cotroni c. Steve Lantagne</sub-title>
-    <desc lang="en">Les animateurs Jean-Charles Lajoie et Michel Bilodeau commentent des combats de boxe fort enlevants à voir ou à revoir. Cet épisode: Francesco Cotroni c. Steve Lantagne.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200606170000 -0400" stop="20200606180000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200606180000 -0400" stop="20200606190000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 05 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+  <programme start="20200606150000 -0400" stop="20200606190000 -0400" channel="TVA Sports 2">
+    <title lang="en">Soirée vintage</title>
+    <sub-title lang="en">Expos de Montréal c. Mets de New York, 2 mai 1987</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
   <programme start="20200606190000 -0400" stop="20200606210000 -0400" channel="TVA Sports 2">
-    <title lang="en">Euro</title>
-    <sub-title lang="en">Espagne c. Allemagne</sub-title>
-    <desc lang="en">Le 29 juin 2008, finale du championnat d'Europe 2008. Du stade Ernst-Happel de Vienne, en Autriche, Espagne contre Allemagne.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <title lang="en">Soirée vintage</title>
+    <sub-title lang="en">Sénateurs d'Ottawa c. Canadiens de Montréal Match #4, 22 avril 2015</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
-  <programme start="20200606210000 -0400" stop="20200606220000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
+  <programme start="20200606210000 -0400" stop="20200606223000 -0400" channel="TVA Sports 2">
+    <title lang="en">Hockey 24</title>
+    <desc lang="en">Des histoires inspirantes de partout au pays qui démontre l'impact du sport sur notre vie de tous les jours.(n)</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20200606220000 -0400" stop="20200606230000 -0400" channel="TVA Sports 2">
-    <title lang="en">Lutte WWE Raw</title>
-    <sub-title lang="en">Épisode 1410</sub-title>
-    <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200606230000 -0400" stop="20200607010000 -0400" channel="TVA Sports 2">
+  <programme start="20200606223000 -0400" stop="20200607003000 -0400" channel="TVA Sports 2">
     <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Jean Pascal c. Sergey Kovalev</sub-title>
-    <desc lang="en">Présentation du premier combat entre Jean Pascal et Sergey Kovalev.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Jean Pascal c. Georges Blades</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200607003000 -0400" stop="20200607010000 -0400" channel="TVA Sports 2">
+    <title lang="en">Femmes de sport</title>
+    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200607010000 -0400" stop="20200607013000 -0400" channel="TVA Sports 2">
-    <title lang="en">Red Bull Cliff Diving, les plus grandes rivalités</title>
-    <desc lang="en">Depuis 2009, les Red Bull Cliff Diving World Series sont le théâtre de grandes compétitions et de rivalités inspirantes. Retour sur les compétitions les plus épiques et les plus surprenantes de l'histoire de ce sport.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <title lang="en">ABC de...</title>
+    <desc lang="en">ABC de...(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200607013000 -0400" stop="20200607020000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 115</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607020000 -0400" stop="20200607040000 -0400" channel="TVA Sports 2">
-    <title lang="en">Euro</title>
-    <sub-title lang="en">Espagne c. Allemagne</sub-title>
-    <desc lang="en">Le 29 juin 2008, finale du championnat d'Europe 2008. Du stade Ernst-Happel de Vienne, en Autriche, Espagne contre Allemagne.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607040000 -0400" stop="20200607050000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607050000 -0400" stop="20200607053000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Spécial Champions du monde</sub-title>
-    <desc lang="en">Spécial Champions du monde.(n)</desc>
-    <category lang="en">Sport</category>
+  <programme start="20200607013000 -0400" stop="20200607053000 -0400" channel="TVA Sports 2">
+    <title lang="en">Soirée vintage</title>
+    <sub-title lang="en">Expos de Montréal c. Mets de New York, 2 mai 1987</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
   <programme start="20200607053000 -0400" stop="20200607060000 -0400" channel="TVA Sports 2">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 113</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-  </programme>
-  <programme start="20200607060000 -0400" stop="20200607070000 -0400" channel="TVA Sports 2">
-    <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 06 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607070000 -0400" stop="20200607080000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607080000 -0400" stop="20200607083000 -0400" channel="TVA Sports 2">
-    <title lang="en">Alexis le randonneur</title>
-    <sub-title lang="en">Épisode 106</sub-title>
-    <desc lang="en">Alexis le randonneur nous transporte dans la région du Saguenay dans le Parc national du fjord du Saguenay. Avec son invité Benoit Tremblay, il parcourra le sentier de la statue du cap Trinité.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607083000 -0400" stop="20200607090000 -0400" channel="TVA Sports 2">
-    <title lang="en">Canada in the Rough</title>
-    <sub-title lang="en">Épisode 1510</sub-title>
-    <desc lang="en">Épisode 1510.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">14.9.</episode-num>
-  </programme>
-  <programme start="20200607090000 -0400" stop="20200607093000 -0400" channel="TVA Sports 2">
-    <title lang="en">Roadfish</title>
-    <sub-title lang="en">Épisode 308</sub-title>
-    <desc lang="en">L'animateur Daniel Gagné et son équipe parcourent les flots vers des escapades de pêche HD.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
-  </programme>
-  <programme start="20200607093000 -0400" stop="20200607100000 -0400" channel="TVA Sports 2">
-    <title lang="en">Expédition faune</title>
-    <sub-title lang="en">Épisode 603</sub-title>
-    <desc lang="en">Une première visite au Yukon en hiver pour notre animateur. Voyez de splendide décor et une faune abondante. Une pêche sur glace à l'omble chevalier et le touladis.(n)</desc>
-    <date>2005</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">5.2.</episode-num>
-  </programme>
-  <programme start="20200607100000 -0400" stop="20200607110000 -0400" channel="TVA Sports 2">
-    <title lang="en">Lutte WWE Raw</title>
-    <sub-title lang="en">Épisode 1410</sub-title>
-    <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607110000 -0400" stop="20200607113000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 115</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607113000 -0400" stop="20200607133000 -0400" channel="TVA Sports 2">
-    <title lang="en">Euro</title>
-    <sub-title lang="en">Espagne c. Allemagne</sub-title>
-    <desc lang="en">Le 29 juin 2008, finale du championnat d'Europe 2008. Du stade Ernst-Happel de Vienne, en Autriche, Espagne contre Allemagne.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607133000 -0400" stop="20200607150000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hockey 24</title>
-    <desc lang="en">Can. 2020. Documentaire qui nous permet de partager des histoires inspirantes de partout au pays et qui démontre l'impact du sport sur notre vie de tous les jours.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Documentaire</category>
-  </programme>
-  <programme start="20200607150000 -0400" stop="20200607190000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Expos Montréal c. Mets New York 02/05/1987</sub-title>
-    <desc lang="en">Le 2 mai 1987, les Expos de Montréal affrontent les Mets de New York.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607190000 -0400" stop="20200607210000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #4</sub-title>
-    <desc lang="en">Le 22 avril 2015. Match #4. Sénateurs Ottawa c. Canadiens Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200607210000 -0400" stop="20200607223000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hockey 24</title>
-    <desc lang="en">Can. 2020. Documentaire qui nous permet de partager des histoires inspirantes de partout au pays et qui démontre l'impact du sport sur notre vie de tous les jours.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Documentaire</category>
-  </programme>
-  <programme start="20200607223000 -0400" stop="20200608003000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Jean Pascal c. George Blades</sub-title>
-    <desc lang="en">Jean Pascal c. George Blades.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200608003000 -0400" stop="20200608010000 -0400" channel="TVA Sports 2">
     <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 109</sub-title>
     <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200608010000 -0400" stop="20200608013000 -0400" channel="TVA Sports 2">
-    <title lang="en">ABC de</title>
-    <sub-title lang="en">Épisode 301</sub-title>
-    <desc lang="en">Découvrez les sports et les compétitions les plus difficiles au monde. De la compréhension du jargon à la connaissance des règles, cette émission est le cours intensif idéal pour comprendre ces compétitions.(n)</desc>
-    <date>2018</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
+  <programme start="20200607060000 -0400" stop="20200607063000 -0400" channel="TVA Sports 2">
+    <title lang="en">Golf Mag</title>
+    <desc lang="en">Conseils pour les passionnés du golf.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
   </programme>
-  <programme start="20200608013000 -0400" stop="20200608053000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Expos Montréal c. Mets New York 02/05/1987</sub-title>
-    <desc lang="en">Le 2 mai 1987, les Expos de Montréal affrontent les Mets de New York.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+  <programme start="20200607063000 -0400" stop="20200607070000 -0400" channel="TVA Sports 2">
+    <title lang="en">Wild surf</title>
+    <desc lang="en">Un tour d'horizon de ce qui fait fureur dans le monde du surf.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
   </programme>
-  <programme start="20200608053000 -0400" stop="20200608060000 -0400" channel="TVA Sports 2">
+  <programme start="20200607070000 -0400" stop="20200607073000 -0400" channel="TVA Sports 2">
+    <title lang="en">Wild surf</title>
+    <desc lang="en">Un tour d'horizon de ce qui fait fureur dans le monde du surf.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
+  </programme>
+  <programme start="20200607073000 -0400" stop="20200607080000 -0400" channel="TVA Sports 2">
     <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 109</sub-title>
     <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200608060000 -0400" stop="20200608063000 -0400" channel="TVA Sports 2">
-    <title lang="en">Golf mag</title>
-    <sub-title lang="en">Club de golf Tremblant</sub-title>
-    <desc lang="en">Les deux parcours de Tremblant, Le Diable et le Géant, sont à l'honneur dans cette émission où les images sur les vues de Tremblant sont inoubliables. Nous jouons une normale 4 avec Donald Lacasse directeur du golf.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">6.11.</episode-num>
-  </programme>
-  <programme start="20200608063000 -0400" stop="20200608070000 -0400" channel="TVA Sports 2">
-    <title lang="en">Wild Surf</title>
-    <sub-title lang="en">Épisode 301</sub-title>
-    <desc lang="en">Épisode 301: Exploration du monde du surf.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
-  </programme>
-  <programme start="20200608070000 -0400" stop="20200608073000 -0400" channel="TVA Sports 2">
-    <title lang="en">Wild Surf</title>
-    <sub-title lang="en">Épisode 302</sub-title>
-    <desc lang="en">Épisode 302: Exploration du monde du surf.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-  </programme>
-  <programme start="20200608073000 -0400" stop="20200608080000 -0400" channel="TVA Sports 2">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 109</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200608080000 -0400" stop="20200608100000 -0400" channel="TVA Sports 2">
+  <programme start="20200607080000 -0400" stop="20200607100000 -0400" channel="TVA Sports 2">
     <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Match #4</sub-title>
-    <desc lang="en">Le 22 avril 2015. Match #4. Sénateurs Ottawa c. Canadiens Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Sénateurs d'Ottawa c. Canadiens de Montréal Match #4, 22 avril 2015</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
-  <programme start="20200608100000 -0400" stop="20200608140000 -0400" channel="TVA Sports 2">
+  <programme start="20200607100000 -0400" stop="20200607140000 -0400" channel="TVA Sports 2">
     <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Expos Montréal c. Mets New York 02/05/1987</sub-title>
-    <desc lang="en">Le 2 mai 1987, les Expos de Montréal affrontent les Mets de New York.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Expos de Montréal c. Mets de New York, 2 mai 1987</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
-  <programme start="20200608140000 -0400" stop="20200608150000 -0400" channel="TVA Sports 2">
+  <programme start="20200607140000 -0400" stop="20200607150000 -0400" channel="TVA Sports 2">
     <title lang="en">Joie à Wrigleyville</title>
-    <desc lang="en">É.-U. Revivez la Série mondiale de 2016 à travers les yeux des amateurs de tous âges des Cubs de Chicago.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Documentaire</category>
+    <desc lang="en">Joie à Wrigleyville.(n)</desc>
+    <category lang="en">Documentary</category>
   </programme>
-  <programme start="20200608150000 -0400" stop="20200608170000 -0400" channel="TVA Sports 2">
-    <title lang="en">Pour toujours les Canadiens</title>
-    <desc lang="en">Can. 2009. Démotivé, un joueur étoile de hockey collégial reprend son souffle au contact d'un enfant malade passionné par les Canadiens de Montréal.(n)</desc>
+  <programme start="20200607150000 -0400" stop="20200607170000 -0400" channel="TVA Sports 2">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Pour toujours, les Canadiens!</sub-title>
+    <desc lang="en">William, un jeune joueur de hockey talentueux, se retrouve démotivé à cause de son père.(n)</desc>
     <credits>
       <director>Sylvain Archambault</director>
-      <director>Avec</director>
-      <director>Dhanaé Audet-Beaulieu</director>
-      <director>Antoine L'Écuyer</director>
-      <director>Céline Bonnier</director>
       <actor>Dhanaé Audet-Beaulieu</actor>
-      <actor>Antoine L'Écuyer</actor>
-      <actor>Céline Bonnier</actor>
+      <actor>Steve Begin</actor>
+      <actor>Jean Lapointe</actor>
     </credits>
-    <category lang="en">Comédie</category>
+    <date>2010</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Docu-Drama</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
   </programme>
-  <programme start="20200608170000 -0400" stop="20200608173000 -0400" channel="TVA Sports 2">
-    <title lang="en">ABC de</title>
-    <sub-title lang="en">Épisode 302</sub-title>
-    <desc lang="en">Découvrez les sports et les compétitions les plus difficiles au monde. De la compréhension du jargon à la connaissance des règles, cette émission est le cours intensif idéal pour comprendre ces compétitions.(n)</desc>
-    <date>2018</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
+  <programme start="20200607170000 -0400" stop="20200607173000 -0400" channel="TVA Sports 2">
+    <title lang="en">ABC de...</title>
+    <desc lang="en">ABC de...(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200608173000 -0400" stop="20200608183000 -0400" channel="TVA Sports 2">
-    <title lang="en">Lutte WWE Raw</title>
-    <sub-title lang="en">Épisode 1410</sub-title>
+  <programme start="20200607173000 -0400" stop="20200607183000 -0400" channel="TVA Sports 2">
+    <title lang="en">RAW</title>
     <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
   </programme>
-  <programme start="20200608183000 -0400" stop="20200608190000 -0400" channel="TVA Sports 2">
+  <programme start="20200607183000 -0400" stop="20200607190000 -0400" channel="TVA Sports 2">
     <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">juin</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
+    <desc lang="en">Les dernières nouvelles de la MLS incluant des entrevues exclusives et l'analyse de nos experts.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200608190000 -0400" stop="20200608210000 -0400" channel="TVA Sports 2">
+  <programme start="20200607190000 -0400" stop="20200607210000 -0400" channel="TVA Sports 2">
     <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">12/08/2017</sub-title>
-    <desc lang="en">Le 12 août 2017, l'Union de Philadelphie contre l'Impact de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Union de Philadelphie c. Impact de Montréal, 12 août 2017</sub-title>
+    <desc lang="en">Les meilleurs moments.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200608210000 -0400" stop="20200608213000 -0400" channel="TVA Sports 2">
+  <programme start="20200607210000 -0400" stop="20200607213000 -0400" channel="TVA Sports 2">
     <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">juin</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
+    <desc lang="en">Les dernières nouvelles de la MLS incluant des entrevues exclusives et l'analyse de nos experts.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
   </programme>
-  <programme start="20200608213000 -0400" stop="20200608220000 -0400" channel="TVA Sports 2">
+  <programme start="20200607213000 -0400" stop="20200607220000 -0400" channel="TVA Sports 2">
     <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 115</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
+    <desc lang="en">Hommage aux athlètes qui ont élevé leur niveau de jeu.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200608220000 -0400" stop="20200608223000 -0400" channel="TVA Sports 2">
+  <programme start="20200607220000 -0400" stop="20200607223000 -0400" channel="TVA Sports 2">
     <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 109</sub-title>
     <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200608223000 -0400" stop="20200609010000 -0400" channel="TVA Sports 2">
-    <title lang="en">Dans le ring en direct</title>
-    <sub-title lang="en">Ulysse c. Claggett</sub-title>
-    <desc lang="en">Ulysse c. Claggett.(n)</desc>
-    <date>2013</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200609010000 -0400" stop="20200609030000 -0400" channel="TVA Sports 2">
+  <programme start="20200607223000 -0400" stop="20200608010000 -0400" channel="TVA Sports 2">
     <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Jean Pascal c. George Blades</sub-title>
-    <desc lang="en">Jean Pascal c. George Blades.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Ulysse vs. Claggett</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20200609030000 -0400" stop="20200609053000 -0400" channel="TVA Sports 2">
+  <programme start="20200608010000 -0400" stop="20200608030000 -0400" channel="TVA Sports 2">
     <title lang="en">Dans le ring</title>
-    <sub-title lang="en">Francesco Cotroni c. Steve Lantagne</sub-title>
-    <desc lang="en">Les animateurs Jean-Charles Lajoie et Michel Bilodeau commentent des combats de boxe fort enlevants à voir ou à revoir. Cet épisode: Francesco Cotroni c. Steve Lantagne.(n)</desc>
-    <date>2011</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Jean Pascal c. Georges Blades</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200608030000 -0400" stop="20200608053000 -0400" channel="TVA Sports 2">
+    <title lang="en">Dans le ring</title>
+    <sub-title lang="en">Cotroni c. Lantagne</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20200608053000 -0400" stop="20200608060000 -0400" channel="TVA Sports 2">
+    <title lang="en">Vue sur le court</title>
+    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20200608060000 -0400" stop="20200608063000 -0400" channel="TVA Sports 2">
+    <title lang="en">Hommage</title>
+    <desc lang="en">Hommage aux athlètes qui ont élevé leur niveau de jeu.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608063000 -0400" stop="20200608070000 -0400" channel="TVA Sports 2">
+    <title lang="en">Hommage</title>
+    <desc lang="en">Hommage aux athlètes qui ont élevé leur niveau de jeu.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608070000 -0400" stop="20200608073000 -0400" channel="TVA Sports 2">
+    <title lang="en">Top 25 insolite</title>
+    <desc lang="en">Le top 25 des moments insolites dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608073000 -0400" stop="20200608080000 -0400" channel="TVA Sports 2">
+    <title lang="en">Top 25 insolite</title>
+    <desc lang="en">Le top 25 des moments insolites dans le monde du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608080000 -0400" stop="20200608083000 -0400" channel="TVA Sports 2">
+    <title lang="en">Les icônes du sport</title>
+    <sub-title lang="en">Tennis</sub-title>
+    <desc lang="en">Les icônes du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608083000 -0400" stop="20200608090000 -0400" channel="TVA Sports 2">
+    <title lang="en">ABC de...</title>
+    <desc lang="en">ABC de...(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608090000 -0400" stop="20200608093000 -0400" channel="TVA Sports 2">
+    <title lang="en">ABC de...</title>
+    <desc lang="en">ABC de...(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608093000 -0400" stop="20200608103000 -0400" channel="TVA Sports 2">
+    <title lang="en">Joie à Wrigleyville</title>
+    <desc lang="en">Joie à Wrigleyville.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200608103000 -0400" stop="20200608113000 -0400" channel="TVA Sports 2">
+    <title lang="en">Mike Trout: Millville à MVP</title>
+    <desc lang="en">Voyez l'ascension de Mike Trout d'une petite ville du New Jersey pour devenir sans doute l'un des meilleurs joueurs de baseball.(n)</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20200608113000 -0400" stop="20200608120000 -0400" channel="TVA Sports 2">
+    <title lang="en">Le top des tops</title>
+    <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608120000 -0400" stop="20200608123000 -0400" channel="TVA Sports 2">
+    <title lang="en">Femmes de sport</title>
+    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608123000 -0400" stop="20200608130000 -0400" channel="TVA Sports 2">
+    <title lang="en">La MLS cette semaine</title>
+    <desc lang="en">Les dernières nouvelles de la MLS incluant des entrevues exclusives et l'analyse de nos experts.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20200608130000 -0400" stop="20200608150000 -0400" channel="TVA Sports 2">
+    <title lang="en">Les meilleurs moments</title>
+    <sub-title lang="en">Union de Philadelphie c. Impact de Montréal, 12 août 2017</sub-title>
+    <desc lang="en">Les meilleurs moments.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608150000 -0400" stop="20200608170000 -0400" channel="TVA Sports 2">
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">Les Boys</sub-title>
+    <desc lang="en">Ayant contracté une dette de jeu, l'entraîneur d'une équipe de hockey amateur risque de tout perdre si ses joueurs ne gagnent pas un ultime match.(n)</desc>
+    <credits>
+      <director>Louis Saïa</director>
+      <actor>Remy Girard</actor>
+      <actor>Marc Messier</actor>
+      <actor>Patrick Huard</actor>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Comedy</category>
+    <rating system="US">
+      <value>TV14</value>
+    </rating>
+    <star-rating system="US">
+      <value>3</value>
+    </star-rating>
+  </programme>
+  <programme start="20200608170000 -0400" stop="20200608180000 -0400" channel="TVA Sports 2">
+    <title lang="en">JiC</title>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608180000 -0400" stop="20200608190000 -0400" channel="TVA Sports 2">
+    <title lang="en">JiC</title>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200608190000 -0400" stop="20200608220000 -0400" channel="TVA Sports 2">
+    <title lang="en">Soirée vintage</title>
+    <sub-title lang="en">Expos de Montréal c. Braves de Atlanta, 28 juin 1994</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200608220000 -0400" stop="20200608230000 -0400" channel="TVA Sports 2">
+    <title lang="en">Dave Morissette en direct</title>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200608230000 -0400" stop="20200608233000 -0400" channel="TVA Sports 2">
+    <title lang="en">MLB: Les moments marquants</title>
+    <desc lang="en">MLB: Les moments marquants.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200608233000 -0400" stop="20200609003000 -0400" channel="TVA Sports 2">
+    <title lang="en">4 Chevaliers</title>
+    <desc lang="en">Les aventures d'une équipe de softball humoristique légendaire.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200609003000 -0400" stop="20200609033000 -0400" channel="TVA Sports 2">
+    <title lang="en">Soirée vintage</title>
+    <sub-title lang="en">Expos de Montréal c. Braves de Atlanta, 28 juin 1994</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200609033000 -0400" stop="20200609043000 -0400" channel="TVA Sports 2">
+    <title lang="en">Dave Morissette en direct</title>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200609043000 -0400" stop="20200609050000 -0400" channel="TVA Sports 2">
+    <title lang="en">ABC de...</title>
+    <desc lang="en">ABC de...(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200609050000 -0400" stop="20200609053000 -0400" channel="TVA Sports 2">
+    <title lang="en">Les icônes du sport</title>
+    <desc lang="en">Les icônes du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200609053000 -0400" stop="20200609060000 -0400" channel="TVA Sports 2">
     <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 113</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Tennis</category>
   </programme>
-  <programme start="20200609060000 -0400" stop="20200609063000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 111</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
+  <programme start="20200609060000 -0400" stop="20200609070000 -0400" channel="TVA Sports 2">
+    <title lang="en">JiC</title>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200609063000 -0400" stop="20200609070000 -0400" channel="TVA Sports 2">
-    <title lang="en">Hommage</title>
-    <sub-title lang="en">Épisode 115</sub-title>
-    <desc lang="en">Cette série intemporelle rend hommage aux athlètes qui ont élevé leur niveau de jeu afin de faire vivre des moments mémorables aux spectateurs.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200609070000 -0400" stop="20200609073000 -0400" channel="TVA Sports 2">
-    <title lang="en">Top 25 insolite</title>
-    <sub-title lang="en">Épisode 314</sub-title>
-    <desc lang="en">Le top 25 des moment insolites dans le monde du sport au cours du mois de décembre 2017.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.13.</episode-num>
-  </programme>
-  <programme start="20200609073000 -0400" stop="20200609080000 -0400" channel="TVA Sports 2">
-    <title lang="en">Top 25 insolite</title>
-    <sub-title lang="en">Épisode 401</sub-title>
-    <desc lang="en">Animation : Louis-Simon Lapointe. Le top 25 des moment insolites dans le monde du sport au cours du mois de janvier.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.0.</episode-num>
+  <programme start="20200609070000 -0400" stop="20200609080000 -0400" channel="TVA Sports 2">
+    <title lang="en">Dave Morissette en direct</title>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
   </programme>
   <programme start="20200609080000 -0400" stop="20200609083000 -0400" channel="TVA Sports 2">
     <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Tennis</sub-title>
-    <desc lang="en">Tennis.(n)</desc>
-    <category lang="en">Sport</category>
+    <desc lang="en">Les icônes du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200609083000 -0400" stop="20200609090000 -0400" channel="TVA Sports 2">
-    <title lang="en">ABC de</title>
-    <sub-title lang="en">Épisode 301</sub-title>
-    <desc lang="en">Découvrez les sports et les compétitions les plus difficiles au monde. De la compréhension du jargon à la connaissance des règles, cette émission est le cours intensif idéal pour comprendre ces compétitions.(n)</desc>
-    <date>2018</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <title lang="en">Le Top MLB</title>
+    <sub-title lang="en">Juin</sub-title>
+    <desc lang="en">Les meilleurs moments dans la MLB.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
   </programme>
-  <programme start="20200609090000 -0400" stop="20200609093000 -0400" channel="TVA Sports 2">
-    <title lang="en">ABC de</title>
-    <sub-title lang="en">Épisode 302</sub-title>
-    <desc lang="en">Découvrez les sports et les compétitions les plus difficiles au monde. De la compréhension du jargon à la connaissance des règles, cette émission est le cours intensif idéal pour comprendre ces compétitions.(n)</desc>
-    <date>2018</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-  </programme>
-  <programme start="20200609093000 -0400" stop="20200609103000 -0400" channel="TVA Sports 2">
-    <title lang="en">Joie à Wrigleyville</title>
-    <desc lang="en">É.-U. Revivez la Série mondiale de 2016 à travers les yeux des amateurs de tous âges des Cubs de Chicago.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Documentaire</category>
-  </programme>
-  <programme start="20200609103000 -0400" stop="20200609113000 -0400" channel="TVA Sports 2">
-    <title lang="en">Mike Trout: Millville à MVP</title>
-    <desc lang="en">Voyez l'ascension de Mike Trout d'une petite ville du New Jersey pour devenir sans doute l'un des meilleurs joueurs de baseball.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200609113000 -0400" stop="20200609120000 -0400" channel="TVA Sports 2">
-    <title lang="en">Le top des tops</title>
-    <sub-title lang="en">Épisode 130</sub-title>
-    <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+  <programme start="20200609090000 -0400" stop="20200609120000 -0400" channel="TVA Sports 2">
+    <title lang="en">Soirée vintage</title>
+    <sub-title lang="en">Expos de Montréal c. Braves de Atlanta, 28 juin 1994</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
   <programme start="20200609120000 -0400" stop="20200609123000 -0400" channel="TVA Sports 2">
-    <title lang="en">Femmes de sport</title>
-    <sub-title lang="en">Épisode 110</sub-title>
-    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <title lang="en">Alexis le randonneur</title>
+    <desc lang="en">Alexis le randonneur nous transporte dans la région du Saguenay dans le Parc national du fjord du Saguenay.(n)</desc>
+    <category lang="en">Travel</category>
   </programme>
   <programme start="20200609123000 -0400" stop="20200609130000 -0400" channel="TVA Sports 2">
-    <title lang="en">La MLS cette semaine</title>
-    <sub-title lang="en">juin</sub-title>
-    <desc lang="en">Rendez-vous hebdomadaire consacré à la MLS. Les dernières nouvelles de la ligue, entrevues exclusives et analyse de nos experts. Animé par Frédéric Lord.(n)</desc>
-    <category lang="en">Sport</category>
+    <title lang="en">Canada in the Rough</title>
+    <desc lang="en">Des expériences de chasses extraordinaires pour éduquer, informer et divertir.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Outdoors</category>
   </programme>
-  <programme start="20200609130000 -0400" stop="20200609150000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les meilleurs moments</title>
-    <sub-title lang="en">12/08/2017</sub-title>
-    <desc lang="en">Le 12 août 2017, l'Union de Philadelphie contre l'Impact de Montréal.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+  <programme start="20200609130000 -0400" stop="20200609133000 -0400" channel="TVA Sports 2">
+    <title lang="en">Roadfish</title>
+    <desc lang="en">Daniel Gagné et son équipe  parcourent les flots vers des escapades de pêche.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Fishing</category>
+  </programme>
+  <programme start="20200609133000 -0400" stop="20200609140000 -0400" channel="TVA Sports 2">
+    <title lang="en">Expédition faune</title>
+    <desc lang="en">La pêche, la chasse, ses plaisirs et destinations qui amènent à découvrir des lieux et des passions.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hunting</category>
+  </programme>
+  <programme start="20200609140000 -0400" stop="20200609143000 -0400" channel="TVA Sports 2">
+    <title lang="en">Québec à vol d'oiseau</title>
+    <sub-title lang="en">Pêche du doré et du brochet à la pourvoirie du lac Oscar</sub-title>
+    <desc lang="en">L'équipe de QVO se transporte cette semaine au nord de La Tuque pour découvrir la fameuse pourvoirie du lac Oscar.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200609143000 -0400" stop="20200609150000 -0400" channel="TVA Sports 2">
+    <title lang="en">ABC de...</title>
+    <desc lang="en">ABC de...(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200609150000 -0400" stop="20200609170000 -0400" channel="TVA Sports 2">
-    <title lang="en">Les Boys</title>
-    <desc lang="en">Can. 1997. Ayant contracté une dette de jeu, l'entraîneur d'une équipe de hockey amateur risque de tout perdre si ses joueurs ne gagnent pas un ultime match.(n)</desc>
+    <title lang="en">Cinéma</title>
+    <sub-title lang="en">La saison miracle</sub-title>
+    <desc lang="en">Afin d'honorer la mémoire d'une coéquipière décédé, les membres d'une équipe de volleyball tentent de remporter le championnat de l'État.(n)</desc>
     <credits>
-      <director>Louis Saïa</director>
-      <director>Avec</director>
-      <director>Rémy Girard</director>
-      <director>Marc Messier</director>
-      <director>Serge Thériault</director>
-      <actor>Rémy Girard</actor>
-      <actor>Marc Messier</actor>
-      <actor>Serge Thériault</actor>
+      <director>Sean McNamara</director>
+      <actor>Helen Hunt</actor>
+      <actor>Erin Moriarty</actor>
+      <actor>William Hurt</actor>
     </credits>
-    <category lang="en">Comédie</category>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sport</category>
+    <rating system="US">
+      <value>TVG</value>
+    </rating>
   </programme>
   <programme start="20200609170000 -0400" stop="20200609180000 -0400" channel="TVA Sports 2">
     <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 08 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200609180000 -0400" stop="20200609190000 -0400" channel="TVA Sports 2">
     <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 08 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200609190000 -0400" stop="20200609220000 -0400" channel="TVA Sports 2">
+  <programme start="20200609190000 -0400" stop="20200609213000 -0400" channel="TVA Sports 2">
     <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Expos Montréal c. Braves Atlanta 28/06/1994</sub-title>
-    <desc lang="en">Le 28 juin 1994, les Expos de Montréal affrontent les Braves d'Atlanta.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Expos de Montréal c. Padres de San Diego, 3 juin 1995</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
-  <programme start="20200609220000 -0400" stop="20200609230000 -0400" channel="TVA Sports 2">
+  <programme start="20200609213000 -0400" stop="20200609223000 -0400" channel="TVA Sports 2">
     <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20200609223000 -0400" stop="20200609230000 -0400" channel="TVA Sports 2">
+    <title lang="en">Le top des tops</title>
+    <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200609230000 -0400" stop="20200609233000 -0400" channel="TVA Sports 2">
     <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">9 grandes saisons chez les lanceurs</sub-title>
-    <desc lang="en">9 grandes saisons chez les lanceurs.(n)</desc>
-    <category lang="en">Sport</category>
+    <desc lang="en">MLB: Les moments marquants.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
   </programme>
   <programme start="20200609233000 -0400" stop="20200610003000 -0400" channel="TVA Sports 2">
     <title lang="en">4 Chevaliers</title>
-    <sub-title lang="en">Épisode 407</sub-title>
-    <desc lang="en">Les 4 chevaliers est une équipe de balle rapide humoristique et légendaire fondée par Claude Potvin il y a plus de 50 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.6.</episode-num>
+    <desc lang="en">Les aventures d'une équipe de softball humoristique légendaire.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200610003000 -0400" stop="20200610033000 -0400" channel="TVA Sports 2">
+  <programme start="20200610003000 -0400" stop="20200610010000 -0400" channel="TVA Sports 2">
+    <title lang="en">Femmes de sport</title>
+    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
+  </programme>
+  <programme start="20200610010000 -0400" stop="20200610033000 -0400" channel="TVA Sports 2">
     <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Expos Montréal c. Braves Atlanta 28/06/1994</sub-title>
-    <desc lang="en">Le 28 juin 1994, les Expos de Montréal affrontent les Braves d'Atlanta.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Expos de Montréal c. Padres de San Diego, 3 juin 1995</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
   </programme>
   <programme start="20200610033000 -0400" stop="20200610043000 -0400" channel="TVA Sports 2">
     <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
   </programme>
   <programme start="20200610043000 -0400" stop="20200610050000 -0400" channel="TVA Sports 2">
-    <title lang="en">ABC de</title>
-    <sub-title lang="en">Épisode 301</sub-title>
-    <desc lang="en">Découvrez les sports et les compétitions les plus difficiles au monde. De la compréhension du jargon à la connaissance des règles, cette émission est le cours intensif idéal pour comprendre ces compétitions.(n)</desc>
-    <date>2018</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <title lang="en">ABC de...</title>
+    <desc lang="en">ABC de...(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200610050000 -0400" stop="20200610053000 -0400" channel="TVA Sports 2">
     <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Athlétisme</sub-title>
-    <desc lang="en">Athlétisme.(n)</desc>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Automobile</sub-title>
+    <desc lang="en">Les icônes du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200610053000 -0400" stop="20200610060000 -0400" channel="TVA Sports 2">
-    <title lang="en">Vue sur le court</title>
-    <sub-title lang="en">Épisode 113</sub-title>
-    <desc lang="en">Les plus grands noms du tennis masculin et féminin partagent leurs expériences sur ce qu'il faut pour arriver au plus haut niveau dans le monde du tennis.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <title lang="en">Le top des tops</title>
+    <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200610060000 -0400" stop="20200610070000 -0400" channel="TVA Sports 2">
     <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 09 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200610070000 -0400" stop="20200610080000 -0400" channel="TVA Sports 2">
     <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
   </programme>
   <programme start="20200610080000 -0400" stop="20200610083000 -0400" channel="TVA Sports 2">
     <title lang="en">Les icônes du sport</title>
-    <sub-title lang="en">Athlétisme</sub-title>
-    <desc lang="en">Athlétisme.(n)</desc>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Tennis</sub-title>
+    <desc lang="en">Les icônes du sport.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200610083000 -0400" stop="20200610090000 -0400" channel="TVA Sports 2">
-    <title lang="en">Le top MLB</title>
-    <sub-title lang="en">Juin</sub-title>
-    <desc lang="en">Les meilleurs moments du mois de juin dans la MLB.(n)</desc>
-    <date>2018</date>
-    <category lang="en">Sport</category>
+    <title lang="en">Le top des tops</title>
+    <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200610090000 -0400" stop="20200610120000 -0400" channel="TVA Sports 2">
+  <programme start="20200610090000 -0400" stop="20200610113000 -0400" channel="TVA Sports 2">
     <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Expos Montréal c. Braves Atlanta 28/06/1994</sub-title>
-    <desc lang="en">Le 28 juin 1994, les Expos de Montréal affrontent les Braves d'Atlanta.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Expos de Montréal c. Padres de San Diego, 3 juin 1995</sub-title>
+    <desc lang="en">Matchs classiques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Hockey</category>
+  </programme>
+  <programme start="20200610113000 -0400" stop="20200610120000 -0400" channel="TVA Sports 2">
+    <title lang="en">MLB: Les moments marquants</title>
+    <desc lang="en">MLB: Les moments marquants.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
   </programme>
   <programme start="20200610120000 -0400" stop="20200610123000 -0400" channel="TVA Sports 2">
-    <title lang="en">Alexis le randonneur</title>
-    <sub-title lang="en">Épisode 106</sub-title>
-    <desc lang="en">Alexis le randonneur nous transporte dans la région du Saguenay dans le Parc national du fjord du Saguenay. Avec son invité Benoit Tremblay, il parcourra le sentier de la statue du cap Trinité.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+    <title lang="en">Wild surf</title>
+    <desc lang="en">Un tour d'horizon de ce qui fait fureur dans le monde du surf.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Watersports</category>
   </programme>
-  <programme start="20200610123000 -0400" stop="20200610130000 -0400" channel="TVA Sports 2">
-    <title lang="en">Canada in the Rough</title>
-    <sub-title lang="en">Épisode 1510</sub-title>
-    <desc lang="en">Épisode 1510.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">14.9.</episode-num>
+  <programme start="20200610123000 -0400" stop="20200610131500 -0400" channel="TVA Sports 2">
+    <title lang="en">Point culminant</title>
+    <desc lang="en">Un portrait intime d'un athlète quelques jours avant qu'il ne réalise son exploit.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
   </programme>
-  <programme start="20200610130000 -0400" stop="20200610133000 -0400" channel="TVA Sports 2">
-    <title lang="en">Roadfish</title>
-    <sub-title lang="en">Épisode 308</sub-title>
-    <desc lang="en">L'animateur Daniel Gagné et son équipe parcourent les flots vers des escapades de pêche HD.(n)</desc>
-    <date>2017</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.7.</episode-num>
+  <programme start="20200610131500 -0400" stop="20200610133000 -0400" channel="TVA Sports 2">
+    <title lang="en">Red Bull: le monde en action</title>
+    <desc lang="en">Une émission qui vous propose cinq grandes aventures hors-piste.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
   </programme>
   <programme start="20200610133000 -0400" stop="20200610140000 -0400" channel="TVA Sports 2">
-    <title lang="en">Expédition faune</title>
-    <sub-title lang="en">Épisode 603</sub-title>
-    <desc lang="en">Une première visite au Yukon en hiver pour notre animateur. Voyez de splendide décor et une faune abondante. Une pêche sur glace à l'omble chevalier et le touladis.(n)</desc>
-    <date>2005</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">5.2.</episode-num>
+    <title lang="en">Ultra trail world tour</title>
+    <desc lang="en">Rencontrez des accros à l'adrénaline qui exercent des métiers uniques.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Extreme</category>
   </programme>
   <programme start="20200610140000 -0400" stop="20200610143000 -0400" channel="TVA Sports 2">
-    <title lang="en">QVO (Québec à vol d'oiseau)</title>
-    <sub-title lang="en">Pêche du doré et du brochet à la pourvoirie du lac</sub-title>
-    <desc lang="en">L'équipe de QVO se transporte cette semaine au nord de La Tuque pour découvrir la fameuse pourvoirie du lac Oscar. notre animateur réalise un voyage de pêche marqué par la capture de plusieurs espèces de carnassiers.(n)</desc>
-    <date>2010</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">4.10.</episode-num>
+    <title lang="en">Femmes de sport</title>
+    <desc lang="en">Une série dédiée à la promotion du sport féminin.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200610143000 -0400" stop="20200610150000 -0400" channel="TVA Sports 2">
-    <title lang="en">ABC de</title>
-    <sub-title lang="en">Épisode 302</sub-title>
-    <desc lang="en">Découvrez les sports et les compétitions les plus difficiles au monde. De la compréhension du jargon à la connaissance des règles, cette émission est le cours intensif idéal pour comprendre ces compétitions.(n)</desc>
-    <date>2018</date>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <title lang="en">Le top des tops</title>
+    <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
-  <programme start="20200610150000 -0400" stop="20200610170000 -0400" channel="TVA Sports 2">
-    <title lang="en">La saison miracle</title>
-    <desc lang="en">(6) É.-U. 2018. Une équipe de volleyball au secondaire part à la conquête du championnat d'État, afin d'honorer la mémoire de sa joueuse étoile, morte dans un accident.(n)</desc>
-    <credits>
-      <director>Sean McNamara</director>
-      <director>Avec</director>
-      <director>Erin Moriarty</director>
-      <director>Helen Hunt</director>
-      <director>Danika Yarosh</director>
-      <actor>Erin Moriarty</actor>
-      <actor>Helen Hunt</actor>
-      <actor>Danika Yarosh</actor>
-    </credits>
-    <category lang="en">Drame</category>
+  <programme start="20200610150000 -0400" stop="20200610153000 -0400" channel="TVA Sports 2">
+    <title lang="en">MLB: Les moments marquants</title>
+    <desc lang="en">MLB: Les moments marquants.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200610153000 -0400" stop="20200610160000 -0400" channel="TVA Sports 2">
+    <title lang="en">MLB: Les moments marquants</title>
+    <desc lang="en">MLB: Les moments marquants.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20200610160000 -0400" stop="20200610170000 -0400" channel="TVA Sports 2">
+    <title lang="en">Dave Morissette: Arrêter le temps</title>
+    <desc lang="en">Dave Morissette: Arrêter le temps.(n)</desc>
+    <category lang="en">Documentary</category>
   </programme>
   <programme start="20200610170000 -0400" stop="20200610180000 -0400" channel="TVA Sports 2">
     <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 09 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200610180000 -0400" stop="20200610190000 -0400" channel="TVA Sports 2">
     <title lang="en">JiC</title>
-    <sub-title lang="en">Épisode du 09 JUIN 2020</sub-title>
-    <desc lang="en">De son domicile, JiC fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2019</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Jean-Charles Lajoie abord le sport sous tous ses angles.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200610190000 -0400" stop="20200610213000 -0400" channel="TVA Sports 2">
-    <title lang="en">Soirée vintage</title>
-    <sub-title lang="en">Expos Montréal c. Padres San Diego 03/06/1995</sub-title>
-    <desc lang="en">Le 3 juin 1995, les Expos de Montréal contrent les Padres deSan Diego.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
+    <title lang="en">Les meilleurs moments</title>
+    <sub-title lang="en">Coupe Rogers: Kevin c. Andreescu, 10 août 2019</sub-title>
+    <desc lang="en">Les meilleurs moments.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200610213000 -0400" stop="20200610223000 -0400" channel="TVA Sports 2">
+    <title lang="en">RAW</title>
+    <desc lang="en">À chaque semaine, Kevin Raphaël et Patric Laprade présentent la lutte de la WWE.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20200610223000 -0400" stop="20200610233000 -0400" channel="TVA Sports 2">
     <title lang="en">Dave Morissette en direct</title>
-    <desc lang="en">De son domicile, Dave Morissette fait le tour de l'actualité sportive avec l'aide de ses collaborateurs réguliers.(n)</desc>
-    <date>2014</date>
-    <category lang="en">Sport</category>
+    <desc lang="en">Talk-show sportif axé principalement sur le hockey des Canadiens de Montréal et de la LNH.(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Talk Show</category>
   </programme>
-  <programme start="20200610223000 -0400" stop="20200610230000 -0400" channel="TVA Sports 2">
+  <programme start="20200610233000 -0400" stop="20200611000000 -0400" channel="TVA Sports 2">
     <title lang="en">Le top des tops</title>
-    <sub-title lang="en">Épisode 130</sub-title>
     <desc lang="en">Présentation de top 10 de différents thèmes sportifs.(n)</desc>
-    <date>2020</date>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200610230000 -0400" stop="20200610233000 -0400" channel="TVA Sports 2">
-    <title lang="en">MLB: Les moments marquants</title>
-    <sub-title lang="en">9 grands jeux au marbre</sub-title>
-    <desc lang="en">9 grands jeux au marbre.(n)</desc>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20200610233000 -0400" stop="20200611003000 -0400" channel="TVA Sports 2">
-    <title lang="en">4 Chevaliers</title>
-    <sub-title lang="en">Épisode 408</sub-title>
-    <desc lang="en">Les 4 chevaliers est une équipe de balle rapide humoristique et légendaire fondée par Claude Potvin il y a plus de 50 ans.(n)</desc>
-    <category lang="en">Sport</category>
-    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <category lang="en">Sports</category>
+    <category lang="en">Miscellaneous</category>
   </programme>
   <programme start="20200604053000 -0400" stop="20200604080000 -0400" channel="RDS">
     <title lang="en">Netherlands vs. Spain</title>

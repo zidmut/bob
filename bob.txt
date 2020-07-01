@@ -1,6 +1,6 @@
 # Give the credits to the author whom isn't me!
-# https://jasonhill.co.uk/pfsense/ytadblock.txt
-# 
+# source: https://jasonhill.co.uk/pfsense/ytadblock.txt
+# Thanks buddy!!
 
 # Wildcard blocking
 # The domains below need to beed added to your program as wildcard domains

@@ -6,7 +6,7 @@ https://iptvcat.com/my_list/s/5bc2085d2e80dce2cdd63598b77e468a.m3u8
 #EXTINF:-1 tvg-name="RDI" tvg-id="RDI" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/rdi.png" group-title="1-Quebec",RDI
 https://iptvcat.com/my_list/s/275019c30ee06c2a1251251ad48b9578.m3u8
 
-#EXTINF:-1 tvg-id="RDS" tvg-name="RDS" tvg-logo=https://cdn.tvpassport.com/image/station/100x100/rds.png" group-title="2-Sports",RDS
+#EXTINF:-1 tvg-id="RDS" tvg-name="RDS" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/rds.png" group-title="2-Sports",RDS
 https://iptvcat.com/my_list/s/6a926df201b74034f846bd467408a2e0.m3u8
 
 #EXTINF:-1 tvg-id="RDS 2" tvg-name="RDS 2" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/rds2.png" group-title=2-Sports",RDS 2
